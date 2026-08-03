@@ -5,14 +5,12 @@ import type { CapacitorConfig } from "@capacitor/cli";
 // déployé dans un conteneur natif (WebView plein écran, sans barre Chrome),
 // plutôt que d'embarquer des fichiers statiques locaux.
 //
-// `server.url` DOIT être mis à jour avec l'URL Vercel une fois le
-// déploiement fait — placeholder en attendant.
 const config: CapacitorConfig = {
   appId: "com.zhongwenmaster.app",
   appName: "Zhongwen Master",
   webDir: "public", // requis par Capacitor même en mode server.url, non utilisé pour le contenu
   server: {
-    url: "https://REMPLACER-PAR-URL-VERCEL.vercel.app",
+    url: "https://zhongwen-master.vercel.app",
     cleartext: false,
   },
 };
