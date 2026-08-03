@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import Link from "next/link";
-import { Suspense } from "react";
-import { StreakBadge } from "@/components/StreakBadge";
+import { NavLinks } from "@/components/NavLinks";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -31,35 +30,7 @@ export default function RootLayout({
                 Zhongwen Master
               </span>
             </Link>
-            <div className="flex items-center gap-4 text-sm text-muted sm:gap-5">
-              <Link href="/" className="hover:text-accent">
-                Aujourd&apos;hui
-              </Link>
-              <Link href="/lesson" className="hover:text-accent">
-                Leçon
-              </Link>
-              <Link href="/review" className="hover:text-accent">
-                Révisions
-              </Link>
-              <Link href="/professeur" className="hover:text-accent">
-                Professeur
-              </Link>
-              <Link href="/graphe" className="hover:text-accent">
-                Graphe
-              </Link>
-              <Link href="/labo-vocal" className="hover:text-accent">
-                Labo vocal
-              </Link>
-              <Link href="/lecture" className="hover:text-accent">
-                Lecture
-              </Link>
-              <Link href="/conversation" className="hover:text-accent">
-                Conversation
-              </Link>
-              <Suspense fallback={null}>
-                <StreakBadge />
-              </Suspense>
-            </div>
+            <NavLinks />
           </nav>
         </header>
         <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-8">
