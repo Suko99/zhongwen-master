@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import Link from "next/link";
+import { Suspense } from "react";
 import { NavLinks } from "@/components/NavLinks";
+import { StreakBadge } from "@/components/StreakBadge";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -30,7 +32,13 @@ export default function RootLayout({
                 Zhongwen Master
               </span>
             </Link>
-            <NavLinks />
+            <NavLinks
+              streakBadge={
+                <Suspense fallback={null}>
+                  <StreakBadge />
+                </Suspense>
+              }
+            />
           </nav>
         </header>
         <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-8">

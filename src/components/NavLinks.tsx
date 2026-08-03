@@ -1,8 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Suspense, useState } from "react";
-import { StreakBadge } from "@/components/StreakBadge";
+import { useState, type ReactNode } from "react";
 
 const LINKS = [
   { href: "/", label: "Aujourd'hui" },
@@ -15,7 +14,7 @@ const LINKS = [
   { href: "/conversation", label: "Conversation" },
 ];
 
-export function NavLinks() {
+export function NavLinks({ streakBadge }: { streakBadge: ReactNode }) {
   const [open, setOpen] = useState(false);
 
   return (
@@ -41,9 +40,7 @@ export function NavLinks() {
             {link.label}
           </Link>
         ))}
-        <Suspense fallback={null}>
-          <StreakBadge />
-        </Suspense>
+        {streakBadge}
       </div>
 
       {open && (
@@ -58,9 +55,7 @@ export function NavLinks() {
               {link.label}
             </Link>
           ))}
-          <Suspense fallback={null}>
-            <StreakBadge />
-          </Suspense>
+          {streakBadge}
         </div>
       )}
     </>
