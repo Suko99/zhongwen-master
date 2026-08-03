@@ -1,0 +1,403 @@
+{
+  "slug": "au-telephone",
+  "title": "Au téléphone et sur WeChat",
+  "mission": "Passer un appel et échanger des messages",
+  "level": "A2",
+  "order": 26,
+  "hanzi": [
+    {
+      "character": "喂",
+      "pinyin": "wèi",
+      "meaning": "allô (au téléphone)",
+      "hskLevel": 1,
+      "radical": "口 (bouche)",
+      "components": [
+        "口",
+        "田"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente le son d'une personne qui appelle, d'où son usage au téléphone. Le radical 口 indique un lien avec la parole ou les sons. L'origine exacte est débattue, mais son usage moderne est bien établi.",
+      "family": [
+        "口",
+        "电话"
+      ],
+      "commonErrors": [
+        "Confondre avec 为 (wèi) qui a un ton différent et un sens distinct."
+      ]
+    },
+    {
+      "character": "话",
+      "pinyin": "huà",
+      "meaning": "parole, langage",
+      "hskLevel": 1,
+      "radical": "讠(parole)",
+      "components": [
+        "讠",
+        "舌"
+      ],
+      "etymology": "Ce caractère est de type phono-sémantique : le radical 讠(parole) indique le sens, tandis que 舌 (shé, langue) donne une indication phonétique. Il désigne tout ce qui concerne la parole ou le langage.",
+      "family": [
+        "电话",
+        "说话"
+      ],
+      "commonErrors": [
+        "Confondre avec 活 (huó, vivre), qui a un ton différent et un sens distinct."
+      ]
+    },
+    {
+      "character": "给",
+      "pinyin": "gěi",
+      "meaning": "donner, à (préposition)",
+      "hskLevel": 1,
+      "radical": "纟(soie)",
+      "components": [
+        "纟",
+        "合"
+      ],
+      "etymology": "Le radical 纟(soie) suggère un lien avec les fils ou les relations, tandis que 合 (hé, unir) donne une indication phonétique. Ce caractère exprime l'idée de transmission ou de direction vers quelqu'un.",
+      "family": [
+        "送给",
+        "给我",
+        "给你"
+      ],
+      "commonErrors": [
+        "Oublier le ton (3e ton) et le prononcer comme 给 (jǐ, dans certains contextes rares)."
+      ]
+    },
+    {
+      "character": "打",
+      "pinyin": "dǎ",
+      "meaning": "frapper, appeler (au téléphone)",
+      "hskLevel": 1,
+      "radical": "扌(main)",
+      "components": [
+        "扌",
+        "丁"
+      ],
+      "etymology": "Le radical 扌(main) indique une action réalisée avec la main. À l'origine, ce caractère représentait l'action de frapper. Par extension, il est utilisé pour \"appeler au téléphone\".",
+      "family": [
+        "打电话",
+        "打开"
+      ],
+      "commonErrors": [
+        "Confondre avec 大 (dà, grand), qui lui ressemble graphiquement mais n'a aucun lien sémantique."
+      ]
+    },
+    {
+      "character": "机",
+      "pinyin": "jī",
+      "meaning": "machine, appareil",
+      "hskLevel": 1,
+      "radical": "木 (bois)",
+      "components": [
+        "木",
+        "几"
+      ],
+      "etymology": "Le radical 木 (bois) suggère un lien avec les objets matériels, tandis que 几 (jǐ, combien) donne une indication phonétique. Ce caractère désigne aujourd'hui tout type de machine ou d'appareil.",
+      "family": [
+        "手机",
+        "电话机"
+      ],
+      "commonErrors": [
+        "Confondre avec 几 (jǐ, combien), qui est un composant mais n'a pas le même sens."
+      ]
+    },
+    {
+      "character": "手",
+      "pinyin": "shǒu",
+      "meaning": "main",
+      "hskLevel": 1,
+      "radical": "手 (main)",
+      "components": [
+        "手"
+      ],
+      "etymology": "Ce caractère est un pictogramme représentant une main avec cinq doigts. Il est utilisé dans de nombreux mots liés aux actions manuelles.",
+      "family": [
+        "手机",
+        "洗手"
+      ],
+      "commonErrors": [
+        "Prononcer comme 收 (shōu, recevoir), qui a un ton différent."
+      ]
+    },
+    {
+      "character": "信",
+      "pinyin": "xìn",
+      "meaning": "lettre, message, confiance",
+      "hskLevel": 1,
+      "radical": "亻(personne)",
+      "components": [
+        "亻",
+        "言"
+      ],
+      "etymology": "Ce caractère est de type phono-sémantique : le radical 亻(personne) indique un lien avec les relations humaines, tandis que 言 (yán, parole) donne une indication phonétique et sémantique. Il désigne à la fois la confiance et les messages écrits.",
+      "family": [
+        "短信"
+      ],
+      "commonErrors": [
+        "Confondre avec 言 (yán, parole), qui est un composant mais n'a pas le même usage autonome."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "喂",
+      "pinyin": "wèi",
+      "meaning": "allô (au téléphone)",
+      "exampleZh": "喂，你是王明吗？",
+      "examplePinyin": "Wèi, nǐ shì Wáng Míng ma?",
+      "exampleFr": "Allô, es-tu Wang Ming ?"
+    },
+    {
+      "word": "电话",
+      "pinyin": "diànhuà",
+      "meaning": "téléphone",
+      "exampleZh": "我给你打电话。",
+      "examplePinyin": "Wǒ gěi nǐ dǎ diànhuà.",
+      "exampleFr": "Je t'appelle."
+    },
+    {
+      "word": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "meaning": "téléphoner, passer un appel",
+      "exampleZh": "他现在在打电话。",
+      "examplePinyin": "Tā xiànzài zài dǎ diànhuà ne.",
+      "exampleFr": "Il est en train de téléphoner."
+    },
+    {
+      "word": "手机",
+      "pinyin": "shǒujī",
+      "meaning": "téléphone portable",
+      "exampleZh": "我的手机在哪儿？",
+      "examplePinyin": "Wǒ de shǒujī zài nǎr?",
+      "exampleFr": "Où est mon téléphone portable ?"
+    },
+    {
+      "word": "给",
+      "pinyin": "gěi",
+      "meaning": "donner, à (préposition)",
+      "exampleZh": "我给你发信。",
+      "examplePinyin": "Wǒ gěi nǐ fā xìn.",
+      "exampleFr": "Je t'envoie un message."
+    },
+    {
+      "word": "短信",
+      "pinyin": "duǎnxìn",
+      "meaning": "SMS, message court",
+      "exampleZh": "我有你的短信。",
+      "examplePinyin": "Wǒ yǒu nǐ de duǎnxìn.",
+      "exampleFr": "J'ai ton SMS."
+    },
+    {
+      "word": "发短信",
+      "pinyin": "fā duǎnxìn",
+      "meaning": "envoyer un SMS",
+      "exampleZh": "她在给我发短信。",
+      "examplePinyin": "Tā zài gěi wǒ fā duǎnxìn ne.",
+      "exampleFr": "Elle est en train de m'envoyer un SMS."
+    },
+    {
+      "word": "在...呢",
+      "pinyin": "zài... ne",
+      "meaning": "être en train de (progressif)",
+      "exampleZh": "他在看书呢。",
+      "examplePinyin": "Tā zài kànshū ne.",
+      "exampleFr": "Il est en train de lire."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es en Chine et tu veux contacter ton ami 王明 pour organiser une sortie. Tu dois lui téléphoner et lui envoyer un message pour confirmer les détails.",
+      "goals": [
+        "Savoir répondre et passer un appel téléphonique en mandarin.",
+        "Utiliser la structure 给 + personne + verbe pour indiquer à qui on s'adresse.",
+        "Exprimer une action en cours avec 在...呢.",
+        "Envoyer un SMS ou un message court."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue suivant entre 安娜 et 王明. Repère comment on répond au téléphone, comment on demande si quelqu'un est là, et comment on exprime une action en cours.",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "喂，王明，你在吗？",
+          "pinyin": "Wèi, Wáng Míng, nǐ zài ma?",
+          "translation": "Allô, Wang Ming, es-tu là ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "喂，我是王明。安娜，你好吗？",
+          "pinyin": "Wèi, wǒ shì Wáng Míng. Ānnà, nǐ hǎo ma?",
+          "translation": "Allô, c'est Wang Ming. Anna, comment vas-tu ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我给你打电话，你在看什么呢？",
+          "pinyin": "Wǒ gěi nǐ dǎ diànhuà, nǐ zài kàn shénme ne?",
+          "translation": "Je t'appelle, que regardes-tu en ce moment ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我在看电视呢。你呢？",
+          "pinyin": "Wǒ zài kàn diànshì ne. Nǐ ne?",
+          "translation": "Je suis en train de regarder la télé. Et toi ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我去公园，你去不去？",
+          "pinyin": "Wǒ qù gōngyuán, nǐ qù bu qù?",
+          "translation": "Je vais au parc, y vas-tu ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好！我现在给你发短信。",
+          "pinyin": "Hǎo! Wǒ xiànzài gěi nǐ fā duǎnxìn.",
+          "translation": "D'accord ! Je t'envoie un SMS maintenant."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "喂",
+        "话",
+        "给",
+        "打",
+        "机",
+        "手",
+        "信"
+      ],
+      "grammar": [
+        {
+          "point": "Répondre au téléphone avec 喂 (wèi)",
+          "explanation": "En chinois, on répond au téléphone en disant 喂 (wèi), qui équivaut à \"allô\" en français. Attention : ce mot n'est utilisé qu'au téléphone et ne s'emploie pas dans d'autres contextes. Erreur typique du francophone : dire 你好 (nǐ hǎo) au téléphone, ce qui est incorrect dans ce contexte.",
+          "examples": [
+            {
+              "chinese": "喂，你好。",
+              "pinyin": "Wèi, nǐ hǎo.",
+              "translation": "Allô, bonjour."
+            },
+            {
+              "chinese": "喂，王明在吗？",
+              "pinyin": "Wèi, Wáng Míng zài ma?",
+              "translation": "Allô, Wang Ming est-il là ?"
+            }
+          ]
+        },
+        {
+          "point": "Structure 给 + personne + verbe : indiquer le destinataire d'une action",
+          "explanation": "La structure 给 (gěi) + personne + verbe permet d'indiquer à qui est destinée une action. Elle se traduit souvent par \"à\" en français. Erreur typique du francophone : oublier 给 et dire directement le verbe suivi de la personne.",
+          "examples": [
+            {
+              "chinese": "我给你打电话。",
+              "pinyin": "Wǒ gěi nǐ dǎ diànhuà.",
+              "translation": "Je t'appelle."
+            },
+            {
+              "chinese": "他给我发短信。",
+              "pinyin": "Tā gěi wǒ fā duǎnxìn.",
+              "translation": "Il m'envoie un SMS."
+            }
+          ]
+        },
+        {
+          "point": "Progressif avec 在...呢 : exprimer une action en cours",
+          "explanation": "La structure 在 (zài) + verbe + 呢 (ne) permet d'exprimer une action en cours, équivalente au présent progressif en français (\"être en train de\"). Erreur typique du francophone : oublier 呢 ou utiliser seulement 在 sans le verbe.",
+          "examples": [
+            {
+              "chinese": "他在打电话呢。",
+              "pinyin": "Tā zài dǎ diànhuà ne.",
+              "translation": "Il est en train de téléphoner."
+            },
+            {
+              "chinese": "我在给妈妈发短信呢。",
+              "pinyin": "Wǒ zài gěi māma fā duǎnxìn ne.",
+              "translation": "Je suis en train d'envoyer un SMS à maman."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au ton de 喂 (wèi) : 4e ton (descendant). Ne pas le confondre avec 为 (wèi, 2e ton montant).",
+        "Le ton de 给 (gěi) est le 3e ton (descendant-montant). Il ne faut pas le prononcer comme un 2e ton (géi).",
+        "Dans 在...呢, 呢 (ne) est souvent prononcé de manière légère et rapide."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et mots s'articulent avec ce que tu connais déjà :",
+      "links": [
+        {
+          "from": "话 (huà)",
+          "relation": "COMPOSE",
+          "to": "电话 (diànhuà), 说话 (shuōhuà)"
+        },
+        {
+          "from": "手 (shǒu)",
+          "relation": "COMPOSE",
+          "to": "手机 (shǒujī)"
+        },
+        {
+          "from": "信 (xìn)",
+          "relation": "COMPOSE",
+          "to": "短信 (duǎnxìn)"
+        },
+        {
+          "from": "给 (gěi)",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "为 (wèi)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Tu appelles ton ami 李华 pour lui demander s'il est libre aujourd'hui. Imagine le dialogue (4 répliques minimum). Utilise 喂, 给...打电话, et 在...呢.",
+          "hint": "Commence par répondre au téléphone avec 喂, puis demande si 李华 est en train de faire quelque chose. Utilise la structure 在...呢 pour exprimer une action en cours.",
+          "example": {
+            "chinese": "A: 喂，李华，你在吗？\nB: 喂，我是李华。我在看电视呢。\nA: 今天你有没有时间？\nB: 有时间，我们去公园吧！",
+            "pinyin": "A: Wèi, Lǐ Huá, nǐ zài ma?\nB: Wèi, wǒ shì Lǐ Huá. Wǒ zài kàn diànshì ne.\nA: Jīntiān nǐ yǒu méiyǒu shíjiān?\nB: Yǒu shíjiān, wǒmen qù gōngyuán ba!",
+            "translation": "A: Allô, Li Hua, es-tu là ?\nB: Allô, c'est Li Hua. Je suis en train de regarder la télé.\nA: As-tu du temps aujourd'hui ?\nB: Oui, allons au parc !"
+          }
+        },
+        {
+          "instruction": "Tu veux envoyer un SMS à ton ami 马克 pour lui demander s'il a fini de manger. Écris le message en utilisant 给...发短信 et la structure progressif si nécessaire.",
+          "hint": "Utilise 给 + personne + 发短信 pour indiquer à qui tu envoies le message. Demande s'il est en train de manger ou s'il a fini.",
+          "example": {
+            "chinese": "马克，你吃饭了吗？我给你发短信。",
+            "pinyin": "Mǎkè, nǐ chīfàn le ma? Wǒ gěi nǐ fā duǎnxìn.",
+            "translation": "Marc, as-tu mangé ? Je t'envoie un SMS."
+          }
+        },
+        {
+          "instruction": "Ton ami te demande ce que tu es en train de faire. Réponds-lui en utilisant 在...呢 et un verbe que tu connais déjà (ex : manger, lire, regarder la télé).",
+          "hint": "Utilise la structure 在 + verbe + 呢 pour décrire ton action en cours. Choisis un verbe simple comme 吃饭, 看书, ou 看电视.",
+          "example": {
+            "chinese": "我在吃饭呢。",
+            "pinyin": "Wǒ zài chīfàn ne.",
+            "translation": "Je suis en train de manger."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à :\n1. Répondre et passer un appel téléphonique avec 喂 et 打电话.\n2. Utiliser 给 + personne + verbe pour indiquer à qui tu t'adresses (ex : 给你打电话).\n3. Exprimer une action en cours avec 在...呢 (ex : 我在看书呢).\n4. Envoyer un SMS avec 发短信 et parler de ton téléphone portable avec 手机.\n\nCes compétences te permettront de communiquer efficacement au téléphone et par messages en chinois.",
+      "reviewWords": [
+        "喂",
+        "电话",
+        "打电话",
+        "手机",
+        "给",
+        "短信",
+        "发短信",
+        "在...呢"
+      ],
+      "reviewHanzi": [
+        "喂",
+        "话",
+        "给",
+        "打",
+        "机",
+        "手",
+        "信"
+      ]
+    }
+  }
+}

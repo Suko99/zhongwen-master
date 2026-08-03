@@ -1,0 +1,541 @@
+{
+  "slug": "combien-ca-coute",
+  "title": "Combien ça coûte ?",
+  "mission": "Demander un prix et acheter quelque chose de simple",
+  "level": "A1",
+  "order": 8,
+  "hanzi": [
+    {
+      "character": "钱",
+      "pinyin": "qián",
+      "meaning": "argent, monnaie",
+      "hskLevel": 1,
+      "radical": "钅 (métal)",
+      "components": [
+        "钅",
+        "戋"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente des pièces de monnaie en métal (钅) empilées ou liées ensemble (戋). L'origine exacte est débattue, mais le radical 钅 indique clairement un lien avec les métaux, donc avec l'argent.",
+      "family": [
+        "金钱 (jīnqián - argent)"
+      ],
+      "commonErrors": [
+        "Confusion avec 线 (xiàn - fil) en raison de la similitude visuelle."
+      ]
+    },
+    {
+      "character": "少",
+      "pinyin": "shǎo",
+      "meaning": "peu, peu nombreux",
+      "hskLevel": 1,
+      "radical": "小 (petit)",
+      "components": [
+        "小",
+        "丿"
+      ],
+      "etymology": "Ce caractère dérive du radical 小 (petit) avec un trait supplémentaire, symbolisant une quantité réduite ou 'peu'.",
+      "family": [
+        "多少 (duōshǎo - combien)"
+      ],
+      "commonErrors": [
+        "Confusion avec 小 (xiǎo - petit) en raison de la similitude visuelle et sémantique."
+      ]
+    },
+    {
+      "character": "块",
+      "pinyin": "kuài",
+      "meaning": "morceau, classificateur pour l'argent (yuan)",
+      "hskLevel": 1,
+      "radical": "土 (terre)",
+      "components": [
+        "土",
+        "夬"
+      ],
+      "etymology": "À l'origine, ce caractère représentait un morceau de terre (土) ou un objet solide. Il est aujourd'hui utilisé comme classificateur pour l'argent (équivalent du 'yuan').",
+      "family": [
+        "一块钱 (yī kuài qián - un yuan)"
+      ],
+      "commonErrors": [
+        "Confusion avec 快 (kuài - rapide) en raison de la prononciation identique."
+      ]
+    },
+    {
+      "character": "毛",
+      "pinyin": "máo",
+      "meaning": "poil, classificateur pour les dixièmes de yuan (jiao)",
+      "hskLevel": 1,
+      "radical": "毛 (poil)",
+      "components": [
+        "毛"
+      ],
+      "etymology": "Ce caractère représente un poil ou une plume. Il est utilisé comme classificateur pour les dixièmes de yuan (1 毛 = 0,1 元).",
+      "family": [
+        "一毛钱 (yī máo qián - dix centimes)"
+      ],
+      "commonErrors": [
+        "Confusion avec 手 (shǒu - main) en raison de la similitude visuelle partielle."
+      ]
+    },
+    {
+      "character": "杯",
+      "pinyin": "bēi",
+      "meaning": "tasse, verre, classificateur pour les boissons",
+      "hskLevel": 1,
+      "radical": "木 (bois)",
+      "components": [
+        "木",
+        "不"
+      ],
+      "etymology": "Ce caractère représente à l'origine un récipient en bois (木) utilisé pour boire. Aujourd'hui, il sert de classificateur pour les boissons (ex : 一杯茶 - une tasse de thé).",
+      "family": [
+        "一杯茶 (yī bēi chá - une tasse de thé)"
+      ],
+      "commonErrors": [
+        "Confusion avec 环 (huán - anneau) en raison de la similitude visuelle partielle."
+      ]
+    },
+    {
+      "character": "瓶",
+      "pinyin": "píng",
+      "meaning": "bouteille, classificateur pour les bouteilles",
+      "hskLevel": 1,
+      "radical": "瓦 (tuile, céramique)",
+      "components": [
+        "并",
+        "瓦"
+      ],
+      "etymology": "Ce caractère représente une bouteille en céramique (瓦). Il sert de classificateur pour les bouteilles (ex : 一瓶水 - une bouteille d'eau).",
+      "family": [
+        "一瓶水 (yī píng shuǐ - une bouteille d'eau)"
+      ],
+      "commonErrors": [
+        "Confusion avec 平 (píng - plat) en raison de la prononciation similaire."
+      ]
+    },
+    {
+      "character": "贵",
+      "pinyin": "guì",
+      "meaning": "cher, coûteux",
+      "hskLevel": 2,
+      "radical": "贝 (coquillage, argent)",
+      "components": [
+        "中",
+        "贝"
+      ],
+      "etymology": "Ce caractère combine le radical 贝 (coquillage, anciennement utilisé comme monnaie) avec 中 (milieu), symbolisant quelque chose qui 'vaut beaucoup' ou est 'précieux'.",
+      "family": [
+        "贵不贵 (guì bù guì - est-ce cher ?)"
+      ],
+      "commonErrors": [
+        "Confusion avec 贝 (bèi - coquillage) en raison du radical commun."
+      ]
+    },
+    {
+      "character": "便",
+      "pinyin": "pián",
+      "meaning": "bon marché (dans 便宜)",
+      "hskLevel": 2,
+      "radical": "人 (personne)",
+      "components": [
+        "亻",
+        "更"
+      ],
+      "etymology": "Ce caractère est utilisé dans le mot 便宜 (piányi - bon marché). L'origine est complexe, mais il suggère l'idée de quelque chose qui est 'facile' ou 'accessible' pour les gens (人).",
+      "family": [
+        "便宜 (piányi - bon marché)"
+      ],
+      "commonErrors": [
+        "Confusion avec 更 (gèng - plus) en raison de la composante commune."
+      ]
+    },
+    {
+      "character": "宜",
+      "pinyin": "yí",
+      "meaning": "approprié, convenable (dans 便宜)",
+      "hskLevel": 2,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "且"
+      ],
+      "etymology": "Ce caractère est utilisé dans le mot 便宜 (piányi - bon marché). Il suggère l'idée de quelque chose qui est 'sous un toit' (宀) et donc 'approprié' ou 'convenable'.",
+      "family": [
+        "便宜 (piányi - bon marché)"
+      ],
+      "commonErrors": [
+        "Confusion avec 且 (qiě - et) en raison de la composante commune."
+      ]
+    },
+    {
+      "character": "买",
+      "pinyin": "mǎi",
+      "meaning": "acheter",
+      "hskLevel": 1,
+      "radical": "乙 (second)",
+      "components": [
+        "乛",
+        "头"
+      ],
+      "etymology": "Ce caractère représente à l'origine une main (乛) tenant une corde ou un objet, symbolisant l'action d'acheter.",
+      "family": [
+        "买东西 (mǎi dōngxi - faire des achats)"
+      ],
+      "commonErrors": [
+        "Confusion avec 卖 (mài - vendre) en raison de la prononciation et du sens opposé."
+      ]
+    },
+    {
+      "character": "卖",
+      "pinyin": "mài",
+      "meaning": "vendre",
+      "hskLevel": 1,
+      "radical": "十 (dix)",
+      "components": [
+        "十",
+        "买"
+      ],
+      "etymology": "Ce caractère combine 十 (dix) et 买 (acheter), symbolisant l'idée de 'vendre' comme l'opposé d'acheter.",
+      "family": [
+        "卖东西 (mài dōngxi - vendre des choses)"
+      ],
+      "commonErrors": [
+        "Confusion avec 买 (mǎi - acheter) en raison de la prononciation et du sens opposé."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "多少钱",
+      "pinyin": "duōshǎo qián",
+      "meaning": "combien ça coûte ?",
+      "exampleZh": "这个多少钱？",
+      "examplePinyin": "Zhège duōshǎo qián?",
+      "exampleFr": "Combien ça coûte, ceci ?"
+    },
+    {
+      "word": "块",
+      "pinyin": "kuài",
+      "meaning": "yuan (unité monétaire)",
+      "exampleZh": "一块钱",
+      "examplePinyin": "Yī kuài qián",
+      "exampleFr": "Un yuan"
+    },
+    {
+      "word": "毛",
+      "pinyin": "máo",
+      "meaning": "dix centimes (0,1 yuan)",
+      "exampleZh": "五毛钱",
+      "examplePinyin": "Wǔ máo qián",
+      "exampleFr": "Cinquante centimes"
+    },
+    {
+      "word": "杯",
+      "pinyin": "bēi",
+      "meaning": "tasse, verre (classificateur)",
+      "exampleZh": "一杯茶",
+      "examplePinyin": "Yī bēi chá",
+      "exampleFr": "Une tasse de thé"
+    },
+    {
+      "word": "瓶",
+      "pinyin": "píng",
+      "meaning": "bouteille (classificateur)",
+      "exampleZh": "一瓶水",
+      "examplePinyin": "Yī píng shuǐ",
+      "exampleFr": "Une bouteille d'eau"
+    },
+    {
+      "word": "贵",
+      "pinyin": "guì",
+      "meaning": "cher",
+      "exampleZh": "这个贵。",
+      "examplePinyin": "Zhège guì.",
+      "exampleFr": "Ceci est cher."
+    },
+    {
+      "word": "便宜",
+      "pinyin": "piányi",
+      "meaning": "bon marché (composé de 便 et 宜)",
+      "exampleZh": "这个便宜。",
+      "examplePinyin": "Zhège piányi.",
+      "exampleFr": "Ceci est bon marché."
+    },
+    {
+      "word": "买",
+      "pinyin": "mǎi",
+      "meaning": "acheter",
+      "exampleZh": "我买这个。",
+      "examplePinyin": "Wǒ mǎi zhège.",
+      "exampleFr": "J'achète ceci."
+    },
+    {
+      "word": "卖",
+      "pinyin": "mài",
+      "meaning": "vendre",
+      "exampleZh": "你卖这个吗？",
+      "examplePinyin": "Nǐ mài zhège ma?",
+      "exampleFr": "Est-ce que tu vends ceci ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es dans un petit magasin en Chine. Tu veux acheter une tasse de thé et une bouteille d'eau. Tu dois demander les prix et payer.",
+      "goals": [
+        "Demander le prix d'un article avec 多少钱.",
+        "Utiliser les classificateurs 杯 et 瓶 pour les boissons.",
+        "Comprendre et utiliser les unités monétaires 块 et 毛.",
+        "Dire si quelque chose est cher ou bon marché avec 贵 et 便宜 (composé de 便 et 宜)."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue suivant entre un client (王明) et un vendeur (李华). Repère comment on demande un prix et comment on parle d'argent.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "你好！这个多少钱？",
+          "pinyin": "Nǐ hǎo! Zhège duōshǎo qián?",
+          "translation": "Bonjour ! Combien ça coûte, ceci ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "这个五块钱。",
+          "pinyin": "Zhège wǔ kuài qián.",
+          "translation": "Ceci coûte cinq yuans."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "那个呢？",
+          "pinyin": "Nàge ne?",
+          "translation": "Et cela ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "那个三块五毛。",
+          "pinyin": "Nàge sān kuài wǔ máo.",
+          "translation": "Cela coûte trois yuans cinquante."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "一杯茶多少钱？",
+          "pinyin": "Yī bēi chá duōshǎo qián?",
+          "translation": "Combien coûte une tasse de thé ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "一杯茶八块。",
+          "pinyin": "Yī bēi chá bā kuài.",
+          "translation": "Une tasse de thé coûte huit yuans."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "这个贵！有不贵的吗？",
+          "pinyin": "Zhège guì! Yǒu bù guì de ma?",
+          "translation": "C'est cher ! Est-ce que vous avez quelque chose qui n'est pas cher ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "这个便宜，一瓶水一块。",
+          "pinyin": "Zhège piányi, yī píng shuǐ yī kuài.",
+          "translation": "Ceci est bon marché (composé de 便 et 宜), une bouteille d'eau coûte un yuan."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "钱",
+        "少",
+        "块",
+        "毛",
+        "杯",
+        "瓶",
+        "贵",
+        "便",
+        "宜",
+        "买",
+        "卖"
+      ],
+      "grammar": [
+        {
+          "point": "Demander un prix avec 多少钱",
+          "explanation": "Pour demander le prix d'un objet, on utilise la structure : [Objet] + 多少钱？. Exemple : 这个多少钱？ (Combien ça coûte, ceci ?). Erreur typique du francophone : ajouter un verbe comme 'coûter'.",
+          "examples": [
+            {
+              "chinese": "一杯茶多少钱？",
+              "pinyin": "Yī bēi chá duōshǎo qián?",
+              "translation": "Combien coûte une tasse de thé ?"
+            },
+            {
+              "chinese": "这个多少钱？",
+              "pinyin": "Zhège duōshǎo qián?",
+              "translation": "Combien ça coûte, ceci ?"
+            }
+          ]
+        },
+        {
+          "point": "Les unités monétaires : 块 et 毛",
+          "explanation": "En chinois, 1 块 (kuài) = 1 yuan, et 1 毛 (máo) = 0,1 yuan (10 centimes). On les utilise comme suit : [Nombre] + 块 + [Nombre] + 毛. Exemple : 三块五毛 (3,50 yuans). Erreur typique : inverser l'ordre.",
+          "examples": [
+            {
+              "chinese": "五块钱",
+              "pinyin": "Wǔ kuài qián",
+              "translation": "Cinq yuans"
+            },
+            {
+              "chinese": "一块五毛",
+              "pinyin": "Yī kuài wǔ máo",
+              "translation": "Un yuan cinquante"
+            }
+          ]
+        },
+        {
+          "point": "Les classificateurs 杯 et 瓶",
+          "explanation": "Pour les boissons, on utilise 杯 (bēi) pour les tasses/verres et 瓶 (píng) pour les bouteilles. Structure : [Nombre] + [Classificateur] + [Objet]. Exemple : 一杯茶 (une tasse de thé). Erreur typique : oublier le classificateur.",
+          "examples": [
+            {
+              "chinese": "一杯茶",
+              "pinyin": "Yī bēi chá",
+              "translation": "Une tasse de thé"
+            },
+            {
+              "chinese": "一瓶水",
+              "pinyin": "Yī píng shuǐ",
+              "translation": "Une bouteille d'eau"
+            }
+          ]
+        },
+        {
+          "point": "Exprimer le prix avec 贵 et 便宜 (composé de 便 et 宜)",
+          "explanation": "Pour dire qu'un objet est cher, on utilise 贵 (guì). Pour dire qu'il est bon marché, on utilise 便宜 (piányi, composé de 便 et 宜). Structure : [Objet] + 贵 / 便宜. Exemple : 这个便宜 (Ceci est bon marché). Attention aux tons de 便宜 (2e ton + 2e ton).",
+          "examples": [
+            {
+              "chinese": "这个贵。",
+              "pinyin": "Zhège guì.",
+              "translation": "Ceci est cher."
+            },
+            {
+              "chinese": "那个便宜。",
+              "pinyin": "Nàge piányi.",
+              "translation": "Cela est bon marché."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 块 (kuài) est le 4e ton (descendant) : commencez haut et descendez rapidement.",
+        "Le ton de 毛 (máo) est le 2e ton (montant) : commencez au milieu et montez.",
+        "Le mot 便宜 (piányi) combine deux 2e tons. Prononcez comme un 2e ton suivi d'un ton légèrement montant."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et mots s'articulent avec ce que tu connais déjà :",
+      "links": [
+        {
+          "from": "钱",
+          "relation": "RADICAL_DE",
+          "to": "钅 (métal)"
+        },
+        {
+          "from": "多少",
+          "relation": "COMPOSE",
+          "to": "少 (peu, nouveau) et 多 (beaucoup, déjà connu)"
+        },
+        {
+          "from": "杯",
+          "relation": "DONNE_LE_SON",
+          "to": "不 (bù, déjà connu) pour la partie phonétique"
+        },
+        {
+          "from": "贵",
+          "relation": "RADICAL_DE",
+          "to": "贝 (coquillage)"
+        },
+        {
+          "from": "便宜",
+          "relation": "COMPOSE",
+          "to": "便 (pián) et 宜 (yí, tous deux nouveaux)"
+        },
+        {
+          "from": "买",
+          "relation": "CONTRASTE_AVEC",
+          "to": "卖 (mài - vendre, sens opposé)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Tu es dans un magasin. Demande le prix d'une bouteille d'eau en utilisant 多少钱 et le classificateur 瓶.",
+          "hint": "Utilise la structure : 一瓶水多少钱？",
+          "example": {
+            "chinese": "一瓶水多少钱？",
+            "pinyin": "Yī píng shuǐ duōshǎo qián?",
+            "translation": "Combien coûte une bouteille d'eau ?"
+          }
+        },
+        {
+          "instruction": "Le vendeur te répond que la bouteille d'eau coûte 1,50 yuans. Répète le prix en utilisant 块 et 毛.",
+          "hint": "Utilise la structure : [Nombre] + 块 + [Nombre] + 毛.",
+          "example": {
+            "chinese": "一块五毛。",
+            "pinyin": "Yī kuài wǔ máo.",
+            "translation": "Un yuan cinquante."
+          }
+        },
+        {
+          "instruction": "Tu trouves que c'est cher. Dis-le en utilisant 贵.",
+          "hint": "Utilise la structure : 这个贵。",
+          "example": {
+            "chinese": "这个贵！",
+            "pinyin": "Zhège guì!",
+            "translation": "Ceci est cher !"
+          }
+        },
+        {
+          "instruction": "Demande s'il y a quelque chose de moins cher en utilisant 便宜 (composé de 便 et 宜).",
+          "hint": "Utilise la structure : 有便宜的吗？",
+          "example": {
+            "chinese": "有便宜的吗？",
+            "pinyin": "Yǒu piányi de ma?",
+            "translation": "Est-ce que vous avez quelque chose de bon marché ?"
+          }
+        },
+        {
+          "instruction": "Le vendeur te propose une tasse de thé à 5 yuans. Dis que tu veux l'acheter en utilisant 买 et le classificateur 杯.",
+          "hint": "Utilise la structure : 我买一杯茶。",
+          "example": {
+            "chinese": "我买一杯茶。",
+            "pinyin": "Wǒ mǎi yī bēi chá.",
+            "translation": "J'achète une tasse de thé."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à demander le prix d'un objet avec 多少钱, à utiliser les unités monétaires 块 et 毛, et à compter les boissons avec les classificateurs 杯 et 瓶. Tu as aussi découvert comment dire si quelque chose est cher (贵) ou bon marché (便宜, composé de 便 et 宜), ainsi que les verbes 买 (acheter) et 卖 (vendre). Ces outils te permettront de faire des achats simples en chinois !",
+      "reviewWords": [
+        "多少钱",
+        "块",
+        "毛",
+        "杯",
+        "瓶",
+        "贵",
+        "便宜",
+        "买",
+        "卖"
+      ],
+      "reviewHanzi": [
+        "钱",
+        "少",
+        "块",
+        "毛",
+        "杯",
+        "瓶",
+        "贵",
+        "便",
+        "宜",
+        "买",
+        "卖"
+      ]
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "slug": "entretien-d-embauche",
+  "title": "L'entretien d'embauche",
+  "mission": "Se présenter professionnellement et parler de son parcours",
+  "level": "B1",
+  "order": 45,
+  "hanzi": [
+    {
+      "character": "职",
+      "pinyin": "zhí",
+      "meaning": "poste, emploi",
+      "hskLevel": 3,
+      "radical": "耳 (oreille)",
+      "components": [
+        "耳",
+        "只"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que le caractère représente une oreille (耳) attentive à un ordre (只, ici phonétique), symbolisant l'obéissance liée à un poste.",
+      "family": [
+        "工作",
+        "职业"
+      ],
+      "commonErrors": [
+        "Confusion avec 织 (tisser) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "业",
+      "pinyin": "yè",
+      "meaning": "métier, secteur",
+      "hskLevel": 2,
+      "radical": "一 (un)",
+      "components": [
+        "丷",
+        "羊"
+      ],
+      "etymology": "Représente à l'origine les pieds d'un métier à tisser, symbolisant le travail et la profession.",
+      "family": [
+        "职业",
+        "作业"
+      ],
+      "commonErrors": [
+        "Confusion avec 叶 (feuille) en raison de la similarité graphique."
+      ]
+    },
+    {
+      "character": "验",
+      "pinyin": "yàn",
+      "meaning": "vérifier, preuve",
+      "hskLevel": 4,
+      "radical": "马 (cheval)",
+      "components": [
+        "马",
+        "佥"
+      ],
+      "etymology": "Le radical 马 évoque l'inspection des chevaux, d'où le sens de vérification.",
+      "family": [
+        "经验"
+      ],
+      "commonErrors": [
+        "Confusion avec 检 (vérifier) en raison de la similarité sémantique."
+      ]
+    },
+    {
+      "character": "历",
+      "pinyin": "lì",
+      "meaning": "passer, calendrier",
+      "hskLevel": 3,
+      "radical": "厂 (falaise)",
+      "components": [
+        "厂",
+        "力"
+      ],
+      "etymology": "Représente une falaise sous laquelle on déploie de la force pour avancer, symbolisant le passage du temps.",
+      "family": [
+        "经历",
+        "日历"
+      ],
+      "commonErrors": [
+        "Confusion avec 厉 (sévère) en raison de la similarité graphique."
+      ]
+    },
+    {
+      "character": "感",
+      "pinyin": "gǎn",
+      "meaning": "ressentir, sentiment",
+      "hskLevel": 3,
+      "radical": "心 (cœur)",
+      "components": [
+        "咸",
+        "心"
+      ],
+      "etymology": "Le cœur (心) qui ressent une sensation universelle (咸).",
+      "family": [
+        "感兴趣"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *gàn* au lieu de gǎn."
+      ]
+    },
+    {
+      "character": "简",
+      "pinyin": "jiǎn",
+      "meaning": "simple, bref",
+      "hskLevel": 4,
+      "radical": "竹 (bambou)",
+      "components": [
+        "竹",
+        "间"
+      ],
+      "etymology": "Les lamelles de bambou (竹) utilisées pour écrire de manière concise (间).",
+      "family": [
+        "简单",
+        "简历"
+      ],
+      "commonErrors": [
+        "Confusion avec 间 (espace) en raison de la similarité graphique."
+      ]
+    },
+    {
+      "character": "需",
+      "pinyin": "xū",
+      "meaning": "avoir besoin de",
+      "hskLevel": 3,
+      "radical": "雨 (pluie)",
+      "components": [
+        "雨",
+        "而"
+      ],
+      "etymology": "La pluie (雨) comme nécessité vitale, symbolisant un besoin.",
+      "family": [
+        "需要"
+      ],
+      "commonErrors": [
+        "Confusion avec 须 (devoir) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "位",
+      "pinyin": "wèi",
+      "meaning": "place, poste",
+      "hskLevel": 2,
+      "radical": "人 (personne)",
+      "components": [
+        "人",
+        "立"
+      ],
+      "etymology": "Une personne (人) debout (立), symbolisant une position ou un rang.",
+      "family": [
+        "座位"
+      ],
+      "commonErrors": [
+        "Confusion avec 为 (pour) en raison de la similarité graphique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "职业",
+      "pinyin": "zhíyè",
+      "meaning": "profession, métier",
+      "exampleZh": "你的职业是什么？",
+      "examplePinyin": "Nǐ de zhíyè shì shénme?",
+      "exampleFr": "Quelle est ta profession ?"
+    },
+    {
+      "word": "经验",
+      "pinyin": "jīngyàn",
+      "meaning": "expérience",
+      "exampleZh": "我有三年的工作经验。",
+      "examplePinyin": "Wǒ yǒu sān nián de gōngzuò jīngyàn.",
+      "exampleFr": "J'ai trois ans d'expérience professionnelle."
+    },
+    {
+      "word": "经历",
+      "pinyin": "jīnglì",
+      "meaning": "parcours, expérience vécue",
+      "exampleZh": "请说你的工作。",
+      "examplePinyin": "Qǐng shuō nǐ de gōngzuò.",
+      "exampleFr": "Parlez de votre travail."
+    },
+    {
+      "word": "简历",
+      "pinyin": "jiǎnlì",
+      "meaning": "CV, curriculum vitae",
+      "exampleZh": "这是我的简历。",
+      "examplePinyin": "Zhè shì wǒ de jiǎnlì.",
+      "exampleFr": "Voici mon CV."
+    },
+    {
+      "word": "对感",
+      "pinyin": "duì gǎn",
+      "meaning": "s'intéresser à (forme courte)",
+      "exampleZh": "我对这个工作对感。",
+      "examplePinyin": "Wǒ duì zhège gōngzuò duì gǎn.",
+      "exampleFr": "Je m'intéresse à ce travail."
+    },
+    {
+      "word": "需要",
+      "pinyin": "xūyào",
+      "meaning": "avoir besoin de, nécessiter",
+      "exampleZh": "这个工作需要什么？",
+      "examplePinyin": "Zhège gōngzuò xūyào shénme?",
+      "exampleFr": "Qu'est-ce que ce travail nécessite ?"
+    },
+    {
+      "word": "位",
+      "pinyin": "wèi",
+      "meaning": "poste, place",
+      "exampleZh": "这个位需要什么？",
+      "examplePinyin": "Zhège wèi xūyào shénme?",
+      "exampleFr": "Qu'est-ce que ce poste nécessite ?"
+    },
+    {
+      "word": "请说",
+      "pinyin": "qǐng shuō",
+      "meaning": "veuillez parler",
+      "exampleZh": "请说你的工作。",
+      "examplePinyin": "Qǐng shuō nǐ de gōngzuò.",
+      "exampleFr": "Veuillez parler de votre travail."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous postulez pour un travail dans une entreprise chinoise. Lors de l'entretien, vous devez vous présenter et parler de votre parcours.",
+      "goals": [
+        "Utiliser un registre poli avec 请说.",
+        "Décrire son parcours avec 经历 et 经验.",
+        "Exprimer son intérêt avec 对感.",
+        "Poser des questions sur le poste."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue. Repérez : 1) les formules de politesse ; 2) les mots liés au travail ; 3) comment exprimer un intérêt.",
+      "dialogue": [
+        {
+          "speaker": "A (Interviewer)",
+          "chinese": "请问，你叫什么名字？",
+          "pinyin": "Qǐng wèn, nǐ jiào shénme míngzi?",
+          "translation": "Puis-je demander, quel est ton nom ?"
+        },
+        {
+          "speaker": "B (Candidat)",
+          "chinese": "我叫王明。这是我的简历。",
+          "pinyin": "Wǒ jiào Wáng Míng. Zhè shì wǒ de jiǎnlì.",
+          "translation": "Je m'appelle Wang Ming. Voici mon CV."
+        },
+        {
+          "speaker": "A",
+          "chinese": "请说你的工作。",
+          "pinyin": "Qǐng shuō nǐ de gōngzuò.",
+          "translation": "Parlez de votre travail."
+        },
+        {
+          "speaker": "B",
+          "chinese": "我在一家法国公司工作了三年。",
+          "pinyin": "Wǒ zài yī jiā Fǎguó gōngsī gōngzuò le sān nián.",
+          "translation": "J'ai travaillé trois ans dans une entreprise française."
+        },
+        {
+          "speaker": "A",
+          "chinese": "你对这个工作对感吗？",
+          "pinyin": "Nǐ duì zhège gōngzuò duì gǎn ma?",
+          "translation": "Vous intéressez-vous à ce travail ?"
+        },
+        {
+          "speaker": "B",
+          "chinese": "是的，我对这个工作对感。",
+          "pinyin": "Shì de, wǒ duì zhège gōngzuò duì gǎn.",
+          "translation": "Oui, je m'intéresse à ce travail."
+        },
+        {
+          "speaker": "A",
+          "chinese": "好的。你有什么问吗？",
+          "pinyin": "Hǎo de. Nǐ yǒu shénme wèn ma?",
+          "translation": "D'accord. Avez-vous des questions ?"
+        },
+        {
+          "speaker": "B",
+          "chinese": "请问，这个位需要什么？",
+          "pinyin": "Qǐng wèn, zhège wèi xūyào shénme?",
+          "translation": "Puis-je demander ce que ce poste nécessite ?"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "职",
+        "业",
+        "验",
+        "历",
+        "感",
+        "简",
+        "需",
+        "位"
+      ],
+      "grammar": [
+        {
+          "point": "Registre poli avec 请说",
+          "explanation": "En chinois, on utilise 请说 pour demander poliment à quelqu'un de parler. Erreur typique : oublier 请 et dire *说你的工作* au lieu de 请说你的工作.",
+          "examples": [
+            {
+              "chinese": "请说你的工作。",
+              "pinyin": "Qǐng shuō nǐ de gōngzuò.",
+              "translation": "Veuillez parler de votre travail."
+            }
+          ]
+        },
+        {
+          "point": "对感 : exprimer un intérêt",
+          "explanation": "La structure 对感 permet d'exprimer son intérêt pour quelque chose. Erreur typique : oublier 对 et dire *我感这个工作* au lieu de 我对这个工作对感.",
+          "examples": [
+            {
+              "chinese": "我对这个工作对感。",
+              "pinyin": "Wǒ duì zhège gōngzuò duì gǎn.",
+              "translation": "Je m'intéresse à ce travail."
+            }
+          ]
+        },
+        {
+          "point": "经验 et 经历 : parler de son parcours",
+          "explanation": "经验 désigne l'expérience acquise, 经历 désigne le parcours. Erreur typique : confondre les deux et dire *我有三年的经历* au lieu de 我有三年的经验.",
+          "examples": [
+            {
+              "chinese": "我有五年的工作经验。",
+              "pinyin": "Wǒ yǒu wǔ nián de gōngzuò jīngyàn.",
+              "translation": "J'ai cinq ans d'expérience professionnelle."
+            },
+            {
+              "chinese": "请说你的工作。",
+              "pinyin": "Qǐng shuō nǐ de gōngzuò.",
+              "translation": "Parlez de votre travail."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 感 (gǎn) : 3e ton (descendant-montant), et non 4e ton (*gàn*). Exemple : 对感 (duì gǎn).",
+        "La prononciation de 需 (xū) : 1er ton (haut et plat), et non 2e ton (*xú*). Exemple : 需要 (xūyào).",
+        "Le ton de 位 (wèi) : 4e ton (descendant), et non 2e ton (*wéi*). Exemple : 这个位 (zhège wèi)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères s'appuient sur des acquis précédents :",
+      "links": [
+        {
+          "from": "职",
+          "relation": "COMPOSE",
+          "to": "工作"
+        },
+        {
+          "from": "业",
+          "relation": "COMPOSE",
+          "to": "作业"
+        },
+        {
+          "from": "验",
+          "relation": "RADICAL_DE",
+          "to": "马"
+        },
+        {
+          "from": "感",
+          "relation": "RADICAL_DE",
+          "to": "心"
+        },
+        {
+          "from": "需",
+          "relation": "RADICAL_DE",
+          "to": "雨"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Présentez-vous en utilisant 对感 pour exprimer votre intérêt.",
+          "hint": "Utilisez : 我叫...，我对这个工作对感。",
+          "example": {
+            "chinese": "我叫李华，我对这个工作对感。",
+            "pinyin": "Wǒ jiào Lǐ Huá, wǒ duì zhège gōngzuò duì gǎn.",
+            "translation": "Je m'appelle Li Hua, je m'intéresse à ce travail."
+          }
+        },
+        {
+          "instruction": "Décrivez votre parcours en utilisant 经验.",
+          "hint": "Utilisez : 我有...年的工作经验。",
+          "example": {
+            "chinese": "我有六年的工作经验。",
+            "pinyin": "Wǒ yǒu liù nián de gōngzuò jīngyàn.",
+            "translation": "J'ai six ans d'expérience professionnelle."
+          }
+        },
+        {
+          "instruction": "Posez une question polie sur le poste.",
+          "hint": "Utilisez : 请问，这个位需要什么？",
+          "example": {
+            "chinese": "请问，这个位需要什么？",
+            "pinyin": "Qǐng wèn, zhège wèi xūyào shénme?",
+            "translation": "Puis-je demander ce que ce poste nécessite ?"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Vous avez appris à vous présenter professionnellement, décrire votre parcours avec 经验 et 经历, et exprimer votre intérêt avec 对感. Ces outils vous aideront à communiquer en entretien.",
+      "reviewWords": [
+        "职业",
+        "经验",
+        "经历",
+        "简历",
+        "对感",
+        "需要",
+        "位",
+        "请说"
+      ],
+      "reviewHanzi": [
+        "职",
+        "业",
+        "验",
+        "历",
+        "感",
+        "简",
+        "需",
+        "位"
+      ]
+    }
+  }
+}

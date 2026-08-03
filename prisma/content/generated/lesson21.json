@@ -1,0 +1,482 @@
+{
+  "slug": "l-experience-avec-guo",
+  "title": "Déjà fait ? L'expérience avec 过",
+  "mission": "Parler de ses expériences de vie",
+  "level": "A2",
+  "order": 21,
+  "hanzi": [
+    {
+      "character": "过",
+      "pinyin": "guò",
+      "meaning": "passer, traverser ; particule marquant l'expérience passée",
+      "hskLevel": 1,
+      "radical": "辵 (辶, « marche ») ou 寸 (« pouce ») selon les analyses",
+      "components": [
+        "辶",
+        "寸"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que 过 représente un pied (止) traversant une rivière (symbolisée par 寸). Le radical 辶 suggère le mouvement. La particule d'expérience est une extension sémantique : ce qui a été traversé (vécu) dans le passé.",
+      "family": [
+        "经过 (jīngguò, passer par)",
+        "过去 (guòqù, passé)"
+      ],
+      "commonErrors": [
+        "Confusion avec 了 (le) : 过 indique une expérience, pas une action accomplie. Ex : 我去过中国 ≠ 我去了中国."
+      ]
+    },
+    {
+      "character": "旅",
+      "pinyin": "lǚ",
+      "meaning": "voyager, voyage",
+      "hskLevel": 2,
+      "radical": "方 (fāng, « direction ») ou 㫃 (ancien radical de drapeau)",
+      "components": [
+        "㫃",
+        "从"
+      ],
+      "etymology": "Représente un groupe de personnes (从) sous un drapeau (㫃), évoquant une expédition. Le radical 方 suggère les directions prises lors d'un voyage.",
+      "family": [
+        "旅行 (lǚxíng, voyager)"
+      ],
+      "commonErrors": [
+        "Prononciation : le ǚ (3e ton) est souvent confondu avec le 2e ton (lú)."
+      ]
+    },
+    {
+      "character": "行",
+      "pinyin": "xíng",
+      "meaning": "marcher, aller ; OK",
+      "hskLevel": 1,
+      "radical": "行 (xíng, « marche ») ou 彳 (chì, « pas ») + 亍 (chù, « pas ») selon les décompositions",
+      "components": [
+        "彳",
+        "亍"
+      ],
+      "etymology": "Représente une intersection de routes (彳 et 亍 symbolisent des pas), d'où les sens de « marcher » et « aller ». Le sens « OK » vient de l'idée de « ça marche ».",
+      "family": [
+        "行李 (xíngli, bagage)"
+      ],
+      "commonErrors": [
+        "Homophone avec 形 (xíng, forme) : attention au contexte."
+      ]
+    },
+    {
+      "character": "飞",
+      "pinyin": "fēi",
+      "meaning": "voler",
+      "hskLevel": 2,
+      "radical": "飞 (fēi, « voler ») ou 乙 (yǐ, « second ») selon les décompositions",
+      "components": [
+        "乙",
+        "丿"
+      ],
+      "etymology": "Représente un oiseau en vol (乙 symbolise les ailes déployées). Le radical 飞 est utilisé pour tous les mots liés au vol.",
+      "family": [],
+      "commonErrors": [
+        "Prononciation : le 1er ton (fēi) est souvent prononcé comme un 4e ton (fèi)."
+      ]
+    },
+    {
+      "character": "票",
+      "pinyin": "piào",
+      "meaning": "billet, ticket",
+      "hskLevel": 2,
+      "radical": "示 (shì, « montrer ») ou 覀 (xī, variante de 西)",
+      "components": [
+        "覀",
+        "示"
+      ],
+      "etymology": "Représente un document officiel (示) portant un sceau (覀). Le sens moderne de « billet » vient des tickets de transport.",
+      "family": [],
+      "commonErrors": [
+        "Prononciation : le 4e ton (piào) est souvent prononcé comme un 1er ton (piāo)."
+      ]
+    },
+    {
+      "character": "船",
+      "pinyin": "chuán",
+      "meaning": "bateau",
+      "hskLevel": 2,
+      "radical": "舟 (zhōu, « bateau »)",
+      "components": [
+        "舟",
+        "几",
+        "口"
+      ],
+      "etymology": "Représente un bateau (舟) avec des passagers (几 et 口 symbolisent des personnes à bord).",
+      "family": [],
+      "commonErrors": [
+        "Prononciation : le 2e ton (chuán) est souvent confondu avec le 3e ton (chuǎn)."
+      ]
+    },
+    {
+      "character": "山",
+      "pinyin": "shān",
+      "meaning": "montagne",
+      "hskLevel": 1,
+      "radical": "山 (shān, « montagne »)",
+      "components": [
+        "屮",
+        "屮",
+        "屮"
+      ],
+      "etymology": "Représente trois pics montagneux (屮 symbolise des sommets).",
+      "family": [],
+      "commonErrors": [
+        "Prononciation : le 1er ton (shān) est souvent prononcé comme un 4e ton (shàn)."
+      ]
+    },
+    {
+      "character": "海",
+      "pinyin": "hǎi",
+      "meaning": "mer",
+      "hskLevel": 1,
+      "radical": "水 (shuǐ, « eau ») ou 氵 (variante de 水)",
+      "components": [
+        "氵",
+        "每"
+      ],
+      "etymology": "Représente une grande étendue d'eau (氵) avec des courants (每 évoque la multitude).",
+      "family": [],
+      "commonErrors": [
+        "Prononciation : le 3e ton (hǎi) est souvent prononcé comme un 2e ton (hái)."
+      ]
+    },
+    {
+      "character": "从",
+      "pinyin": "cóng",
+      "meaning": "suivre ; de (provenance)",
+      "hskLevel": 1,
+      "radical": "人 (rén, « personne »)",
+      "components": [
+        "人",
+        "人"
+      ],
+      "etymology": "Représente deux personnes (人) marchant l'une derrière l'autre, d'où les sens de « suivre » et « de ».",
+      "family": [],
+      "commonErrors": [
+        "Confusion avec 丛 (cóng, buisson) : même prononciation mais sens différent."
+      ]
+    },
+    {
+      "character": "爬",
+      "pinyin": "pá",
+      "meaning": "grimper, escalader",
+      "hskLevel": 2,
+      "radical": "爪 (zhuǎ, « griffe ») ou 爬 (pá, « grimper ») selon les analyses",
+      "components": [
+        "爪",
+        "巴"
+      ],
+      "etymology": "Représente une main (爪) agrippée à une surface (巴 symbolise l'effort).",
+      "family": [
+        "爬山 (páshān, grimper une montagne)"
+      ],
+      "commonErrors": [
+        "Prononciation : le 2e ton (pá) est souvent prononcé comme un 1er ton (pā)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "旅行",
+      "pinyin": "lǚxíng",
+      "meaning": "voyager, voyage",
+      "exampleZh": "我喜欢旅行。",
+      "examplePinyin": "Wǒ xǐhuān lǚxíng.",
+      "exampleFr": "J'aime voyager."
+    },
+    {
+      "word": "飞",
+      "pinyin": "fēi",
+      "meaning": "voler, prendre l'avion (argot)",
+      "exampleZh": "我坐过飞。",
+      "examplePinyin": "Wǒ zuò guò fēi.",
+      "exampleFr": "J'ai déjà pris l'avion."
+    },
+    {
+      "word": "船",
+      "pinyin": "chuán",
+      "meaning": "bateau",
+      "exampleZh": "我没坐过船。",
+      "examplePinyin": "Wǒ méi zuò guò chuán.",
+      "exampleFr": "Je n'ai jamais pris le bateau."
+    },
+    {
+      "word": "爬山",
+      "pinyin": "páshān",
+      "meaning": "grimper une montagne",
+      "exampleZh": "你爬过山吗？",
+      "examplePinyin": "Nǐ pá guò shān ma?",
+      "exampleFr": "As-tu déjà grimpé une montagne ?"
+    },
+    {
+      "word": "海",
+      "pinyin": "hǎi",
+      "meaning": "mer",
+      "exampleZh": "我去过海。",
+      "examplePinyin": "Wǒ qù guò hǎi.",
+      "exampleFr": "Je suis déjà allé à la mer."
+    },
+    {
+      "word": "从",
+      "pinyin": "cóng",
+      "meaning": "jamais (avec 没...过)",
+      "exampleZh": "我从没去过中国。",
+      "examplePinyin": "Wǒ cóng méi qù guò Zhōngguó.",
+      "exampleFr": "Je ne suis jamais allé en Chine."
+    },
+    {
+      "word": "坐火车",
+      "pinyin": "zuò huǒchē",
+      "meaning": "prendre le train",
+      "exampleZh": "你坐过火车吗？",
+      "examplePinyin": "Nǐ zuò guò huǒchē ma?",
+      "exampleFr": "As-tu déjà pris le train ?"
+    },
+    {
+      "word": "去过",
+      "pinyin": "qù guò",
+      "meaning": "être déjà allé",
+      "exampleZh": "他去过法国。",
+      "examplePinyin": "Tā qù guò Fǎguó.",
+      "exampleFr": "Il est déjà allé en France."
+    },
+    {
+      "word": "看过",
+      "pinyin": "kàn guò",
+      "meaning": "avoir déjà vu",
+      "exampleZh": "你看过这个电影吗？",
+      "examplePinyin": "Nǐ kàn guò zhège diànyǐng ma?",
+      "exampleFr": "As-tu déjà vu ce film ?"
+    },
+    {
+      "word": "吃过",
+      "pinyin": "chī guò",
+      "meaning": "avoir déjà mangé",
+      "exampleZh": "你吃过中国菜吗？",
+      "examplePinyin": "Nǐ chī guò Zhōngguó cài ma?",
+      "exampleFr": "As-tu déjà mangé de la cuisine chinoise ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Anna et Marc discutent de leurs expériences pendant une pause. Anna demande à Marc s'il a déjà visité certains endroits ou essayé certains moyens de transport.",
+      "goals": [
+        "Exprimer des expériences passées avec 过",
+        "Demander si quelqu'un a déjà fait quelque chose",
+        "Répondre avec 从没...过 pour dire « jamais »"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez les phrases qui parlent d'expériences passées. Notez comment on demande si quelqu'un a déjà fait quelque chose, et comment on répond.",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "马克，你去过中国吗？",
+          "pinyin": "Ānnà: Mǎkè, nǐ qù guò Zhōngguó ma?",
+          "translation": "Anna : Marc, es-tu déjà allé en Chine ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "去过，我去过中国。你呢？",
+          "pinyin": "Mǎkè: Qù guò, wǒ qù guò Zhōngguó. Nǐ ne?",
+          "translation": "Marc : Oui, je suis déjà allé en Chine. Et toi ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我没去过中国，也没去过日本。",
+          "pinyin": "Ānnà: Wǒ méi qù guò Zhōngguó, yě méi qù guò Rìběn.",
+          "translation": "Anna : Je ne suis jamais allée en Chine, ni au Japon."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "你坐过飞吗？",
+          "pinyin": "Mǎkè: Nǐ zuò guò fēi ma?",
+          "translation": "Marc : As-tu déjà pris l'avion ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "坐过，我坐过飞。你坐过船吗？",
+          "pinyin": "Ānnà: Zuò guò, wǒ zuò guò fēi. Nǐ zuò guò chuán ma?",
+          "translation": "Anna : Oui, j'ai déjà pris l'avion. As-tu déjà pris le bateau ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "从没坐过船。我喜欢坐火车。",
+          "pinyin": "Mǎkè: Cóng méi zuò guò chuán. Wǒ xǐhuān zuò huǒchē.",
+          "translation": "Marc : Je n'ai jamais pris le bateau. J'aime prendre le train."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我爬过山，你呢？",
+          "pinyin": "Ānnà: Wǒ pá guò shān, nǐ ne?",
+          "translation": "Anna : J'ai déjà grimpé une montagne. Et toi ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "我也爬过山。",
+          "pinyin": "Mǎkè: Wǒ yě pá guò shān.",
+          "translation": "Marc : Moi aussi, j'ai grimpé une montagne."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "过",
+        "旅",
+        "行",
+        "飞",
+        "票",
+        "船",
+        "山",
+        "海",
+        "从",
+        "爬"
+      ],
+      "grammar": [
+        {
+          "point": "Verbe + 过 : exprimer une expérience passée",
+          "explanation": "La particule 过 (guò) se place après un verbe pour indiquer qu'une action a déjà été expérimentée. Contrairement à 了 (le), 过 met l'accent sur l'expérience elle-même. Erreur typique : oublier 过 et dire simplement 我去中国 au lieu de 我去过中国.",
+          "examples": [
+            {
+              "chinese": "我看过这个电影。",
+              "pinyin": "Wǒ kàn guò zhège diànyǐng.",
+              "translation": "J'ai déjà vu ce film."
+            },
+            {
+              "chinese": "他吃过中国菜。",
+              "pinyin": "Tā chī guò Zhōngguó cài.",
+              "translation": "Il a déjà mangé de la cuisine chinoise."
+            }
+          ]
+        },
+        {
+          "point": "从没...过 : exprimer « jamais »",
+          "explanation": "Pour dire qu'on n'a jamais fait quelque chose, on utilise 从没 (cóng méi) suivi du verbe + 过. Erreur typique : dire 我没去过中国 au lieu de 我从没去过中国 pour insister sur « jamais ».",
+          "examples": [
+            {
+              "chinese": "我从没坐过船。",
+              "pinyin": "Wǒ cóng méi zuò guò chuán.",
+              "translation": "Je n'ai jamais pris le bateau."
+            },
+            {
+              "chinese": "他从没爬过山。",
+              "pinyin": "Tā cóng méi pá guò shān.",
+              "translation": "Il n'a jamais grimpé de montagne."
+            }
+          ]
+        },
+        {
+          "point": "过 vs 了 : différence d'usage",
+          "explanation": "过 (guò) insiste sur l'expérience (on a déjà fait quelque chose), tandis que 了 (le) marque l'accomplissement (l'action est terminée). Erreur typique : utiliser 了 pour parler d'une expérience générale (ex : 我去了中国 pour « je suis déjà allé en Chine »).",
+          "examples": [
+            {
+              "chinese": "我去过中国。 (expérience)",
+              "pinyin": "Wǒ qù guò Zhōngguó.",
+              "translation": "Je suis déjà allé en Chine."
+            },
+            {
+              "chinese": "我去了中国。 (accompli)",
+              "pinyin": "Wǒ qù le Zhōngguó.",
+              "translation": "Je suis allé en Chine (et je suis peut-être encore là-bas)."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "过 (guò) : 4e ton descendant. Attention à ne pas le confondre avec le 1er ton (guō).",
+        "从 (cóng) : 2e ton montant. Évitez de prononcer cóng (3e ton).",
+        "爬 (pá) : 2e ton montant. Attention à ne pas prononcer pā (1er ton)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots s'appuient sur des acquis précédents :",
+      "links": [
+        {
+          "from": "过",
+          "relation": "COMPOSE",
+          "to": "经过 (jīngguò)"
+        },
+        {
+          "from": "旅",
+          "relation": "RADICAL_DE",
+          "to": "方 (fāng)"
+        },
+        {
+          "from": "飞",
+          "relation": "DONNE_LE_SON",
+          "to": "飞 (fēi)"
+        },
+        {
+          "from": "从",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "丛 (cóng)"
+        },
+        {
+          "from": "过",
+          "relation": "CONTRASTE_AVEC",
+          "to": "了 (le)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Demande à ton/ta partenaire s'il/elle a déjà fait les choses suivantes. Utilise 过 dans tes questions.",
+          "hint": "Structure : 你 + verbe + 过 + objet + 吗？ Exemple : 你去过中国吗？",
+          "example": {
+            "chinese": "你坐过火车吗？",
+            "pinyin": "Nǐ zuò guò huǒchē ma?",
+            "translation": "As-tu déjà pris le train ?"
+          }
+        },
+        {
+          "instruction": "Réponds aux questions en utilisant 过 pour les expériences que tu as eues, et 从没...过 pour celles que tu n'as jamais eues.",
+          "hint": "Structure affirmative : 我 + verbe + 过 + objet。 Structure négative : 我从没 + verbe + 过 + objet。",
+          "example": {
+            "chinese": "我坐过飞，从没坐过船。",
+            "pinyin": "Wǒ zuò guò fēi, cóng méi zuò guò chuán.",
+            "translation": "J'ai déjà pris l'avion, mais je n'ai jamais pris le bateau."
+          }
+        },
+        {
+          "instruction": "Parle de tes expériences. Dis où tu es déjà allé(e), quels moyens de transport tu as pris, et ce que tu as fait.",
+          "hint": "Utilise des phrases comme 我去过... (je suis déjà allé à...), 我坐过... (j'ai déjà pris...), 我爬过山 (j'ai déjà grimpé une montagne).",
+          "example": {
+            "chinese": "我去过日本，坐过飞。我爬过山，也去过海。从没坐过船。",
+            "pinyin": "Wǒ qù guò Rìběn, zuò guò fēi. Wǒ pá guò shān, yě qù guò hǎi. Cóng méi zuò guò chuán.",
+            "translation": "Je suis déjà allé au Japon, j'ai pris l'avion. J'ai grimpé une montagne et je suis allé à la mer. Je n'ai jamais pris le bateau."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à parler de vos expériences passées avec 过. Vous savez maintenant : 1) exprimer qu'une action a déjà été expérimentée (verbe + 过), 2) demander si quelqu'un a déjà fait quelque chose (verbe + 过 + 吗？), 3) dire que vous n'avez jamais fait quelque chose (从没 + verbe + 过), et 4) distinguer 过 (expérience) de 了 (accomplissement).",
+      "reviewWords": [
+        "旅行",
+        "飞",
+        "船",
+        "爬山",
+        "海",
+        "从",
+        "坐火车",
+        "去过",
+        "看过",
+        "吃过"
+      ],
+      "reviewHanzi": [
+        "过",
+        "旅",
+        "行",
+        "飞",
+        "票",
+        "船",
+        "山",
+        "海",
+        "从",
+        "爬"
+      ]
+    }
+  }
+}

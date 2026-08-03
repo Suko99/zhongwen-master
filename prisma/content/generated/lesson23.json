@@ -1,0 +1,543 @@
+{
+  "slug": "vetements-et-couleurs",
+  "title": "Vêtements et couleurs",
+  "mission": "Décrire une tenue et faire un choix en boutique",
+  "level": "A2",
+  "order": 23,
+  "hanzi": [
+    {
+      "character": "色",
+      "pinyin": "sè",
+      "meaning": "couleur",
+      "hskLevel": 1,
+      "radical": "色",
+      "components": [
+        "⺈",
+        "巴"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente un homme (⺈) penché pour ramasser quelque chose (巴), symbolisant l'idée de désir ou d'apparence, d'où la notion de couleur.",
+      "family": [
+        "红色",
+        "黄色"
+      ],
+      "commonErrors": [
+        "Confusion avec d'autres usages de '色'"
+      ]
+    },
+    {
+      "character": "红",
+      "pinyin": "hóng",
+      "meaning": "rouge",
+      "hskLevel": 1,
+      "radical": "纟",
+      "components": [
+        "纟",
+        "工"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '纟' (soie) indique le domaine des tissus, et '工' donne le son.",
+      "family": [
+        "红色"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (2e ton montant)"
+      ]
+    },
+    {
+      "character": "黄",
+      "pinyin": "huáng",
+      "meaning": "jaune",
+      "hskLevel": 2,
+      "radical": "黄",
+      "components": [
+        "廿",
+        "田",
+        "八"
+      ],
+      "etymology": "L'origine est débattue, mais pourrait représenter une plante dans un champ.",
+      "family": [
+        "黄色"
+      ],
+      "commonErrors": [
+        "Confusion avec '皇'"
+      ]
+    },
+    {
+      "character": "蓝",
+      "pinyin": "lán",
+      "meaning": "bleu",
+      "hskLevel": 2,
+      "radical": "艹",
+      "components": [
+        "艹",
+        "监"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '艹' (herbe) indique une plante, et '监' donne le son.",
+      "family": [
+        "蓝色"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (2e ton montant)"
+      ]
+    },
+    {
+      "character": "绿",
+      "pinyin": "lǜ",
+      "meaning": "vert",
+      "hskLevel": 2,
+      "radical": "纟",
+      "components": [
+        "纟",
+        "录"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '纟' (soie) indique le domaine des tissus.",
+      "family": [
+        "绿色"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (4e ton descendant)"
+      ]
+    },
+    {
+      "character": "白",
+      "pinyin": "bái",
+      "meaning": "blanc",
+      "hskLevel": 1,
+      "radical": "白",
+      "components": [
+        "白"
+      ],
+      "etymology": "Représente le soleil avec un trait supplémentaire, symbolisant la lumière blanche.",
+      "family": [
+        "白色"
+      ],
+      "commonErrors": [
+        "Confusion avec '百'"
+      ]
+    },
+    {
+      "character": "黑",
+      "pinyin": "hēi",
+      "meaning": "noir",
+      "hskLevel": 1,
+      "radical": "黑",
+      "components": [
+        "里",
+        "灬"
+      ],
+      "etymology": "Représente de la fumée s'échappant d'un four, symbolisant l'obscurité.",
+      "family": [
+        "黑色"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (1er ton haut et plat)"
+      ]
+    },
+    {
+      "character": "衣",
+      "pinyin": "yī",
+      "meaning": "vêtement",
+      "hskLevel": 1,
+      "radical": "衣",
+      "components": [
+        "亠",
+        "𧘇"
+      ],
+      "etymology": "Représente un vêtement avec des manches.",
+      "family": [
+        "衣"
+      ],
+      "commonErrors": [
+        "Confusion avec '依'"
+      ]
+    },
+    {
+      "character": "裤",
+      "pinyin": "kù",
+      "meaning": "pantalon",
+      "hskLevel": 2,
+      "radical": "衤",
+      "components": [
+        "衤",
+        "库"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '衤' (vêtement) indique le domaine.",
+      "family": [
+        "裤"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (4e ton descendant)"
+      ]
+    },
+    {
+      "character": "裙",
+      "pinyin": "qún",
+      "meaning": "jupe",
+      "hskLevel": 2,
+      "radical": "衤",
+      "components": [
+        "衤",
+        "君"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '衤' (vêtement) indique le domaine.",
+      "family": [
+        "裙"
+      ],
+      "commonErrors": [
+        "Confusion avec '群'"
+      ]
+    },
+    {
+      "character": "试",
+      "pinyin": "shì",
+      "meaning": "essayer",
+      "hskLevel": 2,
+      "radical": "讠",
+      "components": [
+        "讠",
+        "式"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '讠' (parole) indique une action liée à la communication.",
+      "family": [
+        "试试"
+      ],
+      "commonErrors": [
+        "Oubli du redoublement dans '试试'"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "红色",
+      "pinyin": "hóngsè",
+      "meaning": "rouge",
+      "exampleZh": "这件红色的怎么样？",
+      "examplePinyin": "Zhè jiàn hóngsè de zěnmeyàng?",
+      "exampleFr": "Que penses-tu de ce rouge ?"
+    },
+    {
+      "word": "黄色",
+      "pinyin": "huángsè",
+      "meaning": "jaune",
+      "exampleZh": "这条黄色的太长了。",
+      "examplePinyin": "Zhè tiáo huángsè de tài cháng le.",
+      "exampleFr": "Ce jaune est trop long."
+    },
+    {
+      "word": "蓝色",
+      "pinyin": "lánsè",
+      "meaning": "bleu",
+      "exampleZh": "蓝色的很好看。",
+      "examplePinyin": "Lánsè de hěn hǎokàn.",
+      "exampleFr": "Le bleu est très joli."
+    },
+    {
+      "word": "绿色",
+      "pinyin": "lǜsè",
+      "meaning": "vert",
+      "exampleZh": "绿色的多少钱？",
+      "examplePinyin": "Lǜsè de duōshǎo qián?",
+      "exampleFr": "Combien coûte le vert ?"
+    },
+    {
+      "word": "白色",
+      "pinyin": "báisè",
+      "meaning": "blanc",
+      "exampleZh": "白色的很贵。",
+      "examplePinyin": "Báisè de hěn guì.",
+      "exampleFr": "Le blanc est cher."
+    },
+    {
+      "word": "黑色",
+      "pinyin": "hēisè",
+      "meaning": "noir",
+      "exampleZh": "我买了一双黑色的。",
+      "examplePinyin": "Wǒ mǎile yī shuāng hēisè de.",
+      "exampleFr": "J'ai acheté une paire de noirs."
+    },
+    {
+      "word": "衣",
+      "pinyin": "yī",
+      "meaning": "vêtement",
+      "exampleZh": "这件衣多少钱？",
+      "examplePinyin": "Zhè jiàn yī duōshǎo qián?",
+      "exampleFr": "Combien coûte ce vêtement ?"
+    },
+    {
+      "word": "裤",
+      "pinyin": "kù",
+      "meaning": "pantalon",
+      "exampleZh": "这条裤太短了。",
+      "examplePinyin": "Zhè tiáo kù tài duǎn le.",
+      "exampleFr": "Ce pantalon est trop court."
+    },
+    {
+      "word": "裙",
+      "pinyin": "qún",
+      "meaning": "jupe",
+      "exampleZh": "这条裙多少钱？",
+      "examplePinyin": "Zhè tiáo qún duōshǎo qián?",
+      "exampleFr": "Combien coûte cette jupe ?"
+    },
+    {
+      "word": "试试",
+      "pinyin": "shìshi",
+      "meaning": "essayer",
+      "exampleZh": "我可以试试这件吗？",
+      "examplePinyin": "Wǒ kěyǐ shìshi zhè jiàn ma?",
+      "exampleFr": "Puis-je essayer ceci ?"
+    },
+    {
+      "word": "件",
+      "pinyin": "jiàn",
+      "meaning": "classificateur pour vêtements (hauts)",
+      "exampleZh": "这件多少钱？",
+      "examplePinyin": "Zhè jiàn duōshǎo qián?",
+      "exampleFr": "Combien coûte ceci ?"
+    },
+    {
+      "word": "条",
+      "pinyin": "tiáo",
+      "meaning": "classificateur pour vêtements (bas)",
+      "exampleZh": "这条多少钱？",
+      "examplePinyin": "Zhè tiáo duōshǎo qián?",
+      "exampleFr": "Combien coûte ceci ?"
+    },
+    {
+      "word": "双",
+      "pinyin": "shuāng",
+      "meaning": "paire, classificateur pour paires",
+      "exampleZh": "这双多少钱？",
+      "examplePinyin": "Zhè shuāng duōshǎo qián?",
+      "exampleFr": "Combien coûte cette paire ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "安娜和李华去买衣。安娜想买一条裙和一件衣。李华帮她选颜色。",
+      "goals": [
+        "说你想买什么颜色的衣",
+        "问可以试试吗",
+        "用件、条、双说衣"
+      ]
+    },
+    "discovery": {
+      "instructions": "看下面的对话。找出颜色、衣和件、条、双的用法。",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "李华，这件红色的怎么样？",
+          "pinyin": "Lǐ Huá, zhè jiàn hóngsè de zěnmeyàng?",
+          "translation": "Li Hua, que penses-tu de ce rouge ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "很好看！你喜欢什么颜的？",
+          "pinyin": "Hěn hǎokàn! Nǐ xǐhuān shénme yánsè de?",
+          "translation": "Très joli ! Quelle couleur aimes-tu ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我喜欢蓝色的。这条蓝色的怎么样？",
+          "pinyin": "Wǒ xǐhuān lánsè de. Zhè tiáo lánsè de zěnmeyàng?",
+          "translation": "J'aime le bleu. Que penses-tu de ce bleu ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "很好看！你要试试吗？",
+          "pinyin": "Hěn hǎokàn! Nǐ yào shìshi ma?",
+          "translation": "Très joli ! Veux-tu essayer ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "好的，我可以试试这件吗？",
+          "pinyin": "Hǎo de, wǒ kěyǐ shìshi zhè jiàn ma?",
+          "translation": "D'accord, puis-je essayer ceci ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "可以，在那儿。",
+          "pinyin": "Kěyǐ, zài nàr.",
+          "translation": "Oui, là-bas."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "这件有点儿小，有大的吗？",
+          "pinyin": "Zhè jiàn yǒudiǎnr xiǎo, yǒu dà de ma?",
+          "translation": "Ceci est un peu petit, en avez-vous un plus grand ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "有，我给你拿一件白色的。",
+          "pinyin": "Yǒu, wǒ gěi nǐ ná yī jiàn báisè de.",
+          "translation": "Oui, je t'apporte un blanc."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "色",
+        "红",
+        "黄",
+        "蓝",
+        "绿",
+        "白",
+        "黑",
+        "衣",
+        "裤",
+        "裙",
+        "试"
+      ],
+      "grammar": [
+        {
+          "point": "Couleurs + 的 pour décrire",
+          "explanation": "On utilise [couleur] + 的 pour décrire un vêtement. Exemple : 红色的 (rouge). Erreur typique : oublier 的.",
+          "examples": [
+            {
+              "chinese": "这件蓝色的很好看。",
+              "pinyin": "Zhè jiàn lánsè de hěn hǎokàn.",
+              "translation": "Ce bleu est très joli."
+            },
+            {
+              "chinese": "我喜欢白色的。",
+              "pinyin": "Wǒ xǐhuān báisè de.",
+              "translation": "J'aime le blanc."
+            }
+          ]
+        },
+        {
+          "point": "Classificateurs 件, 条, 双",
+          "explanation": "件 pour hauts, 条 pour bas, 双 pour paires. Erreur typique : utiliser 个 à la place.",
+          "examples": [
+            {
+              "chinese": "这件多少钱？",
+              "pinyin": "Zhè jiàn duōshǎo qián?",
+              "translation": "Combien coûte ceci ?"
+            },
+            {
+              "chinese": "我买了两条。",
+              "pinyin": "Wǒ mǎile liǎng tiáo.",
+              "translation": "J'ai acheté deux."
+            },
+            {
+              "chinese": "这双多少钱？",
+              "pinyin": "Zhè shuāng duōshǎo qián?",
+              "translation": "Combien coûte cette paire ?"
+            }
+          ]
+        },
+        {
+          "point": "Redoublement 试试",
+          "explanation": "试试 exprime une action brève. Erreur typique : oublier le redoublement.",
+          "examples": [
+            {
+              "chinese": "我可以试试这件吗？",
+              "pinyin": "Wǒ kěyǐ shìshi zhè jiàn ma?",
+              "translation": "Puis-je essayer ceci ?"
+            },
+            {
+              "chinese": "你试试这双吧。",
+              "pinyin": "Nǐ shìshi zhè shuāng ba.",
+              "translation": "Essaie cette paire."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 绿 (lǜ) est descendant (4e ton)",
+        "Le ton de 裤 (kù) est descendant (4e ton)",
+        "试试 (shìshi) se prononce sans pause entre les syllabes"
+      ]
+    },
+    "connection": {
+      "text": "Cette leçon reprend des éléments déjà appris :",
+      "links": [
+        {
+          "from": "的",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "possessif (我的) vs descriptif (红色的)"
+        },
+        {
+          "from": "色",
+          "relation": "DONNE_LE_SON",
+          "to": "红色 (hóngsè)"
+        },
+        {
+          "from": "试",
+          "relation": "RADICAL_DE",
+          "to": "讠 (parole)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Demande à essayer un pantalon bleu",
+          "hint": "Utilise 试试 et 条",
+          "example": {
+            "chinese": "我可以试试这条蓝色的吗？",
+            "pinyin": "Wǒ kěyǐ shìshi zhè tiáo lánsè de ma?",
+            "translation": "Puis-je essayer ce bleu ?"
+          }
+        },
+        {
+          "instruction": "Décris ta tenue",
+          "hint": "Utilise 件 et 条",
+          "example": {
+            "chinese": "我今天穿一件白色的和一条黑色的。",
+            "pinyin": "Wǒ jīntiān chuān yī jiàn báisè de hé yī tiáo hēisè de.",
+            "translation": "Aujourd'hui je porte un blanc et un noir."
+          }
+        },
+        {
+          "instruction": "Demande s'ils ont une jupe rouge",
+          "hint": "Utilise 条",
+          "example": {
+            "chinese": "你们有红色的裙吗？",
+            "pinyin": "Nǐmen yǒu hóngsè de qún ma?",
+            "translation": "Avez-vous une jupe rouge ?"
+          }
+        },
+        {
+          "instruction": "Donne ton avis sur un vêtement",
+          "hint": "Utilise 很好看",
+          "example": {
+            "chinese": "这件很好看，我喜欢这个颜色。",
+            "pinyin": "Zhè jiàn hěn hǎokàn, wǒ xǐhuān zhège yánsè.",
+            "translation": "Ceci est très joli, j'aime cette couleur."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Vous avez appris à décrire des vêtements avec des couleurs et à utiliser les classificateurs 件, 条, 双. Vous savez aussi demander à essayer avec 试试.",
+      "reviewWords": [
+        "红色",
+        "黄色",
+        "蓝色",
+        "绿色",
+        "白色",
+        "黑色",
+        "衣",
+        "裤",
+        "裙",
+        "试试",
+        "件",
+        "条",
+        "双"
+      ],
+      "reviewHanzi": [
+        "色",
+        "红",
+        "黄",
+        "蓝",
+        "绿",
+        "白",
+        "黑",
+        "衣",
+        "裤",
+        "裙",
+        "试"
+      ]
+    }
+  }
+}

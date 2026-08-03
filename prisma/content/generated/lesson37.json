@@ -1,0 +1,458 @@
+{
+  "slug": "le-passif-bei",
+  "title": "Le passif avec 被",
+  "mission": "Raconter ce qui vous est arrivé (souvent de fâcheux)",
+  "level": "B1",
+  "order": 37,
+  "hanzi": [
+    {
+      "character": "被",
+      "pinyin": "bèi",
+      "meaning": "par (marqueur du passif)",
+      "hskLevel": 3,
+      "radical": "衤 (vêtement)",
+      "components": [
+        "衤",
+        "皮"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente un vêtement (衤) sur une peau (皮), symbolisant quelque chose qui est recouvert ou subissant une action. Son usage pour marquer le passif est une évolution sémantique ultérieure.",
+      "family": [
+        "受",
+        "遭"
+      ],
+      "commonErrors": [
+        "Confondre avec 把 (bǎ) qui introduit l'objet direct dans une construction active."
+      ]
+    },
+    {
+      "character": "撞",
+      "pinyin": "zhuàng",
+      "meaning": "heurter, cogner",
+      "hskLevel": 3,
+      "radical": "扌 (main)",
+      "components": [
+        "扌",
+        "童"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 扌 (main) indique l'action, et 童 (tóng) donne le son. Le sens de 'heurter' vient de l'idée de frapper avec la main ou un objet.",
+      "family": [
+        "碰",
+        "打"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'zhuāng' (1er ton) au lieu de 'zhuàng' (4e ton)."
+      ]
+    },
+    {
+      "character": "偷",
+      "pinyin": "tōu",
+      "meaning": "voler, dérober",
+      "hskLevel": 3,
+      "radical": "亻 (personne)",
+      "components": [
+        "亻",
+        "俞"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 亻 (personne) suggère l'agent, et 俞 (yú) donne le son. Le sens de 'voler' est lié à l'idée de prendre furtivement.",
+      "family": [
+        "盗",
+        "抢"
+      ],
+      "commonErrors": [
+        "Confondre avec '头' (tóu, tête) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "弄",
+      "pinyin": "nòng",
+      "meaning": "faire, manipuler (souvent négatif)",
+      "hskLevel": 3,
+      "radical": "廾 (deux mains)",
+      "components": [
+        "王",
+        "廾"
+      ],
+      "etymology": "Composé sémantique : représente deux mains (廾) manipulant un objet (王, ici utilisé comme composant phonétique). Le sens de 'faire' ou 'manipuler' en découle, souvent avec une connotation négative.",
+      "family": [
+        "搞",
+        "做"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'lòng' au lieu de 'nòng'."
+      ]
+    },
+    {
+      "character": "坏",
+      "pinyin": "huài",
+      "meaning": "cassé, mauvais",
+      "hskLevel": 2,
+      "radical": "土 (terre)",
+      "components": [
+        "土",
+        "不"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 土 (terre) suggère la matière, et 不 (bù) donne le son. Le sens de 'mauvais' ou 'cassé' vient de l'idée de quelque chose qui n'est pas solide ou durable.",
+      "family": [
+        "破",
+        "损"
+      ],
+      "commonErrors": [
+        "Confondre avec '还' (hái, encore) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "丢",
+      "pinyin": "diū",
+      "meaning": "perdre, égarer",
+      "hskLevel": 3,
+      "radical": "丿 (trait oblique)",
+      "components": [
+        "丿",
+        "去"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 丿 est ici un composant graphique, et 去 (qù) donne le son. Le sens de 'perdre' est lié à l'idée de quelque chose qui s'en va (去).",
+      "family": [
+        "失",
+        "掉"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'dōu' au lieu de 'diū'."
+      ]
+    },
+    {
+      "character": "淋",
+      "pinyin": "lín",
+      "meaning": "tremper, arroser",
+      "hskLevel": 4,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "林"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 氵 (eau) indique le sens, et 林 (lín) donne le son. Le sens de 'tremper' ou 'arroser' vient de l'idée d'eau qui tombe comme une forêt (林) dense.",
+      "family": [
+        "湿",
+        "浇"
+      ],
+      "commonErrors": [
+        "Confondre avec '林' (lín, forêt) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "湿",
+      "pinyin": "shī",
+      "meaning": "humide, mouillé",
+      "hskLevel": 3,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "显"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 氵 (eau) indique le sens, et 显 (xiǎn) donne le son. Le sens de 'humide' est directement lié à la présence d'eau.",
+      "family": [
+        "淋",
+        "潮"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'sī' au lieu de 'shī'."
+      ]
+    },
+    {
+      "character": "倒",
+      "pinyin": "dǎo",
+      "meaning": "tomber, renverser",
+      "hskLevel": 3,
+      "radical": "亻 (personne)",
+      "components": [
+        "亻",
+        "到"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 亻 (personne) suggère l'agent, et 到 (dào) donne le son. Le sens de 'tomber' ou 'renverser' est lié à l'idée de quelque chose qui arrive (到) à une personne.",
+      "family": [
+        "摔",
+        "跌"
+      ],
+      "commonErrors": [
+        "Confondre avec '到' (dào, arriver) en raison de la similitude graphique et phonétique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "被撞",
+      "pinyin": "bèi zhuàng",
+      "meaning": "être heurté",
+      "exampleZh": "我的车被撞坏了。",
+      "examplePinyin": "Wǒ de chē bèi zhuàng huài le.",
+      "exampleFr": "Ma voiture a été heurtée et abîmée."
+    },
+    {
+      "word": "被偷",
+      "pinyin": "bèi tōu",
+      "meaning": "être volé",
+      "exampleZh": "我的手机被偷了。",
+      "examplePinyin": "Wǒ de shǒujī bèi tōu le.",
+      "exampleFr": "Mon téléphone a été volé."
+    },
+    {
+      "word": "被弄坏",
+      "pinyin": "bèi nòng huài",
+      "meaning": "être abîmé",
+      "exampleZh": "我的电视被弄坏了。",
+      "examplePinyin": "Wǒ de diànshì bèi nòng huài le.",
+      "exampleFr": "Ma télévision a été abîmée."
+    },
+    {
+      "word": "被淋湿",
+      "pinyin": "bèi lín shī",
+      "meaning": "être trempé",
+      "exampleZh": "我的衣服被淋湿了。",
+      "examplePinyin": "Wǒ de yīfu bèi lín shī le.",
+      "exampleFr": "Mes vêtements ont été trempés."
+    },
+    {
+      "word": "被丢",
+      "pinyin": "bèi diū",
+      "meaning": "être perdu",
+      "exampleZh": "我的钱被丢了。",
+      "examplePinyin": "Wǒ de qián bèi diū le.",
+      "exampleFr": "Mon argent a été perdu."
+    },
+    {
+      "word": "被打",
+      "pinyin": "bèi dǎ",
+      "meaning": "être frappé",
+      "exampleZh": "他被人打了。",
+      "examplePinyin": "Tā bèi rén dǎ le.",
+      "exampleFr": "Il a été frappé par quelqu'un."
+    },
+    {
+      "word": "被倒",
+      "pinyin": "bèi dǎo",
+      "meaning": "être renversé",
+      "exampleZh": "水杯被倒了。",
+      "examplePinyin": "Shuǐbēi bèi dǎo le.",
+      "exampleFr": "Le verre d'eau a été renversé."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous racontez à un ami les malheurs qui vous sont arrivés cette semaine : votre téléphone a été volé, votre vélo a été heurté, et vous avez été trempé. Utilisez 被 pour décrire ces situations.",
+      "goals": [
+        "Décrire des incidents en utilisant 被 + agent + verbe.",
+        "Comprendre la nuance négative du passif en chinois.",
+        "Différencier 被 et 把 dans des contextes similaires."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez les dialogues suivants. Qui subit l'action ? Qui est l'agent de l'action ? Notez comment 被 est utilisé pour introduire l'agent.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你怎么了？看你不太好。",
+          "pinyin": "Lǐ Huá, nǐ zěnme le? Kàn nǐ bù tài hǎo.",
+          "translation": "Li Hua, qu'est-ce qui ne va pas ? Tu n'as pas l'air bien."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "不好了！我的车被撞坏了。",
+          "pinyin": "Bù hǎo le! Wǒ de chē bèi zhuàng huài le.",
+          "translation": "Oh non ! Ma voiture a été heurtée et abîmée."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "啊？被谁？",
+          "pinyin": "Ā? Bèi shéi?",
+          "translation": "Ah ? Par qui ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "被一个人骑车的人。他走得太快！",
+          "pinyin": "Bèi yī ge rén qí chē de rén. Tā zǒu de tài kuài!",
+          "translation": "Par une personne à vélo. Il roulait trop vite !"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "太不好了！你的手机呢？",
+          "pinyin": "Tài bù hǎo le! Nǐ de shǒujī ne?",
+          "translation": "C'est vraiment pas de chance ! Et ton téléphone ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "不要看，我的手机被偷了。",
+          "pinyin": "Bù yào kàn, wǒ de shǒujī bèi tōu le.",
+          "translation": "Ne regarde pas, mon téléphone a été volé."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "今天你太不好了！",
+          "pinyin": "Jīntiān nǐ tài bù hǎo le!",
+          "translation": "Tu n'as vraiment pas de chance aujourd'hui !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "是，我又被淋湿了。",
+          "pinyin": "Shì, wǒ yòu bèi lín shī le.",
+          "translation": "Oui, et en plus j'ai encore été trempé."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "被",
+        "撞",
+        "偷",
+        "弄",
+        "坏",
+        "丢",
+        "淋",
+        "湿",
+        "倒"
+      ],
+      "grammar": [
+        {
+          "point": "Structure du passif avec 被",
+          "explanation": "En chinois, le passif est marqué par 被 (bèi), suivi de l'agent (celui qui fait l'action), puis du verbe. La structure est : Sujet + 被 + Agent + Verbe + (Complément). Contrairement au français, l'agent ne peut pas être omis si on veut le mentionner. \nErreur typique du francophone : Oublier 被 et construire une phrase active (ex : 'Mon vélo a heurté' au lieu de 'Mon vélo a été heurté').",
+          "examples": [
+            {
+              "chinese": "我的书被他拿了。",
+              "pinyin": "Wǒ de shū bèi tā ná le.",
+              "translation": "Mon livre a été pris par lui."
+            },
+            {
+              "chinese": "我的钱被偷了。",
+              "pinyin": "Wǒ de qián bèi tōu le.",
+              "translation": "Mon argent a été volé."
+            }
+          ]
+        },
+        {
+          "point": "Nuance négative du passif avec 被",
+          "explanation": "Le passif en chinois avec 被 a souvent une connotation négative ou indésirable. Il est rarement utilisé pour des actions positives. \nErreur typique : Utiliser 被 pour des actions positives sans contexte approprié.",
+          "examples": [
+            {
+              "chinese": "我的作业被弄坏了。",
+              "pinyin": "Wǒ de zuòyè bèi nòng huài le.",
+              "translation": "Mon devoir a été abîmé."
+            },
+            {
+              "chinese": "他被打了。",
+              "pinyin": "Tā bèi dǎ le.",
+              "translation": "Il a été frappé."
+            }
+          ]
+        },
+        {
+          "point": "被 vs 把 : deux constructions opposées",
+          "explanation": "被 et 把 sont souvent opposés : 被 met l'accent sur le sujet qui subit l'action (passif), tandis que 把 met l'accent sur l'objet direct qui est manipulé par le sujet (actif). \n- 被 : Sujet + 被 + Agent + Verbe (le sujet subit l'action). \n- 把 : Sujet + 把 + Objet + Verbe (le sujet agit sur l'objet). \nErreur typique : Confondre les deux structures (ex : '我被把书拿了' au lieu de '我的书被拿了' ou '他把书拿了').",
+          "examples": [
+            {
+              "chinese": "他把我的杯子打了。 (actif avec 把)",
+              "pinyin": "Tā bǎ wǒ de bēizi dǎ le.",
+              "translation": "Il a frappé mon verre."
+            },
+            {
+              "chinese": "我的杯子被他打了。 (passif avec 被)",
+              "pinyin": "Wǒ de bēizi bèi tā dǎ le.",
+              "translation": "Mon verre a été frappé par lui."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au ton de 被 (bèi) : 4e ton (descendant). Ne pas le confondre avec 北 (běi, nord) qui est aussi au 3e ton.",
+        "Le ton de 偷 (tōu) est le 1er ton (haut et plat). Ne pas le prononcer comme 'tóu' (tête).",
+        "Le ton de 淋 (lín) est le 2e ton (montant). Ne pas le confondre avec 林 (lín, forêt) qui est aussi au 2e ton mais avec un sens différent."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et structures se relient à ce que vous connaissez déjà :",
+      "links": [
+        {
+          "from": "被",
+          "relation": "CONTRASTE_AVEC",
+          "to": "把"
+        },
+        {
+          "from": "撞",
+          "relation": "RADICAL_DE",
+          "to": "扌 (main)"
+        },
+        {
+          "from": "偷",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "头 (tóu, tête)"
+        },
+        {
+          "from": "弄",
+          "relation": "DONNE_LE_SON",
+          "to": "王 (wáng)"
+        },
+        {
+          "from": "湿",
+          "relation": "RADICAL_DE",
+          "to": "氵 (eau)"
+        },
+        {
+          "from": "倒",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "到 (dào, arriver)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Racontez un incident qui vous est arrivé en utilisant 被. Par exemple : votre sac a été volé, votre téléphone est tombé et cassé, ou vous avez été trempé.",
+          "hint": "Utilisez la structure : Sujet + 被 + Agent + Verbe + Complément. N'oubliez pas d'inclure l'agent si vous le connaissez.",
+          "example": {
+            "chinese": "我的书包被人拿走了。",
+            "pinyin": "Wǒ de shūbāo bèi rén ná zǒu le.",
+            "translation": "Mon sac a été pris par quelqu'un."
+          }
+        },
+        {
+          "instruction": "Transformez les phrases suivantes en utilisant 被. \n1. 他打了我的杯子。\n2. 水淋湿了我的衣服。",
+          "hint": "Identifiez le sujet qui subit l'action et l'agent. Utilisez la structure du passif avec 被.",
+          "example": {
+            "chinese": "1. 我的杯子被他打了。\n2. 我的衣服被水淋湿了。",
+            "pinyin": "1. Wǒ de bēizi bèi tā dǎ le.\n2. Wǒ de yīfu bèi shuǐ lín shī le.",
+            "translation": "1. Mon verre a été frappé par lui.\n2. Mes vêtements ont été trempés par l'eau."
+          }
+        },
+        {
+          "instruction": "Comparez les phrases suivantes en utilisant 被 et 把. Expliquez la différence de sens. \n1. 他把我的书拿走了。\n2. 我的书被他拿走了。",
+          "hint": "Réfléchissez à qui est le sujet de l'action dans chaque phrase et qui subit l'action.",
+          "example": {
+            "chinese": "1. Dans la première phrase, 他 est le sujet qui agit sur 我的书 (il a pris mon livre). \n2. Dans la deuxième phrase, 我的书 est le sujet qui subit l'action de 他 (mon livre a été pris par lui).",
+            "pinyin": "",
+            "translation": ""
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à utiliser 被 pour construire des phrases passives en chinois, souvent pour décrire des incidents ou des situations fâcheuses. Vous avez vu que 被 introduit l'agent de l'action et que le passif en chinois a souvent une connotation négative. Vous avez également comparé 被 et 把 pour mieux comprendre leurs différences. N'oubliez pas que 被 met l'accent sur le sujet qui subit l'action, tandis que 把 met l'accent sur l'objet direct qui est manipulé par le sujet.",
+      "reviewWords": [
+        "被撞",
+        "被偷",
+        "被弄坏",
+        "被淋湿",
+        "被丢",
+        "被打",
+        "被倒"
+      ],
+      "reviewHanzi": [
+        "被",
+        "撞",
+        "偷",
+        "弄",
+        "坏",
+        "丢",
+        "淋",
+        "湿",
+        "倒"
+      ]
+    }
+  }
+}

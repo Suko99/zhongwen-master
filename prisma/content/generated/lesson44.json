@@ -1,0 +1,345 @@
+{
+  "slug": "capable-ou-pas",
+  "title": "J'y arrive... ou pas : le potentiel",
+  "mission": "Dire ce qu'on est capable de faire ou non en utilisant la structure du potentiel",
+  "level": "B1",
+  "order": 44,
+  "hanzi": [
+    {
+      "character": "到",
+      "pinyin": "dào",
+      "meaning": "arriver, atteindre",
+      "hskLevel": 1,
+      "radical": "刂 (couteau)",
+      "components": [
+        "至",
+        "刂"
+      ],
+      "etymology": "Composé de 至 (zhì, atteindre) et du radical 刂 (couteau), suggérant l'idée de 'couper jusqu'à un point', donc 'atteindre'. La logique phono-sémantique est claire ici.",
+      "family": [
+        "看到"
+      ],
+      "commonErrors": [
+        "Prononcer *dǎo au lieu de dào (4e ton descendant)."
+      ]
+    },
+    {
+      "character": "能",
+      "pinyin": "néng",
+      "meaning": "pouvoir, capacité",
+      "hskLevel": 1,
+      "radical": "厶 (privé)",
+      "components": [
+        "厶",
+        "月",
+        "匕"
+      ],
+      "etymology": "L'origine de ce caractère est complexe et débattue. Il pourrait représenter un ours (象形), animal considéré comme puissant, d'où le sens de 'capacité'.",
+      "family": [
+        "不能"
+      ],
+      "commonErrors": [
+        "Confondre avec 可以 (permission) ou 会 (compétence acquise)."
+      ]
+    },
+    {
+      "character": "以",
+      "pinyin": "yǐ",
+      "meaning": "avec, par, afin de",
+      "hskLevel": 1,
+      "radical": "人 (personne)",
+      "components": [
+        "人",
+        "丶"
+      ],
+      "etymology": "Ce caractère est un idéogramme complexe représentant une personne (人) avec un point (丶) indiquant une direction ou un outil.",
+      "family": [
+        "可以"
+      ],
+      "commonErrors": [
+        "Confondre avec 已 (yǐ, déjà) en écriture ou prononciation."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "听得见",
+      "pinyin": "tīng de jiàn",
+      "meaning": "pouvoir entendre",
+      "exampleZh": "他说话大声，我听得见。",
+      "examplePinyin": "Tā shuōhuà dà shēng, wǒ tīng de jiàn.",
+      "exampleFr": "Il parle fort, je peux entendre."
+    },
+    {
+      "word": "听不见",
+      "pinyin": "tīng bù jiàn",
+      "meaning": "ne pas pouvoir entendre",
+      "exampleZh": "他说话太小声，我听不见。",
+      "examplePinyin": "Tā shuōhuà tài xiǎo shēng, wǒ tīng bù jiàn.",
+      "exampleFr": "Il parle trop doucement, je n'entends pas."
+    },
+    {
+      "word": "看得见",
+      "pinyin": "kàn de jiàn",
+      "meaning": "pouvoir voir",
+      "exampleZh": "灯亮，我看得见。",
+      "examplePinyin": "Dēng liàng, wǒ kàn de jiàn.",
+      "exampleFr": "La lumière est allumée, je peux voir."
+    },
+    {
+      "word": "看不见",
+      "pinyin": "kàn bù jiàn",
+      "meaning": "ne pas pouvoir voir",
+      "exampleZh": "灯不亮，我看不见。",
+      "examplePinyin": "Dēng bù liàng, wǒ kàn bù jiàn.",
+      "exampleFr": "La lumière est éteinte, je ne vois pas."
+    },
+    {
+      "word": "做得到",
+      "pinyin": "zuò de dào",
+      "meaning": "pouvoir faire",
+      "exampleZh": "这个工作不难，我做得到。",
+      "examplePinyin": "Zhège gōngzuò bù nán, wǒ zuò de dào.",
+      "exampleFr": "Ce travail n'est pas difficile, je peux le faire."
+    },
+    {
+      "word": "做不到",
+      "pinyin": "zuò bù dào",
+      "meaning": "ne pas pouvoir faire",
+      "exampleZh": "这个工作太难，我做不到。",
+      "examplePinyin": "Zhège gōngzuò tài nán, wǒ zuò bù dào.",
+      "exampleFr": "Ce travail est trop difficile, je ne peux pas le faire."
+    },
+    {
+      "word": "吃得完",
+      "pinyin": "chī de wán",
+      "meaning": "pouvoir finir de manger",
+      "exampleZh": "这个饭不多，我吃得完。",
+      "examplePinyin": "Zhège fàn bù duō, wǒ chī de wán.",
+      "exampleFr": "Ce riz n'est pas beaucoup, je peux tout finir."
+    },
+    {
+      "word": "吃不完",
+      "pinyin": "chī bù wán",
+      "meaning": "ne pas pouvoir finir de manger",
+      "exampleZh": "这个饭太多，我吃不完。",
+      "examplePinyin": "Zhège fàn tài duō, wǒ chī bù wán.",
+      "exampleFr": "Ce riz est trop, je ne peux pas tout finir."
+    },
+    {
+      "word": "能",
+      "pinyin": "néng",
+      "meaning": "pouvoir (capacité)",
+      "exampleZh": "我能走。",
+      "examplePinyin": "Wǒ néng zǒu.",
+      "exampleFr": "Je peux marcher."
+    },
+    {
+      "word": "可以",
+      "pinyin": "kěyǐ",
+      "meaning": "pouvoir (permission)",
+      "exampleZh": "这里可以坐。",
+      "examplePinyin": "Zhèlǐ kěyǐ zuò.",
+      "exampleFr": "On peut s'asseoir ici."
+    },
+    {
+      "word": "会",
+      "pinyin": "huì",
+      "meaning": "savoir faire",
+      "exampleZh": "我会写字。",
+      "examplePinyin": "Wǒ huì xiě zì.",
+      "exampleFr": "Je sais écrire des caractères."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "安娜和马克说他们能做什么，不能做什么。安娜问马克能不能听懂中文，能不能做完工作。",
+      "goals": [
+        "Exprimer ce qu'on est capable de faire ou non avec la structure du potentiel",
+        "Différencier 能, 可以 et 会 selon le contexte",
+        "Demander à quelqu'un s'il peut faire quelque chose"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez les structures qui expriment la capacité ou l'incapacité à faire quelque chose.",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "马克，你听得见中文吗？",
+          "pinyin": "Mǎkè, nǐ tīng de jiàn Zhōngwén ma?",
+          "translation": "Marc, peux-tu entendre le chinois ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "听得见一点儿，但是他们说得太快，我听不见。",
+          "pinyin": "Tīng de jiàn yīdiǎnr, dànshì tāmen shuō de tài kuài, wǒ tīng bù jiàn.",
+          "translation": "J'entends un peu, mais ils parlent trop vite, je n'entends pas."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "你做得到明天的工作吗？",
+          "pinyin": "Nǐ zuò de dào míngtiān de gōngzuò ma?",
+          "translation": "Peux-tu faire le travail de demain ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "做得到，但是我可能做错。",
+          "pinyin": "Zuò de dào, dànshì wǒ kěnéng zuò cuò.",
+          "translation": "Je peux le faire, mais je vais peut-être me tromper."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "你找得到路吗？",
+          "pinyin": "Nǐ zhǎo de dào lù ma?",
+          "translation": "Peux-tu trouver le chemin ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "找得到，我有地图。",
+          "pinyin": "Zhǎo de dào, wǒ yǒu dìtú.",
+          "translation": "Je peux le trouver, j'ai une carte."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "你吃得完这么多饭吗？",
+          "pinyin": "Nǐ chī de wán zhème duō fàn ma?",
+          "translation": "Peux-tu finir tout ce riz ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "吃不完，我吃得太慢。",
+          "pinyin": "Chī bù wán, wǒ chī de tài màn.",
+          "translation": "Je ne peux pas tout finir, je mange trop lentement."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "到",
+        "能",
+        "以"
+      ],
+      "grammar": [
+        {
+          "point": "Verbe + 得/不 + résultat (potentiel)",
+          "explanation": "Cette structure exprime la capacité ou l'incapacité à accomplir une action jusqu'à un certain résultat. Elle se forme avec : Verbe + 得 (capable) / 不 (incapable) + Résultat. Erreur typique du francophone : oublier le résultat et dire *听得 ou *看不.",
+          "examples": [
+            {
+              "chinese": "我听得见他说的话。",
+              "pinyin": "Wǒ tīng de jiàn tā shuō de huà.",
+              "translation": "Je peux entendre ce qu'il dit."
+            },
+            {
+              "chinese": "灯不亮，我看不见。",
+              "pinyin": "Dēng bù liàng, wǒ kàn bù jiàn.",
+              "translation": "La lumière est éteinte, je ne vois pas."
+            },
+            {
+              "chinese": "这个饭不多，我吃得完。",
+              "pinyin": "Zhège fàn bù duō, wǒ chī de wán.",
+              "translation": "Ce riz n'est pas beaucoup, je peux tout finir."
+            }
+          ]
+        },
+        {
+          "point": "Différence entre 能, 可以 et 会",
+          "explanation": "Ces trois mots expriment tous 'pouvoir', mais avec des nuances différentes : \n- 能 : capacité physique (ex : 能走, je peux marcher). \n- 可以 : permission (ex : 可以进来吗？, puis-je entrer ?). \n- 会 : compétence acquise (ex : 会写字, je sais écrire). \nErreur typique : utiliser 可以 pour exprimer une capacité physique.",
+          "examples": [
+            {
+              "chinese": "我能走。",
+              "pinyin": "Wǒ néng zǒu.",
+              "translation": "Je peux marcher."
+            },
+            {
+              "chinese": "这里可以坐吗？",
+              "pinyin": "Zhèlǐ kěyǐ zuò ma?",
+              "translation": "Peut-on s'asseoir ici ?"
+            },
+            {
+              "chinese": "我会写字。",
+              "pinyin": "Wǒ huì xiě zì.",
+              "translation": "Je sais écrire des caractères."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 得 dans le potentiel est neutre (de).",
+        "Attention au 4e ton de 到 (dào) : il descend fortement.",
+        "Dans 看不见 (kàn bù jiàn), le 不 est prononcé au 2e ton (bú) car suivi d'un 4e ton."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et structures s'appuient sur des acquis précédents.",
+      "links": [
+        {
+          "from": "到",
+          "relation": "RADICAL_DE",
+          "to": "刂 (dans 前)"
+        },
+        {
+          "from": "能",
+          "relation": "CONTRASTE_AVEC",
+          "to": "可以"
+        },
+        {
+          "from": "以",
+          "relation": "COMPOSE",
+          "to": "可 (pour former 可以)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Utilise 3 phrases avec la structure du potentiel pour décrire ce que tu peux ou ne peux pas faire.",
+          "hint": "Pense à des actions comme écouter, voir, faire ou manger.",
+          "example": {
+            "chinese": "我听得见他说的话，但是看不见字。",
+            "pinyin": "Wǒ tīng de jiàn tā shuō de huà, dànshì kàn bù jiàn zì.",
+            "translation": "Je peux entendre ce qu'il dit, mais je ne vois pas les caractères."
+          }
+        },
+        {
+          "instruction": "Réponds à ton ami en utilisant 能, 可以 ou 会 selon le contexte.",
+          "hint": "Différencie capacité physique, permission et compétence.",
+          "example": {
+            "chinese": "A: 你能走吗？ B: 我能走。 A: 这里可以坐吗？ B: 可以。",
+            "pinyin": "A: Nǐ néng zǒu ma? B: Wǒ néng zǒu. A: Zhèlǐ kěyǐ zuò ma? B: Kěyǐ.",
+            "translation": "A : Peux-tu marcher ? B : Je peux marcher. A : Peut-on s'asseoir ici ? B : Oui."
+          }
+        },
+        {
+          "instruction": "Décris une situation où tu n'arrives pas à faire quelque chose.",
+          "hint": "Utilise des verbes comme 听, 看, 吃 ou 做.",
+          "example": {
+            "chinese": "他说话太小声，我听不见。",
+            "pinyin": "Tā shuōhuà tài xiǎo shēng, wǒ tīng bù jiàn.",
+            "translation": "Il parle trop doucement, je n'entends pas."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Vous avez appris à exprimer vos capacités avec la structure du potentiel (V+得/不+résultat) et à différencier 能, 可以 et 会.",
+      "reviewWords": [
+        "听得见",
+        "听不见",
+        "看得见",
+        "看不见",
+        "做得到",
+        "做不到",
+        "吃得完",
+        "吃不完",
+        "能",
+        "可以",
+        "会"
+      ],
+      "reviewHanzi": [
+        "到",
+        "能",
+        "以"
+      ]
+    }
+  }
+}

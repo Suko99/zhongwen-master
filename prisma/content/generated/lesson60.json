@@ -1,0 +1,267 @@
+{
+  "slug": "bilan-b2",
+  "title": "Bilan B2 : penser en chinois",
+  "mission": "Débat complet et texte argumenté : synthèse des compétences B2 pour penser et s'exprimer comme un locuteur avancé",
+  "level": "B2",
+  "order": 60,
+  "hanzi": [
+    {
+      "character": "辩",
+      "pinyin": "biàn",
+      "meaning": "débattre, argumenter",
+      "hskLevel": 5,
+      "radical": "辛",
+      "components": [
+        "辛",
+        "言",
+        "辡"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente deux personnes (辛) qui échangent des paroles (言) pour défendre leurs positions. Le radical 辡 suggère une opposition ou une comparaison. L'origine exacte est débattue parmi les sinologues.",
+      "family": [
+        "辩论 (débat)",
+        "辩护 (défendre)",
+        "辨 (distinguer)"
+      ],
+      "commonErrors": [
+        "Confusion avec 辨 (distinguer) en raison de la similarité graphique. Attention : 辩 implique un échange verbal, pas seulement une distinction."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "辩论",
+      "pinyin": "biàn lùn",
+      "meaning": "débat, discuter",
+      "exampleZh": "今天我们要辩论这个事。",
+      "examplePinyin": "Jīntiān wǒmen yào biànlùn zhège shì.",
+      "exampleFr": "Aujourd'hui, nous allons débattre de cette affaire."
+    },
+    {
+      "word": "证明",
+      "pinyin": "zhèng míng",
+      "meaning": "prouver, preuve",
+      "exampleZh": "你有什么证明？",
+      "examplePinyin": "Nǐ yǒu shénme zhèngmíng?",
+      "exampleFr": "Quelles preuves as-tu ?"
+    },
+    {
+      "word": "政策",
+      "pinyin": "zhèng cè",
+      "meaning": "politique (mesures gouvernementales)",
+      "exampleZh": "这个政策很好。",
+      "examplePinyin": "Zhège zhèngcè hěn hǎo.",
+      "exampleFr": "Cette politique est très bonne."
+    },
+    {
+      "word": "方法",
+      "pinyin": "fāng fǎ",
+      "meaning": "méthode, moyen",
+      "exampleZh": "这个方法很好。",
+      "examplePinyin": "Zhège fāngfǎ hěn hǎo.",
+      "exampleFr": "Cette méthode est très bonne."
+    },
+    {
+      "word": "方向",
+      "pinyin": "fāng xiàng",
+      "meaning": "direction, tendance",
+      "exampleZh": "现在的方向是大家都喜欢这个。",
+      "examplePinyin": "Xiànzài de fāngxiàng shì dàjiā dōu xǐhuān zhège.",
+      "exampleFr": "La tendance actuelle est que tout le monde aime cela."
+    },
+    {
+      "word": "辨",
+      "pinyin": "biàn",
+      "meaning": "distinguer",
+      "exampleZh": "你能辨这个和那个吗？",
+      "examplePinyin": "Nǐ néng biàn zhège hé nàge ma?",
+      "exampleFr": "Peux-tu distinguer ceci et cela ?"
+    },
+    {
+      "word": "证",
+      "pinyin": "zhèng",
+      "meaning": "preuve",
+      "exampleZh": "你有证吗？",
+      "examplePinyin": "Nǐ yǒu zhèng ma?",
+      "exampleFr": "As-tu une preuve ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous participez à un débat organisé par votre école sur le thème : 'Est-ce que parler en ligne est bon ou mauvais ?'. Vous devez préparer un texte argumenté en chinois, structuré comme un discours, avec des preuves, des exemples et une conclusion claire. Ensuite, vous présenterez votre point de vue lors du débat.",
+      "goals": [
+        "Structurer un texte argumenté en chinois avec introduction, développement et conclusion",
+        "Utiliser des connecteurs logiques pour articuler vos idées",
+        "Appuyer vos arguments avec des preuves et des exemples concrets",
+        "Répondre aux contre-arguments de manière constructive",
+        "Maîtriser le vocabulaire et les structures grammaticales du niveau B2 pour un discours fluide et précis"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez ce dialogue entre deux étudiants qui préparent leur argumentaire pour le débat. Identifiez : 1) les connecteurs logiques utilisés ; 2) les structures pour introduire des preuves ; 3) les expressions pour exprimer un accord ou un désaccord nuancé. Ne traduisez pas encore, concentrez-vous sur la structure.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "我觉着上网说事有好处。一是人随时能找到朋友。比如，我昨天和在法国的朋友说了很久。",
+          "pinyin": "Wǒ juézhe shàngwǎng shuō shì yǒu hǎochù. Yī shì rén suíshí néng zhǎodào péngyǒu. Bǐrú, wǒ zuótiān hé zài Fǎguó de péngyǒu shuōle hěnjiǔ.",
+          "translation": "Je trouve que parler des choses en ligne a des avantages. D'abord, les gens peuvent trouver des amis à tout moment. Par exemple, hier, j'ai parlé longtemps avec un ami en France."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你说得有理，可我觉得上网说事也有问题。报上说，很多年轻人因为上网说事不高兴。",
+          "pinyin": "Nǐ shuō de yǒulǐ, kě wǒ juéde shàngwǎng shuō shì yě yǒu wèntí. Bào shàng shuō, hěnduō niánqīng rén yīnwèi shàngwǎng shuō shì bù gāoxìng.",
+          "translation": "Tu as raison, mais je trouve que parler des choses en ligne pose aussi des problèmes. Dans le journal, il est dit que beaucoup de jeunes ne sont pas heureux à cause de cela."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "这报很有用。可我们也能看另一面：上网说事让更多人可以说自己想的。比如，很多事都是从网上开始的。",
+          "pinyin": "Zhè bào hěn yǒuyòng. Kě wǒmen yě néng kàn lìng yīmiàn: shàngwǎng shuō shì ràng gèng duō rén kěyǐ shuō zìjǐ xiǎng de. Bǐrú, hěnduō shì dōu shì cóng wǎng shàng kāishǐ de.",
+          "translation": "Ce journal est très utile. Mais nous pouvons aussi voir un autre aspect : parler des choses en ligne permet à plus de gens d'exprimer ce qu'ils pensent. Par exemple, beaucoup de choses commencent en ligne."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你说得对，可我们不能不看坏处。比如，假话在网上传得很快，这会让人不懂。",
+          "pinyin": "Nǐ shuō de duì, kě wǒmen bùnéng bù kàn huàichu. Bǐrú, jiǎ huà zài wǎng shàng chuán de hěn kuài, zhè huì ràng rén bù dǒng.",
+          "translation": "Tu as raison, mais nous ne pouvons pas ignorer les inconvénients. Par exemple, les mensonges se propagent rapidement en ligne, ce qui peut rendre les gens confus."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "是这样。所以，我们要有好的方法来管上网说事。政府要有更严的规，比如不让假话传。",
+          "pinyin": "Shì zhèyàng. Suǒyǐ, wǒmen yào yǒu hǎo de fāngfǎ lái guǎn shàngwǎng shuō shì. Zhèngfǔ yào yǒu gèng yán de guī, bǐrú bù ràng jiǎ huà chuán.",
+          "translation": "C'est vrai. Donc, nous devons avoir de bonnes méthodes pour gérer les discussions en ligne. Le gouvernement doit avoir des règles plus strictes, par exemple pour empêcher la propagation des mensonges."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我同意你的看法。可个人也要学会分清，不要太快信网上的事。",
+          "pinyin": "Wǒ tóngyì nǐ de kànfǎ. Kě gèrén yě yào xuéhuì fēnqīng, bùyào tài kuài xìn wǎng shàng de shì.",
+          "translation": "Je suis d'accord avec ton avis. Mais les individus doivent aussi apprendre à distinguer et ne pas croire trop vite ce qui est sur Internet."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你说得很对。所以，上网说事的好坏看我们怎么用。我们要用好的，少用坏的。",
+          "pinyin": "Nǐ shuō de hěn duì. Suǒyǐ, shàngwǎng shuō shì de hǎohuài kàn wǒmen zěnme yòng. Wǒmen yào yòng hǎo de, shǎo yòng huài de.",
+          "translation": "Tu as tout à fait raison. Donc, les avantages et les inconvénients de parler des choses en ligne dépendent de la façon dont nous les utilisons. Nous devons utiliser les bons aspects et éviter les mauvais."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "辩"
+      ],
+      "grammar": [
+        {
+          "point": "Structurer un texte argumenté : connecteurs logiques",
+          "explanation": "Pour structurer un texte argumenté en chinois, utilisez des connecteurs logiques pour articuler vos idées. Voici les principaux :\n- **Introduction** : 一是 (yī shì, premièrement), 我觉着 (wǒ juézhe, je trouve que).\n- **Développement** : 二是 (èr shì, deuxièmement), 比如 (bǐrú, par exemple), 报上说 (bào shàng shuō, dans le journal il est dit que), 所以 (suǒyǐ, donc).\n- **Opposition/nuance** : 虽然...可... (suīrán...kě..., bien que...mais...), 可 (kě, mais).\n- **Conclusion** : 所以 (suǒyǐ, donc), 总之 (zǒngzhī, en résumé).\n\nErreur typique du francophone : Oublier d'utiliser ces connecteurs, ce qui donne un texte décousu. En chinois, la logique doit être explicitement marquée.",
+          "examples": [
+            {
+              "chinese": "一是上网说事让人随时能找到朋友。二是也有坏处。",
+              "pinyin": "Yī shì shàngwǎng shuō shì ràng rén suíshí néng zhǎodào péngyǒu. Èr shì yě yǒu huàichu.",
+              "translation": "Premièrement, parler des choses en ligne permet aux gens de trouver des amis à tout moment. Deuxièmement, il y a aussi des inconvénients."
+            },
+            {
+              "chinese": "虽然上网说事有好处，可也有问题。",
+              "pinyin": "Suīrán shàngwǎng shuō shì yǒu hǎochù, kě yě yǒu wèntí.",
+              "translation": "Bien que parler des choses en ligne ait des avantages, il y a aussi des problèmes."
+            }
+          ]
+        },
+        {
+          "point": "Introduire des preuves et des exemples",
+          "explanation": "Pour renforcer vos arguments, utilisez des structures qui introduisent des preuves ou des exemples :\n- **Preuves** : 报上说 (bào shàng shuō, dans le journal il est dit que).\n- **Exemples** : 比如 (bǐrú, par exemple).\n\nErreur typique du francophone : Utiliser 'par exemple' directement traduit par '比如如' (répétition incorrecte). Préférez 比如 seul.",
+          "examples": [
+            {
+              "chinese": "报上说，很多人因为上网说事不高兴。",
+              "pinyin": "Bào shàng shuō, hěnduō rén yīnwèi shàngwǎng shuō shì bù gāoxìng.",
+              "translation": "Dans le journal, il est dit que beaucoup de gens ne sont pas heureux à cause des discussions en ligne."
+            },
+            {
+              "chinese": "上网说事有好处，比如能找到朋友。",
+              "pinyin": "Shàngwǎng shuō shì yǒu hǎochù, bǐrú néng zhǎodào péngyǒu.",
+              "translation": "Parler des choses en ligne a des avantages, par exemple on peut trouver des amis."
+            }
+          ]
+        },
+        {
+          "point": "Exprimer un accord ou un désaccord nuancé",
+          "explanation": "Pour participer à un débat, il est essentiel de savoir exprimer un accord ou un désaccord de manière nuancée :\n- **Accord** : 我同意 (wǒ tóngyì, je suis d'accord), 你说得对 (nǐ shuō de duì, tu as raison), 是这样 (shì zhèyàng, c'est ça).\n- **Désaccord nuancé** : 虽然...可... (suīrán...kě..., bien que...mais...), 你说得有理，可... (nǐ shuō de yǒulǐ, kě..., ce que tu dis est logique, mais...).\n\nErreur typique du francophone : Utiliser '可' (kě) seul pour exprimer un désaccord, ce qui peut sembler trop direct. Préférez une structure nuancée comme 虽然...可... ou 可.",
+          "examples": [
+            {
+              "chinese": "你说得有理，可我觉得还有别的问题。",
+              "pinyin": "Nǐ shuō de yǒulǐ, kě wǒ juéde hái yǒu bié de wèntí.",
+              "translation": "Ce que tu dis est logique, mais je pense qu'il y a d'autres problèmes."
+            },
+            {
+              "chinese": "我同意你的看法，可我们还要看别的方面。",
+              "pinyin": "Wǒ tóngyì nǐ de kànfǎ, kě wǒmen hái yào kàn bié de fāngmiàn.",
+              "translation": "Je suis d'accord avec ton avis, mais nous devons aussi considérer d'autres aspects."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au ton du nouveau caractère :",
+        "- 辩 (biàn) : ton descendant (4e). Risque de confusion avec 便 (biàn, ton descendant aussi, mais sens différent)."
+      ]
+    },
+    "connection": {
+      "text": "Cette leçon fait la synthèse des compétences acquises en B2 en les appliquant à un débat structuré. Voici les liens avec les acquis :",
+      "links": [
+        {
+          "from": "辩",
+          "relation": "COMPOSE",
+          "to": "辩论 (débat, déjà connu)"
+        },
+        {
+          "from": "辩",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "辨 (distinguer, déjà connu)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Rédigez un texte argumenté de 150-200 caractères en chinois sur le thème : 'Est-ce que parler en ligne est bon ?'. Structurez votre texte avec :\n1) Une introduction présentant votre point de vue,\n2) Deux arguments appuyés par des exemples ou des preuves,\n3) Un contre-argument et votre réponse à celui-ci,\n4) Une conclusion qui résume votre position.\nUtilisez au moins 3 connecteurs logiques et 2 nouveaux mots de vocabulaire.",
+          "hint": "Utilisez des structures comme 一是..., 二是..., 虽然...可..., 所以... pour articuler vos idées. Appuyez vos arguments avec des exemples concrets (比如) ou des preuves (报上说).",
+          "example": {
+            "chinese": "我觉着上网说事有好处。一是人随时能找到朋友。比如，我每天都和在国外的姐姐说话。二是上网说事让更多人可以说自己想的。报上说，很多事都是从网上开始的。虽然有人说上网说事有问题，可我觉得这要看我们怎么用。所以，我们要用好的，少用坏的。",
+            "pinyin": "Wǒ juézhe shàngwǎng shuō shì yǒu hǎochù. Yī shì rén suíshí néng zhǎodào péngyǒu. Bǐrú, wǒ měitiān dōu hé zài guówài de jiějie shuōhuà. Èr shì shàngwǎng shuō shì ràng gèng duō rén kěyǐ shuō zìjǐ xiǎng de. Bào shàng shuō, hěnduō shì dōu shì cóng wǎng shàng kāishǐ de. Suīrán yǒurén shuō shàngwǎng shuō shì yǒu wèntí, kě wǒ juéde zhè yào kàn wǒmen zěnme yòng. Suǒyǐ, wǒmen yào yòng hǎo de, shǎo yòng huài de.",
+            "translation": "Je trouve que parler des choses en ligne a des avantages. Premièrement, les gens peuvent trouver des amis à tout moment. Par exemple, je parle tous les jours avec ma sœur qui est à l'étranger. Deuxièmement, parler des choses en ligne permet à plus de gens d'exprimer ce qu'ils pensent. Dans le journal, il est dit que beaucoup de choses commencent en ligne. Bien que certains disent que parler des choses en ligne pose des problèmes, je pense que cela dépend de la façon dont nous l'utilisons. Donc, nous devons utiliser les bons aspects et éviter les mauvais."
+          }
+        },
+        {
+          "instruction": "Préparez une réponse à un contre-argument dans un débat. Votre adversaire dit : '上网说事让人变懒，因为他们不再面对面说话。' Répondez en 50-80 caractères, en utilisant une structure nuancée et un connecteur logique.",
+          "hint": "Utilisez une structure comme 虽然...可... ou 你说得有理，可... pour reconnaître le point de vue de l'adversaire avant de présenter votre contre-argument.",
+          "example": {
+            "chinese": "你说得有理，可上网说事也让忙的人保持联系。比如，很多家人因为工作分开，上网说事帮他们维持感情。",
+            "pinyin": "Nǐ shuō de yǒulǐ, kě shàngwǎng shuō shì yě ràng máng de rén bǎochí liánxì. Bǐrú, hěnduō jiārén yīnwèi gōngzuò fēnkāi, shàngwǎng shuō shì bāng tāmen wéichí gǎnqíng.",
+            "translation": "Ce que tu dis est logique, mais parler des choses en ligne permet aussi aux gens occupés de rester en contact. Par exemple, beaucoup de familles sont séparées à cause du travail, et parler en ligne les aide à maintenir leurs liens affectifs."
+          }
+        },
+        {
+          "instruction": "Imaginez que vous participez à un débat sur la protection de la nature. Présentez un argument en 50-80 caractères, en utilisant une preuve (报上说) et un exemple (比如).",
+          "hint": "Structurez votre réponse avec 报上说..., 比如... pour introduire une preuve suivie d'un exemple concret.",
+          "example": {
+            "chinese": "报上说，空气不好每年让很多人生病。比如，在大城市，很多孩子因为空气不好咳嗽。",
+            "pinyin": "Bào shàng shuō, kōngqì bù hǎo měinián ràng hěnduō rén shēngbìng. Bǐrú, zài dà chéngshì, hěnduō háizi yīnwèi kōngqì bù hǎo késòu.",
+            "translation": "Dans le journal, il est dit que la mauvaise qualité de l'air rend beaucoup de gens malades chaque année. Par exemple, dans les grandes villes, beaucoup d'enfants toussent à cause de la mauvaise qualité de l'air."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Cette leçon vous a permis de synthétiser vos compétences en chinois de niveau B2 pour structurer un texte argumenté et participer à un débat. Vous avez appris à :\n1) Utiliser des connecteurs logiques pour articuler vos idées,\n2) Introduire des preuves et des exemples pour renforcer vos arguments,\n3) Exprimer un accord ou un désaccord de manière nuancée,\n4) Maîtriser un nouveau caractère et son vocabulaire associé pour enrichir votre expression.\n\nPour penser en chinois, il est essentiel de structurer vos idées de manière claire et logique, en utilisant les outils linguistiques appropriés. Continuez à pratiquer en participant à des débats ou en rédigeant des textes argumentés pour consolider ces compétences.",
+      "reviewWords": [
+        "辩论",
+        "证明",
+        "政策",
+        "方法",
+        "方向",
+        "辨",
+        "证"
+      ],
+      "reviewHanzi": [
+        "辩"
+      ]
+    }
+  }
+}

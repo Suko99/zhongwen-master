@@ -1,0 +1,348 @@
+{
+  "slug": "les-jours-et-les-dates",
+  "title": "Les jours et les dates",
+  "mission": "Donner la date et parler d'hier, aujourd'hui, demain",
+  "level": "A1",
+  "order": 6,
+  "hanzi": [
+    {
+      "character": "天",
+      "pinyin": "tiān",
+      "meaning": "jour, ciel",
+      "hskLevel": 1,
+      "radical": "大",
+      "components": ["一", "大"],
+      "etymology": "Un trait horizontal (一) au-dessus de 大 (une personne aux bras écartés) : ce qui est au-dessus de l'homme — le ciel. Le sens s'est étendu au jour, l'unité de temps que le ciel rythme.",
+      "family": ["今天", "明天", "昨天", "星期天"],
+      "commonErrors": ["Confusion avec 日 (rì) qui signifie aussi « jour » : 天 est le mot courant, 日 est plus formel/écrit."]
+    },
+    {
+      "character": "星",
+      "pinyin": "xīng",
+      "meaning": "étoile",
+      "hskLevel": 2,
+      "radical": "日",
+      "components": ["日", "生"],
+      "etymology": "日 (l'astre) + 生 (shēng, phonétique — qui donne aussi l'image de la naissance) : l'interprétation traditionnelle y voit les astres qui naissent dans le ciel nocturne.",
+      "family": ["星期"],
+      "commonErrors": ["Ne pas confondre avec 生 (shēng), son composant phonétique."]
+    },
+    {
+      "character": "期",
+      "pinyin": "qī",
+      "meaning": "période, cycle",
+      "hskLevel": 2,
+      "radical": "月",
+      "components": ["其", "月"],
+      "etymology": "其 (qí, phonétique) + 月 (la lune) : une période mesurée par le cycle lunaire. D'où 星期, le cycle des sept jours.",
+      "family": ["星期"],
+      "commonErrors": ["Ne pas confondre avec 其 (qí), son composant phonétique."]
+    },
+    {
+      "character": "昨",
+      "pinyin": "zuó",
+      "meaning": "hier (dans 昨天)",
+      "hskLevel": 2,
+      "radical": "日",
+      "components": ["日", "乍"],
+      "etymology": "日 (le jour) + 乍 (zhà, phonétique, « soudain ») : le jour qui vient tout juste de passer.",
+      "family": ["昨天"],
+      "commonErrors": ["Confusion visuelle avec 作 (zuò, faire), qui partage le composant 乍."]
+    },
+    {
+      "character": "明",
+      "pinyin": "míng",
+      "meaning": "clair, brillant ; prochain",
+      "hskLevel": 1,
+      "radical": "日",
+      "components": ["日", "月"],
+      "etymology": "日 (le soleil) + 月 (la lune) : les deux sources de lumière réunies — la clarté. 明天, « le jour clair qui vient », désigne demain.",
+      "family": ["明天", "明年"],
+      "commonErrors": ["Ne pas confondre avec 名 (míng, nom) de 名字 — même prononciation, caractères différents."]
+    },
+    {
+      "character": "月",
+      "pinyin": "yuè",
+      "meaning": "lune, mois",
+      "hskLevel": 1,
+      "radical": "月",
+      "components": ["月"],
+      "etymology": "Pictogramme d'un croissant de lune. Par extension, le mois — les mois du calendrier traditionnel suivent les cycles lunaires. Vous l'avez déjà croisé comme composant de 有 et 期.",
+      "family": ["一月", "几月"],
+      "commonErrors": ["En composant, 月 peut aussi représenter la viande (肉) : le contexte décide."]
+    },
+    {
+      "character": "号",
+      "pinyin": "hào",
+      "meaning": "numéro ; jour du mois (oral)",
+      "hskLevel": 1,
+      "radical": "口",
+      "components": ["口", "丂"],
+      "etymology": "口 (la bouche) + 丂 : le sens ancien est le cri, l'appel — d'où le numéro qu'on annonce à voix haute. C'est le mot ORAL pour le jour du mois.",
+      "family": ["几号"],
+      "commonErrors": ["号 s'utilise à l'oral pour les dates ; à l'écrit formel on utilise 日."]
+    },
+    {
+      "character": "日",
+      "pinyin": "rì",
+      "meaning": "soleil, jour ; jour du mois (écrit)",
+      "hskLevel": 1,
+      "radical": "日",
+      "components": ["日"],
+      "etymology": "Pictogramme du soleil : un disque avec un point central, devenu rectangulaire. Vous le connaissez déjà comme composant de 是, 星, 昨 et 明 — c'est l'un des radicaux les plus productifs.",
+      "family": ["生日", "星期日"],
+      "commonErrors": ["日 (écrit) et 号 (oral) désignent tous deux le jour du mois : 五月十日 = 五月十号."]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "今天",
+      "pinyin": "jīntiān",
+      "meaning": "aujourd'hui",
+      "exampleZh": "今天是几月几号？",
+      "examplePinyin": "Jīntiān shì jǐ yuè jǐ hào?",
+      "exampleFr": "Quelle est la date aujourd'hui ?"
+    },
+    {
+      "word": "明天",
+      "pinyin": "míngtiān",
+      "meaning": "demain",
+      "exampleZh": "明天是星期几？",
+      "examplePinyin": "Míngtiān shì xīngqī jǐ?",
+      "exampleFr": "Quel jour sommes-nous demain ?"
+    },
+    {
+      "word": "昨天",
+      "pinyin": "zuótiān",
+      "meaning": "hier",
+      "exampleZh": "昨天是星期天。",
+      "examplePinyin": "Zuótiān shì xīngqītiān.",
+      "exampleFr": "Hier, c'était dimanche."
+    },
+    {
+      "word": "星期",
+      "pinyin": "xīngqī",
+      "meaning": "semaine",
+      "exampleZh": "今天是星期几？",
+      "examplePinyin": "Jīntiān shì xīngqī jǐ?",
+      "exampleFr": "Quel jour de la semaine sommes-nous ?"
+    },
+    {
+      "word": "星期一",
+      "pinyin": "xīngqīyī",
+      "meaning": "lundi",
+      "exampleZh": "今天是星期一。",
+      "examplePinyin": "Jīntiān shì xīngqīyī.",
+      "exampleFr": "Aujourd'hui, c'est lundi."
+    },
+    {
+      "word": "星期天",
+      "pinyin": "xīngqītiān",
+      "meaning": "dimanche",
+      "exampleZh": "星期天我在家。",
+      "examplePinyin": "Xīngqītiān wǒ zài jiā.",
+      "exampleFr": "Dimanche, je suis à la maison."
+    },
+    {
+      "word": "月",
+      "pinyin": "yuè",
+      "meaning": "mois",
+      "exampleZh": "这个月是几月？",
+      "examplePinyin": "Zhège yuè shì jǐ yuè?",
+      "exampleFr": "Quel mois sommes-nous ?"
+    },
+    {
+      "word": "号",
+      "pinyin": "hào",
+      "meaning": "jour du mois (oral)",
+      "exampleZh": "今天是五月十号。",
+      "examplePinyin": "Jīntiān shì wǔ yuè shí hào.",
+      "exampleFr": "Aujourd'hui, nous sommes le 10 mai."
+    },
+    {
+      "word": "日",
+      "pinyin": "rì",
+      "meaning": "jour du mois (écrit)",
+      "exampleZh": "今天是五月十日。",
+      "examplePinyin": "Jīntiān shì wǔ yuè shí rì.",
+      "exampleFr": "Aujourd'hui, nous sommes le 10 mai (à l'écrit)."
+    },
+    {
+      "word": "几月几号",
+      "pinyin": "jǐ yuè jǐ hào",
+      "meaning": "quelle date ?",
+      "exampleZh": "你的生日是几月几号？",
+      "examplePinyin": "Nǐ de shēngrì shì jǐ yuè jǐ hào?",
+      "exampleFr": "Quelle est la date de ton anniversaire ?"
+    },
+    {
+      "word": "生日",
+      "pinyin": "shēngrì",
+      "meaning": "anniversaire",
+      "exampleZh": "我的生日是三月九号。",
+      "examplePinyin": "Wǒ de shēngrì shì sān yuè jiǔ hào.",
+      "exampleFr": "Mon anniversaire est le 9 mars."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous voulez organiser un repas avec Wang Ming. Il faut vous mettre d'accord sur la date et le jour de la semaine — et au passage, découvrir la date de son anniversaire.",
+      "goals": [
+        "Demander et donner la date (几月几号)",
+        "Nommer les jours de la semaine avec 星期 + nombre",
+        "Parler d'hier, aujourd'hui et demain sans préposition"
+      ]
+    },
+    "discovery": {
+      "instructions": "Lisez le dialogue sans les traductions. Observez : comment les jours de la semaine sont-ils construits ? Dans quel ordre arrivent le mois et le jour ?",
+      "dialogue": [
+        {
+          "speaker": "A",
+          "chinese": "王明，今天是几月几号？",
+          "pinyin": "Wáng Míng, jīntiān shì jǐ yuè jǐ hào?",
+          "translation": "Wang Ming, quelle est la date aujourd'hui ?"
+        },
+        {
+          "speaker": "B",
+          "chinese": "今天是五月十号，星期三。",
+          "pinyin": "Jīntiān shì wǔ yuè shí hào, xīngqīsān.",
+          "translation": "Aujourd'hui, c'est le 10 mai, mercredi."
+        },
+        {
+          "speaker": "A",
+          "chinese": "明天你想吃饭吗？",
+          "pinyin": "Míngtiān nǐ xiǎng chīfàn ma?",
+          "translation": "Demain, veux-tu qu'on aille manger ?"
+        },
+        {
+          "speaker": "B",
+          "chinese": "想！明天是星期四，好！",
+          "pinyin": "Xiǎng! Míngtiān shì xīngqīsì, hǎo!",
+          "translation": "Oui ! Demain c'est jeudi, parfait !"
+        },
+        {
+          "speaker": "A",
+          "chinese": "你的生日是几月几号？",
+          "pinyin": "Nǐ de shēngrì shì jǐ yuè jǐ hào?",
+          "translation": "Et ton anniversaire, c'est quelle date ?"
+        },
+        {
+          "speaker": "B",
+          "chinese": "我的生日是六月八号，星期天！",
+          "pinyin": "Wǒ de shēngrì shì liù yuè bā hào, xīngqītiān!",
+          "translation": "Mon anniversaire est le 8 juin — un dimanche !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": ["天", "星", "期", "昨", "明", "月", "号", "日"],
+      "grammar": [
+        {
+          "point": "La date : mois + 月, jour + 号 (oral) ou 日 (écrit)",
+          "explanation": "Le chinois va du grand au petit : d'abord le mois (五月, mai), puis le jour (十号, le 10). Pas d'article ni de préposition — « le 10 mai » se dit simplement 五月十号. À l'oral on emploie 号, à l'écrit formel 日. Interférence française typique : inverser en jour-mois ou ajouter un « le ».",
+          "examples": [
+            {
+              "chinese": "今天是五月十号。",
+              "pinyin": "Jīntiān shì wǔ yuè shí hào.",
+              "translation": "Aujourd'hui, c'est le 10 mai."
+            }
+          ]
+        },
+        {
+          "point": "Les jours de la semaine : 星期 + nombre",
+          "explanation": "Lundi = 星期一 (semaine-un), mardi = 星期二… jusqu'à samedi 星期六. Dimanche fait exception : 星期天 (ou 星期日 à l'écrit), jamais 星期七. Vos nombres de la leçon 2 viennent de débloquer toute la semaine.",
+          "examples": [
+            {
+              "chinese": "今天是星期三。",
+              "pinyin": "Jīntiān shì xīngqīsān.",
+              "translation": "Aujourd'hui, c'est mercredi."
+            },
+            {
+              "chinese": "明天是星期天。",
+              "pinyin": "Míngtiān shì xīngqītiān.",
+              "translation": "Demain, c'est dimanche."
+            }
+          ]
+        },
+        {
+          "point": "昨天 / 今天 / 明天 : sans préposition, en tête de phrase",
+          "explanation": "Les mots de temps se placent directement avant ou après le sujet, sans préposition : 明天我在家 (demain, je suis à la maison). Interférence française : vouloir traduire « à demain » ou « le lendemain » avec un mot en plus — inutile en chinois.",
+          "examples": [
+            {
+              "chinese": "昨天是星期二。",
+              "pinyin": "Zuótiān shì xīngqī'èr.",
+              "translation": "Hier, c'était mardi."
+            },
+            {
+              "chinese": "明天我在家。",
+              "pinyin": "Míngtiān wǒ zài jiā.",
+              "translation": "Demain, je suis à la maison."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "星期 xīngqī : deux 1ers tons — hauts, plats et stables, sans les faire monter comme une question française.",
+        "号 hào (4e ton, descendant) contre 好 hǎo (3e ton) : la date descend, le « bon » creuse — même paire que 妈/马.",
+        "昨 zuó : 2e ton, montant — la voix part du médium et monte, comme un « quoi ? » étonné en français."
+      ]
+    },
+    "connection": {
+      "text": "Le radical 日 (soleil) que vous connaissiez dans 是 rayonne dans toute cette leçon : 星 (l'astre qui naît, avec 生 de 学生 en phonétique), 昨 (le jour passé), 明 (soleil + lune = clarté). Et vos nombres de la leçon 2 débloquent d'un coup les 7 jours (星期一…星期六) et toutes les dates (五月十号). 生 + 日 = 生日, « le jour de la naissance » : deux caractères connus, un mot nouveau.",
+      "links": [
+        { "from": "天", "relation": "COMPOSE", "to": "今天" },
+        { "from": "天", "relation": "COMPOSE", "to": "明天" },
+        { "from": "天", "relation": "COMPOSE", "to": "昨天" },
+        { "from": "星", "relation": "COMPOSE", "to": "星期" },
+        { "from": "期", "relation": "COMPOSE", "to": "星期" },
+        { "from": "日", "relation": "RADICAL_DE", "to": "星" },
+        { "from": "日", "relation": "RADICAL_DE", "to": "昨" },
+        { "from": "日", "relation": "RADICAL_DE", "to": "明" },
+        { "from": "生", "relation": "DONNE_LE_SON", "to": "星" },
+        { "from": "月", "relation": "RADICAL_DE", "to": "期" },
+        { "from": "号", "relation": "CONTRASTE_AVEC", "to": "日" },
+        { "from": "生", "relation": "COMPOSE", "to": "生日" },
+        { "from": "日", "relation": "COMPOSE", "to": "生日" }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Demandez la date d'aujourd'hui et le jour de la semaine.",
+          "hint": "几月几号 pour la date, 星期几 pour le jour — les mots interrogatifs restent à la place de la réponse.",
+          "example": {
+            "chinese": "今天是几月几号？今天是星期几？",
+            "pinyin": "Jīntiān shì jǐ yuè jǐ hào? Jīntiān shì xīngqī jǐ?",
+            "translation": "Quelle est la date aujourd'hui ? Quel jour sommes-nous ?"
+          }
+        },
+        {
+          "instruction": "Proposez à Wang Ming de manger ensemble demain, en précisant le jour et la date.",
+          "hint": "明天是 + date + jour, puis la question avec 吗.",
+          "example": {
+            "chinese": "明天是五月十一号，星期四。你想吃饭吗？",
+            "pinyin": "Míngtiān shì wǔ yuè shíyī hào, xīngqīsì. Nǐ xiǎng chīfàn ma?",
+            "translation": "Demain, c'est le 11 mai, jeudi. Veux-tu qu'on mange ensemble ?"
+          }
+        },
+        {
+          "instruction": "Demandez la date d'anniversaire de votre ami, puis donnez la vôtre.",
+          "hint": "你的生日是几月几号？ puis 我的生日是 + mois + 月 + jour + 号.",
+          "example": {
+            "chinese": "你的生日是几月几号？我的生日是三月九号。",
+            "pinyin": "Nǐ de shēngrì shì jǐ yuè jǐ hào? Wǒ de shēngrì shì sān yuè jiǔ hào.",
+            "translation": "Quelle est la date de ton anniversaire ? Le mien est le 9 mars."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Avec 8 caractères nouveaux et vos nombres de la leçon 2, vous maîtrisez tout le calendrier : la date (mois puis jour, sans préposition), les 7 jours de la semaine (星期 + nombre, sauf 星期天), et le trio 昨天/今天/明天. En prime : 生日, votre premier mot composé uniquement de caractères déjà connus.",
+      "reviewWords": [
+        "今天", "明天", "昨天", "星期", "星期一", "星期天",
+        "月", "号", "日", "几月几号", "生日"
+      ],
+      "reviewHanzi": ["天", "星", "期", "昨", "明", "月", "号", "日"]
+    }
+  }
+}

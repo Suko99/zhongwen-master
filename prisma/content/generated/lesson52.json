@@ -1,0 +1,400 @@
+{
+  "slug": "d-une-part-d-autre-part",
+  "title": "D'une part... d'autre part : Structurer une argumentation équilibrée",
+  "mission": "Apprendre à présenter des arguments équilibrés en mandarin pour renforcer ses prises de parole",
+  "level": "B2",
+  "order": 52,
+  "hanzi": [
+    {
+      "character": "方",
+      "pinyin": "fāng",
+      "meaning": "côté; direction; méthode",
+      "hskLevel": 2,
+      "radical": "方 (fāng)",
+      "components": [
+        "方"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une bannière ou un étendard, symbolisant une direction ou un côté. Le radical est lui-même le caractère, et il est souvent utilisé dans des composés pour évoquer des notions de méthode ou de direction.",
+      "family": [
+        "方法 (méthode)",
+        "地方 (endroit)",
+        "另一方 (autre côté)"
+      ],
+      "commonErrors": [
+        "Confusion avec 万 (wàn, dix mille) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "首",
+      "pinyin": "shǒu",
+      "meaning": "tête; premier; chef",
+      "hskLevel": 3,
+      "radical": "首 (shǒu)",
+      "components": [
+        "丷",
+        "自"
+      ],
+      "etymology": "Ce caractère représente une tête humaine avec une coiffure distinctive. Il est souvent utilisé pour indiquer le premier ou le plus important dans une série.",
+      "family": [
+        "首先 (d'abord)",
+        "首都 (capitale)"
+      ],
+      "commonErrors": [
+        "Confusion avec 手 (shǒu, main) en raison de la prononciation identique."
+      ]
+    },
+    {
+      "character": "且",
+      "pinyin": "qiě",
+      "meaning": "et; de plus; temporairement",
+      "hskLevel": 4,
+      "radical": "一 (yī)",
+      "components": [
+        "一",
+        "目"
+      ],
+      "etymology": "Ce caractère représente à l'origine une table ou un autel, symbolisant une accumulation ou une addition. Il est souvent utilisé pour lier des idées.",
+      "family": [
+        "而且 (de plus)",
+        "并且 (et aussi)"
+      ],
+      "commonErrors": [
+        "Confusion avec 目 (mù, œil) en raison de la présence de ce composant."
+      ]
+    },
+    {
+      "character": "根",
+      "pinyin": "gēn",
+      "meaning": "racine; base; selon",
+      "hskLevel": 4,
+      "radical": "木 (mù)",
+      "components": [
+        "木",
+        "艮"
+      ],
+      "etymology": "Ce caractère combine le radical de l'arbre (木) avec un composant phonétique (艮, gěn). Il évoque l'idée de racine ou de base, d'où son sens de 'selon' ou 'basé sur'.",
+      "family": [
+        "根据 (selon)",
+        "根本 (fondamental)"
+      ],
+      "commonErrors": [
+        "Confusion avec 跟 (gēn, suivre) en raison de la prononciation identique."
+      ]
+    },
+    {
+      "character": "坚",
+      "pinyin": "jiān",
+      "meaning": "ferme; solide",
+      "hskLevel": 4,
+      "radical": "土 (tǔ)",
+      "components": [
+        "又",
+        "土"
+      ],
+      "etymology": "Ce caractère combine le radical de la terre (土) avec un composant phonétique (又, yòu). Il évoque l'idée de solidité ou de fermeté, comme la terre compactée.",
+      "family": [
+        "坚持 (persévérer)",
+        "坚强 (fort)"
+      ],
+      "commonErrors": [
+        "Confusion avec 竖 (shù, vertical) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "另",
+      "pinyin": "lìng",
+      "meaning": "autre; séparé",
+      "hskLevel": 3,
+      "radical": "口 (kǒu)",
+      "components": [
+        "口",
+        "力"
+      ],
+      "etymology": "Ce caractère combine le radical de la bouche (口) avec un composant phonétique (力, lì). Il évoque l'idée de séparation ou de distinction, comme une bouche qui prononce une différence.",
+      "family": [
+        "另一方面 (d'autre part)",
+        "另外 (en outre)"
+      ],
+      "commonErrors": [
+        "Confusion avec 别 (bié, ne pas) en raison de la similitude sémantique."
+      ]
+    },
+    {
+      "character": "其",
+      "pinyin": "qí",
+      "meaning": "son; leur; ceci",
+      "hskLevel": 4,
+      "radical": "八 (bā)",
+      "components": [
+        "甘",
+        "八"
+      ],
+      "etymology": "Ce caractère combine un composant phonétique (甘, gān) avec le radical de la division (八). Il est souvent utilisé comme pronom possessif ou démonstratif.",
+      "family": [
+        "其次 (ensuite)",
+        "其中 (parmi)"
+      ],
+      "commonErrors": [
+        "Confusion avec 期 (qī, période) en raison de la prononciation proche."
+      ]
+    },
+    {
+      "character": "而",
+      "pinyin": "ér",
+      "meaning": "et; mais; alors",
+      "hskLevel": 3,
+      "radical": "而 (ér)",
+      "components": [
+        "而"
+      ],
+      "etymology": "Ce caractère représente à l'origine une barbe ou des poils, symbolisant une transition ou une connexion. Il est souvent utilisé pour lier des idées ou des actions.",
+      "family": [
+        "而且 (de plus)",
+        "然而 (cependant)"
+      ],
+      "commonErrors": [
+        "Confusion avec 尔 (ěr, tu) en raison de la prononciation proche."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "一方面...另一方...",
+      "pinyin": "yī fāngmiàn... lìng yī fāng...",
+      "meaning": "D'une part... d'autre part...",
+      "exampleZh": "一方面，学汉语很有用；另一方，学汉语也很有趣。",
+      "examplePinyin": "Yī fāngmiàn, xué hànyǔ hěn yǒuyòng; lìng yī fāng, xué hànyǔ yě hěn yǒuqù.",
+      "exampleFr": "D'une part, apprendre le mandarin est très utile ; d'autre part, apprendre le mandarin est aussi très intéressant."
+    },
+    {
+      "word": "首先...其次...最后...",
+      "pinyin": "shǒuxiān... qícì... zuìhòu...",
+      "meaning": "D'abord... ensuite... enfin...",
+      "exampleZh": "首先，我们问；其次，我们找；最后，我们做决定。",
+      "examplePinyin": "Shǒuxiān, wǒmen wèn; qícì, wǒmen zhǎo; zuìhòu, wǒmen zuò juédìng.",
+      "exampleFr": "D'abord, nous demandons ; ensuite, nous cherchons ; enfin, nous prenons une décision."
+    },
+    {
+      "word": "不但...而且...",
+      "pinyin": "bùdàn... érqiě...",
+      "meaning": "Non seulement... mais aussi...",
+      "exampleZh": "他不但会说汉语，而且说得很好。",
+      "examplePinyin": "Tā bùdàn huì shuō hànyǔ, érqiě shuō de hěn hǎo.",
+      "exampleFr": "Il ne parle pas seulement mandarin, mais il le parle aussi très bien."
+    },
+    {
+      "word": "根据",
+      "pinyin": "gēnjù",
+      "meaning": "selon; basé sur",
+      "exampleZh": "根据我的经验，这个方法很好。",
+      "examplePinyin": "Gēnjù wǒ de jīngyàn, zhège fāngfǎ hěn hǎo.",
+      "exampleFr": "Selon mon expérience, cette méthode est très bonne."
+    },
+    {
+      "word": "坚持",
+      "pinyin": "jiānchí",
+      "meaning": "persévérer; insister",
+      "exampleZh": "虽然很难，但他还坚持。",
+      "examplePinyin": "Suīrán hěn nán, dàn tā hái jiānchí.",
+      "exampleFr": "Bien que ce soit difficile, il persévère encore."
+    },
+    {
+      "word": "观点",
+      "pinyin": "guāndiǎn",
+      "meaning": "point de vue; opinion",
+      "exampleZh": "每个人的观点都不一样。",
+      "examplePinyin": "Měi gè rén de guāndiǎn dōu bù yīyàng.",
+      "exampleFr": "Chacun a un point de vue différent."
+    },
+    {
+      "word": "讨论",
+      "pinyin": "tǎolùn",
+      "meaning": "discuter; débat",
+      "exampleZh": "我们讨论这个问题。",
+      "examplePinyin": "Wǒmen tǎolùn zhège wèntí.",
+      "exampleFr": "Nous discutons de ce problème."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous participez à un débat en classe sur les avantages et les inconvénients de vivre en ville ou à la campagne. Votre objectif est de présenter une argumentation équilibrée en utilisant des structures comme 一方面...另一方..., 首先...其次...最后..., et 不但...而且... pour montrer les différents aspects du sujet.",
+      "goals": [
+        "Structurer une argumentation claire et équilibrée en mandarin.",
+        "Utiliser des connecteurs logiques pour lier vos idées.",
+        "Renforcer vos prises de parole en public en chinois."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant entre 王明 et 李华. Ils discutent des avantages et des inconvénients de vivre en ville ou à la campagne. Repérez les structures utilisées pour équilibrer leurs arguments. Ne le traduisez pas encore.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你觉得住在城里好还是住在乡下好？",
+          "pinyin": "Lǐ Huá, nǐ juéde zhù zài chéng lǐ hǎo háishì zhù zài xiāngxià hǎo?",
+          "translation": "Li Hua, penses-tu qu'il est préférable de vivre en ville ou à la campagne ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "一方面，城里有很多工作，而且车很多；另一方，城里的房钱很贵，空气也不好。",
+          "pinyin": "Yī fāngmiàn, chéng lǐ yǒu hěnduō gōngzuò, érqiě chē hěnduō; lìng yī fāng, chéng lǐ de fáng qián hěn guì, kōngqì yě bù hǎo.",
+          "translation": "D'une part, il y a beaucoup d'emplois en ville et beaucoup de voitures ; d'autre part, le loyer en ville est très cher et l'air n'est pas bon."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你说得对。首先，乡下的空气好，很安静；其次，乡下的生活压力小；最后，乡下的人都很友善。",
+          "pinyin": "Nǐ shuō de duì. Shǒuxiān, xiāngxià de kōngqì hǎo, hěn ānjìng; qícì, xiāngxià de shēnghuó yālì xiǎo; zuìhòu, xiāngxià de rén dōu hěn yǒushàn.",
+          "translation": "Tu as raison. D'abord, l'air à la campagne est bon et c'est très calme ; ensuite, la pression de la vie y est faible ; enfin, les gens à la campagne sont très amicaux."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "但是，乡下的学校和医院不如城里。不但孩子上学不方便，而且看病也很麻烦。",
+          "pinyin": "Dànshì, xiāngxià de xuéxiào hé yīyuàn bùrú chéng lǐ. Bùdàn háizi shàngxué bù fāngbiàn, érqiě kànbìng yě hěn máfan.",
+          "translation": "Cependant, les écoles et les hôpitaux à la campagne ne sont pas aussi bons qu'en ville. Non seulement il est peu pratique pour les enfants d'aller à l'école, mais il est aussi très compliqué de se faire soigner."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "根据我的经验，每个地方都有好和不好。我们要坚持自己的想法，但也要听别人的意见。",
+          "pinyin": "Gēnjù wǒ de jīngyàn, měi gè dìfang dōu yǒu hǎo hé bù hǎo. Wǒmen yào jiānchí zìjǐ de xiǎngfǎ, dàn yě yào tīng biérén de yìjiàn.",
+          "translation": "Selon mon expérience, chaque endroit a ses avantages et ses inconvénients. Nous devons maintenir nos propres idées, mais aussi écouter les opinions des autres."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你说得对。讨论这个问题让我更明白两种生活。",
+          "pinyin": "Nǐ shuō de duì. Tǎolùn zhège wèntí ràng wǒ gèng míngbai liǎng zhǒng shēnghuó.",
+          "translation": "Tu as raison. Discuter de ce problème m'a permis de mieux comprendre les deux modes de vie."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "方",
+        "首",
+        "且",
+        "根",
+        "坚",
+        "另",
+        "其",
+        "而"
+      ],
+      "grammar": [
+        {
+          "point": "一方面...另一方... (D'une part... d'autre part...)",
+          "explanation": "Cette structure permet de présenter deux aspects opposés ou complémentaires d'une même idée. Elle est très utile pour équilibrer une argumentation. Attention : en français, on utilise souvent 'd'un côté... de l'autre...', mais en mandarin, on utilise toujours 一方面 pour la première partie et 另一方 pour la seconde. Erreur typique du francophone : oublier 另 et dire seulement 一方面...一方面... (incorrect).",
+          "examples": [
+            {
+              "chinese": "一方面，这个工作很好；另一方，这个工作也很难。",
+              "pinyin": "Yī fāngmiàn, zhège gōngzuò hěn hǎo; lìng yī fāng, zhège gōngzuò yě hěn nán.",
+              "translation": "D'une part, ce travail est très bien ; d'autre part, ce travail est aussi très difficile."
+            }
+          ]
+        },
+        {
+          "point": "首先...其次...最后... (D'abord... ensuite... enfin...)",
+          "explanation": "Cette structure permet d'organiser une argumentation en plusieurs étapes. Elle est souvent utilisée pour énumérer des points dans un ordre logique. Erreur typique du francophone : confondre 其次 (qícì, ensuite) avec 第二 (dì èr, deuxième), qui est plus formel et moins courant dans ce contexte.",
+          "examples": [
+            {
+              "chinese": "首先，我们问；其次，我们找；最后，我们做决定。",
+              "pinyin": "Shǒuxiān, wǒmen wèn; qícì, wǒmen zhǎo; zuìhòu, wǒmen zuò juédìng.",
+              "translation": "D'abord, nous demandons ; ensuite, nous cherchons ; enfin, nous prenons une décision."
+            }
+          ]
+        },
+        {
+          "point": "不但...而且... (Non seulement... mais aussi...)",
+          "explanation": "Cette structure permet d'ajouter une information supplémentaire qui renforce l'idée précédente. Elle est souvent utilisée pour insister sur un point. Erreur typique du francophone : oublier 而且 et dire seulement 不但...也... (incorrect).",
+          "examples": [
+            {
+              "chinese": "他不但会说汉语，而且说得很好。",
+              "pinyin": "Tā bùdàn huì shuō hànyǔ, érqiě shuō de hěn hǎo.",
+              "translation": "Il ne parle pas seulement mandarin, mais il le parle aussi très bien."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 首 (shǒu) est le 3e ton (descendant-montant) : commencez par baisser légèrement la voix avant de la remonter, comme dans 'hein ?' en français.",
+        "Le ton de 另 (lìng) est le 4e ton (descendant) : prononcez-le de manière abrupte et claire, comme pour dire 'non !'.",
+        "Le ton de 且 (qiě) est le 3e ton (descendant-montant) : commencez bas et remontez, comme pour exprimer un doute."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et structures de cette leçon s'appuient sur des notions déjà acquises pour enrichir votre capacité à argumenter. Voici comment ils se connectent à vos connaissances précédentes :",
+      "links": [
+        {
+          "from": "方 (fāng)",
+          "relation": "COMPOSE",
+          "to": "方法 (méthode, déjà connu)"
+        },
+        {
+          "from": "首 (shǒu)",
+          "relation": "DONNE_LE_SON",
+          "to": "首先 (d'abord, nouveau mot)"
+        },
+        {
+          "from": "另 (lìng)",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "别 (bié, ne pas, déjà connu)"
+        },
+        {
+          "from": "不但...而且...",
+          "relation": "CONTRASTE_AVEC",
+          "to": "虽然...但是... (bien que... mais..., déjà connu)"
+        },
+        {
+          "from": "根据 (gēnjù)",
+          "relation": "RADICAL_DE",
+          "to": "根 (gēn, racine, nouveau caractère)"
+        },
+        {
+          "from": "坚 (jiān)",
+          "relation": "COMPOSE",
+          "to": "坚持 (persévérer, nouveau mot)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Préparez un court discours (5-6 phrases) pour expliquer les avantages et les inconvénients d'étudier le mandarin. Utilisez 一方面...另一方... et 不但...而且... pour structurer votre argumentation.",
+          "hint": "Pensez aux aspects comme les opportunités professionnelles, la culture, la difficulté, et les bénéfices personnels. Exemple de début : 一方面，学汉语可以...",
+          "example": {
+            "chinese": "一方面，学汉语可以找到好工作；另一方，学汉语也很难。不但可以了解中国文化，而且还可以交到很多朋友。",
+            "pinyin": "Yī fāngmiàn, xué hànyǔ kěyǐ zhǎodào hǎo gōngzuò; lìng yī fāng, xué hànyǔ yě hěn nán. Bùdàn kěyǐ liǎojiě Zhōngguó wénhuà, érqiě hái kěyǐ jiāodào hěnduō péngyǒu.",
+            "translation": "D'une part, apprendre le mandarin permet de trouver un bon emploi ; d'autre part, apprendre le mandarin est aussi très difficile. Non seulement cela permet de comprendre la culture chinoise, mais cela permet aussi de se faire beaucoup d'amis."
+          }
+        },
+        {
+          "instruction": "Imaginez que vous débattez avec un ami sur les avantages de voyager ou de rester chez soi. Utilisez 首先...其次...最后... pour organiser vos arguments en faveur de voyager.",
+          "hint": "Pensez aux aspects comme les nouvelles expériences, les coûts, et les rencontres. Exemple de début : 首先，旅行可以...",
+          "example": {
+            "chinese": "首先，旅行可以看到新地方；其次，旅行可以学到新东西；最后，旅行可以认识新朋友。",
+            "pinyin": "Shǒuxiān, lǚxíng kěyǐ kàndào xīn dìfang; qícì, lǚxíng kěyǐ xué dào xīn dōngxi; zuìhòu, lǚxíng kěyǐ rènshi xīn péngyǒu.",
+            "translation": "D'abord, voyager permet de voir de nouveaux endroits ; ensuite, voyager permet d'apprendre de nouvelles choses ; enfin, voyager permet de rencontrer de nouveaux amis."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à structurer une argumentation équilibrée en mandarin en utilisant des connecteurs logiques comme 一方面...另一方..., 首先...其次...最后..., et 不但...而且.... Ces structures vous permettent de présenter vos idées de manière claire et organisée, tout en montrant les différents aspects d'un sujet. N'oubliez pas de pratiquer ces structures dans des contextes variés pour les maîtriser pleinement.",
+      "reviewWords": [
+        "一方面...另一方...",
+        "首先...其次...最后...",
+        "不但...而且...",
+        "根据",
+        "坚持",
+        "观点",
+        "讨论"
+      ],
+      "reviewHanzi": [
+        "方",
+        "首",
+        "且",
+        "根",
+        "坚",
+        "另",
+        "其",
+        "而"
+      ]
+    }
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "slug": "exister-en-un-lieu",
+  "title": "Où est-ce ? Exister en un lieu (有 vs 在)",
+  "mission": "Décrire ce qui se trouve dans une pièce et localiser un objet avec précision",
+  "level": "A2",
+  "order": 19,
+  "hanzi": [
+    {
+      "character": "桌",
+      "pinyin": "zhuō",
+      "meaning": "table",
+      "hskLevel": 1,
+      "radical": "木",
+      "components": [
+        "木",
+        "日",
+        "卜"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une table (木, bois) avec un objet dessus (日). Le composant 卜 pourrait évoquer une surface plane. L'origine exacte est débattue.",
+      "family": [
+        "木 (mù, bois)"
+      ],
+      "commonErrors": [
+        "Confondre avec 卓 (zhuó, éminent) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "椅",
+      "pinyin": "yǐ",
+      "meaning": "chaise",
+      "hskLevel": 1,
+      "radical": "木",
+      "components": [
+        "木",
+        "奇"
+      ],
+      "etymology": "Composé de 木 (bois) et 奇 (qí, étrange), ce dernier jouant un rôle phonétique. L'origine sémantique est incertaine, mais 奇 pourrait évoquer la forme d'une chaise.",
+      "family": [
+        "木 (mù, bois)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'qí' au lieu de 'yǐ' en raison du composant 奇."
+      ]
+    },
+    {
+      "character": "灯",
+      "pinyin": "dēng",
+      "meaning": "lampe",
+      "hskLevel": 2,
+      "radical": "火",
+      "components": [
+        "火",
+        "丁"
+      ],
+      "etymology": "Composé de 火 (feu) et 丁 (dīng, clou), ce dernier jouant un rôle phonétique. À l'origine, ce caractère désignait une lampe à huile, d'où le radical 火.",
+      "family": [
+        "火 (huǒ, feu)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'dīng' au lieu de 'dēng' en raison du composant 丁."
+      ]
+    },
+    {
+      "character": "笔",
+      "pinyin": "bǐ",
+      "meaning": "stylo, crayon",
+      "hskLevel": 1,
+      "radical": "竹",
+      "components": [
+        "竹",
+        "毛"
+      ],
+      "etymology": "Composé de 竹 (bambou) et 毛 (poil). À l'origine, les pinceaux étaient fabriqués avec des poils d'animaux fixés à un manche en bambou.",
+      "family": [
+        "竹 (zhú, bambou)"
+      ],
+      "commonErrors": [
+        "Oublier le ton descendant-montant (3e ton) et prononcer 'bí'."
+      ]
+    },
+    {
+      "character": "包",
+      "pinyin": "bāo",
+      "meaning": "sac, emballer",
+      "hskLevel": 1,
+      "radical": "勹",
+      "components": [
+        "勹",
+        "巳"
+      ],
+      "etymology": "Ce caractère représente un objet enveloppé (勹, envelopper) avec quelque chose à l'intérieur (巳, ancien caractère pour 'soi').",
+      "family": [
+        "勹 (bāo, envelopper)"
+      ],
+      "commonErrors": [
+        "Confondre avec 抱 (bào, étreindre) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "边",
+      "pinyin": "biān",
+      "meaning": "côté, bord",
+      "hskLevel": 1,
+      "radical": "辶",
+      "components": [
+        "力",
+        "辶"
+      ],
+      "etymology": "Composé de 力 (force) et 辶 (mouvement). L'idée traditionnelle est qu'un 'côté' est un endroit où l'on peut se déplacer (辶) avec un certain effort (力).",
+      "family": [
+        "辶 (chuò, mouvement)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'piān' au lieu de 'biān' en raison de la similarité avec 片."
+      ]
+    },
+    {
+      "character": "外",
+      "pinyin": "wài",
+      "meaning": "extérieur, dehors",
+      "hskLevel": 1,
+      "radical": "夕",
+      "components": [
+        "夕",
+        "卜"
+      ],
+      "etymology": "Composé de 夕 (soir) et 卜 (divination). L'origine est incertaine, mais il pourrait évoquer l'idée de ce qui est en dehors du foyer (représenté par 夕).",
+      "family": [
+        "夕 (xī, soir)"
+      ],
+      "commonErrors": [
+        "Confondre avec 处 (chù, endroit) en raison de la similarité visuelle."
+      ]
+    },
+    {
+      "character": "旁",
+      "pinyin": "páng",
+      "meaning": "à côté, voisin",
+      "hskLevel": 2,
+      "radical": "方",
+      "components": [
+        "立",
+        "方",
+        "冖"
+      ],
+      "etymology": "Composé de 方 (direction) et d'autres éléments évoquant la proximité. Le radical 方 suggère la notion de lieu ou d'orientation.",
+      "family": [
+        "方 (fāng, direction)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'bàng' au lieu de 'páng' en raison de la similarité avec 傍."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "桌",
+      "pinyin": "zhuō",
+      "meaning": "table",
+      "exampleZh": "桌上有书。",
+      "examplePinyin": "Zhuō shàng yǒu shū.",
+      "exampleFr": "Il y a un livre sur la table."
+    },
+    {
+      "word": "椅",
+      "pinyin": "yǐ",
+      "meaning": "chaise",
+      "exampleZh": "椅在桌旁。",
+      "examplePinyin": "Yǐ zài zhuō páng.",
+      "exampleFr": "La chaise est à côté de la table."
+    },
+    {
+      "word": "书包",
+      "pinyin": "shūbāo",
+      "meaning": "sac (pour livres)",
+      "exampleZh": "书包在椅下。",
+      "examplePinyin": "Shūbāo zài yǐ xià.",
+      "exampleFr": "Le sac est sous la chaise."
+    },
+    {
+      "word": "灯",
+      "pinyin": "dēng",
+      "meaning": "lampe",
+      "exampleZh": "灯在桌上。",
+      "examplePinyin": "Dēng zài zhuō shàng.",
+      "exampleFr": "La lampe est sur la table."
+    },
+    {
+      "word": "笔",
+      "pinyin": "bǐ",
+      "meaning": "stylo, crayon",
+      "exampleZh": "笔在书包里。",
+      "examplePinyin": "Bǐ zài shūbāo lǐ.",
+      "exampleFr": "Le stylo est dans le sac."
+    },
+    {
+      "word": "上面",
+      "pinyin": "shàngmiàn",
+      "meaning": "dessus, sur",
+      "exampleZh": "书在桌上面。",
+      "examplePinyin": "Shū zài zhuō shàngmiàn.",
+      "exampleFr": "Le livre est sur la table."
+    },
+    {
+      "word": "下面",
+      "pinyin": "xiàmiàn",
+      "meaning": "dessous, sous",
+      "exampleZh": "包在椅下面。",
+      "examplePinyin": "Bāo zài yǐ xiàmiàn.",
+      "exampleFr": "Le sac est sous la chaise."
+    },
+    {
+      "word": "外面",
+      "pinyin": "wàimiàn",
+      "meaning": "dehors, à l'extérieur",
+      "exampleZh": "车在房外面。",
+      "examplePinyin": "Chē zài fáng wàimiàn.",
+      "exampleFr": "La voiture est dehors."
+    },
+    {
+      "word": "旁边",
+      "pinyin": "pángbiān",
+      "meaning": "à côté",
+      "exampleZh": "医院在学校旁。",
+      "examplePinyin": "Yīyuàn zài xuéxiào páng.",
+      "exampleFr": "L'hôpital est à côté de l'école."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "安娜和马克在安娜的房间。他们找东西准备去学校。安娜说房间里有什么，马克问东西在哪儿。",
+      "goals": [
+        "用‘地方 + 有 + 东西’说房间里有什么。",
+        "用‘东西 + 在 + 地方’说东西在哪儿。",
+        "用‘上/下/里/外/旁’问和回答‘在哪儿？’"
+      ]
+    },
+    "discovery": {
+      "instructions": "看下面的对话。安娜和马克说什么东西在哪儿？找出说地方的词（上、下、里、旁）。",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "马克，我的本子在哪儿？",
+          "pinyin": "Mǎkè, wǒ de běnzi zài nǎr?",
+          "translation": "Marc, où est mon cahier ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "本子？桌上有一个本子，是你的吗？",
+          "pinyin": "Běnzi? Zhuō shàng yǒu yī ge běnzi, shì nǐ de ma?",
+          "translation": "Un cahier ? Il y a un cahier sur la table, c'est le tien ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "不是，我的本子是新的。桌上的不是新的。",
+          "pinyin": "Bù shì, wǒ de běnzi shì xīn de. Zhuō shàng de bù shì xīn de.",
+          "translation": "Non, mon cahier est neuf. Celui sur la table n'est pas neuf."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "啊，椅下有一个新的本子！",
+          "pinyin": "À, yǐ xià yǒu yī ge xīn de běnzi!",
+          "translation": "Ah, il y a un cahier neuf sous la chaise !"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "好！我的笔在哪儿？",
+          "pinyin": "Hǎo! Wǒ de bǐ zài nǎr?",
+          "translation": "Bien ! Où est mon stylo ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "笔在书包里。",
+          "pinyin": "Bǐ zài shūbāo lǐ.",
+          "translation": "Le stylo est dans le sac."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "灯呢？",
+          "pinyin": "Dēng ne?",
+          "translation": "Et la lampe ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "灯在桌上面，书的旁边。",
+          "pinyin": "Dēng zài zhuō shàngmiàn, shū de pángbiān.",
+          "translation": "La lampe est sur la table, à côté du livre."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "桌",
+        "椅",
+        "灯",
+        "笔",
+        "包",
+        "边",
+        "外",
+        "旁"
+      ],
+      "grammar": [
+        {
+          "point": "Phrase existentielle : Lieu + 有 + Objet",
+          "explanation": "Cette structure décrit ce qui existe dans un lieu. Le lieu vient avant 有. Attention : en français, on dit souvent 'il y a un livre sur la table', mais en chinois, on dit '桌上有书' (la table sur a un livre).",
+          "examples": [
+            {
+              "chinese": "房里有一个椅。",
+              "pinyin": "Fáng lǐ yǒu yī ge yǐ.",
+              "translation": "Il y a une chaise dans la pièce."
+            },
+            {
+              "chinese": "桌下有一个包。",
+              "pinyin": "Zhuō xià yǒu yī ge bāo.",
+              "translation": "Il y a un sac sous la table."
+            }
+          ]
+        },
+        {
+          "point": "Phrase de position : Objet + 在 + Lieu",
+          "explanation": "Cette structure localise un objet précis. 在 fonctionne comme 'se trouver'. Attention : le francophone oublie souvent 在 et dit '书桌上' au lieu de '书在桌上'.",
+          "examples": [
+            {
+              "chinese": "笔在书包里。",
+              "pinyin": "Bǐ zài shūbāo lǐ.",
+              "translation": "Le stylo est dans le sac."
+            },
+            {
+              "chinese": "车在房外。",
+              "pinyin": "Chē zài fáng wài.",
+              "translation": "La voiture est dehors."
+            }
+          ]
+        },
+        {
+          "point": "Localisateurs : 上/下/里/外/旁",
+          "explanation": "Ces mots précisent la position. Ils viennent après le lieu (ex : 桌上, 椅下). Attention : le francophone inverse souvent l'ordre et dit '上桌' au lieu de '桌上'.",
+          "examples": [
+            {
+              "chinese": "书在桌上。",
+              "pinyin": "Shū zài zhuō shàng.",
+              "translation": "Le livre est sur la table."
+            },
+            {
+              "chinese": "包在椅下。",
+              "pinyin": "Bāo zài yǐ xià.",
+              "translation": "Le sac est sous la chaise."
+            },
+            {
+              "chinese": "笔在书包里。",
+              "pinyin": "Bǐ zài shūbāo lǐ.",
+              "translation": "Le stylo est dans le sac."
+            },
+            {
+              "chinese": "车在房外。",
+              "pinyin": "Chē zài fáng wài.",
+              "translation": "La voiture est dehors."
+            },
+            {
+              "chinese": "医院在学校旁。",
+              "pinyin": "Yīyuàn zài xuéxiào páng.",
+              "translation": "L'hôpital est à côté de l'école."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le 3e ton (descendant-montant) : Dans 椅 (yǐ), 笔 (bǐ), et 里 (lǐ), le ton doit descendre puis remonter. Évitez de le prononcer comme un ton plat.",
+        "Le son 'i' dans 笔 (bǐ) : Ce son est plus fermé qu'en français. Ne le prolongez pas comme dans 'lit'.",
+        "Les nasales : Dans 旁边 (pángbiān), nasalisez bien le 'an' comme dans 'an' français, pas comme 'ang'."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères sont liés à ce que vous connaissez déjà :",
+      "links": [
+        {
+          "from": "桌 (zhuō)",
+          "relation": "RADICAL_DE",
+          "to": "木 (mù, bois)"
+        },
+        {
+          "from": "椅 (yǐ)",
+          "relation": "RADICAL_DE",
+          "to": "木 (mù, bois)"
+        },
+        {
+          "from": "灯 (dēng)",
+          "relation": "RADICAL_DE",
+          "to": "火 (huǒ, feu)"
+        },
+        {
+          "from": "笔 (bǐ)",
+          "relation": "RADICAL_DE",
+          "to": "竹 (zhú, bambou)"
+        },
+        {
+          "from": "边 (biān)",
+          "relation": "RADICAL_DE",
+          "to": "辶 (chuò, mouvement)"
+        },
+        {
+          "from": "有 (yǒu)",
+          "relation": "CONTRASTE_AVEC",
+          "to": "在 (zài) (有 décrit l'existence, 在 localise un objet)"
+        },
+        {
+          "from": "外 (wài)",
+          "relation": "COMPOSE",
+          "to": "外面 (wàimiàn, dehors)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "用‘地方 + 有 + 东西’说你的房间里有什么。用三个东西和两个地方（上、下、里）。",
+          "hint": "开始说‘我的房间里有...’。用桌、椅、书包、书、笔、灯。",
+          "example": {
+            "chinese": "我的房间里有一个桌和一个椅。桌上有书和灯。书包在椅下。",
+            "pinyin": "Wǒ de fángjiān lǐ yǒu yī ge zhuō hé yī ge yǐ. Zhuō shàng yǒu shū hé dēng. Shūbāo zài yǐ xià.",
+            "translation": "Dans ma chambre, il y a une table et une chaise. Sur la table, il y a un livre et une lampe. Le sac est sous la chaise."
+          }
+        },
+        {
+          "instruction": "用‘东西 + 在 + 地方’说三个东西在哪儿。用两个地方（旁、里）。",
+          "hint": "开始说‘我的...在...’。用笔、书、书包、桌、椅。",
+          "example": {
+            "chinese": "我的笔在书包里。书在桌上。书包在椅旁。",
+            "pinyin": "Wǒ de bǐ zài shūbāo lǐ. Shū zài zhuō shàng. Shūbāo zài yǐ páng.",
+            "translation": "Mon stylo est dans le sac. Le livre est sur la table. Le sac est à côté de la chaise."
+          }
+        },
+        {
+          "instruction": "问一个朋友他的东西在哪儿。用‘...在哪儿？’和‘...在...’。",
+          "hint": "用书、笔、书包。例子：‘你的书在哪儿？’ ‘我的书在桌上。’",
+          "example": {
+            "chinese": "A: 你的笔在哪儿？ B: 我的笔在书包里。 A: 你的书包在哪儿？ B: 我的书包在椅下。",
+            "pinyin": "A: Nǐ de bǐ zài nǎr? B: Wǒ de bǐ zài shūbāo lǐ. A: Nǐ de shūbāo zài nǎr? B: Wǒ de shūbāo zài yǐ xià.",
+            "translation": "A : Où est ton stylo ? B : Mon stylo est dans le sac. A : Où est ton sac ? B : Mon sac est sous la chaise."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à décrire ce qui existe dans un lieu avec 'Lieu + 有 + Objet' (ex : 桌上有书) et à localiser un objet avec 'Objet + 在 + Lieu' (ex : 书在桌上). Vous avez aussi appris les localisateurs 上, 下, 里, 外 et 旁 pour préciser la position. Rappelez-vous : 有 décrit l'existence, 在 localise. Attention à ne pas inverser l'ordre des mots ou oublier 在.",
+      "reviewWords": [
+        "桌",
+        "椅",
+        "书包",
+        "灯",
+        "笔",
+        "上面",
+        "下面",
+        "外面",
+        "旁边"
+      ],
+      "reviewHanzi": [
+        "桌",
+        "椅",
+        "灯",
+        "笔",
+        "包",
+        "边",
+        "外",
+        "旁"
+      ]
+    }
+  }
+}

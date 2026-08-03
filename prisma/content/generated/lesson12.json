@@ -1,0 +1,434 @@
+{
+  "slug": "ou-j-habite",
+  "title": "Où j'habite",
+  "mission": "Décrire son logement et sa ville",
+  "level": "A1",
+  "order": 12,
+  "hanzi": [
+    {
+      "character": "房",
+      "pinyin": "fáng",
+      "meaning": "maison, pièce",
+      "hskLevel": 1,
+      "radical": "户 (porte, foyer)",
+      "components": [
+        "户",
+        "方"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une maison (户) avec un espace ouvert (方), symbolisant une pièce ou un logement. Le radical 户 suggère un lien avec l'idée de foyer ou d'habitation.",
+      "family": [
+        "房间 (pièce)"
+      ],
+      "commonErrors": [
+        "Confusion avec 房间 (fángjiān) pour 'pièce'."
+      ]
+    },
+    {
+      "character": "间",
+      "pinyin": "jiān",
+      "meaning": "pièce, intervalle",
+      "hskLevel": 1,
+      "radical": "门 (porte)",
+      "components": [
+        "门",
+        "日"
+      ],
+      "etymology": "Ce caractère combine 门 (porte) et 日 (soleil), évoquant l'idée d'un espace délimité par des portes où la lumière (soleil) pénètre, d'où le sens de 'pièce' ou 'intervalle'.",
+      "family": [
+        "房间 (pièce)"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (2e ton montant au lieu de 1er ton)."
+      ]
+    },
+    {
+      "character": "住",
+      "pinyin": "zhù",
+      "meaning": "habiter, vivre",
+      "hskLevel": 1,
+      "radical": "亻 (personne)",
+      "components": [
+        "亻",
+        "主"
+      ],
+      "etymology": "Le radical 亻 (personne) combiné à 主 (maître) suggère une personne qui s'établit quelque part comme maître des lieux, d'où le sens d'habiter. L'origine exacte est débattue.",
+      "family": [
+        "住在 (habiter à)"
+      ],
+      "commonErrors": [
+        "Oubli du ton (4e ton descendant) et confusion avec 主 (zhǔ, maître)."
+      ]
+    },
+    {
+      "character": "城",
+      "pinyin": "chéng",
+      "meaning": "ville, muraille",
+      "hskLevel": 2,
+      "radical": "土 (terre)",
+      "components": [
+        "土",
+        "成"
+      ],
+      "etymology": "Ce caractère combine 土 (terre) et 成 (accomplir), évoquant l'idée d'une construction achevée, comme une muraille ou une ville fortifiée. Le radical 土 renforce l'idée de construction.",
+      "family": [
+        "城市 (ville)"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (2e ton montant au lieu de 2e ton)."
+      ]
+    },
+    {
+      "character": "市",
+      "pinyin": "shì",
+      "meaning": "marché, ville",
+      "hskLevel": 1,
+      "radical": "巾 (tissu)",
+      "components": [
+        "亠",
+        "巾"
+      ],
+      "etymology": "Ce caractère représente un marché (symbolisé par 巾, un tissu ou une bannière) sous un toit (亠). Il a ensuite pris le sens de 'ville' en raison de l'importance des marchés dans les centres urbains.",
+      "family": [
+        "城市 (ville)"
+      ],
+      "commonErrors": [
+        "Confusion avec 是 (shì, être) en raison de la similitude des prononciations."
+      ]
+    },
+    {
+      "character": "楼",
+      "pinyin": "lóu",
+      "meaning": "immeuble, étage",
+      "hskLevel": 2,
+      "radical": "木 (bois)",
+      "components": [
+        "木",
+        "米",
+        "女"
+      ],
+      "etymology": "Ce caractère combine 木 (bois) et 婁 (lǚ, un ancien caractère signifiant 'multitude'), évoquant une structure en bois à plusieurs niveaux, d'où le sens d'immeuble ou d'étage. L'origine exacte est complexe et débattue.",
+      "family": [
+        "楼上 (étage supérieur)",
+        "楼下 (étage inférieur)"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (2e ton montant au lieu de 2e ton)."
+      ]
+    },
+    {
+      "character": "门",
+      "pinyin": "mén",
+      "meaning": "porte",
+      "hskLevel": 1,
+      "radical": "门 (porte)",
+      "components": [
+        "门"
+      ],
+      "etymology": "Ce caractère est une représentation stylisée d'une porte à deux battants. Il sert également de radical pour d'autres caractères liés aux portes ou aux entrées.",
+      "family": [
+        "门口 (entrée)"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton (2e ton montant au lieu de 2e ton)."
+      ]
+    },
+    {
+      "character": "里",
+      "pinyin": "lǐ",
+      "meaning": "dans, intérieur",
+      "hskLevel": 1,
+      "radical": "里 (village, unité de mesure)",
+      "components": [
+        "甲",
+        "土"
+      ],
+      "etymology": "À l'origine, ce caractère représentait un champ (田) avec une unité de mesure (土), symbolisant un espace délimité. Il a ensuite pris le sens d'intérieur ou de 'dans'.",
+      "family": [
+        "这里 (ici)"
+      ],
+      "commonErrors": [
+        "Confusion avec 理 (lǐ, raison) en raison de la similitude des caractères."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "房间",
+      "pinyin": "fángjiān",
+      "meaning": "pièce, chambre",
+      "exampleZh": "我的房间有水。",
+      "examplePinyin": "Wǒ de fángjiān yǒu shuǐ.",
+      "exampleFr": "Dans ma chambre, il y a de l'eau."
+    },
+    {
+      "word": "住在",
+      "pinyin": "zhù zài",
+      "meaning": "habiter à",
+      "exampleZh": "我住在这儿。",
+      "examplePinyin": "Wǒ zhù zài zhèr.",
+      "exampleFr": "J'habite ici."
+    },
+    {
+      "word": "楼上",
+      "pinyin": "lóu shàng",
+      "meaning": "étage supérieur, en haut",
+      "exampleZh": "他的房间在楼上。",
+      "examplePinyin": "Tā de fángjiān zài lóu shàng.",
+      "exampleFr": "Sa chambre est à l'étage supérieur."
+    },
+    {
+      "word": "楼下",
+      "pinyin": "lóu xià",
+      "meaning": "étage inférieur, en bas",
+      "exampleZh": "楼下有公园。",
+      "examplePinyin": "Lóu xià yǒu gōngyuán.",
+      "exampleFr": "Il y a un parc en bas de l'immeuble."
+    },
+    {
+      "word": "城市",
+      "pinyin": "chéngshì",
+      "meaning": "ville",
+      "exampleZh": "这是一个大城市。",
+      "examplePinyin": "Zhè shì yī gè dà chéngshì.",
+      "exampleFr": "C'est une grande ville."
+    },
+    {
+      "word": "门口",
+      "pinyin": "ménkǒu",
+      "meaning": "entrée, porte",
+      "exampleZh": "他在门口。",
+      "examplePinyin": "Tā zài ménkǒu.",
+      "exampleFr": "Il est à l'entrée."
+    },
+    {
+      "word": "房",
+      "pinyin": "fáng",
+      "meaning": "maison",
+      "exampleZh": "这是我的房。",
+      "examplePinyin": "Zhè shì wǒ de fáng.",
+      "exampleFr": "C'est ma maison."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Anna et Marc discutent de leur logement. Anna décrit sa chambre et son immeuble, tandis que Marc parle de sa maison.",
+      "goals": [
+        "Décrire son logement (pièces, étages).",
+        "Utiliser 上 et 里 pour situer des objets."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue entre Anna et Marc. Repérez où ils habitent, quelles pièces ils décrivent et quels objets ils mentionnent. Notez les mots pour 'sur', 'dans' et 'habiter à'.",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "马克，你住在哪儿？",
+          "pinyin": "Mǎkè, nǐ zhù zài nǎr?",
+          "translation": "Marc, où habites-tu ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "我住在这儿，我的房很大。你呢？",
+          "pinyin": "Wǒ zhù zài zhèr, wǒ de fáng hěn dà. Nǐ ne?",
+          "translation": "J'habite ici, ma maison est très grande. Et toi ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我住在楼上，我的房间不大。",
+          "pinyin": "Wǒ zhù zài lóu shàng, wǒ de fángjiān bù dà.",
+          "translation": "J'habite à l'étage supérieur, ma chambre n'est pas grande."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "你的房间里有什么？",
+          "pinyin": "Nǐ de fángjiān lǐ yǒu shénme?",
+          "translation": "Qu'y a-t-il dans ta chambre ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "房间里有水和茶。书在桌上。",
+          "pinyin": "Fángjiān lǐ yǒu shuǐ hé chá. Shū zài zhuō shàng.",
+          "translation": "Dans la chambre, il y a de l'eau et du thé. Le livre est sur la table."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "楼下有公园吗？",
+          "pinyin": "Lóu xià yǒu gōngyuán ma?",
+          "translation": "Y a-t-il un parc en bas de ton immeuble ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "有，楼下有公园。",
+          "pinyin": "Yǒu, lóu xià yǒu gōngyuán.",
+          "translation": "Oui, il y a un parc en bas."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "太好了！我喜欢公园。",
+          "pinyin": "Tài hǎo le! Wǒ xǐhuān gōngyuán.",
+          "translation": "Super ! J'aime les parcs."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "房",
+        "间",
+        "住",
+        "城",
+        "市",
+        "楼",
+        "门",
+        "里"
+      ],
+      "grammar": [
+        {
+          "point": "住在 (habiter à)",
+          "explanation": "La structure 住在 + lieu permet d'indiquer où l'on habite. Attention : en français, on dit 'habiter à Paris', mais en chinois, on utilise 住在 sans préposition supplémentaire. Erreur typique : dire '我住这儿' (wǒ zhù zhèr) sans 在.",
+          "examples": [
+            {
+              "chinese": "我住在这儿。",
+              "pinyin": "Wǒ zhù zài zhèr.",
+              "translation": "J'habite ici."
+            },
+            {
+              "chinese": "他住在楼上。",
+              "pinyin": "Tā zhù zài lóu shàng.",
+              "translation": "Il habite à l'étage supérieur."
+            }
+          ]
+        },
+        {
+          "point": "有 existentiel (房间里有...)",
+          "explanation": "La structure lieu + 里/上 + 有 + objet permet de décrire ce qui se trouve dans un lieu. Contrairement au français, le sujet (le lieu) précède toujours 有. Erreur typique : dire '有水在房间里' (yǒu shuǐ zài fángjiān lǐ) au lieu de '房间里有水' (fángjiān lǐ yǒu shuǐ).",
+          "examples": [
+            {
+              "chinese": "房间里有水。",
+              "pinyin": "Fángjiān lǐ yǒu shuǐ.",
+              "translation": "Dans la chambre, il y a de l'eau."
+            },
+            {
+              "chinese": "桌上有书。",
+              "pinyin": "Zhuō shàng yǒu shū.",
+              "translation": "Sur la table, il y a un livre."
+            }
+          ]
+        },
+        {
+          "point": "Localisateurs 上 et 里",
+          "explanation": "上 signifie 'sur' ou 'dessus', tandis que 里 signifie 'dans' ou 'à l'intérieur'. Ils se placent après le lieu pour indiquer la position. Erreur typique : inverser 上 et 里 (ex : dire '床里' au lieu de '床上' pour 'sur le lit').",
+          "examples": [
+            {
+              "chinese": "书在桌上。",
+              "pinyin": "Shū zài zhuō shàng.",
+              "translation": "Le livre est sur la table."
+            },
+            {
+              "chinese": "水在房间里。",
+              "pinyin": "Shuǐ zài fángjiān lǐ.",
+              "translation": "L'eau est dans la chambre."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "住 (zhù) : 4e ton descendant. Attention à ne pas le confondre avec 主 (zhǔ, maître), qui a un 3e ton.",
+        "里 (lǐ) : 3e ton descendant-montant. Veillez à bien marquer la montée en fin de ton.",
+        "楼 (lóu) : 2e ton montant. Ne pas le confondre avec 牛 (niú, vache)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots de cette leçon s'appuient sur des acquis précédents pour décrire des lieux et des positions. Voici les liens clés :",
+      "links": [
+        {
+          "from": "房",
+          "relation": "COMPOSE",
+          "to": "房间 (pièce)"
+        },
+        {
+          "from": "间",
+          "relation": "RADICAL_DE",
+          "to": "门 (porte)"
+        },
+        {
+          "from": "住",
+          "relation": "DONNE_LE_SON",
+          "to": "主 (zhǔ, maître)"
+        },
+        {
+          "from": "城",
+          "relation": "COMPOSE",
+          "to": "城市 (ville)"
+        },
+        {
+          "from": "市",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "是 (shì, être)"
+        },
+        {
+          "from": "上",
+          "relation": "CONTRASTE_AVEC",
+          "to": "下 (xià, sous)"
+        },
+        {
+          "from": "里",
+          "relation": "COMPOSE",
+          "to": "这里 (ici)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décris ta chambre en utilisant 房间里有... et 上/里 pour situer au moins deux objets.",
+          "hint": "Utilise des mots comme 水 (eau), 茶 (thé), 书 (livre). Exemple : 房间里有水。桌上有书。",
+          "example": {
+            "chinese": "我的房间里有水和茶。桌上有书。",
+            "pinyin": "Wǒ de fángjiān lǐ yǒu shuǐ hé chá. Zhuō shàng yǒu shū.",
+            "translation": "Dans ma chambre, il y a de l'eau et du thé. Sur la table, il y a un livre."
+          }
+        },
+        {
+          "instruction": "Dis où tu habites et décris ton logement en utilisant 住在 et 楼上/楼下 si nécessaire.",
+          "hint": "Utilise des mots comme 城市 (ville), 房 (maison), 楼 (immeuble), 大 (grand), 小 (petit). Exemple : 我住在这儿，我的房不大。",
+          "example": {
+            "chinese": "我住在楼上，我的房间很小。楼下有公园。",
+            "pinyin": "Wǒ zhù zài lóu shàng, wǒ de fángjiān hěn xiǎo. Lóu xià yǒu gōngyuán.",
+            "translation": "J'habite à l'étage supérieur, ma chambre est petite. En bas, il y a un parc."
+          }
+        },
+        {
+          "instruction": "Pose une question à un ami pour savoir où il habite et ce qu'il y a dans sa chambre.",
+          "hint": "Utilise 住在哪儿 (où habites-tu ?) et 房间里有什么 (qu'y a-t-il dans ta chambre ?). Exemple : 你住在哪儿？你的房间里有什么？",
+          "example": {
+            "chinese": "你住在哪儿？你的房间里有书吗？",
+            "pinyin": "Nǐ zhù zài nǎr? Nǐ de fángjiān lǐ yǒu shū ma?",
+            "translation": "Où habites-tu ? Y a-t-il un livre dans ta chambre ?"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à décrire votre logement en utilisant des structures clés comme 住在 (habiter à), lieu + 里/上 + 有 (il y a... dans/sur), et les localisateurs 上 (sur) et 里 (dans). Vous avez également découvert de nouveaux caractères liés aux pièces et aux immeubles.",
+      "reviewWords": [
+        "房间",
+        "住在",
+        "楼上",
+        "楼下",
+        "城市",
+        "门口",
+        "房"
+      ],
+      "reviewHanzi": [
+        "房",
+        "间",
+        "住",
+        "城",
+        "市",
+        "楼",
+        "门",
+        "里"
+      ]
+    }
+  }
+}

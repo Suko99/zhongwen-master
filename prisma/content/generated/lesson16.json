@@ -1,0 +1,349 @@
+{
+  "slug": "bilan-a1",
+  "title": "Bilan A1 : une journée complète",
+  "mission": "Décrire une journée type en utilisant tous les acquis A1, des activités du matin jusqu'au coucher.",
+  "level": "A1",
+  "order": 16,
+  "hanzi": [
+    {
+      "character": "早",
+      "pinyin": "zǎo",
+      "meaning": "matin, tôt",
+      "hskLevel": 1,
+      "radical": "日",
+      "components": [
+        "日",
+        "十"
+      ],
+      "etymology": "L'interprétation traditionnelle associe ce caractère au soleil (日) au-dessus de l'horizon, symbolisant le début de journée. Le trait 十 pourrait représenter la lumière qui se répand.",
+      "family": [
+        "早"
+      ],
+      "commonErrors": [
+        "Confusion avec 晚 (soir) en raison de leur opposition."
+      ]
+    },
+    {
+      "character": "睡",
+      "pinyin": "shuì",
+      "meaning": "dormir",
+      "hskLevel": 1,
+      "radical": "目",
+      "components": [
+        "目",
+        "垂"
+      ],
+      "etymology": "Combine le radical 目 (œil) avec 垂 (pendre), évoquant les paupières qui se ferment. La logique est à la fois sémantique (yeux fermés) et phonétique (垂 donne le son).",
+      "family": [
+        "睡觉"
+      ],
+      "commonErrors": [
+        "Prononcer *shuí* (qui ?) au lieu de *shuì* (4e ton)."
+      ]
+    },
+    {
+      "character": "觉",
+      "pinyin": "jiào",
+      "meaning": "sommeil",
+      "hskLevel": 1,
+      "radical": "见",
+      "components": [
+        "⺍",
+        "冖",
+        "见"
+      ],
+      "etymology": "Simplification de 覺. Le radical 见 (voir) suggère une perception, tandis que la partie supérieure évoque une couverture (冖), symbolisant l'idée de dormir.",
+      "family": [
+        "睡觉"
+      ],
+      "commonErrors": [
+        "Confusion entre *jiào* (sommeil) et *jué* (sentir)."
+      ]
+    },
+    {
+      "character": "洗",
+      "pinyin": "xǐ",
+      "meaning": "laver",
+      "hskLevel": 1,
+      "radical": "氵",
+      "components": [
+        "氵",
+        "先"
+      ],
+      "etymology": "Le radical 氵(eau) indique le lien avec les liquides. La partie 先 donne le son et suggère une priorité (laver avant de faire autre chose).",
+      "family": [
+        "洗"
+      ],
+      "commonErrors": [
+        "Prononcer *xī* (1er ton) au lieu de *xǐ* (3e ton)."
+      ]
+    },
+    {
+      "character": "班",
+      "pinyin": "bān",
+      "meaning": "travail, équipe",
+      "hskLevel": 1,
+      "radical": "王",
+      "components": [
+        "王",
+        "丿",
+        "丶"
+      ],
+      "etymology": "Représente à l'origine des groupes de personnes travaillant ensemble, d'où le sens de 'travail' ou 'équipe'.",
+      "family": [
+        "班"
+      ],
+      "commonErrors": [
+        "Confusion avec 半 (moitié) en raison de la prononciation proche *bàn*."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "早",
+      "pinyin": "zǎo",
+      "meaning": "matin",
+      "exampleZh": "今天早，我六点起。",
+      "examplePinyin": "Jīn tiān zǎo, wǒ liù diǎn qǐ.",
+      "exampleFr": "Ce matin, je me suis levé à six heures."
+    },
+    {
+      "word": "起",
+      "pinyin": "qǐ",
+      "meaning": "se lever",
+      "exampleZh": "我每天七点起。",
+      "examplePinyin": "Wǒ měi tiān qī diǎn qǐ.",
+      "exampleFr": "Je me lève à sept heures tous les jours."
+    },
+    {
+      "word": "睡觉",
+      "pinyin": "shuì jiào",
+      "meaning": "dormir",
+      "exampleZh": "他十一点睡觉。",
+      "examplePinyin": "Tā shí yī diǎn shuì jiào.",
+      "exampleFr": "Il dort à onze heures."
+    },
+    {
+      "word": "洗",
+      "pinyin": "xǐ",
+      "meaning": "laver",
+      "exampleZh": "我每天洗。",
+      "examplePinyin": "Wǒ měi tiān xǐ.",
+      "exampleFr": "Je me lave tous les jours."
+    },
+    {
+      "word": "班",
+      "pinyin": "bān",
+      "meaning": "travail",
+      "exampleZh": "我八点去班。",
+      "examplePinyin": "Wǒ bā diǎn qù bān.",
+      "exampleFr": "Je vais au travail à huit heures."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous rencontrez un ami chinois. Décrivez-lui votre journée typique, du réveil au coucher, en utilisant uniquement les mots que vous connaissez.",
+      "goals": [
+        "Décrire les heures et activités de la journée.",
+        "Utiliser les marqueurs temporels (早, 上午, 中午, 下午, 晚上).",
+        "Parler de ses habitudes quotidiennes.",
+        "Poser des questions sur les habitudes de l'autre."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez ce dialogue. Repérez les moments de la journée, les activités et les questions posées.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你今天几点起？",
+          "pinyin": "Lǐ Huá, nǐ jīn tiān jǐ diǎn qǐ?",
+          "translation": "Li Hua, à quelle heure t'es-tu levé aujourd'hui ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我早七点起。洗，吃饭。",
+          "pinyin": "Wǒ zǎo qī diǎn qǐ. Xǐ, chī fàn.",
+          "translation": "Je me suis levé à sept heures du matin. Je me suis lavé et j'ai mangé."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你几点去班？",
+          "pinyin": "Nǐ jǐ diǎn qù bān?",
+          "translation": "À quelle heure vas-tu au travail ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我八点半去班。中午十二点吃饭。",
+          "pinyin": "Wǒ bā diǎn bàn qù bān. Zhōng wǔ shí èr diǎn chī fàn.",
+          "translation": "Je vais au travail à huit heures et demie. À midi, je mange."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你晚上几点回家？",
+          "pinyin": "Nǐ wǎn shang jǐ diǎn huí jiā?",
+          "translation": "À quelle heure rentres-tu à la maison le soir ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我六点回家。看电视，十一点睡觉。",
+          "pinyin": "Wǒ liù diǎn huí jiā. Kàn diàn shì, shí yī diǎn shuì jiào.",
+          "translation": "Je rentre à la maison à six heures. Je regarde la télévision et je dors à onze heures."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你星期天也工作吗？",
+          "pinyin": "Nǐ xīng qī tiān yě gōng zuò ma?",
+          "translation": "Travailles-tu aussi le dimanche ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "不，星期天我去公园。",
+          "pinyin": "Bù, xīng qī tiān wǒ qù gōng yuán.",
+          "translation": "Non, le dimanche je vais au parc."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "早",
+        "睡",
+        "觉",
+        "洗",
+        "班"
+      ],
+      "grammar": [
+        {
+          "point": "Structure de la journée avec les marqueurs temporels",
+          "explanation": "En chinois, on utilise des marqueurs temporels comme 早 (matin), 上午 (matinée), 中午 (midi), 下午 (après-midi), 晚上 (soir) pour structurer la journée. Ces marqueurs se placent généralement en début de phrase ou après le sujet.",
+          "examples": [
+            {
+              "chinese": "我早六点起。",
+              "pinyin": "Wǒ zǎo liù diǎn qǐ.",
+              "translation": "Je me lève à six heures du matin."
+            },
+            {
+              "chinese": "他晚上看电视。",
+              "pinyin": "Tā wǎn shang kàn diàn shì.",
+              "translation": "Il regarde la télévision le soir."
+            }
+          ]
+        },
+        {
+          "point": "Séquence des actions",
+          "explanation": "Pour décrire une suite d'actions, on les énumère simplement sans mot de liaison. Contrairement au français, on n'utilise pas 'et' ou 'ensuite' entre les verbes.",
+          "examples": [
+            {
+              "chinese": "我起，洗。",
+              "pinyin": "Wǒ qǐ, xǐ.",
+              "translation": "Je me lève, je me lave."
+            },
+            {
+              "chinese": "他吃饭，去班。",
+              "pinyin": "Tā chī fàn, qù bān.",
+              "translation": "Il mange, puis va au travail."
+            }
+          ]
+        },
+        {
+          "point": "Heures et minutes avec 点 et 分",
+          "explanation": "Pour dire l'heure, on utilise 点 (diǎn) pour les heures et 分 (fēn) pour les minutes. On dit simplement '15 minutes' ou '45 minutes' au lieu de 'et quart' ou 'moins le quart'.",
+          "examples": [
+            {
+              "chinese": "现在七点二十分。",
+              "pinyin": "Xiàn zài qī diǎn èr shí fēn.",
+              "translation": "Il est sept heures vingt."
+            },
+            {
+              "chinese": "我八点半去班。",
+              "pinyin": "Wǒ bā diǎn bàn qù bān.",
+              "translation": "Je vais au travail à huit heures et demie."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au 3e ton (descendant-montant) : 早 (zǎo) et 洗 (xǐ) nécessitent une prononciation claire.",
+        "Le son *shuì* (睡) commence par un *sh* doux, suivi d'un *uì* avec un ton descendant (4e ton). Évitez *shuí* (qui ?).",
+        "Dans 班 (bān), le ton est haut et plat (1er ton). Ne le confondez pas avec 半 (bàn, 4e ton)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères s'intègrent dans des mots et expressions déjà connus :",
+      "links": [
+        {
+          "from": "早",
+          "relation": "DONNE_LE_SENS",
+          "to": "早 (matin)"
+        },
+        {
+          "from": "睡",
+          "relation": "COMPOSE",
+          "to": "睡觉 (dormir)"
+        },
+        {
+          "from": "觉",
+          "relation": "COMPOSE",
+          "to": "睡觉 (dormir)"
+        },
+        {
+          "from": "洗",
+          "relation": "RADICAL_DE",
+          "to": "氵 (eau)"
+        },
+        {
+          "from": "班",
+          "relation": "DONNE_LE_SENS",
+          "to": "班 (travail)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décris ta journée type à un ami. Utilise au moins 3 activités différentes (起, 吃饭, 去班, 睡觉) et précise les heures avec 点 et 分.",
+          "hint": "Commence par 我早...点..., puis énumère tes activités.",
+          "example": {
+            "chinese": "我早六点起。洗，吃饭。八点去班。晚上七点回家，十点睡觉。",
+            "pinyin": "Wǒ zǎo liù diǎn qǐ. Xǐ, chī fàn. Bā diǎn qù bān. Wǎn shang qī diǎn huí jiā, shí diǎn shuì jiào.",
+            "translation": "Je me lève à six heures du matin. Je me lave et je mange. Je vais au travail à huit heures. Je rentre à la maison à sept heures du soir et je dors à dix heures."
+          }
+        },
+        {
+          "instruction": "Pose 2 questions à ton ami sur ses habitudes quotidiennes (ex: heure de lever, heure de coucher). Utilise 几点.",
+          "hint": "Utilise la structure 你几点...？ pour poser tes questions.",
+          "example": {
+            "chinese": "你每天几点起？你几点睡觉？",
+            "pinyin": "Nǐ měi tiān jǐ diǎn qǐ? Nǐ jǐ diǎn shuì jiào?",
+            "translation": "À quelle heure te lèves-tu tous les jours ? À quelle heure dors-tu ?"
+          }
+        },
+        {
+          "instruction": "Explique pourquoi tu n'as pas pu faire une activité (ex: manger, aller au travail à l'heure). Utilise 因为...所以...",
+          "hint": "Structure : 因为...，所以我没有...。",
+          "example": {
+            "chinese": "因为我七点半起，所以我没有吃饭。",
+            "pinyin": "Yīn wèi wǒ qī diǎn bàn qǐ, suǒ yǐ wǒ méi yǒu chī fàn.",
+            "translation": "Parce que je me suis levé à sept heures et demie, je n'ai pas mangé."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Cette leçon a permis de réviser l'ensemble des acquis A1 pour décrire une journée complète. Vous avez appris à : \n1. Utiliser les marqueurs temporels (早, 上午, 中午, 下午, 晚上).\n2. Décrire une séquence d'actions.\n3. Préciser les heures avec 点 et 分.\n4. Poser des questions sur les habitudes quotidiennes.\n5. Introduire 5 nouveaux caractères (早, 睡, 觉, 洗, 班).",
+      "reviewWords": [
+        "早",
+        "起",
+        "睡觉",
+        "洗",
+        "班"
+      ],
+      "reviewHanzi": [
+        "早",
+        "睡",
+        "觉",
+        "洗",
+        "班"
+      ]
+    }
+  }
+}

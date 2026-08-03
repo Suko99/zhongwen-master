@@ -1,0 +1,374 @@
+{
+  "slug": "bilan-b1",
+  "title": "Bilan B1 : débat léger",
+  "mission": "Défendre un point de vue simple face à un contradicteur en utilisant les acquis du niveau B1",
+  "level": "B1",
+  "order": 50,
+  "hanzi": [
+    {
+      "character": "论",
+      "pinyin": "lùn",
+      "meaning": "discuter, théorie",
+      "hskLevel": 3,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "仑"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que le caractère représente la parole (讠) organisée de manière logique (仑, qui évoque l'ordre). Le radical 讠 indique un lien avec le langage ou la discussion.",
+      "family": [
+        "讨论 (discuter)"
+      ],
+      "commonErrors": [
+        "Confusion avec 轮 (lún, roue) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "观",
+      "pinyin": "guān",
+      "meaning": "vue, point de vue",
+      "hskLevel": 3,
+      "radical": "又 (main)",
+      "components": [
+        "又",
+        "见"
+      ],
+      "etymology": "Le caractère combine 又 (main) et 见 (voir). L'idée est de « saisir avec la main » ce que l'on voit, d'où le sens de point de vue ou opinion. Le radical 见 (voir) est souvent associé aux concepts liés à la perception.",
+      "family": [
+        "观点 (point de vue)"
+      ],
+      "commonErrors": [
+        "Confusion avec 关 (guān, fermer) en raison de la similarité visuelle."
+      ]
+    },
+    {
+      "character": "证",
+      "pinyin": "zhèng",
+      "meaning": "preuve, certifier",
+      "hskLevel": 3,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "正"
+      ],
+      "etymology": "Le caractère associe la parole (讠) et 正 (correct, droit). Il évoque l'idée de rendre une parole ou une affirmation correcte ou vérifiée, d'où le sens de preuve ou certification.",
+      "family": [
+        "证明 (prouver)"
+      ],
+      "commonErrors": [
+        "Confusion avec 政 (zhèng, politique) en raison de la similarité phonétique et visuelle."
+      ]
+    },
+    {
+      "character": "据",
+      "pinyin": "jù",
+      "meaning": "selon, s'appuyer sur",
+      "hskLevel": 3,
+      "radical": "扌 (main)",
+      "components": [
+        "扌",
+        "居"
+      ],
+      "etymology": "Le caractère combine 扌 (main) et 居 (résider). L'idée est de « s'appuyer sur quelque chose avec la main », d'où le sens de s'appuyer sur des faits ou des preuves.",
+      "family": [
+        "根据 (selon)"
+      ],
+      "commonErrors": [
+        "Confusion avec 剧 (jù, pièce de théâtre) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "持",
+      "pinyin": "chí",
+      "meaning": "tenir, maintenir",
+      "hskLevel": 3,
+      "radical": "扌 (main)",
+      "components": [
+        "扌",
+        "寺"
+      ],
+      "etymology": "Le caractère combine 扌 (main) et 寺 (temple). L'idée traditionnelle est que tenir ou maintenir quelque chose nécessite de la stabilité, d'où l'association avec 寺, qui évoque la permanence.",
+      "family": [
+        "坚持 (persévérer)"
+      ],
+      "commonErrors": [
+        "Confusion avec 待 (dài, attendre) en raison de la similarité visuelle."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "讨论",
+      "pinyin": "tǎo lùn",
+      "meaning": "discuter",
+      "exampleZh": "我们问一下这个事。",
+      "examplePinyin": "Wǒmen wèn yīxià zhège shì.",
+      "exampleFr": "Discutons un peu de cette affaire."
+    },
+    {
+      "word": "观点",
+      "pinyin": "guān diǎn",
+      "meaning": "point de vue",
+      "exampleZh": "你的观点是什么？",
+      "examplePinyin": "Nǐ de guāndiǎn shì shénme?",
+      "exampleFr": "Quel est ton point de vue ?"
+    },
+    {
+      "word": "证明",
+      "pinyin": "zhèng míng",
+      "meaning": "prouver",
+      "exampleZh": "你能证明你的观点吗？",
+      "examplePinyin": "Nǐ néng zhèngmíng nǐ de guāndiǎn ma?",
+      "exampleFr": "Peux-tu prouver ton point de vue ?"
+    },
+    {
+      "word": "根据",
+      "pinyin": "gēn jù",
+      "meaning": "selon, d'après",
+      "exampleZh": "据这个方，这个更好。",
+      "examplePinyin": "Jù zhège fāng, zhège gèng hǎo.",
+      "exampleFr": "Selon cette méthode, celle-ci est meilleure."
+    },
+    {
+      "word": "坚持",
+      "pinyin": "jiān chí",
+      "meaning": "persévérer, maintenir",
+      "exampleZh": "我持这个观点。",
+      "examplePinyin": "Wǒ chí zhège guāndiǎn.",
+      "exampleFr": "Je maintiens ce point de vue."
+    },
+    {
+      "word": "虽然...但是...",
+      "pinyin": "suīrán... dànshì...",
+      "meaning": "bien que... mais...",
+      "exampleZh": "虽然这个方好，但是太贵。",
+      "examplePinyin": "Suīrán zhège fāng hǎo, dànshì tài guì.",
+      "exampleFr": "Bien que cette méthode soit bonne, elle est trop chère."
+    },
+    {
+      "word": "值得",
+      "pinyin": "zhí dé",
+      "meaning": "valoir la peine",
+      "exampleZh": "这个电影值得看。",
+      "examplePinyin": "Zhège diànyǐng zhídé kàn.",
+      "exampleFr": "Ce film vaut la peine d'être vu."
+    },
+    {
+      "word": "同意",
+      "pinyin": "tóng yì",
+      "meaning": "être d'accord",
+      "exampleZh": "我同意你的观点。",
+      "examplePinyin": "Wǒ tóngyì nǐ de guāndiǎn.",
+      "exampleFr": "Je suis d'accord avec ton point de vue."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es en cours de chinois avec ton ami 王明. Vous devez débattre d'un sujet simple : « Est-ce que 早起好还是晚起好？ ». Chacun doit défendre son point de vue avec des arguments et des exemples concrets.",
+      "goals": [
+        "Exprimer ton opinion clairement",
+        "Utiliser des connecteurs logiques (虽然...但是..., 因为...所以...)",
+        "Appuyer tes arguments avec des exemples ou des preuves",
+        "Répondre aux objections de ton interlocuteur"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue suivant entre 王明 et 李华. Repère comment ils expriment leurs opinions, utilisent des connecteurs logiques et répondent aux arguments de l'autre.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你觉得早起好还是晚起好？",
+          "pinyin": "Lǐ Huá, nǐ juédé zǎo qǐ hǎo háishì wǎn qǐ hǎo?",
+          "translation": "Li Hua, tu penses qu'il vaut mieux se lever tôt ou tard ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我觉得早起更好。虽然晚起舒服，但是早起可以做更多事。",
+          "pinyin": "Wǒ juédé zǎo qǐ gèng hǎo. Suīrán wǎn qǐ shūfu, dànshì zǎo qǐ kěyǐ zuò gèng duō shì.",
+          "translation": "Je pense qu'il vaut mieux se lever tôt. Bien que se lever tard soit confortable, se lever tôt permet de faire plus de choses."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "据我的经验，晚起更好。早起虽然好，但是太难了。",
+          "pinyin": "Jù wǒ de jīngyàn, wǎn qǐ gèng hǎo. Zǎo qǐ suīrán hǎo, dànshì tài nán le.",
+          "translation": "D'après mon expérience, se lever tard est mieux. Bien que se lever tôt soit bien, c'est trop difficile."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "但是早起可以看日出，这个很美。",
+          "pinyin": "Dànshì zǎo qǐ kěyǐ kàn rì chū, zhège hěn měi.",
+          "translation": "Mais se lever tôt permet de voir le lever du soleil, c'est très beau."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "晚起也可以看日落，而且更安静。我持我的观点。",
+          "pinyin": "Wǎn qǐ yě kěyǐ kàn rì luò, érqiě gèng ānjìng. Wǒ chí wǒ de guāndiǎn.",
+          "translation": "Se lever tard permet aussi de voir le coucher du soleil, et c'est plus calme. Je maintiens mon point de vue."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "虽然你说得对，但是早起的人更健康。",
+          "pinyin": "Suīrán nǐ shuō de duì, dànshì zǎo qǐ de rén gèng jiànkāng.",
+          "translation": "Bien que tu aies raison, les gens qui se lèvent tôt sont plus en santé."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "晚起的人也可以健康，而且睡得更好。我觉得晚起更值得。",
+          "pinyin": "Wǎn qǐ de rén yě kěyǐ jiànkāng, érqiě shuì de gèng hǎo. Wǒ juédé wǎn qǐ gèng zhídé.",
+          "translation": "Les gens qui se lèvent tard peuvent aussi être en santé, et ils dorment mieux. Je pense que se lever tard vaut plus la peine."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "论",
+        "观",
+        "证",
+        "据",
+        "持"
+      ],
+      "grammar": [
+        {
+          "point": "Exprimer une opinion avec 觉得 (juédé) et 认为 (rènwéi)",
+          "explanation": "Pour exprimer une opinion, on utilise souvent 觉得 (trouver que) ou 认为 (estimer que). 觉得 est plus subjectif et informel, tandis que 认为 est plus formel. Attention : en français, on dit souvent « je pense que », mais en chinois, on n'utilise pas 想 (xiǎng) pour exprimer une opinion.",
+          "examples": [
+            {
+              "chinese": "我觉得这个方更好。",
+              "pinyin": "Wǒ juédé zhège fāng gèng hǎo.",
+              "translation": "Je trouve que cette méthode est meilleure."
+            },
+            {
+              "chinese": "我认为早起更好。",
+              "pinyin": "Wǒ rènwéi zǎo qǐ gèng hǎo.",
+              "translation": "J'estime qu'il est mieux de se lever tôt."
+            }
+          ]
+        },
+        {
+          "point": "Utiliser 据 (jù) pour introduire une preuve ou une source",
+          "explanation": "据 signifie « selon » ou « d'après » et permet d'introduire une preuve, une expérience ou une source pour appuyer son argument. Attention : en français, on dit souvent « selon moi », mais en chinois, on utilise plutôt 我觉得 ou 我认为 pour exprimer une opinion personnelle.",
+          "examples": [
+            {
+              "chinese": "据天气，明天会下雨。",
+              "pinyin": "Jù tiānqì, míngtiān huì xiàyǔ.",
+              "translation": "D'après la météo, il pleuvra demain."
+            },
+            {
+              "chinese": "据我的经验，这个方更好。",
+              "pinyin": "Jù wǒ de jīngyàn, zhège fāng gèng hǎo.",
+              "translation": "D'après mon expérience, cette méthode est meilleure."
+            }
+          ]
+        },
+        {
+          "point": "Renforcer son argument avec 持 (chí)",
+          "explanation": "持 signifie « tenir » ou « maintenir » et permet de renforcer son point de vue face à un contradicteur. On l'utilise souvent pour montrer que l'on ne change pas d'avis. Attention : en français, on dit souvent « je maintiens que », mais en chinois, on utilise plutôt 持 suivi de son opinion.",
+          "examples": [
+            {
+              "chinese": "我持我的观点。",
+              "pinyin": "Wǒ chí wǒ de guāndiǎn.",
+              "translation": "Je maintiens mon point de vue."
+            },
+            {
+              "chinese": "虽然很难，但是我会持下去。",
+              "pinyin": "Suīrán hěn nán, dànshì wǒ huì chí xiàqù.",
+              "translation": "Bien que ce soit difficile, je vais persévérer."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 论 (lùn) est le 4e ton (descendant) : prononce-le comme si tu donnais un ordre (ex : « Non ! »).",
+        "Le ton de 观 (guān) est le 1er ton (haut et plat) : prononce-le comme si tu chantais une note longue (ex : « Laaa »).",
+        "Le ton de 持 (chí) est le 2e ton (montant) : prononce-le comme si tu posais une question (ex : « Vraiment ? »)."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et mots se relient à ce que tu connais déjà :",
+      "links": [
+        {
+          "from": "论",
+          "relation": "COMPOSE",
+          "to": "讨论 (discuter)"
+        },
+        {
+          "from": "观",
+          "relation": "COMPOSE",
+          "to": "观点 (point de vue)"
+        },
+        {
+          "from": "证",
+          "relation": "COMPOSE",
+          "to": "证明 (prouver)"
+        },
+        {
+          "from": "据",
+          "relation": "COMPOSE",
+          "to": "根据 (selon)"
+        },
+        {
+          "from": "持",
+          "relation": "COMPOSE",
+          "to": "坚持 (persévérer)"
+        },
+        {
+          "from": "讨论",
+          "relation": "RADICAL_DE",
+          "to": "讠 (parole)"
+        },
+        {
+          "from": "观点",
+          "relation": "DONNE_LE_SON",
+          "to": "见 (voir)"
+        },
+        {
+          "from": "虽然...但是...",
+          "relation": "CONTRASTE_AVEC",
+          "to": "因为...所以... (parce que... donc...)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Débats avec ton ami(e) sur le sujet suivant : « Est-ce que 看书好还是看电视好？ ». Utilise au moins 3 arguments pour défendre ton point de vue et réponds aux objections de ton ami(e).",
+          "hint": "Utilise des connecteurs logiques comme 虽然...但是..., 因为...所以..., et des mots comme 观点, 据, 持. Pense à donner des exemples concrets (ex : 学习, 休息, 乐).",
+          "example": {
+            "chinese": "A: 你觉得看书好还是看电视好？\nB: 我觉得看书更好。虽然看电视很乐，但是看书可以学更多。\nA: 但是看电视更方便，看书太难。\nB: 据我的经验，看书更好。而且看书可以休息。\nA: 虽然你说得对，但是看电视更快乐。\nB: 我持我的观点，因为看书更好。",
+            "pinyin": "A: Nǐ juédé kàn shū hǎo háishì kàn diànshì hǎo?\nB: Wǒ juédé kàn shū gèng hǎo. Suīrán kàn diànshì hěn lè, dànshì kàn shū kěyǐ xué gèng duō.\nA: Dànshì kàn diànshì gèng fāngbiàn, kàn shū tài nán.\nB: Jù wǒ de jīngyàn, kàn shū gèng hǎo. Érqiě kàn shū kěyǐ xiūxi.\nA: Suīrán nǐ shuō de duì, dànshì kàn diànshì gèng kuàilè.\nB: Wǒ chí wǒ de guāndiǎn, yīnwèi kàn shū gèng hǎo.",
+            "translation": "A : Tu penses qu'il vaut mieux lire ou regarder la télévision ?\nB : Je pense que lire est mieux. Bien que regarder la télévision soit amusant, lire permet d'apprendre plus.\nA : Mais regarder la télévision est plus pratique, lire est trop difficile.\nB : D'après mon expérience, lire est mieux. Et en plus, lire permet de se reposer.\nA : Bien que tu aies raison, regarder la télévision est plus joyeux.\nB : Je maintiens mon point de vue, car lire est mieux."
+          }
+        },
+        {
+          "instruction": "Ton ami(e) pense que « 走路比坐车好 ». Défends le point de vue opposé en utilisant au moins 2 arguments et 1 connecteur logique.",
+          "hint": "Pense aux avantages de la voiture (ex : 快, 方便) et utilise des mots comme 虽然...但是... ou 因为...所以...",
+          "example": {
+            "chinese": "虽然走路很好，但是坐车更快。因为坐车可以节省时间。",
+            "pinyin": "Suīrán zǒulù hěn hǎo, dànshì zuò chē gèng kuài. Yīnwèi zuò chē kěyǐ jiéshěng shíjiān.",
+            "translation": "Bien que marcher soit bien, prendre la voiture est plus rapide. Parce que prendre la voiture permet d'économiser du temps."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à défendre un point de vue dans un débat simple. Tu as découvert comment exprimer ton opinion (觉得, 认为), appuyer tes arguments (据, 证明), et renforcer ta position (持). Tu as aussi révisé les connecteurs logiques comme 虽然...但是... et 因为...所以... pour structurer tes idées. Ces outils te permettent de participer à des discussions et de justifier tes choix en chinois.",
+      "reviewWords": [
+        "讨论",
+        "观点",
+        "证明",
+        "根据",
+        "坚持",
+        "虽然...但是...",
+        "值得",
+        "同意"
+      ],
+      "reviewHanzi": [
+        "论",
+        "观",
+        "证",
+        "据",
+        "持"
+      ]
+    }
+  }
+}

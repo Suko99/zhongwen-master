@@ -1,0 +1,500 @@
+{
+  "slug": "prendre-le-train",
+  "title": "Voyager : train et avion",
+  "mission": "Acheter un billet et gérer un trajet",
+  "level": "A2",
+  "order": 25,
+  "hanzi": [
+    {
+      "character": "火",
+      "pinyin": "huǒ",
+      "meaning": "feu",
+      "hskLevel": 1,
+      "radical": "火 (灬)",
+      "components": [
+        "火"
+      ],
+      "etymology": "Représente des flammes. Radical clé pour les mots liés au feu ou à la chaleur. Dans 火车, il symbolise la locomotive à vapeur.",
+      "family": [
+        "火车"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *fǒu* au lieu de huǒ (3e ton descendant-montant)."
+      ]
+    },
+    {
+      "character": "机",
+      "pinyin": "jī",
+      "meaning": "machine, appareil",
+      "hskLevel": 1,
+      "radical": "木",
+      "components": [
+        "木",
+        "几"
+      ],
+      "etymology": "Composé phono-sémantique : 木 (bois) donne le sens de structure, et 几 (jī) donne le son. À l'origine lié aux machines en bois, puis généralisé aux appareils modernes.",
+      "family": [
+        "飞机",
+        "手机"
+      ],
+      "commonErrors": [
+        "Confusion avec 鸡 (jī, poulet) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "场",
+      "pinyin": "chǎng",
+      "meaning": "terrain, lieu",
+      "hskLevel": 2,
+      "radical": "土",
+      "components": [
+        "土",
+        "昜"
+      ],
+      "etymology": "Composé de 土 (terre) et 昜 (étendu), symbolisant un espace ouvert. Radical clé pour les lieux publics.",
+      "family": [
+        "机场"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *cháng* (2e ton) au lieu de chǎng (3e ton)."
+      ]
+    },
+    {
+      "character": "航",
+      "pinyin": "háng",
+      "meaning": "naviguer, vol",
+      "hskLevel": 3,
+      "radical": "舟",
+      "components": [
+        "舟",
+        "亢"
+      ],
+      "etymology": "Composé de 舟 (bateau) et 亢 (kàng, haut), évoquant un navire ou un avion s'élevant. Utilisé pour les termes liés à l'aviation et à la navigation.",
+      "family": [
+        "航班"
+      ],
+      "commonErrors": [
+        "Confusion avec 行 (xíng, marcher) en raison de la similarité graphique."
+      ]
+    },
+    {
+      "character": "次",
+      "pinyin": "cì",
+      "meaning": "fois, numéro (pour les trains/vols)",
+      "hskLevel": 1,
+      "radical": "冫",
+      "components": [
+        "冫",
+        "欠"
+      ],
+      "etymology": "Composé de 冫 (glace) et 欠 (manquer), évoquant peut-être une répétition ou une séquence. Utilisé pour numéroter les trajets (ex : 123次).",
+      "family": [
+        "火车次"
+      ],
+      "commonErrors": [
+        "Confusion avec 回 (huí, retour) pour exprimer 'une fois'."
+      ]
+    },
+    {
+      "character": "久",
+      "pinyin": "jiǔ",
+      "meaning": "longtemps",
+      "hskLevel": 2,
+      "radical": "丿",
+      "components": [
+        "丿",
+        "勹",
+        "丶"
+      ],
+      "etymology": "Représente une durée étendue, avec une origine graphique évoquant un intervalle de temps. Souvent utilisé pour exprimer la durée (ex : 多久).",
+      "family": [
+        "多久"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *jiù* (4e ton) au lieu de jiǔ (3e ton)."
+      ]
+    },
+    {
+      "character": "钟",
+      "pinyin": "zhōng",
+      "meaning": "horloge, heure",
+      "hskLevel": 2,
+      "radical": "钅 (金)",
+      "components": [
+        "钅",
+        "中"
+      ],
+      "etymology": "Composé de 钅 (métal) et 中 (milieu), symbolisant un objet métallique marquant le temps. Utilisé pour les heures (ex : 两点钟).",
+      "family": [
+        "分钟"
+      ],
+      "commonErrors": [
+        "Omission de 钟 dans les expressions de durée."
+      ]
+    },
+    {
+      "character": "直",
+      "pinyin": "zhí",
+      "meaning": "direct, droit",
+      "hskLevel": 2,
+      "radical": "目",
+      "components": [
+        "十",
+        "目"
+      ],
+      "etymology": "Représente un œil (目) regardant droit devant (十). Utilisé pour les trajets directs (ex : 直达).",
+      "family": [
+        "直达"
+      ],
+      "commonErrors": [
+        "Confusion avec 真 (zhēn, vrai) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "达",
+      "pinyin": "dá",
+      "meaning": "atteindre, arriver",
+      "hskLevel": 3,
+      "radical": "辶",
+      "components": [
+        "大",
+        "辶"
+      ],
+      "etymology": "Composé de 大 (grand) et 辶 (mouvement), symbolisant une grande distance parcourue. Utilisé pour les destinations (ex : 直达).",
+      "family": [
+        "直达"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *dā* (1er ton) au lieu de dá (2e ton)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "火车",
+      "pinyin": "huǒ chē",
+      "meaning": "train",
+      "exampleZh": "我坐火车去那儿。",
+      "examplePinyin": "Wǒ zuò huǒchē qù nàr.",
+      "exampleFr": "Je prends le train pour aller là-bas."
+    },
+    {
+      "word": "飞机",
+      "pinyin": "fēi jī",
+      "meaning": "avion",
+      "exampleZh": "飞机比火车快。",
+      "examplePinyin": "Fēijī bǐ huǒchē kuài.",
+      "exampleFr": "L'avion est plus rapide que le train."
+    },
+    {
+      "word": "车票",
+      "pinyin": "chē piào",
+      "meaning": "billet de train",
+      "exampleZh": "我要买车票。",
+      "examplePinyin": "Wǒ yào mǎi chēpiào.",
+      "exampleFr": "Je veux acheter un billet de train."
+    },
+    {
+      "word": "飞机票",
+      "pinyin": "fēi jī piào",
+      "meaning": "billet d'avion",
+      "exampleZh": "飞机票多少钱？",
+      "examplePinyin": "Fēijī piào duōshǎo qián?",
+      "exampleFr": "Combien coûte un billet d'avion ?"
+    },
+    {
+      "word": "机场",
+      "pinyin": "jī chǎng",
+      "meaning": "aéroport",
+      "exampleZh": "机场在这儿吗？",
+      "examplePinyin": "Jīchǎng zài zhèr ma?",
+      "exampleFr": "L'aéroport est-il ici ?"
+    },
+    {
+      "word": "火车站",
+      "pinyin": "huǒ chē zhàn",
+      "meaning": "gare ferroviaire",
+      "exampleZh": "火车站在哪儿？",
+      "examplePinyin": "Huǒchē zhàn zài nǎr?",
+      "exampleFr": "Où est la gare ferroviaire ?"
+    },
+    {
+      "word": "航班",
+      "pinyin": "háng bān",
+      "meaning": "vol (avion)",
+      "exampleZh": "你的航班是几点？",
+      "examplePinyin": "Nǐ de hángbān shì jǐ diǎn?",
+      "exampleFr": "À quelle heure est ton vol ?"
+    },
+    {
+      "word": "次",
+      "pinyin": "cì",
+      "meaning": "numéro (pour les trains/vols)",
+      "exampleZh": "这是五次火车。",
+      "examplePinyin": "Zhè shì wǔ cì huǒchē.",
+      "exampleFr": "C'est le train numéro 5."
+    },
+    {
+      "word": "直达",
+      "pinyin": "zhí dá",
+      "meaning": "direct (sans escale)",
+      "exampleZh": "这车是直达的。",
+      "examplePinyin": "Zhè chē shì zhídá de.",
+      "exampleFr": "Ce train est direct."
+    },
+    {
+      "word": "多久",
+      "pinyin": "duō jiǔ",
+      "meaning": "combien de temps",
+      "exampleZh": "坐火车要多久？",
+      "examplePinyin": "Zuò huǒchē yào duō jiǔ?",
+      "exampleFr": "Combien de temps faut-il en train ?"
+    },
+    {
+      "word": "点钟",
+      "pinyin": "diǎn zhōng",
+      "meaning": "heure (pour l'heure exacte)",
+      "exampleZh": "火车六点钟开。",
+      "examplePinyin": "Huǒchē liù diǎn zhōng kāi.",
+      "exampleFr": "Le train part à six heures."
+    },
+    {
+      "word": "个小时",
+      "pinyin": "ge xiǎo shí",
+      "meaning": "heure (durée)",
+      "exampleZh": "要五个小时。",
+      "examplePinyin": "Yào wǔ ge xiǎoshí.",
+      "exampleFr": "Il faut cinq heures."
+    },
+    {
+      "word": "开",
+      "pinyin": "kāi",
+      "meaning": "partir (pour un véhicule)",
+      "exampleZh": "火车几点开？",
+      "examplePinyin": "Huǒchē jǐ diǎn kāi?",
+      "exampleFr": "À quelle heure part le train ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous êtes à la gare ou à l'aéroport et devez acheter un billet pour un trajet. Vous discutez des horaires, de la durée du voyage et du type de train ou d'avion.",
+      "goals": [
+        "Acheter un billet de train ou d'avion",
+        "Demander les horaires de départ",
+        "Comprendre la durée du trajet",
+        "Choisir entre un trajet direct ou non"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez : 1) Comment on demande un billet. 2) Comment on parle de la durée du trajet. 3) Comment on exprime l'heure de départ.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "你好！我要买一张车票。",
+          "pinyin": "Nǐ hǎo! Wǒ yào mǎi yī zhāng chēpiào.",
+          "translation": "Bonjour ! Je veux acheter un billet de train."
+        },
+        {
+          "speaker": "售票员",
+          "chinese": "你要坐快车吗？",
+          "pinyin": "Nǐ yào zuò kuàichē ma?",
+          "translation": "Veux-tu prendre le train rapide ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "快车多少钱？",
+          "pinyin": "Kuàichē duōshǎo qián?",
+          "translation": "Combien coûte le train rapide ?"
+        },
+        {
+          "speaker": "售票员",
+          "chinese": "五十块。快车是直达的，要五个小时。",
+          "pinyin": "Wǔshí kuài. Kuàichē shì zhídá de, yào wǔ ge xiǎoshí.",
+          "translation": "50 yuans. Le train rapide est direct et prend cinq heures."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "慢车呢？",
+          "pinyin": "Mànchē ne?",
+          "translation": "Et le train omnibus ?"
+        },
+        {
+          "speaker": "售票员",
+          "chinese": "慢车便宜，三十块，可是要八个小时。",
+          "pinyin": "Mànchē piányi, sānshí kuài, kěshì yào bā ge xiǎoshí.",
+          "translation": "Le train omnibus est moins cher, 30 yuans, mais il prend huit heures."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我要一张快车票。火车几点开？",
+          "pinyin": "Wǒ yào yī zhāng kuàichē piào. Huǒchē jǐ diǎn kāi?",
+          "translation": "Je veux un billet pour le train rapide. À quelle heure part le train ?"
+        },
+        {
+          "speaker": "售票员",
+          "chinese": "下午三点钟。这是你的票。",
+          "pinyin": "Xiàwǔ sān diǎn zhōng. Zhè shì nǐ de piào.",
+          "translation": "À quinze heures. Voici ton billet."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "火",
+        "机",
+        "场",
+        "航",
+        "次",
+        "久",
+        "钟",
+        "直",
+        "达"
+      ],
+      "grammar": [
+        {
+          "point": "Structure pour exprimer un trajet",
+          "explanation": "Pour indiquer un trajet, on utilise simplement le point d'arrivée avec 到 (dào). Exemple : 我去那儿 (Wǒ qù nàr) pour 'Je vais là-bas'. Erreur typique : ajouter inutilement 从 (cóng) quand le point de départ est évident.",
+          "examples": [
+            {
+              "chinese": "我坐火车到那儿。",
+              "pinyin": "Wǒ zuò huǒchē dào nàr.",
+              "translation": "Je prends le train pour aller là-bas."
+            },
+            {
+              "chinese": "他去机场。",
+              "pinyin": "Tā qù jīchǎng.",
+              "translation": "Il va à l'aéroport."
+            }
+          ]
+        },
+        {
+          "point": "坐/开 (prendre/partir pour un véhicule)",
+          "explanation": "坐 (zuò) signifie 'prendre' un moyen de transport (ex : 坐火车). 开 (kāi) signifie 'partir' pour un véhicule (ex : 火车几点开？). Erreur typique : utiliser 去 (qù) au lieu de 坐 pour 'prendre un train'.",
+          "examples": [
+            {
+              "chinese": "我坐飞机去那儿。",
+              "pinyin": "Wǒ zuò fēijī qù nàr.",
+              "translation": "Je prends l'avion pour aller là-bas."
+            },
+            {
+              "chinese": "这车六点钟开。",
+              "pinyin": "Zhè chē liù diǎn zhōng kāi.",
+              "translation": "Ce train part à six heures."
+            }
+          ]
+        },
+        {
+          "point": "Durée du trajet",
+          "explanation": "Pour exprimer la durée, on utilise 要 (yào) + durée + 个小时 (ge xiǎoshí). Attention : toujours utiliser le classificateur 个 (ge) pour les heures. Erreur typique : oublier 个 ou utiliser 时 (shí) seul.",
+          "examples": [
+            {
+              "chinese": "要五个小时。",
+              "pinyin": "Yào wǔ ge xiǎoshí.",
+              "translation": "Il faut cinq heures."
+            },
+            {
+              "chinese": "坐火车要多久？",
+              "pinyin": "Zuò huǒchē yào duō jiǔ?",
+              "translation": "Combien de temps faut-il en train ?"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "久 (jiǔ) : 3e ton descendant-montant. Attention à ne pas le confondre avec 九 (jiǔ, neuf).",
+        "场 (chǎng) : 3e ton descendant-montant. Erreur fréquente : prononcer *cháng (2e ton).",
+        "达 (dá) : 2e ton montant. Attention à ne pas le prononcer *dā (1er ton)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots s'appuient sur des acquis précédents pour faciliter la mémorisation :",
+      "links": [
+        {
+          "from": "火",
+          "relation": "COMPOSE",
+          "to": "火车 (déjà connu : 车)"
+        },
+        {
+          "from": "机",
+          "relation": "COMPOSE",
+          "to": "飞机 (déjà connu : 飞)"
+        },
+        {
+          "from": "场",
+          "relation": "COMPOSE",
+          "to": "机场 (nouveau : 机)"
+        },
+        {
+          "from": "久",
+          "relation": "DONNE_LE_SON",
+          "to": "九 (déjà connu : neuf)"
+        },
+        {
+          "from": "直",
+          "relation": "CONTRASTE_AVEC",
+          "to": "快 (déjà connu : rapide)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Vous êtes à la gare et voulez acheter un billet de train pour un trajet direct. Demandez : 1) Le prix d'un billet de train rapide. 2) La durée du trajet. 3) L'heure de départ.",
+          "hint": "Utilisez 快车, 直达, 多少钱, 要几个小时, 几点开.",
+          "example": {
+            "chinese": "你好！我要买一张快车票。快车多少钱？是直达的吗？要几个小时？火车几点开？",
+            "pinyin": "Nǐ hǎo! Wǒ yào mǎi yī zhāng kuàichē piào. Kuàichē duōshǎo qián? Shì zhídá de ma? Yào jǐ ge xiǎoshí? Huǒchē jǐ diǎn kāi?",
+            "translation": "Bonjour ! Je veux acheter un billet de train rapide. Combien coûte le train rapide ? Est-il direct ? Combien d'heures faut-il ? À quelle heure part le train ?"
+          }
+        },
+        {
+          "instruction": "Vous êtes à l'aéroport et discutez avec un ami. Expliquez : 1) Votre vol part à 14h. 2) Le trajet dure 2 heures.",
+          "hint": "Utilisez 航班, 两点钟, 要...个小时.",
+          "example": {
+            "chinese": "我的航班下午两点钟开。要两个小时。",
+            "pinyin": "Wǒ de hángbān xiàwǔ liǎng diǎn zhōng kāi. Yào liǎng ge xiǎoshí.",
+            "translation": "Mon vol part à quatorze heures. Il faut deux heures."
+          }
+        },
+        {
+          "instruction": "Comparez un trajet en train et en avion. Utilisez 比, 快, 要...个小时.",
+          "hint": "Exemple : 这儿 et 那儿.",
+          "example": {
+            "chinese": "坐飞机比坐火车快。坐飞机要两个小时，坐火车要五个小时。",
+            "pinyin": "Zuò fēijī bǐ zuò huǒchē kuài. Zuò fēijī yào liǎng ge xiǎoshí, zuò huǒchē yào wǔ ge xiǎoshí.",
+            "translation": "L'avion est plus rapide que le train. En avion, il faut deux heures, en train, il faut cinq heures."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à : 1) Acheter un billet de train ou d'avion en utilisant les nouveaux caractères comme 火车, 飞机, 直达. 2) Exprimer la durée d'un trajet avec 要...个小时. 3) Demander l'heure de départ avec 几点开. Révisez bien ces structures pour préparer vos prochains voyages !",
+      "reviewWords": [
+        "火车",
+        "飞机",
+        "车票",
+        "飞机票",
+        "机场",
+        "火车站",
+        "航班",
+        "次",
+        "直达",
+        "多久",
+        "点钟",
+        "个小时",
+        "开"
+      ],
+      "reviewHanzi": [
+        "火",
+        "机",
+        "场",
+        "航",
+        "次",
+        "久",
+        "钟",
+        "直",
+        "达"
+      ]
+    }
+  }
+}

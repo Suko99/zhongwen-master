@@ -1,0 +1,379 @@
+{
+  "slug": "conceder-et-refuter",
+  "title": "Certes... mais : concéder et réfuter",
+  "mission": "Débattre en réfutant point par point",
+  "level": "B2",
+  "order": 53,
+  "hanzi": [
+    {
+      "character": "确",
+      "pinyin": "què",
+      "meaning": "certain, sûr",
+      "hskLevel": 4,
+      "radical": "石",
+      "components": [
+        "石",
+        "角"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère combine 'pierre' (石) et 'corne' (角), symbolisant quelque chose de solide et inébranlable. Le radical est '石'.",
+      "family": [
+        "确实",
+        "的确"
+      ],
+      "commonErrors": [
+        "Confondre avec '却' (què) qui signifie 'mais'."
+      ]
+    },
+    {
+      "character": "并",
+      "pinyin": "bìng",
+      "meaning": "et, simultanément; (négation renforcée)",
+      "hskLevel": 4,
+      "radical": "干",
+      "components": [
+        "丷",
+        "开"
+      ],
+      "etymology": "Ce caractère représentait à l'origine deux mains tenant une lance, symbolisant l'union. Aujourd'hui, il renforce une négation (并不, 并没有). Le radical est '干'.",
+      "family": [
+        "并且",
+        "并不",
+        "并没有"
+      ],
+      "commonErrors": [
+        "Oublier que 并 ne s'utilise pas seul pour dire 'et'."
+      ]
+    },
+    {
+      "character": "难",
+      "pinyin": "nán",
+      "meaning": "difficile; (difficulté rhétorique)",
+      "hskLevel": 2,
+      "radical": "隹",
+      "components": [
+        "又",
+        "隹"
+      ],
+      "etymology": "Ce caractère combine '又' (main) et '隹' (oiseau), évoquant l'idée de capturer un oiseau, une tâche difficile. Le radical est '隹'.",
+      "family": [
+        "困难",
+        "难道"
+      ],
+      "commonErrors": [
+        "Confondre avec '南' (nán, sud)."
+      ]
+    },
+    {
+      "character": "道",
+      "pinyin": "dào",
+      "meaning": "voie, chemin; dire (classificateur)",
+      "hskLevel": 2,
+      "radical": "辶",
+      "components": [
+        "首",
+        "辶"
+      ],
+      "etymology": "Ce caractère combine '首' (tête) et '辶' (mouvement), symbolisant une direction. Utilisé comme classificateur pour les questions (一道题).",
+      "family": [
+        "知道",
+        "难道"
+      ],
+      "commonErrors": [
+        "Utiliser 道 comme verbe 'dire' sans contexte approprié."
+      ]
+    },
+    {
+      "character": "反",
+      "pinyin": "fǎn",
+      "meaning": "opposé, contraire",
+      "hskLevel": 3,
+      "radical": "又",
+      "components": [
+        "厂",
+        "又"
+      ],
+      "etymology": "Ce caractère représente une main (又) poussant contre un objet (厂), symbolisant l'opposition. Le radical est '又'.",
+      "family": [
+        "反对",
+        "相反"
+      ],
+      "commonErrors": [
+        "Confondre avec '饭' (fàn, repas)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "的确",
+      "pinyin": "dí què",
+      "meaning": "certes, effectivement",
+      "exampleZh": "他的确学得很好。",
+      "examplePinyin": "Tā dí què xué de hěn hǎo.",
+      "exampleFr": "Il étudie effectivement très bien."
+    },
+    {
+      "word": "不过",
+      "pinyin": "bú guò",
+      "meaning": "mais, cependant",
+      "exampleZh": "这本书很好，不过太贵了。",
+      "examplePinyin": "Zhè běn shū hěn hǎo, bú guò tài guì le.",
+      "exampleFr": "Ce livre est très bien, mais trop cher."
+    },
+    {
+      "word": "并不",
+      "pinyin": "bìng bù",
+      "meaning": "pas du tout (négation renforcée)",
+      "exampleZh": "我并不懂这道题。",
+      "examplePinyin": "Wǒ bìng bù dǒng zhè dào tí.",
+      "exampleFr": "Je ne comprends pas du tout cette question."
+    },
+    {
+      "word": "并没有",
+      "pinyin": "bìng méi yǒu",
+      "meaning": "n'avoir absolument pas",
+      "exampleZh": "他并没有来上学。",
+      "examplePinyin": "Tā bìng méi yǒu lái shàng xué.",
+      "exampleFr": "Il n'est absolument pas venu à l'école."
+    },
+    {
+      "word": "难道",
+      "pinyin": "nán dào",
+      "meaning": "est-ce que vraiment... ? (question rhétorique)",
+      "exampleZh": "难道你不认同吗？",
+      "examplePinyin": "Nán dào nǐ bù rèntóng ma?",
+      "exampleFr": "Est-ce que vraiment tu n'es pas d'accord ?"
+    },
+    {
+      "word": "虽然",
+      "pinyin": "suī rán",
+      "meaning": "bien que, quoique",
+      "exampleZh": "虽然他很忙，但是他来了。",
+      "examplePinyin": "Suīrán tā hěn máng, dànshì tā lái le.",
+      "exampleFr": "Bien qu'il soit très occupé, il est venu."
+    },
+    {
+      "word": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "mais, cependant",
+      "exampleZh": "我想去，但是没时间。",
+      "examplePinyin": "Wǒ xiǎng qù, dànshì méi shíjiān.",
+      "exampleFr": "Je veux y aller, mais je n'ai pas le temps."
+    },
+    {
+      "word": "反对",
+      "pinyin": "fǎn duì",
+      "meaning": "s'opposer à",
+      "exampleZh": "我反对这个想法。",
+      "examplePinyin": "Wǒ fǎnduì zhège xiǎngfǎ.",
+      "exampleFr": "Je m'oppose à cette idée."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous participez à un débat en classe sur l'utilisation des livres électroniques pour étudier. Votre objectif est de concéder certains avantages tout en réfutant les arguments adverses.",
+      "goals": [
+        "Utiliser 的确...不过 pour concéder puis réfuter",
+        "Employer 并不/并没有 pour nier fermement un argument",
+        "Poser des questions rhétoriques avec 难道 pour souligner une contradiction"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez ce dialogue entre 王明 et 李华. Repérez comment 王明 concède un point avant de le réfuter, comment 李华 nie fermement un argument, et comment 王明 utilise une question rhétorique.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你觉得电子书对学习有好处吗？",
+          "pinyin": "Lǐ Huá, nǐ juéde diànzǐ shū duì xuéxí yǒu hǎochù ma?",
+          "translation": "Li Hua, penses-tu que les livres électroniques sont bénéfiques pour les études ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "的确，电子书可以带很多书，不过并不是所有书都好。",
+          "pinyin": "Dí què, diànzǐ shū kěyǐ dài hěn duō shū, bú guò bìng bù shì suǒyǒu shū dōu hǎo.",
+          "translation": "Certes, les livres électroniques permettent d'emporter beaucoup de livres, mais tous les livres ne sont pas bons."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "难道你不觉得学生看电子书时间太多吗？",
+          "pinyin": "Nán dào nǐ bù juéde xuésheng kàn diànzǐ shū shíjiān tài duō ma?",
+          "translation": "Est-ce que vraiment tu ne trouves pas que les élèves passent trop de temps sur les livres électroniques ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "虽然看电子书时间长，但是并没有影响我的分数。根据我的习惯，好好看书很重要。",
+          "pinyin": "Suīrán kàn diànzǐ shū shíjiān cháng, dànshì bìng méiyǒu yǐngxiǎng wǒ de fēnshù. Gēnjù wǒ de xíguàn, hǎohǎo kàn shū hěn zhòngyào.",
+          "translation": "Bien que je passe beaucoup de temps sur les livres électroniques, cela n'a pas affecté mes notes. Selon mes habitudes, bien lire est très important."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "可是，有证据说看电子书太多会让人看不进书。",
+          "pinyin": "Kěshì, yǒu zhèngjù shuō kàn diànzǐ shū tài duō huì ràng rén kàn bù jìn shū.",
+          "translation": "Mais il y a des preuves que trop lire de livres électroniques empêche de bien lire."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我同意你的看法，不过好好看书就没问题。",
+          "pinyin": "Wǒ tóngyì nǐ de kànfǎ, bú guò hǎohǎo kàn shū jiù méi wèntí.",
+          "translation": "Je suis d'accord avec ton avis, mais bien lire ne pose pas de problème."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "反对！难道你能保证每个人都会好好看吗？",
+          "pinyin": "Fǎnduì! Nán dào nǐ néng bǎozhèng měi gè rén dōu huì hǎohǎo kàn ma?",
+          "translation": "Je m'oppose ! Est-ce que vraiment tu peux garantir que tout le monde lira bien ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "虽然不能保证，但是老师可以帮大家学会好好看。",
+          "pinyin": "Suīrán bù néng bǎozhèng, dànshì lǎoshī kěyǐ bāng dàjiā xuéhuì hǎohǎo kàn.",
+          "translation": "Bien que je ne puisse pas le garantir, les professeurs peuvent aider tout le monde à apprendre à bien lire."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "确",
+        "并",
+        "难",
+        "道",
+        "反"
+      ],
+      "grammar": [
+        {
+          "point": "的确...不过 : concéder puis réfuter",
+          "explanation": "Cette structure permet de reconnaître un point de vue adverse avant de le nuancer. Le francophone a tendance à oublier le 不过 ou à le remplacer par 但是, qui est plus direct.",
+          "examples": [
+            {
+              "chinese": "他的确学得很好，不过有时候太慢。",
+              "pinyin": "Tā dí què xué de hěn hǎo, bú guò yǒu shíhou tài màn.",
+              "translation": "Il étudie certes très bien, mais parfois trop lentement."
+            },
+            {
+              "chinese": "这本书的确很好，不过太贵了。",
+              "pinyin": "Zhè běn shū dí què hěn hǎo, bú guò tài guì le.",
+              "translation": "Ce livre est certes très bien, mais trop cher."
+            }
+          ]
+        },
+        {
+          "point": "并不/并没有 : négation renforcée",
+          "explanation": "并 renforce une négation pour contredire une attente. Le francophone omet souvent 并, ce qui affaiblit la négation. 并不 s'utilise avec des adjectifs, 并没有 avec des verbes.",
+          "examples": [
+            {
+              "chinese": "我并不怕考试。",
+              "pinyin": "Wǒ bìng bù pà kǎoshì.",
+              "translation": "Je n'ai absolument pas peur des examens."
+            },
+            {
+              "chinese": "他并没有来上学。",
+              "pinyin": "Tā bìng méi yǒu lái shàng xué.",
+              "translation": "Il n'est absolument pas venu à l'école."
+            }
+          ]
+        },
+        {
+          "point": "难道...吗？ : question rhétorique",
+          "explanation": "难道 introduit une question rhétorique pour souligner une contradiction. Le francophone oublie souvent le 吗 final ou utilise 难道 comme une simple question.",
+          "examples": [
+            {
+              "chinese": "难道你不认同吗？",
+              "pinyin": "Nán dào nǐ bù rèntóng ma?",
+              "translation": "Est-ce que vraiment tu n'es pas d'accord ?"
+            },
+            {
+              "chinese": "难道你忘了我们的事吗？",
+              "pinyin": "Nán dào nǐ wàng le wǒmen de shì ma?",
+              "translation": "Est-ce que vraiment tu as oublié notre affaire ?"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "确 (què) : 4e ton (descendant), comme un ordre sec.",
+        "并 (bìng) : 4e ton, attention à ne pas le confondre avec bīng (glace).",
+        "难 (nán) : 2e ton (montant), commencez bas et montez."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères et structures s'appuient sur vos acquis :",
+      "links": [
+        {
+          "from": "确",
+          "relation": "COMPOSE",
+          "to": "的确"
+        },
+        {
+          "from": "并",
+          "relation": "DONNE_LE_SON",
+          "to": "并且"
+        },
+        {
+          "from": "难",
+          "relation": "COMPOSE",
+          "to": "困难"
+        },
+        {
+          "from": "道",
+          "relation": "COMPOSE",
+          "to": "知道"
+        },
+        {
+          "from": "反",
+          "relation": "COMPOSE",
+          "to": "反对"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Débattez avec un ami sur l'utilisation des dictionnaires en ligne. Utilisez 的确...不过 pour concéder un avantage, puis réfutez avec un argument solide.",
+          "hint": "Pensez à un avantage (ex : rapide) et un inconvénient (ex : pas toujours correct).",
+          "example": {
+            "chinese": "的确，用网上词典很快，不过并不是所有解释都对。难道你不觉得有时候会错吗？",
+            "pinyin": "Dí què, yòng wǎngshàng cídiǎn hěn kuài, bú guò bìng bù shì suǒyǒu jiěshì dōu duì. Nán dào nǐ bù juéde yǒu shíhou huì cuò ma?",
+            "translation": "Certes, utiliser les dictionnaires en ligne est rapide, mais toutes les explications ne sont pas correctes. Est-ce que vraiment tu ne penses pas que parfois c'est faux ?"
+          }
+        },
+        {
+          "instruction": "Votre ami dit que regarder des vidéos en chinois améliore toujours la compréhension. Réfutez avec 并没有 et une question rhétorique.",
+          "hint": "Pensez à un contre-exemple (ex : vidéos trop difficiles).",
+          "example": {
+            "chinese": "虽然看视频可以练习听，但是并没有你想的那么好。难道你不觉得很多视频太难吗？",
+            "pinyin": "Suīrán kàn shìpín kěyǐ liànxí tīng, dànshì bìng méiyǒu nǐ xiǎng de nàme hǎo. Nán dào nǐ bù juéde hěn duō shìpín tài nán ma?",
+            "translation": "Bien que regarder des vidéos puisse entraîner l'écoute, ce n'est pas aussi bien que tu le penses. Est-ce que vraiment tu ne trouves pas que beaucoup de vidéos sont trop difficiles ?"
+          }
+        },
+        {
+          "instruction": "Débattez sur l'utilité des devoirs écrits. Utilisez 反对 pour exprimer votre désaccord.",
+          "hint": "Mentionnez un argument adverse (ex : devoirs inutiles).",
+          "example": {
+            "chinese": "反对！难道你觉得所有作业都有用吗？",
+            "pinyin": "Fǎnduì! Nán dào nǐ juéde suǒyǒu zuòyè dōu yǒuyòng ma?",
+            "translation": "Je m'oppose ! Est-ce que vraiment tu trouves que tous les devoirs sont utiles ?"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à débattre en concédant des points avec 的确...不过, en niant fermement avec 并不/并没有, et en utilisant des questions rhétoriques avec 难道. Ces outils vous permettent de structurer vos réponses de manière nuancée et persuasive.",
+      "reviewWords": [
+        "的确",
+        "不过",
+        "并不",
+        "并没有",
+        "难道",
+        "虽然",
+        "但是",
+        "反对"
+      ],
+      "reviewHanzi": [
+        "确",
+        "并",
+        "难",
+        "道",
+        "反"
+      ]
+    }
+  }
+}

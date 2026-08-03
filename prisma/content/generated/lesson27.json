@@ -1,0 +1,294 @@
+{
+  "slug": "en-train-de",
+  "title": "En train de : le progressif",
+  "mission": "Dire ce qu'on est en train de faire",
+  "level": "A2",
+  "order": 27,
+  "hanzi": [
+    {
+      "character": "正",
+      "pinyin": "zhèng",
+      "meaning": "juste, en train de",
+      "hskLevel": 1,
+      "radical": "止",
+      "components": [
+        "一",
+        "止"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente un pied (止) arrêté sur une ligne (一), symbolisant quelque chose de précis ou en cours. Son origine exacte reste débattue parmi les experts.",
+      "family": [
+        "正确 (correct)",
+        "正式 (officiel)"
+      ],
+      "commonErrors": [
+        "Confusion avec '真' (vrai) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "歌",
+      "pinyin": "gē",
+      "meaning": "chanson, chanter",
+      "hskLevel": 2,
+      "radical": "欠",
+      "components": [
+        "哥",
+        "欠"
+      ],
+      "etymology": "Composé phono-sémantique : '哥' (frère aîné) donne une indication phonétique, et '欠' (ouvrir la bouche) indique le sens lié au chant ou à la parole.",
+      "family": [
+        "唱歌 (chanter)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'ge' sans ton (1er ton)."
+      ]
+    },
+    {
+      "character": "唱",
+      "pinyin": "chàng",
+      "meaning": "chanter",
+      "hskLevel": 2,
+      "radical": "口",
+      "components": [
+        "口",
+        "昌"
+      ],
+      "etymology": "Composé phono-sémantique : '昌' donne une indication phonétique, et '口' (bouche) indique le sens lié au chant ou à la parole.",
+      "family": [
+        "唱歌 (chanter)"
+      ],
+      "commonErrors": [
+        "Confusion avec '倡' (proposer) en raison de la similarité des caractères."
+      ]
+    },
+    {
+      "character": "舞",
+      "pinyin": "wǔ",
+      "meaning": "danser",
+      "hskLevel": 3,
+      "radical": "夕",
+      "components": [
+        "𦥑",
+        "舛"
+      ],
+      "etymology": "Ce caractère représente à l'origine des mains (𦥑) tenant des objets et des pieds (舛) en mouvement, symbolisant la danse. Son origine exacte est complexe et débattue.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer comme 'wu' sans ton (3e ton descendant-montant)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "正在",
+      "pinyin": "zhèngzài",
+      "meaning": "en train de (marqueur du progressif)",
+      "exampleZh": "我正在听音乐。",
+      "examplePinyin": "Wǒ zhèngzài tīng yīnyuè.",
+      "exampleFr": "Je suis en train d'écouter de la musique."
+    },
+    {
+      "word": "唱歌",
+      "pinyin": "chànggē",
+      "meaning": "chanter",
+      "exampleZh": "他唱歌很好。",
+      "examplePinyin": "Tā chànggē hěn hǎo.",
+      "exampleFr": "Il chante très bien."
+    },
+    {
+      "word": "跳舞",
+      "pinyin": "tiàowǔ",
+      "meaning": "danser",
+      "exampleZh": "她跳舞跳得很好。",
+      "examplePinyin": "Tā tiàowǔ tiào de hěn hǎo.",
+      "exampleFr": "Elle danse très bien."
+    },
+    {
+      "word": "做",
+      "pinyin": "zuò",
+      "meaning": "faire",
+      "exampleZh": "你在做什么？",
+      "examplePinyin": "Nǐ zài zuò shénme?",
+      "exampleFr": "Qu'est-ce que tu fais ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 sont chez eux un samedi après-midi. Ils discutent de ce qu'ils sont en train de faire.",
+      "goals": [
+        "Décrire une action en cours avec 正在 ou 在 + verbe",
+        "Poser une question sur une action en cours",
+        "Comprendre la différence entre une action en cours et une action accomplie (了)"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez comment 王明 et 李华 décrivent ce qu'ils sont en train de faire. Notez l'utilisation des mots nouveaux et leur position dans les phrases.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你在做什么？",
+          "pinyin": "Lǐ Huá, nǐ zài zuò shénme?",
+          "translation": "Li Hua, qu'est-ce que tu es en train de faire ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我正在看书。你呢？",
+          "pinyin": "Wǒ zhèngzài kànshū. Nǐ ne?",
+          "translation": "Je suis en train de lire un livre. Et toi ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我在听音乐。妈妈在做什么？",
+          "pinyin": "Wǒ zài tīng yīnyuè. Māma zài zuò shénme?",
+          "translation": "Je suis en train d'écouter de la musique. Qu'est-ce que maman est en train de faire ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "她在唱歌。爸爸在房间。",
+          "pinyin": "Tā zài chànggē. Bàba zài fángjiān.",
+          "translation": "Elle est en train de chanter. Papa est dans la chambre."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "他在做什么？",
+          "pinyin": "Tā zài zuò shénme?",
+          "translation": "Qu'est-ce qu'il est en train de faire ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "他正在看书。",
+          "pinyin": "Tā zhèngzài kànshū.",
+          "translation": "Il est en train de lire un livre."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我们晚上去公园跳舞，好吗？",
+          "pinyin": "Wǒmen wǎnshang qù gōngyuán tiàowǔ, hǎo ma?",
+          "translation": "On va danser au parc ce soir, d'accord ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好！我喜欢跳舞。",
+          "pinyin": "Hǎo! Wǒ xǐhuan tiàowǔ.",
+          "translation": "D'accord ! J'aime danser."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "正",
+        "歌",
+        "唱",
+        "舞"
+      ],
+      "grammar": [
+        {
+          "point": "Le progressif avec 正在/在 + verbe",
+          "explanation": "Pour exprimer une action en cours, on place 正在 ou 在 avant le verbe. 正在 est légèrement plus formel que 在, mais ils sont souvent interchangeables. Attention : en français, on utilise souvent 'être en train de' + verbe, mais en chinois, il n'y a pas d'équivalent du verbe 'être' dans cette structure. Erreur typique du francophone : ajouter un verbe 'être' (ex: 'je suis en train de manger' → incorrect : 我是正在吃).",
+          "examples": [
+            {
+              "chinese": "我正在看书。",
+              "pinyin": "Wǒ zhèngzài kànshū.",
+              "translation": "Je suis en train de lire un livre."
+            },
+            {
+              "chinese": "他在听音乐。",
+              "pinyin": "Tā zài tīng yīnyuè.",
+              "translation": "Il est en train d'écouter de la musique."
+            }
+          ]
+        },
+        {
+          "point": "Contraste avec 了 (action accomplie)",
+          "explanation": "了 indique qu'une action est accomplie ou qu'un changement a eu lieu, tandis que 正在/在 indique qu'une action est en cours. Erreur typique : utiliser 了 pour une action en cours (ex: 'je mange' → incorrect : 我吃了). 了 serait compris comme 'j'ai fini de manger'.",
+          "examples": [
+            {
+              "chinese": "我正在吃。",
+              "pinyin": "Wǒ zhèngzài chī.",
+              "translation": "Je suis en train de manger."
+            },
+            {
+              "chinese": "我吃了。",
+              "pinyin": "Wǒ chī le.",
+              "translation": "J'ai mangé (j'ai fini de manger)."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 正 (zhèng) est le 4e ton (descendant). Attention à ne pas le confondre avec le 1er ton (zhēng).",
+        "Le ton de 舞 (wǔ) est le 3e ton (descendant-montant). Évitez de le prononcer comme un ton plat.",
+        "Le ton de 唱 (chàng) est le 4e ton (descendant)."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et structures se connectent à ce que vous connaissez déjà :",
+      "links": [
+        {
+          "from": "正在/在",
+          "relation": "CONTRASTE_AVEC",
+          "to": "了"
+        },
+        {
+          "from": "歌",
+          "relation": "DONNE_LE_SON",
+          "to": "唱歌 (chanter)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décris ce que tu es en train de faire en ce moment. Utilise 正在 ou 在.",
+          "hint": "Pense à une activité simple comme lire ou écouter de la musique. Exemple : 我正在...",
+          "example": {
+            "chinese": "我正在看书。",
+            "pinyin": "Wǒ zhèngzài kànshū.",
+            "translation": "Je suis en train de lire un livre."
+          }
+        },
+        {
+          "instruction": "Demande à un ami ce qu'il est en train de faire.",
+          "hint": "Commence par 你在...",
+          "example": {
+            "chinese": "你在做什么？",
+            "pinyin": "Nǐ zài zuò shénme?",
+            "translation": "Qu'est-ce que tu es en train de faire ?"
+          }
+        },
+        {
+          "instruction": "Décris ce que font deux membres de ta famille en ce moment. Utilise 正在 ou 在 pour chaque personne.",
+          "hint": "Exemple : 妈妈在..., 爸爸在...",
+          "example": {
+            "chinese": "妈妈在做饭，爸爸在看电视。",
+            "pinyin": "Māma zài zuò fàn, bàba zài kàn diànshì.",
+            "translation": "Maman est en train de préparer le repas, papa est en train de regarder la télévision."
+          }
+        },
+        {
+          "instruction": "Réponds à cette question : 你在听音乐吗？ Utilise 正在 pour indiquer que tu es en train de faire cette action.",
+          "hint": "Réponds par l'affirmative avec 正在...",
+          "example": {
+            "chinese": "是的，我正在听。",
+            "pinyin": "Shì de, wǒ zhèngzài tīng.",
+            "translation": "Oui, je suis en train d'écouter."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à exprimer une action en cours avec 正在 ou 在 + verbe. Vous avez également revu le contraste entre une action en cours (正在/在) et une action accomplie (了). N'oubliez pas : en chinois, il n'y a pas de verbe 'être' dans cette structure, contrairement au français.",
+      "reviewWords": [
+        "正在",
+        "唱歌",
+        "跳舞",
+        "做"
+      ],
+      "reviewHanzi": [
+        "正",
+        "歌",
+        "唱",
+        "舞"
+      ]
+    }
+  }
+}

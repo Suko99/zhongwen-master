@@ -1,0 +1,476 @@
+{
+  "slug": "aller-et-venir",
+  "title": "Aller et venir",
+  "mission": "Dire où l'on va, comment on y va, et inviter quelqu'un",
+  "level": "A1",
+  "order": 9,
+  "hanzi": [
+    {
+      "character": "去",
+      "pinyin": "qù",
+      "meaning": "aller",
+      "hskLevel": 1,
+      "radical": "厶",
+      "components": [
+        "土",
+        "厶"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente un pied (厶) qui s'éloigne d'un lieu (土). Le radical 厶 suggère une idée de départ.",
+      "family": [
+        "来",
+        "回"
+      ],
+      "commonErrors": [
+        "Confusion avec 来 (venir) : 去 indique un mouvement *vers* un lieu, pas *depuis* un lieu."
+      ]
+    },
+    {
+      "character": "来",
+      "pinyin": "lái",
+      "meaning": "venir",
+      "hskLevel": 1,
+      "radical": "木",
+      "components": [
+        "一",
+        "丷",
+        "木"
+      ],
+      "etymology": "Ce caractère évoque une pousse de blé (木) qui émerge du sol (一 et 丷). Par extension, il représente l'idée de *venir* vers soi. Le radical 木 renvoie aux végétaux.",
+      "family": [
+        "去",
+        "回"
+      ],
+      "commonErrors": [
+        "Confusion avec 去 (aller) : 来 indique un mouvement *vers* le locuteur."
+      ]
+    },
+    {
+      "character": "回",
+      "pinyin": "huí",
+      "meaning": "retourner, revenir",
+      "hskLevel": 1,
+      "radical": "囗",
+      "components": [
+        "囗",
+        "口"
+      ],
+      "etymology": "Ce caractère représente un enclos (囗) avec une bouche (口), symbolisant l'idée de *revenir* à un point de départ. Le radical 囗 signifie 'enceinte'.",
+      "family": [
+        "去",
+        "来"
+      ],
+      "commonErrors": [
+        "Ne pas confondre avec 来 : 回 implique un retour à un lieu connu."
+      ]
+    },
+    {
+      "character": "车",
+      "pinyin": "chē",
+      "meaning": "véhicule, voiture",
+      "hskLevel": 1,
+      "radical": "车",
+      "components": [
+        "车"
+      ],
+      "etymology": "Ce caractère représente une charrette vue de côté. Le radical est 车 lui-même, lié aux véhicules.",
+      "family": [
+        "坐车"
+      ],
+      "commonErrors": [
+        "Prononciation : ton haut et plat (1er ton), pas montant."
+      ]
+    },
+    {
+      "character": "坐",
+      "pinyin": "zuò",
+      "meaning": "s'asseoir, prendre (un transport)",
+      "hskLevel": 1,
+      "radical": "土",
+      "components": [
+        "人",
+        "人",
+        "土"
+      ],
+      "etymology": "Ce caractère montre deux personnes (人) assises sur la terre (土). Par extension, il signifie *prendre* un transport.",
+      "family": [
+        "坐车"
+      ],
+      "commonErrors": [
+        "Ne pas confondre avec 作 (zuò, faire)."
+      ]
+    },
+    {
+      "character": "吧",
+      "pinyin": "ba",
+      "meaning": "particule de suggestion",
+      "hskLevel": 1,
+      "radical": "口",
+      "components": [
+        "口",
+        "巴"
+      ],
+      "etymology": "Ce caractère combine 口 (bouche) et 巴 (phonétique) pour former une particule invitant à l'action.",
+      "family": [],
+      "commonErrors": [
+        "Ton neutre (ba), pas de ton marqué."
+      ]
+    },
+    {
+      "character": "公",
+      "pinyin": "gōng",
+      "meaning": "public, commun",
+      "hskLevel": 1,
+      "radical": "八",
+      "components": [
+        "八",
+        "厶"
+      ],
+      "etymology": "Ce caractère représente une division équitable (八) entre plusieurs personnes (厶). Il évoque l'idée de *public*.",
+      "family": [
+        "公共"
+      ],
+      "commonErrors": [
+        "Ton haut et plat (1er ton), pas descendant."
+      ]
+    },
+    {
+      "character": "共",
+      "pinyin": "gòng",
+      "meaning": "commun, ensemble",
+      "hskLevel": 1,
+      "radical": "八",
+      "components": [
+        "廿",
+        "八"
+      ],
+      "etymology": "Ce caractère montre deux mains (廿) tenant ensemble un objet (八). Il évoque l'idée de *commun*.",
+      "family": [
+        "公共"
+      ],
+      "commonErrors": [
+        "Ton descendant (4e ton), pas montant."
+      ]
+    },
+    {
+      "character": "汽",
+      "pinyin": "qì",
+      "meaning": "vapeur, gaz",
+      "hskLevel": 1,
+      "radical": "氵",
+      "components": [
+        "氵",
+        "气"
+      ],
+      "etymology": "Ce caractère combine l'eau (氵) et l'air (气) pour évoquer la *vapeur*. Le radical 氵 renvoie aux liquides.",
+      "family": [
+        "汽车"
+      ],
+      "commonErrors": [
+        "Ton descendant (4e ton), pas montant."
+      ]
+    },
+    {
+      "character": "走",
+      "pinyin": "zǒu",
+      "meaning": "marcher, partir",
+      "hskLevel": 1,
+      "radical": "走",
+      "components": [
+        "走"
+      ],
+      "etymology": "Ce caractère représente une personne en mouvement. Le radical est 走 lui-même, lié à la marche.",
+      "family": [],
+      "commonErrors": [
+        "Ne pas confondre avec 去 : 走 insiste sur le *moyen* de déplacement."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "去",
+      "pinyin": "qù",
+      "meaning": "aller (vers un lieu)",
+      "exampleZh": "我去那儿。",
+      "examplePinyin": "Wǒ qù nàr.",
+      "exampleFr": "J'y vais."
+    },
+    {
+      "word": "来",
+      "pinyin": "lái",
+      "meaning": "venir (vers le locuteur)",
+      "exampleZh": "你来这儿吗？",
+      "examplePinyin": "Nǐ lái zhèr ma?",
+      "exampleFr": "Tu viens ici ?"
+    },
+    {
+      "word": "回",
+      "pinyin": "huí",
+      "meaning": "retourner, revenir",
+      "exampleZh": "他回中国。",
+      "examplePinyin": "Tā huí Zhōngguó.",
+      "exampleFr": "Il retourne en Chine."
+    },
+    {
+      "word": "坐车",
+      "pinyin": "zuò chē",
+      "meaning": "prendre un véhicule",
+      "exampleZh": "我坐车去。",
+      "examplePinyin": "Wǒ zuò chē qù.",
+      "exampleFr": "Je prends la voiture pour y aller."
+    },
+    {
+      "word": "公共汽车",
+      "pinyin": "gōnggòng qìchē",
+      "meaning": "bus",
+      "exampleZh": "我坐公共汽车去那儿。",
+      "examplePinyin": "Wǒ zuò gōnggòng qìchē qù nàr.",
+      "exampleFr": "Je prends le bus pour y aller."
+    },
+    {
+      "word": "走",
+      "pinyin": "zǒu",
+      "meaning": "marcher, partir",
+      "exampleZh": "我走去那儿。",
+      "examplePinyin": "Wǒ zǒu qù nàr.",
+      "exampleFr": "J'y vais à pied."
+    },
+    {
+      "word": "吧",
+      "pinyin": "ba",
+      "meaning": "particule de suggestion (ex : 'Allons-y !')",
+      "exampleZh": "我们去吧！",
+      "examplePinyin": "Wǒmen qù ba!",
+      "exampleFr": "Allons-y !"
+    },
+    {
+      "word": "回家",
+      "pinyin": "huí jiā",
+      "meaning": "rentrer à la maison",
+      "exampleZh": "你什么时候回家？",
+      "examplePinyin": "Nǐ shénme shíhou huí jiā?",
+      "exampleFr": "Quand rentres-tu à la maison ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明和李华在大学。王明想去吃饭，李华说他也想去。他们讨论怎么去。",
+      "goals": [
+        "Dire où tu vas (ex : 我去那儿)",
+        "Proposer un moyen de transport (ex : 坐车去吧)",
+        "Faire une suggestion avec 吧"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue. Repérez : 1) les verbes de mouvement (去, 来, 回) ; 2) les moyens de transport ; 3) les suggestions avec 吧.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你去哪儿？",
+          "pinyin": "Lǐ Huá, nǐ qù nǎr?",
+          "translation": "Li Hua, où vas-tu ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我去吃饭。你也去吗？",
+          "pinyin": "Wǒ qù chīfàn. Nǐ yě qù ma?",
+          "translation": "Je vais manger. Tu y vas aussi ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我也去。去吧！",
+          "pinyin": "Wǒ yě qù. Qù ba!",
+          "translation": "Moi aussi. Allons-y !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好！你怎么去？坐车吗？",
+          "pinyin": "Hǎo! Nǐ zěnme qù? Zuò chē ma?",
+          "translation": "D'accord ! Comment y vas-tu ? En voiture ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "不，我走去。你呢？",
+          "pinyin": "Bù, wǒ zǒu qù. Nǐ ne?",
+          "translation": "Non, j'y vais à pied. Et toi ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我坐公共汽车去。大卫来吗？",
+          "pinyin": "Wǒ zuò gōnggòng qìchē qù. Dàwèi lái ma?",
+          "translation": "Moi je prends le bus. David vient ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "他回家。我们走！",
+          "pinyin": "Tā huí jiā. Wǒmen zǒu!",
+          "translation": "Il est rentré. Partons !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "去",
+        "来",
+        "回",
+        "车",
+        "坐",
+        "吧",
+        "公",
+        "共",
+        "汽",
+        "走"
+      ],
+      "grammar": [
+        {
+          "point": "Verbes de mouvement : 去, 来, 回",
+          "explanation": "Ces verbes indiquent la direction du mouvement : \n- 去 (qù) : mouvement *loin* du locuteur (ex : 我去那儿). \n- 来 (lái) : mouvement *vers* le locuteur (ex : 你来这儿). \n- 回 (huí) : mouvement de *retour* (ex : 我回家). \nErreur typique : confondre 去 et 来 (toujours par rapport au locuteur).",
+          "examples": [
+            {
+              "chinese": "他去中国。",
+              "pinyin": "Tā qù Zhōngguó.",
+              "translation": "Il va en Chine."
+            },
+            {
+              "chinese": "你来这儿。",
+              "pinyin": "Nǐ lái zhèr.",
+              "translation": "Viens ici."
+            },
+            {
+              "chinese": "我回家。",
+              "pinyin": "Wǒ huí jiā.",
+              "translation": "Je rentre à la maison."
+            }
+          ]
+        },
+        {
+          "point": "Verbes en série : moyen + 去/来 (ex : 坐车去)",
+          "explanation": "Le *moyen* de déplacement précède le verbe de mouvement. Structure : [Moyen] + [Verbe de mouvement]. \nExemples : \n- 坐车去 (zuò chē qù) : aller en voiture. \n- 走去 (zǒu qù) : aller à pied. \nErreur typique : inverser l'ordre (❌ 去坐车).",
+          "examples": [
+            {
+              "chinese": "我坐公共汽车来。",
+              "pinyin": "Wǒ zuò gōnggòng qìchē lái.",
+              "translation": "Je viens en bus."
+            },
+            {
+              "chinese": "他走去那儿。",
+              "pinyin": "Tā zǒu qù nàr.",
+              "translation": "Il y va à pied."
+            }
+          ]
+        },
+        {
+          "point": "Suggestions avec 吧",
+          "explanation": "吧 (ba) est une particule de suggestion placée en fin de phrase. Structure : [Verbe] + 吧. \nExemples : \n- 去吧！ (Allons-y !) \n- 坐车吧！ (Prenons la voiture !) \nErreur typique : oublier 吧 ou le placer au mauvais endroit.",
+          "examples": [
+            {
+              "chinese": "走去吧！",
+              "pinyin": "Zǒu qù ba!",
+              "translation": "Allons-y à pied !"
+            },
+            {
+              "chinese": "回家吧！",
+              "pinyin": "Huí jiā ba!",
+              "translation": "Rentrons à la maison !"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "去 (qù) : 4e ton (descendant). Attention à ne pas le prononcer comme le 2e ton.",
+        "来 (lái) : 2e ton (montant). Évitez le ton plat (1er ton).",
+        "吧 (ba) : ton neutre. Ne lui donnez pas de ton marqué."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux mots s'appuient sur vos acquis :",
+      "links": [
+        {
+          "from": "去",
+          "relation": "CONTRASTE_AVEC",
+          "to": "来"
+        },
+        {
+          "from": "坐车",
+          "relation": "COMPOSE",
+          "to": "坐 + 车"
+        },
+        {
+          "from": "公共汽车",
+          "relation": "COMPOSE",
+          "to": "公 + 共 + 汽 + 车"
+        },
+        {
+          "from": "走",
+          "relation": "DONNE_LE_SON",
+          "to": "走去"
+        },
+        {
+          "from": "回家",
+          "relation": "COMPOSE",
+          "to": "回 + 家"
+        },
+        {
+          "from": "吧",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "吗"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Propose à un ami d'aller manger. Utilise 吧 et précise le moyen de transport (à pied ou en bus).",
+          "hint": "Structure : [Moyen de transport] + 去 + 吃饭 + 吧！ Exemple : 走去吃饭吧！",
+          "example": {
+            "chinese": "坐公共汽车去吃饭吧！",
+            "pinyin": "Zuò gōnggòng qìchē qù chīfàn ba!",
+            "translation": "Prenons le bus pour aller manger !"
+          }
+        },
+        {
+          "instruction": "Dis à ton ami que tu vas à pied, et demande-lui comment il y va.",
+          "hint": "Utilise 走去 pour 'aller à pied', et 你呢？ pour demander 'et toi ?'. Structure : 我走去。你呢？",
+          "example": {
+            "chinese": "我走去。你坐车去吗？",
+            "pinyin": "Wǒ zǒu qù. Nǐ zuò chē qù ma?",
+            "translation": "J'y vais à pied. Tu y vas en voiture ?"
+          }
+        },
+        {
+          "instruction": "Invite un ami à venir chez toi. Utilise 来 et précise le moyen de transport.",
+          "hint": "Structure : [Moyen de transport] + 来 + 我家 + 吧！ Exemple : 坐车来我家吧！",
+          "example": {
+            "chinese": "走来我家吧！",
+            "pinyin": "Zǒu lái wǒ jiā ba!",
+            "translation": "Viens chez moi à pied !"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à : \n1. Utiliser 去, 来 et 回 pour décrire des déplacements. \n2. Combiner un moyen de transport avec un verbe de mouvement (ex : 坐车去). \n3. Faire des suggestions avec 吧. \nRappel : le moyen de transport précède toujours le verbe de mouvement (✅ 坐车去, ❌ 去坐车).",
+      "reviewWords": [
+        "去",
+        "来",
+        "回",
+        "坐车",
+        "公共汽车",
+        "走",
+        "吧",
+        "回家"
+      ],
+      "reviewHanzi": [
+        "去",
+        "来",
+        "回",
+        "车",
+        "坐",
+        "吧",
+        "公",
+        "共",
+        "汽",
+        "走"
+      ]
+    }
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "slug": "la-duree",
+  "title": "Depuis combien de temps ?",
+  "mission": "Exprimer la durée d'une action",
+  "level": "A2",
+  "order": 29,
+  "hanzi": [
+    {
+      "character": "时",
+      "pinyin": "shí",
+      "meaning": "temps, heure",
+      "hskLevel": 1,
+      "radical": "日 (rì, soleil)",
+      "components": [
+        "日",
+        "寸"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 日 (soleil) indique un lien avec le temps, et 寸 (cùn, pouce) donne une indication phonétique. Représente à l'origine la mesure du temps par le soleil.",
+      "family": [
+        "时间 (shíjiān, temps)",
+        "小时 (xiǎoshí, heure)"
+      ],
+      "commonErrors": [
+        "Confondre avec 时 (shí) et 点 (diǎn) : 时 désigne une période plus large que 点 (heure précise)."
+      ]
+    },
+    {
+      "character": "候",
+      "pinyin": "hòu",
+      "meaning": "attendre, moment",
+      "hskLevel": 2,
+      "radical": "人 (rén, personne)",
+      "components": [
+        "人",
+        "丨",
+        "矢"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 人 (personne) suggère une action humaine, et 矢 (shǐ, flèche) donne une indication phonétique. Représente à l'origine une personne attendant avec une flèche (symbole de préparation).",
+      "family": [
+        "时候 (shíhou, moment)",
+        "等候 (děnghòu, attendre)"
+      ],
+      "commonErrors": [
+        "Confondre avec 后 (hòu, après) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "段",
+      "pinyin": "duàn",
+      "meaning": "segment, partie",
+      "hskLevel": 2,
+      "radical": "殳 (shū, arme)",
+      "components": [
+        "殳",
+        "几",
+        "又"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 殳 suggère une action liée à la division, et les autres composants donnent une indication phonétique. Représente une partie d'un tout.",
+      "family": [
+        "一段时间 (yīduàn shíjiān, une période)",
+        "阶段 (jiēduàn, étape)"
+      ],
+      "commonErrors": [
+        "Prononcer incorrectement duàn comme dùn (4e ton)."
+      ]
+    },
+    {
+      "character": "习",
+      "pinyin": "xí",
+      "meaning": "pratiquer, s'exercer",
+      "hskLevel": 1,
+      "radical": "乙 (yǐ, second)",
+      "components": [
+        "乙",
+        "冫"
+      ],
+      "etymology": "Pictogramme représentant des ailes d'oiseau s'exerçant à voler, symbolisant la pratique ou l'apprentissage. Le radical est souvent considéré comme 习 lui-même.",
+      "family": [
+        "学习 (xuéxí, étudier)",
+        "练习 (liànxí, s'exercer)"
+      ],
+      "commonErrors": [
+        "Confondre avec 羽 (yǔ, plume) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "惯",
+      "pinyin": "guàn",
+      "meaning": "habitude, s'habituer",
+      "hskLevel": 2,
+      "radical": "忄(xīn, cœur)",
+      "components": [
+        "忄",
+        "贯"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 忄 (cœur) indique un état mental, et 贯 (guàn) donne une indication phonétique. Représente l'idée de s'habituer à quelque chose.",
+      "family": [
+        "习惯 (xíguàn, habitude)"
+      ],
+      "commonErrors": [
+        "Confondre avec 贯 (guàn, percer) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "已",
+      "pinyin": "yǐ",
+      "meaning": "déjà, cesser",
+      "hskLevel": 1,
+      "radical": "己 (jǐ, soi-même)",
+      "components": [
+        "己"
+      ],
+      "etymology": "Pictogramme représentant une corde nouée, symbolisant la fin ou l'achèvement. Le radical est souvent considéré comme 己 lui-même.",
+      "family": [
+        "已经 (yǐjīng, déjà)"
+      ],
+      "commonErrors": [
+        "Confondre avec 己 (jǐ, soi-même) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "经",
+      "pinyin": "jīng",
+      "meaning": "passer par, gérer",
+      "hskLevel": 2,
+      "radical": "纟(sī, soie)",
+      "components": [
+        "纟",
+        "圣"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 纟 (soie) indique un lien avec les fils ou les processus, et 圣 (shèng) donne une indication phonétique. Représente l'idée de passer par un processus.",
+      "family": [
+        "已经 (yǐjīng, déjà)",
+        "经过 (jīngguò, passer par)"
+      ],
+      "commonErrors": [
+        "Confondre avec 轻 (qīng, léger) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "假",
+      "pinyin": "jià / jiǎ",
+      "meaning": "vacances / faux",
+      "hskLevel": 2,
+      "radical": "人 (rén, personne)",
+      "components": [
+        "人",
+        "叚"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 人 (personne) suggère une action humaine, et 叚 (jiǎ) donne une indication phonétique. Le sens dépend du ton : jià (vacances) ou jiǎ (faux).",
+      "family": [
+        "放假 (fàngjià, être en vacances)"
+      ],
+      "commonErrors": [
+        "Confondre les tons : jià (vacances) vs jiǎ (faux)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "多长时间",
+      "pinyin": "duō cháng shíjiān",
+      "meaning": "combien de temps (durée)",
+      "exampleZh": "你今天看书多长时间？",
+      "examplePinyin": "Nǐ jīntiān kàn shū duō cháng shíjiān?",
+      "exampleFr": "Combien de temps lis-tu aujourd'hui ?"
+    },
+    {
+      "word": "多久",
+      "pinyin": "duō jiǔ",
+      "meaning": "combien de temps",
+      "exampleZh": "你学这个多久了？",
+      "examplePinyin": "Nǐ xué zhège duō jiǔ le?",
+      "exampleFr": "Depuis combien de temps étudies-tu cela ?"
+    },
+    {
+      "word": "小时",
+      "pinyin": "xiǎoshí",
+      "meaning": "heure (durée)",
+      "exampleZh": "他看书看了三个小时。",
+      "examplePinyin": "Tā kàn shū kàn le sān ge xiǎoshí.",
+      "exampleFr": "Il a lu pendant trois heures."
+    },
+    {
+      "word": "分钟",
+      "pinyin": "fēnzhōng",
+      "meaning": "minute (durée)",
+      "exampleZh": "我走了十分钟。",
+      "examplePinyin": "Wǒ zǒu le shí fēnzhōng.",
+      "exampleFr": "J'ai marché pendant dix minutes."
+    },
+    {
+      "word": "时间",
+      "pinyin": "shíjiān",
+      "meaning": "temps (durée)",
+      "exampleZh": "这个工作要多少时间？",
+      "examplePinyin": "Zhège gōngzuò yào duōshao shíjiān?",
+      "exampleFr": "Combien de temps ce travail prend-il ?"
+    },
+    {
+      "word": "一段时间",
+      "pinyin": "yī duàn shíjiān",
+      "meaning": "une période de temps",
+      "exampleZh": "他休息了一段时间。",
+      "examplePinyin": "Tā xiūxí le yī duàn shíjiān.",
+      "exampleFr": "Il s'est reposé pendant un certain temps."
+    },
+    {
+      "word": "习惯",
+      "pinyin": "xí guàn",
+      "meaning": "habitude, s'habituer",
+      "exampleZh": "我习惯早起。",
+      "examplePinyin": "Wǒ xí guàn zǎo qǐ.",
+      "exampleFr": "J'ai l'habitude de me lever tôt."
+    },
+    {
+      "word": "已经",
+      "pinyin": "yǐ jīng",
+      "meaning": "déjà",
+      "exampleZh": "他已经来了。",
+      "examplePinyin": "Tā yǐ jīng lái le.",
+      "exampleFr": "Il est déjà venu."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu discutes avec ton ami 王明 de tes activités quotidiennes et de leur durée. Vous comparez combien de temps vous passez à faire différentes choses.",
+      "goals": [
+        "Demander depuis combien de temps une action dure.",
+        "Exprimer la durée d'une action en cours.",
+        "Parler de ses habitudes et de leur durée."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue suivant. Repère comment on exprime la durée d'une action et les questions posées pour la connaître. Note les mots nouveaux liés au temps.",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "王明，你学这个多久了？",
+          "pinyin": "Wáng Míng, nǐ xué zhège duō jiǔ le?",
+          "translation": "Wang Ming, depuis combien de temps étudies-tu cela ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我学这个一年多了。你呢？",
+          "pinyin": "Wǒ xué zhège yī nián duō le. Nǐ ne?",
+          "translation": "J'étudie cela depuis plus d'un an. Et toi ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我学了十个月。你天天学多长时间？",
+          "pinyin": "Wǒ xué le shí ge yuè. Nǐ tiāntiān xué duō cháng shíjiān?",
+          "translation": "J'étudie depuis dix mois. Combien de temps étudies-tu chaque jour ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我天天学一个小时。你喜欢看书吗？",
+          "pinyin": "Wǒ tiāntiān xué yī ge xiǎoshí. Nǐ xǐhuan kàn shū ma?",
+          "translation": "J'étudie une heure chaque jour. Tu aimes lire ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "喜欢。我晚上看书一个小时。",
+          "pinyin": "Xǐhuan. Wǒ wǎnshang kàn shū yī ge xiǎoshí.",
+          "translation": "Oui. Je lis une heure chaque soir."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你走路走了多久？",
+          "pinyin": "Nǐ zǒu lù zǒu le duō jiǔ?",
+          "translation": "Combien de temps as-tu marché ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我走了十分钟。",
+          "pinyin": "Wǒ zǒu le shí fēnzhōng.",
+          "translation": "J'ai marché pendant dix minutes."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "时",
+        "候",
+        "段",
+        "习",
+        "惯",
+        "已",
+        "经",
+        "假"
+      ],
+      "grammar": [
+        {
+          "point": "Verbe + durée + 了 (action qui continue)",
+          "explanation": "Pour exprimer la durée d'une action qui continue dans le présent, on utilise la structure : Sujet + Verbe + Durée + 了. Attention : en français, on utilise souvent 'depuis' ou 'ça fait... que', mais en chinois, on place simplement la durée après le verbe. Erreur typique : oublier le 了 ou placer la durée avant le verbe (ex: ❌ 两年我学这个了 → ✅ 我学这个两年了).",
+          "examples": [
+            {
+              "chinese": "我住在这里三年了。",
+              "pinyin": "Wǒ zhù zài zhèlǐ sān nián le.",
+              "translation": "J'habite ici depuis trois ans."
+            },
+            {
+              "chinese": "他工作了五个小时了。",
+              "pinyin": "Tā gōngzuò le wǔ ge xiǎoshí le.",
+              "translation": "Il travaille depuis cinq heures."
+            }
+          ]
+        },
+        {
+          "point": "多长时间 / 多久 pour demander la durée",
+          "explanation": "Pour demander 'combien de temps', on utilise 多长时间 ou 多久. 多长时间 est plus formel et souvent utilisé pour des durées précises, tandis que 多久 est plus courant à l'oral. Erreur typique : utiliser 多少时间 (❌) au lieu de 多长时间 (✅).",
+          "examples": [
+            {
+              "chinese": "你今天看书多长时间？",
+              "pinyin": "Nǐ jīntiān kàn shū duō cháng shíjiān?",
+              "translation": "Combien de temps lis-tu aujourd'hui ?"
+            },
+            {
+              "chinese": "你走了多久？",
+              "pinyin": "Nǐ zǒu le duō jiǔ?",
+              "translation": "Combien de temps as-tu marché ?"
+            }
+          ]
+        },
+        {
+          "point": "Durée + 的 + Nom (pour qualifier une période)",
+          "explanation": "Pour qualifier une période de temps, on peut utiliser la structure : Durée + 的 + Nom. Cela permet de préciser de quelle période il s'agit. Erreur typique : oublier 的 ou inverser l'ordre (ex: ❌ 两年时间 → ✅ 两年的时间).",
+          "examples": [
+            {
+              "chinese": "这是一段很长的时间。",
+              "pinyin": "Zhè shì yī duàn hěn cháng de shíjiān.",
+              "translation": "C'est une longue période."
+            },
+            {
+              "chinese": "我休息了一个星期。",
+              "pinyin": "Wǒ xiūxí le yī ge xīngqī.",
+              "translation": "J'ai pris une semaine de repos."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "时 (shí) : 2e ton (montant). Attention à ne pas le confondre avec le 1er ton (haut et plat) de 是 (shì).",
+        "惯 (guàn) : 4e ton (descendant). Attention à ne pas le prononcer comme guān (1er ton).",
+        "假 (jià) : 4e ton (descendant) quand il signifie 'vacances'."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et mots s'articulent avec ce que tu connais déjà :",
+      "links": [
+        {
+          "from": "时",
+          "relation": "RADICAL_DE",
+          "to": "时间 (shíjiān, temps)"
+        },
+        {
+          "from": "候",
+          "relation": "COMPOSE",
+          "to": "时候 (shíhou, moment)"
+        },
+        {
+          "from": "习",
+          "relation": "COMPOSE",
+          "to": "学习 (xuéxí, étudier)"
+        },
+        {
+          "from": "惯",
+          "relation": "COMPOSE",
+          "to": "习惯 (xíguàn, habitude)"
+        },
+        {
+          "from": "已",
+          "relation": "COMPOSE",
+          "to": "已经 (yǐjīng, déjà)"
+        },
+        {
+          "from": "多长时间",
+          "relation": "CONTRASTE_AVEC",
+          "to": "几点 (jǐ diǎn, quelle heure)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Réponds à la question en utilisant la structure Verbe + Durée + 了 : 你学法文多久了？",
+          "hint": "Utilise 'trois ans' comme durée et le verbe 学.",
+          "example": {
+            "chinese": "我学法文三年了。",
+            "pinyin": "Wǒ xué Fǎwén sān nián le.",
+            "translation": "J'étudie le français depuis trois ans."
+          }
+        },
+        {
+          "instruction": "Pose une question pour demander combien de temps ton ami travaille chaque jour.",
+          "hint": "Utilise 多长时间 ou 多久.",
+          "example": {
+            "chinese": "你天天工作多长时间？",
+            "pinyin": "Nǐ tiāntiān gōngzuò duō cháng shíjiān?",
+            "translation": "Combien de temps travailles-tu chaque jour ?"
+          }
+        },
+        {
+          "instruction": "Décris une habitude quotidienne en précisant sa durée. Exemple : boire du thé, lire, etc.",
+          "hint": "Utilise la structure Sujet + Verbe + Durée + (了 si l'action continue).",
+          "example": {
+            "chinese": "我早上喝茶半个小时。",
+            "pinyin": "Wǒ zǎoshang hē chá bàn ge xiǎoshí.",
+            "translation": "Je bois du thé pendant une demi-heure chaque matin."
+          }
+        },
+        {
+          "instruction": "Demande à ton ami combien de temps il a marché hier.",
+          "hint": "Utilise 走路 et 了 pour une action passée.",
+          "example": {
+            "chinese": "你昨天走路走了多久？",
+            "pinyin": "Nǐ zuótiān zǒu lù zǒu le duō jiǔ?",
+            "translation": "Combien de temps as-tu marché hier ?"
+          }
+        },
+        {
+          "instruction": "Explique depuis combien de temps tu habites dans ta ville actuelle.",
+          "hint": "Utilise 住在 et une durée comme 'cinq ans'.",
+          "example": {
+            "chinese": "我住在这个城市五年了。",
+            "pinyin": "Wǒ zhù zài zhège chéngshì wǔ nián le.",
+            "translation": "J'habite dans cette ville depuis cinq ans."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à exprimer la durée d'une action avec la structure Verbe + Durée + 了, à demander 'combien de temps' avec 多长时间 ou 多久, et à parler de tes habitudes en précisant leur durée. Tu as aussi découvert 8 nouveaux caractères liés au temps et à la durée.",
+      "reviewWords": [
+        "多长时间",
+        "多久",
+        "小时",
+        "分钟",
+        "时间",
+        "一段时间",
+        "习惯",
+        "已经"
+      ],
+      "reviewHanzi": [
+        "时",
+        "候",
+        "段",
+        "习",
+        "惯",
+        "已",
+        "经",
+        "假"
+      ]
+    }
+  }
+}

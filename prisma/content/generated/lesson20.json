@@ -1,0 +1,511 @@
+{
+  "slug": "comparer-avec-bi",
+  "title": "Plus grand, plus cher : comparer avec 比",
+  "mission": "Apprendre à comparer deux éléments (objets, personnes, villes) en utilisant la structure 比 et les adverbes 更 et 最",
+  "level": "A2",
+  "order": 20,
+  "hanzi": [
+    {
+      "character": "比",
+      "pinyin": "bǐ",
+      "meaning": "comparer, par rapport à",
+      "hskLevel": 1,
+      "radical": "比 (comparaison)",
+      "components": [
+        "匕",
+        "匕"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente deux personnes (匕) côte à côte pour indiquer une comparaison. Son origine exacte reste débattue parmi les experts.",
+      "family": [
+        "比较"
+      ],
+      "commonErrors": [
+        "Confusion avec 七 (qī, sept) en raison de la similitude graphique. Attention : 比 se prononce avec un 3e ton (descendant-montant)."
+      ]
+    },
+    {
+      "character": "更",
+      "pinyin": "gèng",
+      "meaning": "encore plus, davantage",
+      "hskLevel": 2,
+      "radical": "曰 (dire)",
+      "components": [
+        "一",
+        "日",
+        "乂"
+      ],
+      "etymology": "Ce caractère combine le radical 曰 (dire) avec des éléments phonétiques. Il exprime l'idée d'un degré accru, comme une amplification de ce qui est dit.",
+      "family": [
+        "更好"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *gēng (1er ton) au lieu de gèng (4e ton descendant)."
+      ]
+    },
+    {
+      "character": "最",
+      "pinyin": "zuì",
+      "meaning": "le plus",
+      "hskLevel": 1,
+      "radical": "曰 (dire)",
+      "components": [
+        "日",
+        "耳",
+        "又"
+      ],
+      "etymology": "Le caractère combine le radical 曰 (dire) avec des éléments phonétiques. Il indique le superlatif, comme une affirmation catégorique (le plus...).",
+      "family": [
+        "最好"
+      ],
+      "commonErrors": [
+        "Oubli du 4e ton descendant (zuì) et prononciation en *zui (ton neutre)."
+      ]
+    },
+    {
+      "character": "高",
+      "pinyin": "gāo",
+      "meaning": "haut, grand (taille)",
+      "hskLevel": 1,
+      "radical": "高 (haut)",
+      "components": [
+        "亠",
+        "口",
+        "冂",
+        "口"
+      ],
+      "etymology": "Ce caractère représente une tour ou une structure élevée, avec le radical 高 indiquant la hauteur.",
+      "family": [
+        "高兴"
+      ],
+      "commonErrors": [
+        "Confusion avec 搞 (gǎo, faire) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "矮",
+      "pinyin": "ǎi",
+      "meaning": "petit (taille), bas",
+      "hskLevel": 3,
+      "radical": "矢 (flèche)",
+      "components": [
+        "矢",
+        "委"
+      ],
+      "etymology": "Le radical 矢 (flèche) suggère une idée de mesure, tandis que le reste du caractère évoque quelque chose de court ou de bas.",
+      "family": [
+        "矮小"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *ái (2e ton) au lieu de ǎi (3e ton descendant-montant)."
+      ]
+    },
+    {
+      "character": "长",
+      "pinyin": "cháng",
+      "meaning": "long",
+      "hskLevel": 1,
+      "radical": "长 (long)",
+      "components": [
+        "丿",
+        "七",
+        "丿",
+        "乀"
+      ],
+      "etymology": "Ce caractère représente une personne avec les cheveux longs.",
+      "family": [
+        "长大"
+      ],
+      "commonErrors": [
+        "Confusion avec la prononciation zhǎng (grandir)."
+      ]
+    },
+    {
+      "character": "短",
+      "pinyin": "duǎn",
+      "meaning": "court, bref",
+      "hskLevel": 2,
+      "radical": "矢 (flèche)",
+      "components": [
+        "矢",
+        "豆"
+      ],
+      "etymology": "Le radical 矢 (flèche) évoque une mesure, tandis que le reste du caractère suggère quelque chose de limité ou de court.",
+      "family": [
+        "短发"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *duàn (4e ton) au lieu de duǎn (3e ton descendant-montant)."
+      ]
+    },
+    {
+      "character": "远",
+      "pinyin": "yuǎn",
+      "meaning": "loin",
+      "hskLevel": 2,
+      "radical": "辶 (mouvement)",
+      "components": [
+        "辶",
+        "元"
+      ],
+      "etymology": "Le radical 辶 (mouvement) indique une action liée au déplacement, tandis que 元 sert de phonétique.",
+      "family": [
+        "远近"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *yuàn (4e ton) au lieu de yuǎn (3e ton descendant-montant)."
+      ]
+    },
+    {
+      "character": "近",
+      "pinyin": "jìn",
+      "meaning": "proche, près",
+      "hskLevel": 1,
+      "radical": "辶 (mouvement)",
+      "components": [
+        "辶",
+        "斤"
+      ],
+      "etymology": "Le radical 辶 (mouvement) suggère un déplacement, tandis que 斤 sert de phonétique.",
+      "family": [
+        "最近"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *jìng (4e ton) au lieu de jìn (4e ton descendant)."
+      ]
+    },
+    {
+      "character": "快",
+      "pinyin": "kuài",
+      "meaning": "rapide, vite",
+      "hskLevel": 1,
+      "radical": "忄 (cœur)",
+      "components": [
+        "忄",
+        "夬"
+      ],
+      "etymology": "Le radical 忄 (cœur) suggère une émotion ou une sensation, tandis que 夬 sert de phonétique.",
+      "family": [
+        "快乐"
+      ],
+      "commonErrors": [
+        "Confusion avec 块 (kuài, morceau) en raison de la similitude graphique et phonétique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "比",
+      "pinyin": "bǐ",
+      "meaning": "comparer, par rapport à",
+      "exampleZh": "他比我高。",
+      "examplePinyin": "Tā bǐ wǒ gāo.",
+      "exampleFr": "Il est plus grand que moi."
+    },
+    {
+      "word": "更",
+      "pinyin": "gèng",
+      "meaning": "encore plus, davantage",
+      "exampleZh": "这个房间更大。",
+      "examplePinyin": "Zhège fángjiān gèng dà.",
+      "exampleFr": "Cette chambre est encore plus grande."
+    },
+    {
+      "word": "最",
+      "pinyin": "zuì",
+      "meaning": "le plus",
+      "exampleZh": "这是最贵的。",
+      "examplePinyin": "Zhè shì zuì guì de.",
+      "exampleFr": "C'est le plus cher."
+    },
+    {
+      "word": "高",
+      "pinyin": "gāo",
+      "meaning": "haut, grand (taille)",
+      "exampleZh": "这座楼很高。",
+      "examplePinyin": "Zhè zuò lóu hěn gāo.",
+      "exampleFr": "Ce bâtiment est très haut."
+    },
+    {
+      "word": "矮",
+      "pinyin": "ǎi",
+      "meaning": "petit (taille), bas",
+      "exampleZh": "他比我矮。",
+      "examplePinyin": "Tā bǐ wǒ ǎi.",
+      "exampleFr": "Il est plus petit que moi."
+    },
+    {
+      "word": "长",
+      "pinyin": "cháng",
+      "meaning": "long",
+      "exampleZh": "这条路很长。",
+      "examplePinyin": "Zhè tiáo lù hěn cháng.",
+      "exampleFr": "Cette route est très longue."
+    },
+    {
+      "word": "短",
+      "pinyin": "duǎn",
+      "meaning": "court, bref",
+      "exampleZh": "这条裤子太短。",
+      "examplePinyin": "Zhè tiáo kùzi tài duǎn.",
+      "exampleFr": "Ce pantalon est trop court."
+    },
+    {
+      "word": "远",
+      "pinyin": "yuǎn",
+      "meaning": "loin",
+      "exampleZh": "王明家比李华家远。",
+      "examplePinyin": "Wáng Míng jiā bǐ Lǐ Huá jiā yuǎn.",
+      "exampleFr": "La maison de Wang Ming est plus loin que celle de Li Hua."
+    },
+    {
+      "word": "近",
+      "pinyin": "jìn",
+      "meaning": "proche, près",
+      "exampleZh": "我家离学校很近。",
+      "examplePinyin": "Wǒ jiā lí xuéxiào hěn jìn.",
+      "exampleFr": "Ma maison est très proche de l'école."
+    },
+    {
+      "word": "快",
+      "pinyin": "kuài",
+      "meaning": "rapide, vite",
+      "exampleZh": "他跑得很快。",
+      "examplePinyin": "Tā pǎo de hěn kuài.",
+      "exampleFr": "Il court très vite."
+    },
+    {
+      "word": "最好",
+      "pinyin": "zuì hǎo",
+      "meaning": "le meilleur, il vaut mieux",
+      "exampleZh": "我们最好早点去。",
+      "examplePinyin": "Wǒmen zuì hǎo zǎo diǎn qù.",
+      "exampleFr": "Il vaut mieux que nous y allions tôt."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 comparent leurs tailles, leurs trajets pour aller à l'école et leurs préférences en matière de nourriture. Ils utilisent 比 pour exprimer les différences et 更/最 pour nuancer leurs propos.",
+      "goals": [
+        "Comparer deux éléments avec 比 + adjectif",
+        "Utiliser 更 pour exprimer un degré accru",
+        "Utiliser 最 pour exprimer un superlatif",
+        "Éviter l'erreur courante d'utiliser 很 avec 比"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue ci-dessous. Repérez comment 王明 et 李华 comparent leurs tailles et leurs trajets. Notez l'utilisation de 比, 更 et 最. Ne traduisez pas encore !",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你家离学校远吗？",
+          "pinyin": "Lǐ Huá, nǐ jiā lí xuéxiào yuǎn ma?",
+          "translation": "Li Hua, est-ce que ta maison est loin de l'école ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "不太远，比你家近。我走路十分钟就到。",
+          "pinyin": "Bú tài yuǎn, bǐ nǐ jiā jìn. Wǒ zǒu lù shí fēn zhōng jiù dào.",
+          "translation": "Pas trop loin, c'est plus proche que ta maison. J'arrive en dix minutes à pied."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "真的？我家比你家远多了，坐车要半个钟。",
+          "pinyin": "Zhēn de? Wǒ jiā bǐ nǐ jiā yuǎn duō le, zuò chē yào bàn ge zhōng.",
+          "translation": "Vraiment ? Ma maison est beaucoup plus loin que la tienne, il faut une demi-heure en voiture."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你比我高吗？",
+          "pinyin": "Nǐ bǐ wǒ gāo ma?",
+          "translation": "Es-tu plus grand que moi ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "是，我比你更高。不过，马克最高！",
+          "pinyin": "Shì, wǒ bǐ nǐ gèng gāo. Búguò, Mǎkè zuì gāo!",
+          "translation": "Oui, je suis encore plus grand que toi. Mais Marc est le plus grand !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我喜欢吃面条，比喝汤更好吃！",
+          "pinyin": "Wǒ xǐhuān chī miàntiáo, bǐ hē tāng gèng hǎochī!",
+          "translation": "J'aime manger des nouilles, c'est encore meilleur que boire de la soupe !"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "可是我最喜欢吃面！",
+          "pinyin": "Kěshì wǒ zuì xǐhuān chī miàn!",
+          "translation": "Mais moi, ce que je préfère le plus, ce sont les nouilles !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "比",
+        "更",
+        "最",
+        "高",
+        "矮",
+        "长",
+        "短",
+        "远",
+        "近",
+        "快"
+      ],
+      "grammar": [
+        {
+          "point": "Comparaison avec 比",
+          "explanation": "La structure A 比 B + adjectif permet de comparer deux éléments. Attention : l'adverbe 很 (hěn) ne s'utilise JAMAIS avec 比. Erreur typique du francophone : *他比我很高 (incorrect) → 他比我高 (correct).",
+          "examples": [
+            {
+              "chinese": "这个房间比那个大。",
+              "pinyin": "Zhège fángjiān bǐ nàge dà.",
+              "translation": "Cette chambre est plus grande que celle-là."
+            },
+            {
+              "chinese": "这本书比那本书贵。",
+              "pinyin": "Zhè běn shū bǐ nà běn shū guì.",
+              "translation": "Ce livre est plus cher que celui-là."
+            }
+          ]
+        },
+        {
+          "point": "Degré accru avec 更",
+          "explanation": "更 (gèng) s'utilise pour exprimer un degré plus élevé que la normale ou que ce qui précède. Il se place avant l'adjectif. Exemple : 更大 (encore plus grand).",
+          "examples": [
+            {
+              "chinese": "这个房间比那个更大。",
+              "pinyin": "Zhège fángjiān bǐ nàge gèng dà.",
+              "translation": "Cette chambre est encore plus grande que celle-là."
+            },
+            {
+              "chinese": "她比我更喜欢游泳。",
+              "pinyin": "Tā bǐ wǒ gèng xǐhuān yóuyǒng.",
+              "translation": "Elle aime encore plus nager que moi."
+            }
+          ]
+        },
+        {
+          "point": "Superlatif avec 最",
+          "explanation": "最 (zuì) exprime le superlatif (le plus...). Il se place avant l'adjectif. Exemple : 最大 (le plus grand).",
+          "examples": [
+            {
+              "chinese": "这是最贵的菜。",
+              "pinyin": "Zhè shì zuì guì de cài.",
+              "translation": "C'est le plat le plus cher."
+            },
+            {
+              "chinese": "他是我们班最矮的学生。",
+              "pinyin": "Tā shì wǒmen bān zuì ǎi de xuéshēng.",
+              "translation": "Il est le plus petit élève de notre classe."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "比 (bǐ) : 3e ton (descendant-montant). Attention à ne pas le confondre avec 七 (qī, 1er ton).",
+        "更 (gèng) : 4e ton (descendant). Évitez de prononcer *gēng (1er ton).",
+        "最 (zuì) : 4e ton (descendant). Ne le confondez pas avec un ton neutre (*zui)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots de cette leçon s'appuient sur des acquis précédents pour former des comparaisons. Voici les liens clés :",
+      "links": [
+        {
+          "from": "比",
+          "relation": "COMPOSE",
+          "to": "比较"
+        },
+        {
+          "from": "更",
+          "relation": "DONNE_LE_SON",
+          "to": "更好"
+        },
+        {
+          "from": "最",
+          "relation": "DONNE_LE_SON",
+          "to": "最近"
+        },
+        {
+          "from": "高",
+          "relation": "CONTRASTE_AVEC",
+          "to": "矮"
+        },
+        {
+          "from": "长",
+          "relation": "CONTRASTE_AVEC",
+          "to": "短"
+        },
+        {
+          "from": "远",
+          "relation": "CONTRASTE_AVEC",
+          "to": "近"
+        },
+        {
+          "from": "快",
+          "relation": "RADICAL_DE",
+          "to": "忄"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Comparez votre taille avec celle d'un ami. Utilisez 比, 更 et 最 pour décrire les différences.",
+          "hint": "Adjectifs utiles : 高 (grand), 矮 (petit). Exemple : 我比你高。",
+          "example": {
+            "chinese": "我比马克矮，但是比安娜更高。大卫最高！",
+            "pinyin": "Wǒ bǐ Mǎkè ǎi, dànshì bǐ Ānnà gèng gāo. Dàwèi zuì gāo!",
+            "translation": "Je suis plus petit que Marc, mais encore plus grand qu'Anna. David est le plus grand !"
+          }
+        },
+        {
+          "instruction": "Comparez deux trajets (à pied vs en voiture). Utilisez 比 et 更.",
+          "hint": "Adjectifs utiles : 远 (loin), 近 (proche), 快 (rapide), 慢 (lent). Exemple : 走路比坐车慢。",
+          "example": {
+            "chinese": "走路比坐车慢，但是坐公共汽车更慢。坐车最快。",
+            "pinyin": "Zǒu lù bǐ zuò chē màn, dànshì zuò gōnggòng qìchē gèng màn. Zuò chē zuì kuài.",
+            "translation": "Marcher est plus lent que prendre la voiture, mais le bus est encore plus lent. La voiture est la plus rapide."
+          }
+        },
+        {
+          "instruction": "Décrivez quel est, selon vous, le meilleur plat. Utilisez 最 et expliquez pourquoi.",
+          "hint": "Plats : 面条 (nouilles), 汤 (soupe), 茶 (thé). Adjectifs : 好吃 (bon), 贵 (cher), 便宜 (bon marché).",
+          "example": {
+            "chinese": "我最喜欢吃面条，因为面条比汤更好吃，也比茶更便宜。",
+            "pinyin": "Wǒ zuì xǐhuān chī miàntiáo, yīnwèi miàntiáo bǐ tāng gèng hǎochī, yě bǐ chá gèng piányi.",
+            "translation": "Ce que je préfère manger, ce sont les nouilles, parce qu'elles sont encore meilleures que la soupe et aussi moins chères que le thé."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à comparer deux éléments avec 比 (A 比 B + adjectif), à exprimer un degré accru avec 更 (encore plus) et un superlatif avec 最 (le plus). Rappelez-vous : 很 ne s'utilise jamais avec 比. Pratiquez ces structures pour décrire les différences entre les personnes, les objets ou les lieux.",
+      "reviewWords": [
+        "比",
+        "更",
+        "最",
+        "高",
+        "矮",
+        "长",
+        "短",
+        "远",
+        "近",
+        "快",
+        "最好"
+      ],
+      "reviewHanzi": [
+        "比",
+        "更",
+        "最",
+        "高",
+        "矮",
+        "长",
+        "短",
+        "远",
+        "近",
+        "快"
+      ]
+    }
+  }
+}

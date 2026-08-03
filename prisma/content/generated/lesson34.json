@@ -1,0 +1,434 @@
+{
+  "slug": "sports-et-loisirs",
+  "title": "Sports, culture et loisirs",
+  "mission": "Parler de ses activités sportives et culturelles, et proposer d'en faire ensemble",
+  "level": "A2",
+  "order": 34,
+  "hanzi": [
+    {
+      "character": "运",
+      "pinyin": "yùn",
+      "meaning": "mouvement, transporter",
+      "hskLevel": 1,
+      "radical": "辶 (chuo, marche)",
+      "components": [
+        "云",
+        "辶"
+      ],
+      "etymology": "Composé phono-sémantique : 云 (yún, nuage) donne le son, et 辶 indique le mouvement. L'interprétation traditionnelle veut que les nuages se déplacent, d'où l'idée de mouvement ou de transport.",
+      "family": [
+        "运动 (sport)",
+        "运气 (chance)"
+      ],
+      "commonErrors": [
+        "Confusion avec 云 (nuage) à cause du composant similaire."
+      ]
+    },
+    {
+      "character": "动",
+      "pinyin": "dòng",
+      "meaning": "bouger, agir",
+      "hskLevel": 1,
+      "radical": "力 (lì, force)",
+      "components": [
+        "云",
+        "力"
+      ],
+      "etymology": "Composé phono-sémantique : 云 (yún) donne le son, et 力 (force) indique l'action. Le caractère évoque l'idée de mettre de la force en mouvement.",
+      "family": [
+        "运动 (sport)",
+        "活动 (activité)"
+      ],
+      "commonErrors": [
+        "Oublier le ton descendant (4e ton) et prononcer *dōng."
+      ]
+    },
+    {
+      "character": "篮",
+      "pinyin": "lán",
+      "meaning": "panier",
+      "hskLevel": 2,
+      "radical": "竹 (zhú, bambou)",
+      "components": [
+        "竹",
+        "监"
+      ],
+      "etymology": "Composé sémantique : 竹 (bambou) indique le matériau, et 监 (jiān, surveiller) évoque la forme d'un panier tressé. Le panier de basket est traditionnellement associé à ce caractère.",
+      "family": [
+        "篮球 (basketball)"
+      ],
+      "commonErrors": [
+        "Confusion avec 蓝 (bleu) à cause de la prononciation similaire."
+      ]
+    },
+    {
+      "character": "球",
+      "pinyin": "qiú",
+      "meaning": "balle, sphère",
+      "hskLevel": 1,
+      "radical": "王 (wáng, jade)",
+      "components": [
+        "王",
+        "求"
+      ],
+      "etymology": "Composé phono-sémantique : 王 (jade) évoque la forme ronde, et 求 (qiú, demander) donne le son. À l'origine, le caractère désignait des objets ronds en jade.",
+      "family": [
+        "篮球 (basketball)",
+        "足球 (football)"
+      ],
+      "commonErrors": [
+        "Prononcer *qióu au lieu de qiú (2e ton)."
+      ]
+    },
+    {
+      "character": "足",
+      "pinyin": "zú",
+      "meaning": "pied, suffisant",
+      "hskLevel": 1,
+      "radical": "足 (zú, pied)",
+      "components": [
+        "口",
+        "止"
+      ],
+      "etymology": "Pictogramme représentant un pied. Le caractère moderne simplifié conserve cette idée, avec 口 (bouche) et 止 (arrêter) pour évoquer la partie du corps.",
+      "family": [
+        "足球 (football)",
+        "满足 (satisfait)"
+      ],
+      "commonErrors": [
+        "Confusion avec 是 (shì) à cause de la forme similaire."
+      ]
+    },
+    {
+      "character": "踢",
+      "pinyin": "tī",
+      "meaning": "donner un coup de pied",
+      "hskLevel": 2,
+      "radical": "足 (zú, pied)",
+      "components": [
+        "足",
+        "易"
+      ],
+      "etymology": "Composé phono-sémantique : 足 (pied) indique le sens, et 易 (yì, facile) donne le son. Le caractère évoque l'action de frapper avec le pied.",
+      "family": [
+        "踢足球 (jouer au football)"
+      ],
+      "commonErrors": [
+        "Prononcer *tì au lieu de tī (1er ton)."
+      ]
+    },
+    {
+      "character": "又",
+      "pinyin": "yòu",
+      "meaning": "encore, à nouveau",
+      "hskLevel": 1,
+      "radical": "又 (yòu, main droite)",
+      "components": [
+        "又"
+      ],
+      "etymology": "Pictogramme représentant une main droite. Le sens de « encore » vient de l'idée de répétition ou d'ajout.",
+      "family": [
+        "又...又... (à la fois... et...)"
+      ],
+      "commonErrors": [
+        "Confusion avec 右 (yòu, droite) à cause de la prononciation identique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "运动",
+      "pinyin": "yùn dòng",
+      "meaning": "sport, exercice physique",
+      "exampleZh": "你喜欢什么运动？",
+      "examplePinyin": "Nǐ xǐhuān shénme yùndòng?",
+      "exampleFr": "Quel sport aimes-tu ?"
+    },
+    {
+      "word": "打篮球",
+      "pinyin": "dǎ lánqiú",
+      "meaning": "jouer au basketball",
+      "exampleZh": "他今天打篮球。",
+      "examplePinyin": "Tā jīntiān dǎ lánqiú.",
+      "exampleFr": "Il joue au basketball aujourd'hui."
+    },
+    {
+      "word": "踢足球",
+      "pinyin": "tī zúqiú",
+      "meaning": "jouer au football",
+      "exampleZh": "王明喜欢踢足球。",
+      "examplePinyin": "Wáng Míng xǐhuān tī zúqiú.",
+      "exampleFr": "Wang Ming aime jouer au football."
+    },
+    {
+      "word": "游泳",
+      "pinyin": "yóu yǒng",
+      "meaning": "nager",
+      "exampleZh": "夏天我游泳。",
+      "examplePinyin": "Xiàtiān wǒ yóuyǒng.",
+      "exampleFr": "Je nage en été."
+    },
+    {
+      "word": "唱歌",
+      "pinyin": "chàng gē",
+      "meaning": "chanter",
+      "exampleZh": "安娜喜欢唱歌。",
+      "examplePinyin": "Ānnà xǐhuān chànggē.",
+      "exampleFr": "Anna aime chanter."
+    },
+    {
+      "word": "跳舞",
+      "pinyin": "tiào wǔ",
+      "meaning": "danser",
+      "exampleZh": "安娜跳舞。",
+      "examplePinyin": "Ānnà tiàowǔ.",
+      "exampleFr": "Anna danse."
+    },
+    {
+      "word": "看电影",
+      "pinyin": "kàn diànyǐng",
+      "meaning": "regarder un film",
+      "exampleZh": "周末我们看电影。",
+      "examplePinyin": "Zhōumò wǒmen kàn diànyǐng.",
+      "exampleFr": "Nous regardons un film ce week-end."
+    },
+    {
+      "word": "又...又...",
+      "pinyin": "yòu... yòu...",
+      "meaning": "à la fois... et...",
+      "exampleZh": "这个书又好看又有意思。",
+      "examplePinyin": "Zhè ge shū yòu hǎokàn yòu yǒuyìsi.",
+      "exampleFr": "Ce livre est à la fois intéressant et amusant."
+    },
+    {
+      "word": "要不要",
+      "pinyin": "yào bu yào",
+      "meaning": "veux-tu... ? (proposition)",
+      "exampleZh": "要不要一起去打篮球？",
+      "examplePinyin": "Yào bu yào yīqǐ qù dǎ lánqiú?",
+      "exampleFr": "Veux-tu aller jouer au basketball ensemble ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 se retrouvent à la sortie de l'école. Ils parlent de ce qu'ils aiment faire pendant leur temps libre et décident de faire une activité ensemble ce week-end.",
+      "goals": [
+        "Décrire ses activités sportives et culturelles préférées",
+        "Proposer une activité à un ami",
+        "Accepter ou refuser poliment une proposition"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Quels sports et activités sont mentionnés ? Comment propose-t-on une activité ?",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你周末喜欢做什么？",
+          "pinyin": "Lǐ Huá, nǐ zhōumò xǐhuān zuò shénme?",
+          "translation": "Li Hua, qu'est-ce que tu aimes faire ce week-end ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我喜欢运动。我又喜欢游泳，又喜欢打篮球。你呢？",
+          "pinyin": "Wǒ xǐhuān yùndòng. Wǒ yòu xǐhuān yóuyǒng, yòu xǐhuān dǎ lánqiú. Nǐ ne?",
+          "translation": "J'aime faire du sport. J'aime à la fois nager et jouer au basketball. Et toi ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我周末喜欢踢足球和看电影。这个周末要不要一起去踢足球？",
+          "pinyin": "Wǒ zhōumò xǐhuān tī zúqiú hé kàn diànyǐng. Zhè ge zhōumò yào bu yào yīqǐ qù tī zúqiú?",
+          "translation": "Ce week-end, j'aime jouer au football et regarder des films. Veux-tu aller jouer au football ensemble ce week-end ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好！我也喜欢踢足球。我们几点去？",
+          "pinyin": "Hǎo! Wǒ yě xǐhuān tī zúqiú. Wǒmen jǐ diǎn qù?",
+          "translation": "D'accord ! J'aime aussi jouer au football. À quelle heure y allons-nous ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "下午三点，好不好？",
+          "pinyin": "Xiàwǔ sān diǎn, hǎo bu hǎo?",
+          "translation": "À trois heures de l'après-midi, ça va ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "可以。我们在学校门口见。",
+          "pinyin": "Kěyǐ. Wǒmen zài xuéxiào ménkǒu jiàn.",
+          "translation": "D'accord. Retrouvons-nous à l'entrée de l'école."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好，周末见！",
+          "pinyin": "Hǎo, zhōumò jiàn!",
+          "translation": "D'accord, à ce week-end !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "运",
+        "动",
+        "篮",
+        "球",
+        "足",
+        "踢",
+        "又"
+      ],
+      "grammar": [
+        {
+          "point": "Verbe + 运动/球类 : verbes spécifiques par sport",
+          "explanation": "En chinois, on utilise des verbes spécifiques pour décrire la pratique d'un sport. Par exemple : 踢足球 (jouer au football), 打篮球 (jouer au basketball), 游泳 (nager). Attention : le francophone a tendance à dire *玩足球 (*wán zúqiú) ou *做足球 (*zuò zúqiú), ce qui est incorrect.",
+          "examples": [
+            {
+              "chinese": "我喜欢打篮球。",
+              "pinyin": "Wǒ xǐhuān dǎ lánqiú.",
+              "translation": "J'aime jouer au basketball."
+            },
+            {
+              "chinese": "他今天踢足球。",
+              "pinyin": "Tā jīntiān tī zúqiú.",
+              "translation": "Il joue au football aujourd'hui."
+            },
+            {
+              "chinese": "夏天我游泳。",
+              "pinyin": "Xiàtiān wǒ yóuyǒng.",
+              "translation": "Je nage en été."
+            }
+          ]
+        },
+        {
+          "point": "又...又... : cumuler des qualités ou des activités",
+          "explanation": "La structure 又...又... permet d'exprimer deux qualités ou actions simultanées. Elle se place avant les verbes ou adjectifs. Exemple : 又高又好看 (à la fois grand et beau). Attention : le francophone a tendance à ajouter un *和 (*hé, et) entre les deux éléments, ce qui est incorrect.",
+          "examples": [
+            {
+              "chinese": "这个书又好看又有意思。",
+              "pinyin": "Zhè ge shū yòu hǎokàn yòu yǒuyìsi.",
+              "translation": "Ce livre est à la fois intéressant et amusant."
+            },
+            {
+              "chinese": "安娜又会唱歌，又会跳舞。",
+              "pinyin": "Ānnà yòu huì chànggē, yòu huì tiàowǔ.",
+              "translation": "Anna sait à la fois chanter et danser."
+            }
+          ]
+        },
+        {
+          "point": "要不要一起 + verbe : proposer une activité",
+          "explanation": "Pour proposer une activité à quelqu'un, on utilise la structure 要不要一起 + verbe. C'est une forme interrogative polie et courante. Exemple : 要不要一起去看电影？ (Veux-tu aller voir un film ensemble ?). Attention : le francophone a tendance à dire *想不想一起 (*xiǎng bu xiǎng yīqǐ), ce qui est grammaticalement correct mais moins naturel dans ce contexte.",
+          "examples": [
+            {
+              "chinese": "要不要一起去游泳？",
+              "pinyin": "Yào bu yào yīqǐ qù yóuyǒng?",
+              "translation": "Veux-tu aller nager ensemble ?"
+            },
+            {
+              "chinese": "要不要一起吃饭？",
+              "pinyin": "Yào bu yào yīqǐ chīfàn?",
+              "translation": "Veux-tu manger ensemble ?"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le 3e ton (descendant-montant) : 踢 (tī) doit être prononcé avec une courbe descendante puis montante. Évitez de le prononcer comme un ton plat.",
+        "Le 2e ton (montant) : 球 (qiú) doit monter progressivement. Ne le confondez pas avec le 1er ton (plat).",
+        "La nasale finale -ng : dans 运动 (yùn dòng), assurez-vous de bien prononcer le -ng et non un -n simple."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots s'appuient sur des acquis précédents pour faciliter la mémorisation.",
+      "links": [
+        {
+          "from": "运",
+          "relation": "COMPOSE",
+          "to": "运动 (sport)"
+        },
+        {
+          "from": "动",
+          "relation": "COMPOSE",
+          "to": "运动 (sport)"
+        },
+        {
+          "from": "篮",
+          "relation": "COMPOSE",
+          "to": "篮球 (basketball)"
+        },
+        {
+          "from": "球",
+          "relation": "COMPOSE",
+          "to": "篮球 (basketball) ET 足球 (football)"
+        },
+        {
+          "from": "足",
+          "relation": "COMPOSE",
+          "to": "足球 (football)"
+        },
+        {
+          "from": "踢",
+          "relation": "RADICAL_DE",
+          "to": "足 (pied)"
+        },
+        {
+          "from": "又",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "右 (droite)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Propose une activité sportive ou culturelle à un ami en utilisant 要不要一起 + verbe. Utilise au moins un sport ou une activité de la leçon.",
+          "hint": "Exemple : 踢足球, 打篮球, 游泳, 唱歌, 跳舞, 看电影. N'oublie pas de préciser le jour ou l'heure.",
+          "example": {
+            "chinese": "这个周末要不要一起去打篮球？",
+            "pinyin": "Zhè ge zhōumò yào bu yào yīqǐ qù dǎ lánqiú?",
+            "translation": "Veux-tu aller jouer au basketball ensemble ce week-end ?"
+          }
+        },
+        {
+          "instruction": "Décris tes loisirs en utilisant 又...又... pour cumuler deux activités ou qualités. Utilise au moins deux verbes ou adjectifs de la leçon.",
+          "hint": "Exemple : 唱歌/跳舞, 好看/有意思. Structure : Sujet + 又 + verbe/adjectif 1 + 又 + verbe/adjectif 2.",
+          "example": {
+            "chinese": "我又喜欢唱歌，又喜欢跳舞。",
+            "pinyin": "Wǒ yòu xǐhuān chànggē, yòu xǐhuān tiàowǔ.",
+            "translation": "J'aime à la fois chanter et danser."
+          }
+        },
+        {
+          "instruction": "Réponds à la proposition suivante : 要不要一起去看电影？ (Veux-tu aller voir un film ensemble ?). Accepte ou refuse poliment, et propose une alternative si tu refuses.",
+          "hint": "Pour accepter : 好！/可以。 Pour refuser : 不好意思，我... + raison. Propose une alternative avec 要不要... ?",
+          "example": {
+            "chinese": "不好意思，我今天有事。要不要明天去？",
+            "pinyin": "Bù hǎoyìsi, wǒ jīntiān yǒu shì. Yào bu yào míngtiān qù?",
+            "translation": "Désolé, j'ai quelque chose à faire aujourd'hui. Veux-tu y aller demain ?"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à parler de vos activités sportives et culturelles préférées, à cumuler des qualités ou activités avec 又...又..., et à proposer une activité à un ami avec 要不要一起 + verbe. Ces structures sont essentielles pour socialiser et organiser des loisirs en chinois.",
+      "reviewWords": [
+        "运动",
+        "打篮球",
+        "踢足球",
+        "游泳",
+        "唱歌",
+        "跳舞",
+        "看电影",
+        "又...又...",
+        "要不要"
+      ],
+      "reviewHanzi": [
+        "运",
+        "动",
+        "篮",
+        "球",
+        "足",
+        "踢",
+        "又"
+      ]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+/* Palette PRD §9 — clair : blanc cassé + accent rouge discret ;
+   sombre : noir doux + accent or. */
+:root {
+  --background: #faf7f2;
+  --foreground: #2b2620;
+  --card: #ffffff;
+  --muted: #8a8175;
+  --border: #e8e2d8;
+  --accent: #b03a2e;
+  --accent-soft: #f6e8e6;
+  --success: #4a7c59;
+  --warning: #c98a2d;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --font-sans: var(--font-geist-sans);
+  --font-hanzi: "Noto Sans SC", "Microsoft YaHei", "PingFang SC",
+    "Noto Sans CJK SC", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #141210;
+    --foreground: #ece6dc;
+    --card: #1e1b17;
+    --muted: #9a917f;
+    --border: #322d26;
+    --accent: #d4af37;
+    --accent-soft: #2c2617;
+    --success: #7fb08a;
+    --warning: #d9a44a;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+.hanzi {
+  font-family: var(--font-hanzi);
+}
+
+/* Fondu d'entrée du Graphe cognitif (SVG) : pas de JS, l'opacité finale
+   reste celle déjà définie sur l'élément (attribut/inline). */
+@keyframes graph-fade-in {
+  from {
+    opacity: 0;
+  }
+}
+.graph-fade-in {
+  animation: graph-fade-in 0.4s ease-out;
+}

@@ -1,0 +1,450 @@
+{
+  "slug": "le-passe-avec-le",
+  "title": "Le passé avec 了",
+  "mission": "Raconter ce qu'on a fait hier",
+  "level": "A1",
+  "order": 10,
+  "hanzi": [
+    {
+      "character": "了",
+      "pinyin": "le",
+      "meaning": "particule marquant l'accompli",
+      "hskLevel": 1,
+      "radical": "乙 (yǐ, crochet)",
+      "components": [
+        "乙",
+        "亅"
+      ],
+      "etymology": "L'origine de 了 est débattue. Une interprétation traditionnelle veut qu'il représente un enfant (子) avec les bras levés, symbolisant l'achèvement d'une action. Aujourd'hui, il fonctionne principalement comme particule grammaticale pour indiquer l'accompli.",
+      "family": [
+        "完了 (wán le, fini)",
+        "吃了 (chī le, avoir mangé)"
+      ],
+      "commonErrors": [
+        "Confondre 了 (le) avec 子 (zǐ, enfant) en raison de leur ressemblance visuelle."
+      ]
+    },
+    {
+      "character": "看",
+      "pinyin": "kàn",
+      "meaning": "regarder, voir",
+      "hskLevel": 1,
+      "radical": "目 (mù, œil)",
+      "components": [
+        "手 (shǒu, main)",
+        "目 (mù, œil)"
+      ],
+      "etymology": "看 est un idéophonogramme combinant 手 (main) et 目 (œil), suggérant l'action de porter la main au-dessus des yeux pour mieux voir. Le radical est 目, lié à la vision.",
+      "family": [
+        "看见 (kàn jiàn, apercevoir)",
+        "看书 (kàn shū, lire)"
+      ],
+      "commonErrors": [
+        "Prononcer 看 comme 'kan' sans le 4e ton descendant (kàn)."
+      ]
+    },
+    {
+      "character": "电",
+      "pinyin": "diàn",
+      "meaning": "électricité",
+      "hskLevel": 1,
+      "radical": "田 (tián, champ)",
+      "components": [
+        "日 (rì, soleil)",
+        "乚 (yǐ, crochet)"
+      ],
+      "etymology": "电 est un idéophonogramme. Le composant 日 (soleil) suggère la lumière, et le reste évoque l'éclair, symbolisant l'électricité. Le radical est souvent considéré comme 田, bien que sa relation avec le sens ne soit pas directe.",
+      "family": [
+        "电视 (diàn shì, télévision)",
+        "电水 (diàn shuǐ, terme rare)"
+      ],
+      "commonErrors": [
+        "Confondre 电 avec 田 (tián, champ) en raison du radical."
+      ]
+    },
+    {
+      "character": "视",
+      "pinyin": "shì",
+      "meaning": "vision, regarder",
+      "hskLevel": 2,
+      "radical": "礻 (shì, variante de 示, esprit)",
+      "components": [
+        "礻",
+        "见 (jiàn, voir)"
+      ],
+      "etymology": "视 est un idéophonogramme combinant 礻 (esprit) et 见 (voir), suggérant l'action de percevoir avec l'esprit ou les yeux. Le radical 礻 est lié aux rituels ou à la perception spirituelle.",
+      "family": [
+        "电视 (diàn shì, télévision)",
+        "重视 (zhòng shì, attacher de l'importance)"
+      ],
+      "commonErrors": [
+        "Prononcer 视 comme 'shi' sans le 4e ton descendant (shì)."
+      ]
+    },
+    {
+      "character": "影",
+      "pinyin": "yǐng",
+      "meaning": "ombre, image",
+      "hskLevel": 2,
+      "radical": "彡 (shān, décorations)",
+      "components": [
+        "景 (jǐng, scène)",
+        "彡"
+      ],
+      "etymology": "影 est un idéophonogramme. Le composant 景 (scène) suggère une image, et 彡 (décorations) évoque les contours ou les détails. Le radical 彡 est lié aux motifs ou aux ombres.",
+      "family": [
+        "电影 (diàn yǐng, film)",
+        "影子 (yǐng zi, ombre)"
+      ],
+      "commonErrors": [
+        "Prononcer 影 comme 'ying' sans le 3e ton descendant-montant (yǐng)."
+      ]
+    },
+    {
+      "character": "书",
+      "pinyin": "shū",
+      "meaning": "livre",
+      "hskLevel": 1,
+      "radical": "乙 (yǐ, crochet)",
+      "components": [
+        "聿 (yù, pinceau)",
+        "丶 (zhǔ, point)"
+      ],
+      "etymology": "书 est un idéophonogramme représentant un pinceau (聿) et un point (丶), symbolisant l'acte d'écrire ou un document écrit. Le radical est souvent considéré comme 乙, bien que sa relation avec le sens ne soit pas directe.",
+      "family": [
+        "看书 (kàn shū, lire)",
+        "书水 (shū shuǐ, terme rare)"
+      ],
+      "commonErrors": [
+        "Prononcer 书 comme 'shu' sans le 1er ton haut et plat (shū)."
+      ]
+    },
+    {
+      "character": "游",
+      "pinyin": "yóu",
+      "meaning": "nager, se promener",
+      "hskLevel": 2,
+      "radical": "氵 (shuǐ, eau)",
+      "components": [
+        "氵",
+        "斿 (yóu, ancien caractère pour 'voyager')"
+      ],
+      "etymology": "游 est un idéophonogramme combinant 氵 (eau) et 斿 (voyager), suggérant l'action de se déplacer dans l'eau ou de voyager. Le radical 氵 est lié à l'eau.",
+      "family": [
+        "游水 (yóu shuǐ, nager)",
+        "旅游 (lǚ yóu, voyager)"
+      ],
+      "commonErrors": [
+        "Prononcer 游 comme 'you' sans le 2e ton montant (yóu)."
+      ]
+    },
+    {
+      "character": "泳",
+      "pinyin": "yǒng",
+      "meaning": "nager",
+      "hskLevel": 2,
+      "radical": "氵 (shuǐ, eau)",
+      "components": [
+        "氵",
+        "永 (yǒng, éternel)"
+      ],
+      "etymology": "泳 est un idéophonogramme combinant 氵 (eau) et 永 (éternel), suggérant l'action de se déplacer dans l'eau de manière continue. Le radical 氵 est lié à l'eau.",
+      "family": [
+        "游泳 (yóu yǒng, nager)",
+        "泳水 (yǒng shuǐ, nager)"
+      ],
+      "commonErrors": [
+        "Prononcer 泳 comme 'yong' sans le 3e ton descendant-montant (yǒng)."
+      ]
+    },
+    {
+      "character": "园",
+      "pinyin": "yuán",
+      "meaning": "jardin, parc",
+      "hskLevel": 1,
+      "radical": "囗 (wéi, enceinte)",
+      "components": [
+        "囗",
+        "元 (yuán, origine)"
+      ],
+      "etymology": "园 est un idéophonogramme représentant une enceinte (囗) autour d'un espace vert (元), symbolisant un jardin ou un parc. Le radical 囗 évoque une délimitation.",
+      "family": [
+        "公园 (gōng yuán, parc)",
+        "花园 (huā yuán, jardin)"
+      ],
+      "commonErrors": [
+        "Prononcer 园 comme 'yuan' sans le 2e ton montant (yuán)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "看了",
+      "pinyin": "kàn le",
+      "meaning": "avoir regardé",
+      "exampleZh": "我昨天看了电视。",
+      "examplePinyin": "Wǒ zuó tiān kàn le diàn shì.",
+      "exampleFr": "J'ai regardé la télévision hier."
+    },
+    {
+      "word": "电视",
+      "pinyin": "diàn shì",
+      "meaning": "télévision",
+      "exampleZh": "他要看电视。",
+      "examplePinyin": "Tā yào kàn diàn shì.",
+      "exampleFr": "Il veut regarder la télévision."
+    },
+    {
+      "word": "电影",
+      "pinyin": "diàn yǐng",
+      "meaning": "film",
+      "exampleZh": "我和他看了电影。",
+      "examplePinyin": "Wǒ hé tā kàn le diàn yǐng.",
+      "exampleFr": "Nous avons regardé un film ensemble."
+    },
+    {
+      "word": "看书",
+      "pinyin": "kàn shū",
+      "meaning": "lire (un livre)",
+      "exampleZh": "她看书了。",
+      "examplePinyin": "Tā kàn shū le.",
+      "exampleFr": "Elle a lu un livre."
+    },
+    {
+      "word": "游泳",
+      "pinyin": "yóu yǒng",
+      "meaning": "nager",
+      "exampleZh": "我去游泳了。",
+      "examplePinyin": "Wǒ qù yóu yǒng le.",
+      "exampleFr": "Je suis allé nager."
+    },
+    {
+      "word": "公园",
+      "pinyin": "gōng yuán",
+      "meaning": "parc",
+      "exampleZh": "我们去园了。",
+      "examplePinyin": "Wǒ men qù yuán le.",
+      "exampleFr": "Nous sommes allés au parc."
+    },
+    {
+      "word": "没",
+      "pinyin": "méi",
+      "meaning": "ne pas (négation du passé)",
+      "exampleZh": "我没看电视。",
+      "examplePinyin": "Wǒ méi kàn diàn shì.",
+      "exampleFr": "Je n'ai pas regardé la télévision."
+    },
+    {
+      "word": "了吗",
+      "pinyin": "le ma",
+      "meaning": "est-ce que... (question sur l'accompli)",
+      "exampleZh": "你吃饭了吗？",
+      "examplePinyin": "Nǐ chī fàn le ma?",
+      "exampleFr": "As-tu mangé ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 se retrouvent après le week-end. Ils racontent ce qu'ils ont fait hier et posent des questions sur leurs activités.",
+      "goals": [
+        "Utiliser 了 pour décrire des actions accomplies hier.",
+        "Poser des questions sur le passé avec 了吗.",
+        "Nier une action passée avec 没 + verbe."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Quelles actions ont été accomplies hier ? Comment les questions sur le passé sont-elles posées ?",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你昨天去哪儿了？",
+          "pinyin": "Lǐ Huá, nǐ zuó tiān qù nǎr le?",
+          "translation": "Li Hua, où es-tu allé hier ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我去园了。你呢？",
+          "pinyin": "Wǒ qù yuán le. Nǐ ne?",
+          "translation": "Je suis allé au parc. Et toi ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我看了电影。你游泳了吗？",
+          "pinyin": "Wǒ kàn le diàn yǐng. Nǐ yóu yǒng le ma?",
+          "translation": "J'ai regardé un film. As-tu nagé ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "没有，我没游泳。我和马克看书了。",
+          "pinyin": "Méi yǒu, wǒ méi yóu yǒng. Wǒ hé Mǎ kè kàn shū le.",
+          "translation": "Non, je n'ai pas nagé. J'ai lu un livre avec Mark."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "马克也看书了吗？",
+          "pinyin": "Mǎ kè yě kàn shū le ma?",
+          "translation": "Mark a-t-il aussi lu un livre ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "是的，他也看书了。",
+          "pinyin": "Shì de, tā yě kàn shū le.",
+          "translation": "Oui, il a aussi lu un livre."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "了",
+        "看",
+        "电",
+        "视",
+        "影",
+        "书",
+        "游",
+        "泳",
+        "园"
+      ],
+      "grammar": [
+        {
+          "point": "了 pour marquer l'accompli",
+          "explanation": "了 est une particule placée après le verbe pour indiquer qu'une action est accomplie. Contrairement au français, il ne précise pas le temps (hier, aujourd'hui, demain), mais simplement que l'action est terminée. Erreur typique du francophone : ajouter un mot pour 'hier' ou 'déjà' en plus de 了, alors que 了 suffit pour marquer l'accompli.",
+          "examples": [
+            {
+              "chinese": "我吃饭了。",
+              "pinyin": "Wǒ chī fàn le.",
+              "translation": "J'ai mangé."
+            },
+            {
+              "chinese": "他去园了。",
+              "pinyin": "Tā qù yuán le.",
+              "translation": "Il est allé au parc."
+            }
+          ]
+        },
+        {
+          "point": "Négation du passé avec 没",
+          "explanation": "Pour nier une action accomplie, on utilise 没 (méi) avant le verbe, et on ne met PAS 了. Erreur typique : utiliser 不 (bù) à la place de 没, ou ajouter 了 après 没 (ex: 没去了 est incorrect).",
+          "examples": [
+            {
+              "chinese": "我没看电视。",
+              "pinyin": "Wǒ méi kàn diàn shì.",
+              "translation": "Je n'ai pas regardé la télévision."
+            },
+            {
+              "chinese": "他没游泳。",
+              "pinyin": "Tā méi yóu yǒng.",
+              "translation": "Il n'a pas nagé."
+            }
+          ]
+        },
+        {
+          "point": "Questions sur le passé avec 了吗",
+          "explanation": "Pour demander si une action est accomplie, on ajoute 了吗 à la fin de la phrase. Erreur typique : oublier 了 ou 吗, ou placer 了 au mauvais endroit (ex: 你去了吗园 est incorrect).",
+          "examples": [
+            {
+              "chinese": "你吃饭了吗？",
+              "pinyin": "Nǐ chī fàn le ma?",
+              "translation": "As-tu mangé ?"
+            },
+            {
+              "chinese": "他看电影了吗？",
+              "pinyin": "Tā kàn diàn yǐng le ma?",
+              "translation": "A-t-il regardé un film ?"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "了 (le) : Le ton neutre de 了 est souvent mal prononcé. Il doit être court et léger, sans ton marqué.",
+        "游 (yóu) : Le 2e ton est montant. Évitez de le prononcer comme un 1er ton (yóu au lieu de yóu).",
+        "没 (méi) : Le 2e ton est montant. Attention à ne pas le confondre avec le 4e ton (mèi)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots s'appuient sur des acquis précédents pour faciliter la mémorisation.",
+      "links": [
+        {
+          "from": "看",
+          "relation": "COMPOSE",
+          "to": "看书 (kàn shū, lire)"
+        },
+        {
+          "from": "电",
+          "relation": "COMPOSE",
+          "to": "电视 (diàn shì, télévision)"
+        },
+        {
+          "from": "游",
+          "relation": "COMPOSE",
+          "to": "游泳 (yóu yǒng, nager)"
+        },
+        {
+          "from": "了",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "子 (zǐ, enfant)"
+        },
+        {
+          "from": "没",
+          "relation": "CONTRASTE_AVEC",
+          "to": "不 (bù, négation du présent)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Raconte ce que tu as fait hier en utilisant 了. Utilise au moins 3 activités différentes.",
+          "hint": "Pense à des activités comme regarder la télévision, lire un livre, aller au parc, etc. Exemple : 我昨天看了电视，也看了书。",
+          "example": {
+            "chinese": "我昨天去园了，还看了电影。",
+            "pinyin": "Wǒ zuó tiān qù yuán le, hái kàn le diàn yǐng.",
+            "translation": "Hier, je suis allé au parc et j'ai aussi regardé un film."
+          }
+        },
+        {
+          "instruction": "Demande à un ami s'il a fait une activité hier en utilisant 了吗. Utilise 3 questions différentes.",
+          "hint": "Pense à des activités comme manger, nager, lire, etc. Exemple : 你昨天游泳了吗？",
+          "example": {
+            "chinese": "你昨天看书了吗？你去园了吗？你吃饭了吗？",
+            "pinyin": "Nǐ zuó tiān kàn shū le ma? Nǐ qù yuán le ma? Nǐ chī fàn le ma?",
+            "translation": "As-tu lu un livre hier ? Es-tu allé au parc ? As-tu mangé ?"
+          }
+        },
+        {
+          "instruction": "Dis ce que tu n'as PAS fait hier en utilisant 没. Utilise 3 activités différentes.",
+          "hint": "Pense à des activités que tu n'as pas faites. Exemple : 我没看电视。",
+          "example": {
+            "chinese": "我没游泳，也没看电影。",
+            "pinyin": "Wǒ méi yóu yǒng, yě méi kàn diàn yǐng.",
+            "translation": "Je n'ai pas nagé, et je n'ai pas regardé de film non plus."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à utiliser 了 pour décrire des actions accomplies, à poser des questions sur le passé avec 了吗, et à nier une action passée avec 没. Ces outils vous permettent de raconter ce que vous avez fait hier et de poser des questions sur les activités des autres.",
+      "reviewWords": [
+        "看了",
+        "电视",
+        "电影",
+        "看书",
+        "游泳",
+        "公园",
+        "没",
+        "了吗"
+      ],
+      "reviewHanzi": [
+        "了",
+        "看",
+        "电",
+        "视",
+        "影",
+        "书",
+        "游",
+        "泳",
+        "园"
+      ]
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "slug": "lire-les-titres",
+  "title": "Lire les titres de presse",
+  "mission": "Décoder des titres d'actualité simples en identifiant le style télégraphique et le vocabulaire clé des médias",
+  "level": "B1",
+  "order": 46,
+  "hanzi": [
+    {
+      "character": "报",
+      "pinyin": "bào",
+      "meaning": "journal, rapporter",
+      "hskLevel": 3,
+      "radical": "扌 (main)",
+      "components": [
+        "扌",
+        "服"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une main (扌) qui présente ou transmet une information (服, ici utilisé pour sa phonétique). Le sens de 'journal' est une extension moderne.",
+      "family": [
+        "报纸 (journal)",
+        "报名 (s'inscrire)"
+      ],
+      "commonErrors": [
+        "Confusion avec '服' (vêtement) en raison du composant phonétique."
+      ]
+    },
+    {
+      "character": "闻",
+      "pinyin": "wén",
+      "meaning": "entendre, nouvelle",
+      "hskLevel": 3,
+      "radical": "门 (porte)",
+      "components": [
+        "门",
+        "耳"
+      ],
+      "etymology": "Ce caractère représente une oreille (耳) près d'une porte (门), symbolisant l'idée d'écouter ou d'entendre des nouvelles. Le sens de 'nouvelle' est une extension naturelle.",
+      "family": [
+        "新闻 (actualité)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en 'mén' en raison du composant '门'."
+      ]
+    },
+    {
+      "character": "社",
+      "pinyin": "shè",
+      "meaning": "société, groupe",
+      "hskLevel": 3,
+      "radical": "礻 (rituel)",
+      "components": [
+        "礻",
+        "土"
+      ],
+      "etymology": "Ce caractère représentait à l'origine un autel (礻) sur la terre (土), symbolisant un lieu de rassemblement communautaire. Le sens s'est étendu à 'société' ou 'groupe'.",
+      "family": [
+        "社会 (société)"
+      ],
+      "commonErrors": [
+        "Confusion avec '土' (terre) en raison du composant."
+      ]
+    },
+    {
+      "character": "布",
+      "pinyin": "bù",
+      "meaning": "annoncer, tissu",
+      "hskLevel": 3,
+      "radical": "巾 (tissu)",
+      "components": [
+        "一",
+        "巾",
+        "父"
+      ],
+      "etymology": "Ce caractère représentait à l'origine un morceau de tissu (巾) étendu (一) pour annoncer quelque chose. Le sens de 'annoncer' est une extension.",
+      "family": [
+        "发布 (publier)"
+      ],
+      "commonErrors": [
+        "Confusion avec '父' (père) en raison du composant."
+      ]
+    },
+    {
+      "character": "政",
+      "pinyin": "zhèng",
+      "meaning": "politique, gouvernement",
+      "hskLevel": 4,
+      "radical": "攵 (action)",
+      "components": [
+        "正",
+        "攵"
+      ],
+      "etymology": "Ce caractère représente une action (攵) visant à corriger ou à administrer (正). Le sens de 'politique' ou 'gouvernement' en découle.",
+      "family": [
+        "政府 (gouvernement)"
+      ],
+      "commonErrors": [
+        "Confusion avec '正' (correct) en raison du composant."
+      ]
+    },
+    {
+      "character": "府",
+      "pinyin": "fǔ",
+      "meaning": "résidence officielle, préfecture",
+      "hskLevel": 4,
+      "radical": "广 (abri)",
+      "components": [
+        "广",
+        "付"
+      ],
+      "etymology": "Ce caractère représente un abri (广) où sont prises des décisions ou des responsabilités (付, ici phonétique). Le sens de 'résidence officielle' en découle.",
+      "family": [
+        "政府 (gouvernement)"
+      ],
+      "commonErrors": [
+        "Confusion avec '付' (payer) en raison du composant phonétique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "报纸",
+      "pinyin": "bào zhǐ",
+      "meaning": "journal",
+      "exampleZh": "我天天看报纸。",
+      "examplePinyin": "Wǒ tiān tiān kàn bào zhǐ.",
+      "exampleFr": "Je lis le journal tous les jours."
+    },
+    {
+      "word": "新闻",
+      "pinyin": "xīn wén",
+      "meaning": "actualité, nouvelles",
+      "exampleZh": "今天的新闻不少。",
+      "examplePinyin": "Jīn tiān de xīn wén bù shǎo.",
+      "exampleFr": "Il y a beaucoup d'actualités aujourd'hui."
+    },
+    {
+      "word": "道",
+      "pinyin": "dào",
+      "meaning": "rapporter, voie",
+      "exampleZh": "他道了这事。",
+      "examplePinyin": "Tā dào le zhè shì.",
+      "exampleFr": "Il a rapporté cet événement."
+    },
+    {
+      "word": "社会",
+      "pinyin": "shè huì",
+      "meaning": "société",
+      "exampleZh": "这个问在社会上不少。",
+      "examplePinyin": "Zhè ge wèn tí zài shè huì shang bù shǎo.",
+      "exampleFr": "Ce problème est courant dans la société."
+    },
+    {
+      "word": "政府",
+      "pinyin": "zhèng fǔ",
+      "meaning": "gouvernement",
+      "exampleZh": "政府出了新的法。",
+      "examplePinyin": "Zhèng fǔ chū le xīn de fǎ.",
+      "exampleFr": "Le gouvernement a publié une nouvelle loi."
+    },
+    {
+      "word": "发生",
+      "pinyin": "fā shēng",
+      "meaning": "se produire, arriver",
+      "exampleZh": "昨天有什么事？",
+      "examplePinyin": "Zuó tiān yǒu shén me shì?",
+      "exampleFr": "Qu'est-il arrivé hier ?"
+    },
+    {
+      "word": "题",
+      "pinyin": "tí",
+      "meaning": "sujet, titre",
+      "exampleZh": "这个题不小。",
+      "examplePinyin": "Zhè ge tí bù xiǎo.",
+      "exampleFr": "Ce sujet est important."
+    },
+    {
+      "word": "发布",
+      "pinyin": "fā bù",
+      "meaning": "publier, annoncer",
+      "exampleZh": "他出了新书。",
+      "examplePinyin": "Tā chū le xīn shū.",
+      "exampleFr": "Il a publié un nouveau livre."
+    },
+    {
+      "word": "邮",
+      "pinyin": "yóu",
+      "meaning": "poste",
+      "exampleZh": "我去邮寄信。",
+      "examplePinyin": "Wǒ qù yóu jì xìn.",
+      "exampleFr": "Je vais envoyer une lettre par la poste."
+    },
+    {
+      "word": "治",
+      "pinyin": "zhì",
+      "meaning": "gouverner, politique",
+      "exampleZh": "他对治很有兴。",
+      "examplePinyin": "Tā duì zhì hěn yǒu xìng.",
+      "exampleFr": "Il s'intéresse beaucoup à la politique."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous êtes dans une école de langue. Votre professeur vous demande de lire des titres de journaux pour comprendre les nouvelles du jour.",
+      "goals": [
+        "Comprendre le style télégraphique des titres de presse",
+        "Identifier le vocabulaire clé de l'actualité",
+        "Reformuler un titre en phrase complète"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez ces titres de journaux. Quels mots manquent ? Quels sont les mots les plus importants ?",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "你看今天的报纸了吗？",
+          "pinyin": "Nǐ kàn jīn tiān de bào zhǐ le ma?",
+          "translation": "As-tu lu le journal d'aujourd'hui ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "看了，大题是『政府出新法』。",
+          "pinyin": "Kàn le, dà tí shì 『zhèng fǔ chū xīn fǎ』.",
+          "translation": "Oui, le grand titre est : « Le gouvernement publie une nouvelle loi »."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "这个题有点短，什么法？",
+          "pinyin": "Zhè ge tí yǒu diǎn duǎn, shén me fǎ?",
+          "translation": "Ce titre est un peu court, quelle loi ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "报纸上说『社会问解了』。",
+          "pinyin": "Bào zhǐ shang shuō 『shè huì wèn jiě le』.",
+          "translation": "Le journal dit : « Les problèmes sociaux sont résolus »."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "哦，原于社会的。",
+          "pinyin": "Ò, yuán yú shè huì de.",
+          "translation": "Ah, c'est donc à propos de la société."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "对，道说政府昨天开了会。",
+          "pinyin": "Duì, dào shuō zhèng fǔ zuó tiān kāi le huì.",
+          "translation": "Oui, le reportage dit que le gouvernement a tenu une réunion hier."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "这个新闻不小，我们要好好看。",
+          "pinyin": "Zhè ge xīn wén bù xiǎo, wǒ men yào hǎo hǎo kàn.",
+          "translation": "Cette actualité est importante, nous devons bien la lire."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "报",
+        "闻",
+        "社",
+        "布",
+        "政",
+        "府"
+      ],
+      "grammar": [
+        {
+          "point": "Style télégraphique des titres de presse",
+          "explanation": "Les titres de presse en chinois omettent souvent les verbes et les articles pour être plus courts. Par exemple, 『政府出新法』 (Le gouvernement publie une nouvelle loi) peut devenir 『政府新法』 dans un titre. Erreur typique du francophone : chercher un verbe conjugué comme en français, alors qu'il est souvent sous-entendu.",
+          "examples": [
+            {
+              "chinese": "中国人多",
+              "pinyin": "Zhōng guó rén duō",
+              "translation": "La Chine a une grande population (sous-entendu : « La population chinoise est nombreuse »)."
+            },
+            {
+              "chinese": "大卫去北京",
+              "pinyin": "Dà wèi qù Běi jīng",
+              "translation": "David va à Pékin (sous-entendu : « David se rend à Pékin »)."
+            }
+          ]
+        },
+        {
+          "point": "Vocabulaire de l'actualité",
+          "explanation": "Les titres utilisent des mots spécifiques comme 『新闻』 (actualité), 『道』 (rapporter), 『发生』 (se produire), 『政府』 (gouvernement), 『社会』 (société). Ces mots sont souvent combinés pour former des expressions comme 『社会新闻』 (actualité sociale). Erreur typique : traduire littéralement des expressions comme 『发生事』 (un événement est survenu) en « événement se produit », alors que le français privilégie la voix passive.",
+          "examples": [
+            {
+              "chinese": "天气问发生",
+              "pinyin": "Tiān qì wèn tí fā shēng",
+              "translation": "Un problème météorologique est survenu."
+            },
+            {
+              "chinese": "公司出新书",
+              "pinyin": "Gōng sī chū xīn shū",
+              "translation": "L'entreprise publie un nouveau livre."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton 3 (descendant-montant) : dans 『政府』 (zhèng fǔ), le premier caractère est un ton 4 (descendant), mais le second est un ton 3. Attention à ne pas le prononcer comme un ton 2 (montant).",
+        "Les sons 'zh' et 'j' : dans 『治』 (zhì), le 'zh' est rétroflexe. Évitez de le confondre avec 'z'.",
+        "Les voyelles nasales : dans 『新闻』 (xīn wén), le 'in' de 'xīn' est nasalisé, comme dans le français « vin »."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères s'appuient sur des acquis pour former des mots clés de l'actualité. Voici leurs liens avec ce que vous connaissez déjà :",
+      "links": [
+        {
+          "from": "报",
+          "relation": "COMPOSE",
+          "to": "报纸 (journal, avec 纸 'papier' déjà connu)"
+        },
+        {
+          "from": "闻",
+          "relation": "COMPOSE",
+          "to": "新闻 (actualité, avec 新 'nouveau' déjà connu)"
+        },
+        {
+          "from": "社",
+          "relation": "COMPOSE",
+          "to": "社会 (société, avec 会 'réunion' déjà connu)"
+        },
+        {
+          "from": "政",
+          "relation": "COMPOSE",
+          "to": "政府 (gouvernement, avec 府 'résidence officielle')"
+        },
+        {
+          "from": "布",
+          "relation": "DONNE_LE_SON",
+          "to": "发布 (publier, avec 发 'émettre' déjà connu)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Transformez ce titre télégraphique en phrase complète : 『中国人多』。",
+          "hint": "Ajoutez un verbe comme 『有』 (avoir) pour compléter le sens. Exemple : 『中国人很多。』",
+          "example": {
+            "chinese": "中国有很多人。",
+            "pinyin": "Zhōng guó yǒu hěn duō rén.",
+            "translation": "La Chine a beaucoup de personnes."
+          }
+        },
+        {
+          "instruction": "Créez un titre de presse pour cette information : « Le gouvernement a annoncé une nouvelle loi pour aider les étudiants. »",
+          "hint": "Utilisez le style télégraphique : omettez les verbes et les articles. Exemple : 『政府新法帮学生』。",
+          "example": {
+            "chinese": "政府出新法帮学生",
+            "pinyin": "Zhèng fǔ chū xīn fǎ bāng xué sheng",
+            "translation": "Le gouvernement publie une nouvelle loi pour aider les étudiants."
+          }
+        },
+        {
+          "instruction": "Expliquez en chinois ce que signifie ce titre : 『社会问解了』。 Utilisez des phrases simples.",
+          "hint": "Décrivez les mots-clés : 『社会问』 (problèmes sociaux), 『解』 (résolution). Exemple : 『这个新闻说社会上的问都解了。』",
+          "example": {
+            "chinese": "这个新闻说，社会上的问都解了。",
+            "pinyin": "Zhè ge xīn wén shuō, shè huì shang de wèn dōu jiě le.",
+            "translation": "Cette actualité dit que tous les problèmes sociaux sont résolus."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à décoder les titres de presse en chinois. Le style télégraphique, qui omet les verbes et les articles, est caractéristique des médias. Vous avez également découvert le vocabulaire clé de l'actualité, comme 『新闻』 (actualité), 『政府』 (gouvernement) ou 『社会』 (société). Ces mots vous permettent de comprendre et de reformuler des informations simples.",
+      "reviewWords": [
+        "报纸",
+        "新闻",
+        "道",
+        "社会",
+        "政府",
+        "发生",
+        "题",
+        "发布",
+        "邮",
+        "治"
+      ],
+      "reviewHanzi": [
+        "报",
+        "闻",
+        "社",
+        "布",
+        "政",
+        "府"
+      ]
+    }
+  }
+}

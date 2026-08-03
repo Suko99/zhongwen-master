@@ -1,0 +1,578 @@
+{
+  "slug": "la-vie-numerique",
+  "title": "La vie numérique en Chine",
+  "mission": "Parler paiement mobile, applis et réseaux sociaux",
+  "level": "B1",
+  "order": 48,
+  "hanzi": [
+    {
+      "character": "支",
+      "pinyin": "zhī",
+      "meaning": "branche; soutenir; payer",
+      "hskLevel": 3,
+      "radical": "支 (branche)",
+      "components": [
+        "十",
+        "又"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une main (又) tenant une branche (十), symbolisant le soutien ou le paiement. Le radical est lui-même '支'.",
+      "family": [
+        "付款"
+      ],
+      "commonErrors": [
+        "Confusion avec '只' (zhǐ) en raison de la similarité phonétique et graphique."
+      ]
+    },
+    {
+      "character": "码",
+      "pinyin": "mǎ",
+      "meaning": "code; numéro",
+      "hskLevel": 4,
+      "radical": "石 (pierre)",
+      "components": [
+        "石",
+        "马"
+      ],
+      "etymology": "À l'origine, ce caractère désignait des pierres utilisées pour compter. Le composant '马' (cheval) donne le son. Aujourd'hui, il est associé aux codes (ex : 号码).",
+      "family": [
+        "号码"
+      ],
+      "commonErrors": [
+        "Confusion avec '马' (mǎ, cheval) en raison du composant commun."
+      ]
+    },
+    {
+      "character": "扫",
+      "pinyin": "sǎo",
+      "meaning": "balayer; scanner",
+      "hskLevel": 3,
+      "radical": "扌 (main)",
+      "components": [
+        "扌",
+        "帚"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '扌' (main) indique l'action, et '帚' (balai) donne le son. Par extension, il désigne le scan (ex : 扫码).",
+      "family": [
+        "扫码"
+      ],
+      "commonErrors": [
+        "Prononcer 'shǎo' au lieu de 'sǎo' (3e ton descendant-montant)."
+      ]
+    },
+    {
+      "character": "微",
+      "pinyin": "wēi",
+      "meaning": "minuscule; micro-",
+      "hskLevel": 4,
+      "radical": "彳 (marcher)",
+      "components": [
+        "彳",
+        "山",
+        "一",
+        "攵"
+      ],
+      "etymology": "L'origine est débattue, mais le caractère évoque quelque chose de petit (山, montagne, ici minuscule) et une action (攵). Utilisé dans '微信'.",
+      "family": [
+        "微信"
+      ],
+      "commonErrors": [
+        "Confusion avec '为' (wèi) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "博",
+      "pinyin": "bó",
+      "meaning": "riche; vaste",
+      "hskLevel": 4,
+      "radical": "十 (dix)",
+      "components": [
+        "十",
+        "尃"
+      ],
+      "etymology": "Composé phono-sémantique : '十' (dix) suggère la plénitude, et '尃' donne le son. Par extension, il désigne quelque chose de vaste ou riche (ex : 博客).",
+      "family": [
+        "博客"
+      ],
+      "commonErrors": [
+        "Prononcer 'bù' au lieu de 'bó' (2e ton montant)."
+      ]
+    },
+    {
+      "character": "客",
+      "pinyin": "kè",
+      "meaning": "invité; client",
+      "hskLevel": 2,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "各"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '宀' (toit) suggère un lieu, et '各' (chacun) donne le son. Désigne un invité ou un client.",
+      "family": [
+        "客人"
+      ],
+      "commonErrors": [
+        "Confusion avec '课' (kè, cours) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "网",
+      "pinyin": "wǎng",
+      "meaning": "filet; réseau; internet",
+      "hskLevel": 3,
+      "radical": "冂 (cadre)",
+      "components": [
+        "冂",
+        "㐄"
+      ],
+      "etymology": "Représente un filet à mailles carrées. Par extension, il désigne le réseau ou internet (ex : 上网).",
+      "family": [
+        "上网"
+      ],
+      "commonErrors": [
+        "Prononcer 'wáng' (2e ton) au lieu de 'wǎng' (3e ton)."
+      ]
+    },
+    {
+      "character": "络",
+      "pinyin": "luò",
+      "meaning": "enlacer; réseau",
+      "hskLevel": 5,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "各"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '纟' (soie) suggère un lien, et '各' donne le son. Désigne un réseau (ex : 网络).",
+      "family": [
+        "网络"
+      ],
+      "commonErrors": [
+        "Prononcer 'lào' au lieu de 'luò' (4e ton descendant)."
+      ]
+    },
+    {
+      "character": "维",
+      "pinyin": "wéi",
+      "meaning": "maintenir; dimension",
+      "hskLevel": 5,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "隹"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '纟' (soie) suggère un lien, et '隹' (oiseau) donne le son. Utilisé dans '维码'.",
+      "family": [
+        "维码"
+      ],
+      "commonErrors": [
+        "Confusion avec '为' (wèi) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "户",
+      "pinyin": "hù",
+      "meaning": "porte; foyer; compte",
+      "hskLevel": 3,
+      "radical": "户 (porte)",
+      "components": [
+        "户"
+      ],
+      "etymology": "Représente une porte ou un foyer. Par extension, il désigne un compte (ex : 微信户).",
+      "family": [
+        "微信户"
+      ],
+      "commonErrors": [
+        "Confusion avec '尸' (shī) en raison de la similarité graphique."
+      ]
+    },
+    {
+      "character": "载",
+      "pinyin": "zài",
+      "meaning": "charger; enregistrer",
+      "hskLevel": 4,
+      "radical": "车 (véhicule)",
+      "components": [
+        "车",
+        "𢦏"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '车' (véhicule) suggère le transport, et '𢦏' donne le son. Utilisé dans '下载'.",
+      "family": [
+        "下载"
+      ],
+      "commonErrors": [
+        "Prononcer 'zǎi' au lieu de 'zài' (4e ton descendant)."
+      ]
+    },
+    {
+      "character": "绑",
+      "pinyin": "bǎng",
+      "meaning": "attacher; lier",
+      "hskLevel": 5,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "邦"
+      ],
+      "etymology": "Composé phono-sémantique : le radical '纟' (soie) suggère un lien, et '邦' donne le son. Utilisé dans '绑定'.",
+      "family": [
+        "绑定"
+      ],
+      "commonErrors": [
+        "Prononcer 'bāng' (1er ton) au lieu de 'bǎng' (3e ton)."
+      ]
+    },
+    {
+      "character": "定",
+      "pinyin": "dìng",
+      "meaning": "fixer; déterminer",
+      "hskLevel": 3,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "正"
+      ],
+      "etymology": "Composé sémantique : un toit (宀) sur une base stable (正) évoque la fixation. Utilisé dans '绑定'.",
+      "family": [
+        "绑定"
+      ],
+      "commonErrors": [
+        "Confusion avec '订' (dìng) en raison de la similarité graphique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "支付",
+      "pinyin": "zhī fù",
+      "meaning": "payer",
+      "exampleZh": "我用手机支付。",
+      "examplePinyin": "Wǒ yòng shǒujī zhīfù.",
+      "exampleFr": "J'utilise mon téléphone pour payer."
+    },
+    {
+      "word": "付钱",
+      "pinyin": "fù qián",
+      "meaning": "payer (de l'argent)",
+      "exampleZh": "你可以用手机付钱。",
+      "examplePinyin": "Nǐ kěyǐ yòng shǒujī fù qián.",
+      "exampleFr": "Tu peux payer avec ton téléphone."
+    },
+    {
+      "word": "维码",
+      "pinyin": "wéi mǎ",
+      "meaning": "code (2D)",
+      "exampleZh": "请扫这个维码。",
+      "examplePinyin": "Qǐng sǎo zhège wéi mǎ.",
+      "exampleFr": "Veuillez scanner ce code."
+    },
+    {
+      "word": "扫码",
+      "pinyin": "sǎo mǎ",
+      "meaning": "scanner un code",
+      "exampleZh": "你会扫码吗？",
+      "examplePinyin": "Nǐ huì sǎo mǎ ma?",
+      "exampleFr": "Sais-tu scanner un code ?"
+    },
+    {
+      "word": "微信",
+      "pinyin": "Wēixìn",
+      "meaning": "WeChat",
+      "exampleZh": "我每天用微信。",
+      "examplePinyin": "Wǒ měitiān yòng Wēixìn.",
+      "exampleFr": "J'utilise WeChat tous les jours."
+    },
+    {
+      "word": "博客",
+      "pinyin": "bókè",
+      "meaning": "blog",
+      "exampleZh": "她写博客。",
+      "examplePinyin": "Tā xiě bókè.",
+      "exampleFr": "Elle écrit un blog."
+    },
+    {
+      "word": "网络",
+      "pinyin": "wǎng luò",
+      "meaning": "réseau; internet",
+      "exampleZh": "网络很方便。",
+      "examplePinyin": "Wǎngluò hěn fāngbiàn.",
+      "exampleFr": "Internet est très pratique."
+    },
+    {
+      "word": "上网",
+      "pinyin": "shàng wǎng",
+      "meaning": "aller sur internet",
+      "exampleZh": "我喜欢在家上网。",
+      "examplePinyin": "Wǒ xǐhuān zàijiā shàngwǎng.",
+      "exampleFr": "J'aime surfer sur internet à la maison."
+    },
+    {
+      "word": "短信",
+      "pinyin": "duǎn xìn",
+      "meaning": "SMS; message court",
+      "exampleZh": "我给你发短信。",
+      "examplePinyin": "Wǒ gěi nǐ fā duǎnxìn.",
+      "exampleFr": "Je t'envoie un SMS."
+    },
+    {
+      "word": "微信户",
+      "pinyin": "Wēixìn hù",
+      "meaning": "compte WeChat",
+      "exampleZh": "我的微信户有钱。",
+      "examplePinyin": "Wǒ de Wēixìn hù yǒu qián.",
+      "exampleFr": "J'ai de l'argent sur mon compte WeChat."
+    },
+    {
+      "word": "下载",
+      "pinyin": "xià zài",
+      "meaning": "télécharger",
+      "exampleZh": "我下载了微信。",
+      "examplePinyin": "Wǒ xiàzǎi le Wēixìn.",
+      "exampleFr": "J'ai téléchargé WeChat."
+    },
+    {
+      "word": "绑定",
+      "pinyin": "bǎng dìng",
+      "meaning": "lier; associer",
+      "exampleZh": "请绑定你的卡。",
+      "examplePinyin": "Qǐng bǎngdìng nǐ de kǎ.",
+      "exampleFr": "Veuillez lier votre carte."
+    },
+    {
+      "word": "用...来...",
+      "pinyin": "yòng... lái...",
+      "meaning": "utiliser... pour...",
+      "exampleZh": "我用手机来支付。",
+      "examplePinyin": "Wǒ yòng shǒujī lái zhīfù.",
+      "exampleFr": "J'utilise mon téléphone pour payer."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Anna et Marc discutent de leurs habitudes numériques en Chine. Anna montre à Marc comment payer avec WeChat et scanner un code. Marc veut créer un compte WeChat pour envoyer des messages et payer facilement.",
+      "goals": [
+        "Décrire ses habitudes numériques",
+        "Expliquer comment scanner un code et payer avec une appli",
+        "Créer un compte en ligne et envoyer un message"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez les mots liés à la technologie et aux paiements mobiles. Notez comment les personnages utilisent les applis et les codes.",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "马克，你会用微信支付吗？",
+          "pinyin": "Mǎkè, nǐ huì yòng Wēixìn zhīfù ma?",
+          "translation": "Marc, sais-tu payer avec WeChat ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "不会，我还没有微信户。",
+          "pinyin": "Bù huì, wǒ hái méiyǒu Wēixìn hù.",
+          "translation": "Non, je n'ai pas encore de compte WeChat."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "很方便！你可以用手机扫这个维码来付钱。",
+          "pinyin": "Hěn fāngbiàn! Nǐ kěyǐ yòng shǒujī sǎo zhège wéi mǎ lái fù qián.",
+          "translation": "C'est très pratique ! Tu peux scanner ce code avec ton téléphone pour payer."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "真？我试试。",
+          "pinyin": "Zhēn? Wǒ shìshi.",
+          "translation": "Vraiment ? Je vais essayer."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "你还可以用微信来发短信。",
+          "pinyin": "Nǐ hái kěyǐ yòng Wēixìn lái fā duǎnxìn.",
+          "translation": "Tu peux aussi utiliser WeChat pour envoyer des SMS."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "好！我现在就下载。",
+          "pinyin": "Hǎo! Wǒ xiànzài jiù xiàzǎi.",
+          "translation": "Super ! Je télécharge tout de suite."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "别忘了绑定你的卡。",
+          "pinyin": "Bié wàng le bǎngdìng nǐ de kǎ.",
+          "translation": "N'oublie pas de lier ta carte."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "好的，我做。",
+          "pinyin": "Hǎo de, wǒ zuò.",
+          "translation": "D'accord, je le fais."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "支",
+        "码",
+        "扫",
+        "微",
+        "博",
+        "客",
+        "网",
+        "络",
+        "维",
+        "户",
+        "载",
+        "绑",
+        "定"
+      ],
+      "grammar": [
+        {
+          "point": "用...来... (utiliser... pour...)",
+          "explanation": "Cette structure permet d'exprimer le but d'une action. Elle est souvent utilisée pour décrire l'utilité d'un outil ou d'une méthode. Erreur typique du francophone : oublier le 来 et dire *用手机支付* au lieu de *用手机来支付*.",
+          "examples": [
+            {
+              "chinese": "我用手机来支付。",
+              "pinyin": "Wǒ yòng shǒujī lái zhīfù.",
+              "translation": "J'utilise mon téléphone pour payer."
+            },
+            {
+              "chinese": "你可以用维码来付钱。",
+              "pinyin": "Nǐ kěyǐ yòng wéi mǎ lái fù qián.",
+              "translation": "Tu peux utiliser un code pour payer."
+            }
+          ]
+        },
+        {
+          "point": "Révision de 把 en contexte numérique",
+          "explanation": "La structure 把 est utilisée pour indiquer qu'une action est effectuée sur un objet, le déplaçant ou le transformant. Ici, elle est utilisée pour décrire des actions sur des comptes ou des applis. Erreur typique : oublier 把 et dire *我下载微信* au lieu de *我把微信下载*.",
+          "examples": [
+            {
+              "chinese": "请把维码扫一下。",
+              "pinyin": "Qǐng bǎ wéi mǎ sǎo yīxià.",
+              "translation": "Veuillez scanner le code."
+            },
+            {
+              "chinese": "我把微信下载了。",
+              "pinyin": "Wǒ bǎ Wēixìn xiàzǎi le.",
+              "translation": "J'ai téléchargé WeChat."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le 3e ton (descendant-montant) : dans 扫码 (sǎo mǎ), le premier caractère est un 3e ton. Attention à bien le prononcer descendant puis montant.",
+        "Le 4e ton (descendant) : dans 支付 (zhī fù), le premier caractère est en 4e ton. Veillez à bien marquer la descente.",
+        "Les sons nasaux : dans 网络 (wǎng luò), le premier caractère se termine par -ng. Ne confondez pas avec -n (ex : 完 wán)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots s'appuient sur des acquis précédents pour décrire la vie numérique. Voici les liens clés :",
+      "links": [
+        {
+          "from": "支付",
+          "relation": "COMPOSE",
+          "to": "支 (payer)"
+        },
+        {
+          "from": "微信",
+          "relation": "COMPOSE",
+          "to": "微 (minuscule) + 信 (message, déjà connu)"
+        },
+        {
+          "from": "网络",
+          "relation": "COMPOSE",
+          "to": "网 (filet) + 络 (réseau)"
+        },
+        {
+          "from": "扫码",
+          "relation": "COMPOSE",
+          "to": "扫 (scanner) + 码 (code)"
+        },
+        {
+          "from": "维码",
+          "relation": "COMPOSE",
+          "to": "维 (dimension) + 码 (code)"
+        },
+        {
+          "from": "微信户",
+          "relation": "COMPOSE",
+          "to": "微信 (WeChat) + 户 (compte)"
+        },
+        {
+          "from": "下载",
+          "relation": "COMPOSE",
+          "to": "下 (descendre) + 载 (charger)"
+        },
+        {
+          "from": "绑定",
+          "relation": "COMPOSE",
+          "to": "绑 (lier) + 定 (fixer)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Explique à un ami comment payer avec WeChat en utilisant la structure 用...来....",
+          "hint": "Utilise les mots : 微信, 支付, 扫码, 维码, 手机.",
+          "example": {
+            "chinese": "你可以用微信来支付。先打开微信，然后扫一下维码。",
+            "pinyin": "Nǐ kěyǐ yòng Wēixìn lái zhīfù. Xiān dǎkāi Wēixìn, ránhòu sǎo yīxià wéi mǎ.",
+            "translation": "Tu peux utiliser WeChat pour payer. D'abord, ouvre WeChat, puis scanne le code."
+          }
+        },
+        {
+          "instruction": "Décris tes habitudes numériques en Chine. Quelles applis utilises-tu ? Pour quoi faire ?",
+          "hint": "Utilise les mots : 微信, 上网, 短信, 博客, 支付.",
+          "example": {
+            "chinese": "我每天用微信来发短信和支付。有时候我也上网看新闻。",
+            "pinyin": "Wǒ měitiān yòng Wēixìn lái fā duǎnxìn hé zhīfù. Yǒu shíhòu wǒ yě shàngwǎng kàn xīnwén.",
+            "translation": "J'utilise WeChat tous les jours pour envoyer des SMS et payer. Parfois, je vais aussi sur internet pour lire les actualités."
+          }
+        },
+        {
+          "instruction": "Imagine que tu crées un compte WeChat. Décris les étapes en utilisant 把.",
+          "hint": "Utilise les mots : 下载, 微信, 绑定, 卡, 微信户.",
+          "example": {
+            "chinese": "我先把微信下载了，然后把卡绑定到微信户上。",
+            "pinyin": "Wǒ xiān bǎ Wēixìn xiàzǎi le, ránhòu bǎ kǎ bǎngdìng dào Wēixìn hù shàng.",
+            "translation": "D'abord, j'ai téléchargé WeChat, puis j'ai lié ma carte à mon compte WeChat."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à parler de la vie numérique en Chine : payer avec des applis comme WeChat, scanner des codes, et utiliser des structures comme 用...来... pour exprimer le but. Vous avez aussi révisé 把 dans un contexte moderne. Ces outils vous permettent de décrire vos habitudes technologiques et d'interagir facilement dans un environnement numérique chinois.",
+      "reviewWords": [
+        "支付",
+        "付钱",
+        "维码",
+        "扫码",
+        "微信",
+        "博客",
+        "网络",
+        "上网",
+        "短信",
+        "微信户",
+        "下载",
+        "绑定",
+        "用...来..."
+      ],
+      "reviewHanzi": [
+        "支",
+        "码",
+        "扫",
+        "微",
+        "博",
+        "客",
+        "网",
+        "络",
+        "维",
+        "户",
+        "载",
+        "绑",
+        "定"
+      ]
+    }
+  }
+}

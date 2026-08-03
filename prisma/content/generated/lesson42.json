@@ -1,0 +1,332 @@
+{
+  "slug": "raconter-une-histoire",
+  "title": "Raconter une histoire",
+  "mission": "Enchaîner un récit avec des connecteurs temporels",
+  "level": "B1",
+  "order": 42,
+  "hanzi": [
+    {
+      "character": "历",
+      "pinyin": "lì",
+      "meaning": "calendrier, expérience passée",
+      "hskLevel": 3,
+      "radical": "厂 (falaise)",
+      "components": [
+        "厂",
+        "力"
+      ],
+      "etymology": "Ce caractère combine 厂 (falaise, symbole de durée) et 力 (force), évoquant l'idée de « force qui dure », d'où le sens de « calendrier » ou « expérience passée ».",
+      "family": [
+        "日历 (calendrier)",
+        "经历 (expérience)"
+      ],
+      "commonErrors": [
+        "Ne pas confondre 历 (lì) avec 力 (lì, force) : 历 inclut toujours une notion de temps."
+      ]
+    },
+    {
+      "character": "束",
+      "pinyin": "shù",
+      "meaning": "faisceau, lier, contrôler",
+      "hskLevel": 4,
+      "radical": "木 (bois)",
+      "components": [
+        "木",
+        "口"
+      ],
+      "etymology": "Ce caractère représente à l'origine une corde (口) entourant des morceaux de bois (木), d'où le sens de « lier » ou « faisceau ».",
+      "family": [
+        "结束 (finir)"
+      ],
+      "commonErrors": [
+        "Ne pas confondre 束 (shù) avec 术 (shù, art) : bien que similaires, leurs sens diffèrent."
+      ]
+    },
+    {
+      "character": "局",
+      "pinyin": "jú",
+      "meaning": "situation, partie (de jeu)",
+      "hskLevel": 3,
+      "radical": "尸 (corps)",
+      "components": [
+        "尸",
+        "口",
+        "乚"
+      ],
+      "etymology": "Ce caractère combine 尸 (corps, symbole de limite) et 口 (bouche), évoquant un espace délimité, d'où le sens de « situation ».",
+      "family": [
+        "结局 (dénouement)"
+      ],
+      "commonErrors": [
+        "Confondre 局 (jú) avec 句 (jù, phrase) : bien que proches phonétiquement, leurs sens diffèrent."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "事",
+      "pinyin": "shì",
+      "meaning": "histoire, affaire, événement",
+      "exampleZh": "我喜欢听爷爷讲事。",
+      "examplePinyin": "Wǒ xǐhuān tīng yéye jiǎng shì.",
+      "exampleFr": "J'aime écouter mon grand-père raconter des histoires."
+    },
+    {
+      "word": "发生",
+      "pinyin": "fā shēng",
+      "meaning": "se produire, arriver",
+      "exampleZh": "昨天发生了什么事？",
+      "examplePinyin": "Zuótiān fāshēng le shénme shì?",
+      "exampleFr": "Qu'est-il arrivé hier ?"
+    },
+    {
+      "word": "经历",
+      "pinyin": "jīng lì",
+      "meaning": "expérience, vivre (une expérience)",
+      "exampleZh": "这是我第一次经历这样事。",
+      "examplePinyin": "Zhè shì wǒ dì yī cì jīnglì zhèyàng shì.",
+      "exampleFr": "C'est la première fois que je vis une telle expérience."
+    },
+    {
+      "word": "经过",
+      "pinyin": "jīng guò",
+      "meaning": "passer par, processus",
+      "exampleZh": "他经过公园的时候看见了小明。",
+      "examplePinyin": "Tā jīngguò gōngyuán de shíhou kànjiàn le Xiǎomíng.",
+      "exampleFr": "Il a vu Xiao Ming en passant par le parc."
+    },
+    {
+      "word": "果",
+      "pinyin": "guǒ",
+      "meaning": "résultat, fruit",
+      "exampleZh": "他努力学习，果考试得了第一。",
+      "examplePinyin": "Tā nǔlì xuéxí, guǒ kǎoshì dé le dì yī.",
+      "exampleFr": "Il a étudié dur, et le résultat est qu'il a obtenu la première place à l'examen."
+    },
+    {
+      "word": "结束",
+      "pinyin": "jié shù",
+      "meaning": "finir, terminer",
+      "exampleZh": "比赛已经结束了。",
+      "examplePinyin": "Bǐsài yǐjīng jiéshù le.",
+      "exampleFr": "Le match est déjà terminé."
+    },
+    {
+      "word": "结局",
+      "pinyin": "jié jú",
+      "meaning": "dénouement, fin (d'une histoire)",
+      "exampleZh": "这个事的结局很好。",
+      "examplePinyin": "Zhège shì de jiéjú hěn hǎo.",
+      "exampleFr": "La fin de cette histoire est très bien."
+    },
+    {
+      "word": "先...然后...最后",
+      "pinyin": "xiān... ránhòu... zuìhòu...",
+      "meaning": "d'abord... ensuite... enfin...",
+      "exampleZh": "我先吃饭，然后看电视，最后睡觉。",
+      "examplePinyin": "Wǒ xiān chīfàn, ránhòu kàn diànshì, zuìhòu shuìjiào.",
+      "exampleFr": "D'abord je mange, ensuite je regarde la télé, et enfin je dors."
+    },
+    {
+      "word": "的时候",
+      "pinyin": "de shíhou",
+      "meaning": "quand, au moment où",
+      "exampleZh": "我回家的时候，妈妈在做饭。",
+      "examplePinyin": "Wǒ huíjiā de shíhou, māma zài zuòfàn.",
+      "exampleFr": "Quand je suis rentré à la maison, maman était en train de cuisiner."
+    },
+    {
+      "word": "一...就...",
+      "pinyin": "yī... jiù...",
+      "meaning": "dès que... alors...",
+      "exampleZh": "他一到家就开始做作业。",
+      "examplePinyin": "Tā yī dàojiā jiù kāishǐ zuò zuòyè.",
+      "exampleFr": "Dès qu'il est arrivé à la maison, il a commencé ses devoirs."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu racontes à ton ami Marc ce qui t'est arrivé hier. Utilise des connecteurs temporels pour structurer ton récit.",
+      "goals": [
+        "Utiliser 先...然后...最后 pour enchaîner les actions.",
+        "Employer 的时候 pour situer un événement dans le temps.",
+        "Utiliser 一...就... pour exprimer une action immédiate."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe ce dialogue. Repère les connecteurs temporels et note comment ils organisent le récit.",
+      "dialogue": [
+        {
+          "speaker": "马克",
+          "chinese": "王明，你昨天过得怎么样？",
+          "pinyin": "Wáng Míng, nǐ zuótiān guò de zěnmeyàng?",
+          "translation": "Wang Ming, comment s'est passée ta journée d'hier ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "太有意思了！我先去了学校，然后去了公园。",
+          "pinyin": "Tài yǒu yìsi le! Wǒ xiān qù le xuéxiào, ránhòu qù le gōngyuán.",
+          "translation": "C'était très intéressant ! D'abord je suis allé à l'école, ensuite au parc."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "在公园的时候，发生了什么事？",
+          "pinyin": "Zài gōngyuán de shíhou, fāshēng le shénme shì?",
+          "translation": "Qu'est-il arrivé quand tu étais au parc ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我一进公园就看见了安娜。",
+          "pinyin": "Wǒ yī jìn gōngyuán jiù kànjiàn le Ānnà.",
+          "translation": "Dès que je suis entré dans le parc, j'ai vu Anna."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "然后呢？",
+          "pinyin": "Ránhòu ne?",
+          "translation": "Et ensuite ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "然后我们一起玩。最后，我们去吃饭了。",
+          "pinyin": "Ránhòu wǒmen yīqǐ wán. Zuìhòu, wǒmen qù chīfàn le.",
+          "translation": "Ensuite nous avons joué ensemble. Enfin, nous sommes allés manger."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "这个事的结局真好！",
+          "pinyin": "Zhège shì de jiéjú zhēn hǎo!",
+          "translation": "La fin de cette histoire est vraiment bien !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "历",
+        "束",
+        "局"
+      ],
+      "grammar": [
+        {
+          "point": "先...然后...最后 : enchaînement temporel",
+          "explanation": "Cette structure permet de raconter une suite d'actions dans l'ordre. Attention : le francophone oublie souvent 然后 ou le remplace par 和 (et).",
+          "examples": [
+            {
+              "chinese": "我先洗手，然后吃饭，最后看电视。",
+              "pinyin": "Wǒ xiān xǐshǒu, ránhòu chīfàn, zuìhòu kàn diànshì.",
+              "translation": "D'abord je me lave les mains, ensuite je mange, enfin je regarde la télé."
+            }
+          ]
+        },
+        {
+          "point": "的时候 : situer un événement dans le temps",
+          "explanation": "的时候 introduit une subordonnée temporelle. Attention à ne pas oublier 的. Peut être utilisé avec des lieux ou des actions.",
+          "examples": [
+            {
+              "chinese": "他吃饭的时候，我看电视。",
+              "pinyin": "Tā chīfàn de shíhou, wǒ kàn diànshì.",
+              "translation": "Quand il mangeait, je regardais la télé."
+            }
+          ]
+        },
+        {
+          "point": "一...就... : action immédiate",
+          "explanation": "Cette structure exprime une action qui suit immédiatement une autre. Attention : le sujet reste le même pour les deux verbes.",
+          "examples": [
+            {
+              "chinese": "他一听到这个事就笑了。",
+              "pinyin": "Tā yī tīngdào zhège shì jiù xiào le.",
+              "translation": "Dès qu'il a entendu cette histoire, il a ri."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "3e ton (descendant-montant) : dans 我先 (wǒ xiān), le ton de 先 doit descendre puis remonter.",
+        "4e ton (descendant) : dans 最后 (zuìhòu), insiste sur la descente du ton de 后.",
+        "Enchaînement tonal : 一 est prononcé yì devant un 4e ton (comme dans 一就 yī jiù → yì jiù)."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux éléments s'appuient sur tes acquis :",
+      "links": [
+        {
+          "from": "历",
+          "relation": "COMPOSE",
+          "to": "经历 (expérience)"
+        },
+        {
+          "from": "束",
+          "relation": "COMPOSE",
+          "to": "结束 (finir)"
+        },
+        {
+          "from": "局",
+          "relation": "COMPOSE",
+          "to": "结局 (dénouement)"
+        },
+        {
+          "from": "先...然后...最后",
+          "relation": "CONTRASTE_AVEC",
+          "to": "虽然...但是... (bien que... mais...)"
+        },
+        {
+          "from": "的时候",
+          "relation": "RADICAL_DE",
+          "to": "时 (dans 日历, calendrier)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Raconte ta journée d'hier avec 先...然后...最后 (3 actions minimum).",
+          "hint": "Utilise des activités simples : 吃饭 (manger), 看电视 (regarder la télé), 睡觉 (dormir).",
+          "example": {
+            "chinese": "我先去学校，然后和朋友吃饭，最后回家睡觉。",
+            "pinyin": "Wǒ xiān qù xuéxiào, ránhòu hé péngyou chīfàn, zuìhòu huíjiā shuìjiào.",
+            "translation": "D'abord je suis allé à l'école, ensuite j'ai mangé avec des amis, enfin je suis rentré dormir."
+          }
+        },
+        {
+          "instruction": "Décris une action immédiate avec 一...就...",
+          "hint": "Utilise des verbes comme 看到 (voir), 开始 (commencer).",
+          "example": {
+            "chinese": "我一到家就开始做作业。",
+            "pinyin": "Wǒ yī dàojiā jiù kāishǐ zuò zuòyè.",
+            "translation": "Dès que je suis arrivé à la maison, j'ai commencé mes devoirs."
+          }
+        },
+        {
+          "instruction": "Raconte une anecdote avec 的时候",
+          "hint": "Utilise des lieux ou actions : 公园 (parc), 吃饭 (manger).",
+          "example": {
+            "chinese": "我走路的时候，看见了小明。",
+            "pinyin": "Wǒ zǒulù de shíhou, kànjiàn le Xiǎomíng.",
+            "translation": "Quand je marchais, j'ai vu Xiao Ming."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Tu as appris à structurer un récit avec : 先...然后...最后 (enchaînement), 的时候 (situation temporelle), et 一...就... (action immédiate). Ces outils te permettent de raconter des histoires de manière fluide.",
+      "reviewWords": [
+        "事",
+        "发生",
+        "经历",
+        "经过",
+        "果",
+        "结束",
+        "结局",
+        "先...然后...最后",
+        "的时候",
+        "一...就..."
+      ],
+      "reviewHanzi": [
+        "历",
+        "束",
+        "局"
+      ]
+    }
+  }
+}

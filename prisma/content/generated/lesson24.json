@@ -1,0 +1,470 @@
+{
+  "slug": "demander-son-chemin",
+  "title": "Demander son chemin",
+  "mission": "Se repérer en ville et guider quelqu'un",
+  "level": "A2",
+  "order": 24,
+  "hanzi": [
+    {
+      "character": "往",
+      "pinyin": "wǎng",
+      "meaning": "vers, en direction de",
+      "hskLevel": 2,
+      "radical": "彳",
+      "components": [
+        "彳",
+        "主"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que le caractère représente une personne (彳) marchant vers un point central (主), symbolisant le mouvement vers une direction. L'origine exacte est débattue parmi les experts.",
+      "family": [
+        "行",
+        "走"
+      ],
+      "commonErrors": [
+        "Confusion avec 向 (xiàng) qui signifie aussi 'vers', mais 往 insiste sur le déplacement physique."
+      ]
+    },
+    {
+      "character": "左",
+      "pinyin": "zuǒ",
+      "meaning": "gauche",
+      "hskLevel": 1,
+      "radical": "工",
+      "components": [
+        "ナ",
+        "工"
+      ],
+      "etymology": "Représente originellement une main gauche tenant un outil (工). Le radical 工 évoque le travail manuel, souvent associé à la main gauche dans les anciennes représentations.",
+      "family": [
+        "右"
+      ],
+      "commonErrors": [
+        "Inversion fréquente avec 右 (yòu, droite) en raison de la symétrie des caractères."
+      ]
+    },
+    {
+      "character": "右",
+      "pinyin": "yòu",
+      "meaning": "droite",
+      "hskLevel": 1,
+      "radical": "口",
+      "components": [
+        "ナ",
+        "口"
+      ],
+      "etymology": "Représente une main droite (ナ) tenant un objet ou désignant (口). Le radical 口 peut évoquer l'idée de désigner ou parler, souvent associé à la main droite dans les cultures anciennes.",
+      "family": [
+        "左"
+      ],
+      "commonErrors": [
+        "Inversion avec 左 (zuǒ, gauche) due à la similarité visuelle."
+      ]
+    },
+    {
+      "character": "前",
+      "pinyin": "qián",
+      "meaning": "devant, avant",
+      "hskLevel": 1,
+      "radical": "刀",
+      "components": [
+        "丷",
+        "月",
+        "刀"
+      ],
+      "etymology": "L'origine est complexe : le composant 月 représenterait une chair ou un corps, et 刀 un couteau, évoquant l'idée de couper devant soi. Une autre interprétation lie le caractère à un autel (示) devant lequel on se tient.",
+      "family": [
+        "后"
+      ],
+      "commonErrors": [
+        "Confusion avec 后 (hòu, derrière) en raison de leur opposition sémantique."
+      ]
+    },
+    {
+      "character": "后",
+      "pinyin": "hòu",
+      "meaning": "derrière, après",
+      "hskLevel": 1,
+      "radical": "口",
+      "components": [
+        "丿",
+        "一",
+        "口"
+      ],
+      "etymology": "Représente originellement une personne (口) sous un toit (宀 simplifié en 一 et 丿), évoquant l'idée de ce qui est caché ou derrière. L'origine exacte est débattue.",
+      "family": [
+        "前"
+      ],
+      "commonErrors": [
+        "Confusion avec 前 (qián, devant) due à leur opposition."
+      ]
+    },
+    {
+      "character": "拐",
+      "pinyin": "guǎi",
+      "meaning": "tourner, virer",
+      "hskLevel": 2,
+      "radical": "扌",
+      "components": [
+        "扌",
+        "另"
+      ],
+      "etymology": "Le radical 扌 (main) suggère une action manuelle, tandis que 另 (autre) évoque un changement de direction. Le caractère combine ainsi l'idée de 'changer de direction avec la main'.",
+      "family": [
+        "转"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *guài* (4e ton) au lieu de guǎi (3e ton)."
+      ]
+    },
+    {
+      "character": "直",
+      "pinyin": "zhí",
+      "meaning": "droit, directement",
+      "hskLevel": 2,
+      "radical": "目",
+      "components": [
+        "十",
+        "目"
+      ],
+      "etymology": "Représente un œil (目) regardant droit devant (十), symbolisant la ligne droite ou la franchise. Le radical 目 renforce l'idée de vision ou de direction.",
+      "family": [
+        "真"
+      ],
+      "commonErrors": [
+        "Confusion avec 真 (zhēn, vrai) en raison de la similarité des composants."
+      ]
+    },
+    {
+      "character": "路",
+      "pinyin": "lù",
+      "meaning": "route, chemin",
+      "hskLevel": 1,
+      "radical": "足",
+      "components": [
+        "足",
+        "各"
+      ],
+      "etymology": "Composé de 足 (pied) et 各 (chacun), évoquant l'idée d'un chemin emprunté par tous. Le radical 足 souligne le lien avec la marche ou le déplacement.",
+      "family": [
+        "街",
+        "道"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *lǜ* (4e ton) au lieu de lù (4e ton)."
+      ]
+    },
+    {
+      "character": "先",
+      "pinyin": "xiān",
+      "meaning": "d'abord, avant",
+      "hskLevel": 1,
+      "radical": "儿",
+      "components": [
+        "儿",
+        "土"
+      ],
+      "etymology": "Représente originellement une personne (儿) marchant devant (土 symbolisant la terre ou le sol). Le caractère évoque ainsi l'idée de précéder ou d'aller en premier.",
+      "family": [
+        "前",
+        "早"
+      ],
+      "commonErrors": [
+        "Confusion avec 早 (zǎo, tôt) en raison de leur lien sémantique."
+      ]
+    },
+    {
+      "character": "然",
+      "pinyin": "rán",
+      "meaning": "ainsi, puis",
+      "hskLevel": 2,
+      "radical": "火",
+      "components": [
+        "月",
+        "犬",
+        "灬"
+      ],
+      "etymology": "L'origine est complexe : 月 (chair) et 犬 (chien) évoquent un sacrifice rituel, tandis que 灬 (feu) suggère la cuisson. Le caractère signifiait originellement 'brûler de la viande', puis a évolué vers l'idée de 'comme cela' ou 'ainsi'.",
+      "family": [
+        "然后"
+      ],
+      "commonErrors": [
+        "Utilisation incorrecte en tant que verbe seul (然 n'est pas utilisé isolément en mandarin moderne)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "往左拐",
+      "pinyin": "wǎng zuǒ guǎi",
+      "meaning": "tourner à gauche",
+      "exampleZh": "往左拐，是医院。",
+      "examplePinyin": "Wǎng zuǒ guǎi, shì yīyuàn.",
+      "exampleFr": "Tourne à gauche, c'est l'hôpital."
+    },
+    {
+      "word": "往右拐",
+      "pinyin": "wǎng yòu guǎi",
+      "meaning": "tourner à droite",
+      "exampleZh": "往右拐，是公园。",
+      "examplePinyin": "Wǎng yòu guǎi, shì gōngyuán.",
+      "exampleFr": "Tourne à droite, c'est le parc."
+    },
+    {
+      "word": "一直走",
+      "pinyin": "yīzhí zǒu",
+      "meaning": "aller tout droit",
+      "exampleZh": "一直走，不要拐。",
+      "examplePinyin": "Yīzhí zǒu, bùyào guǎi.",
+      "exampleFr": "Va tout droit, ne tourne pas."
+    },
+    {
+      "word": "先...然后",
+      "pinyin": "xiān... ránhòu",
+      "meaning": "d'abord... puis...",
+      "exampleZh": "你先往前走，然后往左拐。",
+      "examplePinyin": "Nǐ xiān wǎng qián zǒu, ránhòu wǎng zuǒ guǎi.",
+      "exampleFr": "D'abord, avance tout droit, puis tourne à gauche."
+    },
+    {
+      "word": "前面",
+      "pinyin": "qiánmiàn",
+      "meaning": "devant, en face",
+      "exampleZh": "前面有车站。",
+      "examplePinyin": "Qiánmiàn yǒu chēzhàn.",
+      "exampleFr": "Il y a un arrêt de bus devant."
+    },
+    {
+      "word": "后面",
+      "pinyin": "hòumiàn",
+      "meaning": "derrière",
+      "exampleZh": "学校后面有公园。",
+      "examplePinyin": "Xuéxiào hòumiàn yǒu gōngyuán.",
+      "exampleFr": "Il y a un parc derrière l'école."
+    },
+    {
+      "word": "路口",
+      "pinyin": "lùkǒu",
+      "meaning": "carrefour, intersection",
+      "exampleZh": "在路口往右拐。",
+      "examplePinyin": "Zài lùkǒu wǎng yòu guǎi.",
+      "exampleFr": "Tourne à droite au carrefour."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es en visite dans une ville chinoise et tu dois te rendre à l'hôpital. Tu demandes ton chemin à un passant, puis tu guides ton ami 王明 vers un parc.",
+      "goals": [
+        "Demander et comprendre des indications pour se rendre à un lieu",
+        "Donner des instructions claires pour guider quelqu'un",
+        "Utiliser les directions et les ordres de séquence"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue ci-dessous. Repère les mots pour 'gauche', 'droite', 'tourner', et les structures pour donner des indications. Comment les phrases sont-elles structurées ?",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "请问，医院在哪儿？",
+          "pinyin": "Qǐngwèn, yīyuàn zài nǎr?",
+          "translation": "Excusez-moi, où est l'hôpital ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你先一直走，然后在路口往左拐。医院在前面。",
+          "pinyin": "Nǐ xiān yīzhí zǒu, ránhòu zài lùkǒu wǎng zuǒ guǎi. Yīyuàn zài qiánmiàn.",
+          "translation": "D'abord, va tout droit, puis tourne à gauche au carrefour. L'hôpital est devant."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "这里到医院不远吗？",
+          "pinyin": "Zhèlǐ dào yīyuàn bù yuǎn ma?",
+          "translation": "Est-ce que c'est loin d'ici à l'hôpital ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "不远，走五分。",
+          "pinyin": "Bù yuǎn, zǒu wǔ fēn.",
+          "translation": "Non, ce n'est pas loin, cinq minutes à pied."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "王明，我去公园吧。公园在哪儿？",
+          "pinyin": "Wángmíng, wǒ qù gōngyuán ba. Gōngyuán zài nǎr?",
+          "translation": "Wang Ming, je vais au parc. Où est le parc ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你先往右拐，然后一直走。公园在学校后面。",
+          "pinyin": "Nǐ xiān wǎng yòu guǎi, ránhòu yīzhí zǒu. Gōngyuán zài xuéxiào hòumiàn.",
+          "translation": "D'abord, tourne à droite, puis va tout droit. Le parc est derrière l'école."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "这里到公园近吗？",
+          "pinyin": "Zhèlǐ dào gōngyuán jìn ma?",
+          "translation": "Est-ce que c'est près d'ici au parc ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "很近，走两分。",
+          "pinyin": "Hěn jìn, zǒu liǎng fēn.",
+          "translation": "Très près, deux minutes à pied."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "往",
+        "左",
+        "右",
+        "前",
+        "后",
+        "拐",
+        "直",
+        "路",
+        "先",
+        "然"
+      ],
+      "grammar": [
+        {
+          "point": "往 + direction",
+          "explanation": "La structure 往 + direction (gauche, droite, devant, etc.) indique la direction vers laquelle on se déplace. Attention : en français, on dit 'tourner à gauche', mais en chinois, on utilise 往左拐 (littéralement 'tourner vers la gauche'). Erreur fréquente : oublier 往 et dire *左拐* directement.",
+          "examples": [
+            {
+              "chinese": "往前走。",
+              "pinyin": "Wǎng qián zǒu.",
+              "translation": "Avance tout droit."
+            },
+            {
+              "chinese": "往右拐，是公园。",
+              "pinyin": "Wǎng yòu guǎi, shì gōngyuán.",
+              "translation": "Tourne à droite, c'est le parc."
+            }
+          ]
+        },
+        {
+          "point": "先...然后 (d'abord... puis...)",
+          "explanation": "Cette structure permet d'ordonner des actions. 先 introduit la première action, et 然后 la suivante. Erreur fréquente : oublier 然后 et dire *先...再*.",
+          "examples": [
+            {
+              "chinese": "你先坐车，然后走路。",
+              "pinyin": "Nǐ xiān zuò chē, ránhòu zǒulù.",
+              "translation": "D'abord, prends le bus, puis marche."
+            },
+            {
+              "chinese": "先吃饭，然后看书。",
+              "pinyin": "Xiān chīfàn, ránhòu kànshū.",
+              "translation": "D'abord, mangeons, puis lisons."
+            }
+          ]
+        },
+        {
+          "point": "Exprimer la distance avec 到 (jusqu'à)",
+          "explanation": "Pour demander ou indiquer la distance entre deux points, on peut utiliser la structure A到B + adjectif (近/远). Cela évite d'utiliser 离 qui n'est pas encore maîtrisé. Erreur fréquente : confondre l'ordre des mots (dire *医院到这里远* au lieu de *这里到医院远*).",
+          "examples": [
+            {
+              "chinese": "这里到学校不远。",
+              "pinyin": "Zhèlǐ dào xuéxiào bù yuǎn.",
+              "translation": "Ce n'est pas loin d'ici à l'école."
+            },
+            {
+              "chinese": "车站到公园很近。",
+              "pinyin": "Chēzhàn dào gōngyuán hěn jìn.",
+              "translation": "C'est très près de l'arrêt de bus au parc."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton 3 (descendant-montant) : pour 拐 (guǎi), prononcez bien le ton descendant puis montant. Évitez de le confondre avec un ton 2 (montant) ou 4 (descendant).",
+        "La distinction entre 左 (zuǒ, 3e ton) et 右 (yòu, 4e ton) : le premier est descendant-montant, le second est descendant. Entraînez-vous à bien marquer la différence.",
+        "Le son 'zh' dans 直 (zhí) : il se prononce comme le 'j' français dans 'je', mais avec la langue en position rétroflexe (pointe de la langue recourbée vers le palais)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots de cette leçon sont liés à des notions déjà connues. Voici comment ils s'articulent avec ton apprentissage précédent :",
+      "links": [
+        {
+          "from": "往",
+          "relation": "RADICAL_DE",
+          "to": "行 (déjà connu, radical 彳)"
+        },
+        {
+          "from": "左/右",
+          "relation": "CONTRASTE_AVEC",
+          "to": "上/下 (déjà connus)"
+        },
+        {
+          "from": "前/后",
+          "relation": "OPPOSITION",
+          "to": "l'un avec l'autre"
+        },
+        {
+          "from": "先...然后",
+          "relation": "DONNE_LE_SON",
+          "to": "再 (déjà connu, utilisé pour 'encore' ou 'puis')"
+        },
+        {
+          "from": "路",
+          "relation": "COMPOSE",
+          "to": "路口 (nouveau mot)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Tu es perdu(e) dans une ville chinoise. Demande à un passant comment te rendre à l'école. Utilise 往 + direction et 先...然后.",
+          "hint": "Commence par 请问，学校在哪儿？ puis utilise les structures apprises pour demander des indications détaillées.",
+          "example": {
+            "chinese": "请问，学校在哪儿？我先往前走，然后往右拐吗？",
+            "pinyin": "Qǐngwèn, xuéxiào zài nǎr? Wǒ xiān wǎng qián zǒu, ránhòu wǎng yòu guǎi ma?",
+            "translation": "Excusez-moi, où est l'école ? Je vais d'abord tout droit, puis je tourne à droite ?"
+          }
+        },
+        {
+          "instruction": "Un ami te demande comment aller de la maison au parc. Donne-lui des indications en utilisant 到 pour la distance, 往左拐/往右拐, et 先...然后.",
+          "hint": "Commence par dire si c'est près ou non, puis donne les directions étape par étape.",
+          "example": {
+            "chinese": "我家到公园不远。你先往左拐，然后一直走，公园在前面。",
+            "pinyin": "Wǒ jiā dào gōngyuán bù yuǎn. Nǐ xiān wǎng zuǒ guǎi, ránhòu yīzhí zǒu, gōngyuán zài qiánmiàn.",
+            "translation": "Ce n'est pas loin de chez moi au parc. D'abord, tourne à gauche, puis va tout droit, le parc est devant."
+          }
+        },
+        {
+          "instruction": "Décris le chemin pour aller de chez toi à ton restaurant préféré. Utilise au moins deux directions (gauche/droite) et la structure 先...然后.",
+          "hint": "Mentionne des repères comme 路口 (carrefour) ou 前面 (devant). Utilise 到 pour indiquer la distance.",
+          "example": {
+            "chinese": "我家到饭店不远。你先往右拐，在路口往左拐，然后一直走。饭店在医院后面。",
+            "pinyin": "Wǒ jiā dào fàndiàn bù yuǎn. Nǐ xiān wǎng yòu guǎi, zài lùkǒu wǎng zuǒ guǎi, ránhòu yīzhí zǒu. Fàndiàn zài yīyuàn hòumiàn.",
+            "translation": "Ce n'est pas loin de chez moi au restaurant. D'abord, tourne à droite, au carrefour tourne à gauche, puis va tout droit. Le restaurant est derrière l'hôpital."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à demander et donner des indications pour te repérer en ville. Voici les points clés :\n1. Utiliser 往 + direction pour indiquer une direction (往左拐, 往前走).\n2. Exprimer la distance avec 到 + lieu (这里到医院远吗？).\n3. Ordonner des actions avec 先...然后 (先往前走，然后往左拐).\n4. Maîtriser les directions de base : 左 (gauche), 右 (droite), 前 (devant), 后 (derrière).\nEntraîne-toi à combiner ces structures pour guider quelqu'un ou comprendre des indications.",
+      "reviewWords": [
+        "往左拐",
+        "往右拐",
+        "一直走",
+        "先...然后",
+        "前面",
+        "后面",
+        "路口"
+      ],
+      "reviewHanzi": [
+        "往",
+        "左",
+        "右",
+        "前",
+        "后",
+        "拐",
+        "直",
+        "路",
+        "先",
+        "然"
+      ]
+    }
+  }
+}

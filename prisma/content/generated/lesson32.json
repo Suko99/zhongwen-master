@@ -1,0 +1,458 @@
+{
+  "slug": "sentiments-et-emotions",
+  "title": "Exprimer ses sentiments et réagir à ceux des autres",
+  "mission": "Apprendre à décrire ses émotions et à répondre avec empathie aux sentiments d'autrui",
+  "level": "A2",
+  "order": 32,
+  "hanzi": [
+    {
+      "character": "兴",
+      "pinyin": "xìng",
+      "meaning": "intérêt, excitation",
+      "hskLevel": 2,
+      "radical": "八 (huit)",
+      "components": [
+        "⺍",
+        "同"
+      ],
+      "etymology": "Origine débattue. Certains y voient une représentation de l'élévation de l'esprit (comme dans 's'élever avec intérêt'). Le radical 八 suggère une division ou une expansion, peut-être liée à l'idée de s'ouvrir à quelque chose.",
+      "family": [
+        "高兴 (content)",
+        "兴趣 (intérêt)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'xīng' au lieu de 'xìng' dans 高兴. Le ton est montant (2e ton) dans d'autres contextes comme 兴奋 (excité)."
+      ]
+    },
+    {
+      "character": "难",
+      "pinyin": "nán",
+      "meaning": "difficile, dur",
+      "hskLevel": 2,
+      "radical": "又 (main droite)",
+      "components": [
+        "隹",
+        "又"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 隹 (oiseau) donne une idée de complexité (voler est difficile), et 又 (main) suggère une action. Difficile à interpréter sans contexte historique précis.",
+      "family": [
+        "难过 (triste)",
+        "困难 (difficile)"
+      ],
+      "commonErrors": [
+        "Confondre avec 南 (sud) à l'oral. Le ton est descendant (2e ton) pour 难, alors que 南 est montant (2e ton)."
+      ]
+    },
+    {
+      "character": "担",
+      "pinyin": "dān",
+      "meaning": "porter, se soucier",
+      "hskLevel": 3,
+      "radical": "扌 (main)",
+      "components": [
+        "扌",
+        "旦"
+      ],
+      "etymology": "Composé phono-sémantique : 扌 (main) pour l'action de porter, et 旦 (aube) donnant le son. L'idée de 'porter un fardeau' s'étend métaphoriquement à 'se soucier'.",
+      "family": [
+        "担心 (s'inquiéter)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'dàn' au lieu de 'dān'. Le ton est haut et plat (1er ton)."
+      ]
+    },
+    {
+      "character": "心",
+      "pinyin": "xīn",
+      "meaning": "cœur",
+      "hskLevel": 1,
+      "radical": "心 (cœur)",
+      "components": [
+        "心"
+      ],
+      "etymology": "Représentation stylisée d'un cœur humain. Radical très productif pour les émotions et états mentaux (ex : 想, 怕, 爱).",
+      "family": [
+        "担心 (s'inquiéter)",
+        "心情 (humeur)"
+      ],
+      "commonErrors": [
+        "Confondre avec 心 (radical) et le caractère ใจ en thaï. Prononciation : 1er ton, pas de confusion avec 新 (xīn, nouveau)."
+      ]
+    },
+    {
+      "character": "害",
+      "pinyin": "hài",
+      "meaning": "nuire, dommage",
+      "hskLevel": 3,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "丰",
+        "口"
+      ],
+      "etymology": "Origine complexe. Sous un toit (宀), l'élément 丰 pourrait représenter une plante ou un objet, et 口 une bouche, suggérant peut-être une malédiction ou un dommage verbal. L'étymologie exacte est débattue.",
+      "family": [
+        "害怕 (avoir peur)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'hé' au lieu de 'hài'. Le ton est descendant (4e ton)."
+      ]
+    },
+    {
+      "character": "怕",
+      "pinyin": "pà",
+      "meaning": "craindre",
+      "hskLevel": 2,
+      "radical": "忄 (cœur)",
+      "components": [
+        "忄",
+        "白"
+      ],
+      "etymology": "Composé phono-sémantique : 忄 (cœur) pour l'émotion, et 白 (blanc) donnant le son. L'idée de 'blanc' pourrait évoquer la pâleur de la peur, mais c'est une interprétation moderne.",
+      "family": [
+        "害怕 (avoir peur)",
+        "可怕 (effrayant)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'bà' au lieu de 'pà'. Le ton est descendant (4e ton)."
+      ]
+    },
+    {
+      "character": "让",
+      "pinyin": "ràng",
+      "meaning": "laisser, faire faire",
+      "hskLevel": 2,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "上"
+      ],
+      "etymology": "Composé phono-sémantique : 讠 (parole) pour l'idée de communication, et 上 (dessus) donnant le son. L'origine exacte est incertaine, mais pourrait évoquer l'idée de 'laisser quelqu'un monter' (accéder à une demande).",
+      "family": [
+        "让...高兴 (rendre quelqu'un content)"
+      ],
+      "commonErrors": [
+        "Confondre avec 让 et 认 (rèn) à l'oral. Prononciation : 4e ton descendant, pas de confusion avec 亮 (liàng)."
+      ]
+    },
+    {
+      "character": "真",
+      "pinyin": "zhēn",
+      "meaning": "vrai, vraiment",
+      "hskLevel": 2,
+      "radical": "目 (œil)",
+      "components": [
+        "十",
+        "具"
+      ],
+      "etymology": "Origine complexe. Le caractère ancien représentait un outil de mesure (十) et un objet (具), suggérant l'idée de vérification. Le sens de 'vrai' découle de cette notion de précision.",
+      "family": [
+        "真的 (vraiment)",
+        "真好 (très bien)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'zhèn' au lieu de 'zhēn'. Le ton est haut et plat (1er ton)."
+      ]
+    },
+    {
+      "character": "非",
+      "pinyin": "fēi",
+      "meaning": "non, négation",
+      "hskLevel": 3,
+      "radical": "非 (non)",
+      "components": [
+        "非"
+      ],
+      "etymology": "Représentation de deux ailes d'oiseau opposées, symbolisant l'opposition ou la négation. Radical utilisé dans des mots comme 非常 (très).",
+      "family": [
+        "非常 (très)",
+        "是非 (droit et tort)"
+      ],
+      "commonErrors": [
+        "Confondre avec 飞 (fēi, voler) à l'oral. Prononciation identique mais tons différents : 非 est 1er ton, 飞 est 1er ton aussi mais contexte différent."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "高兴",
+      "pinyin": "gāo xìng",
+      "meaning": "content, joyeux",
+      "exampleZh": "今天我很高兴。",
+      "examplePinyin": "Jīntiān wǒ hěn gāoxìng.",
+      "exampleFr": "Aujourd'hui, je suis content."
+    },
+    {
+      "word": "难过",
+      "pinyin": "nán guò",
+      "meaning": "triste",
+      "exampleZh": "他听到这事很难过。",
+      "examplePinyin": "Tā tīngdào zhè shì hěn nánguò.",
+      "exampleFr": "Il était très triste en entendant cette affaire."
+    },
+    {
+      "word": "担心",
+      "pinyin": "dān xīn",
+      "meaning": "s'inquiéter",
+      "exampleZh": "妈妈很担心你。",
+      "examplePinyin": "Māma hěn dānxīn nǐ.",
+      "exampleFr": "Maman s'inquiète beaucoup pour toi."
+    },
+    {
+      "word": "害怕",
+      "pinyin": "hài pà",
+      "meaning": "avoir peur",
+      "exampleZh": "我害怕黑。",
+      "examplePinyin": "Wǒ hàipà hēi.",
+      "exampleFr": "J'ai peur du noir."
+    },
+    {
+      "word": "让",
+      "pinyin": "ràng",
+      "meaning": "laisser, faire faire (causatif)",
+      "exampleZh": "这让我很高兴。",
+      "examplePinyin": "Zhè ràng wǒ hěn gāoxìng.",
+      "exampleFr": "Cela me rend très content."
+    },
+    {
+      "word": "真",
+      "pinyin": "zhēn",
+      "meaning": "vraiment",
+      "exampleZh": "你真好！",
+      "examplePinyin": "Nǐ zhēn hǎo!",
+      "exampleFr": "Tu es vraiment gentil !"
+    },
+    {
+      "word": "很",
+      "pinyin": "hěn",
+      "meaning": "très",
+      "exampleZh": "这个电影很好看。",
+      "examplePinyin": "Zhège diànyǐng hěn hǎokàn.",
+      "exampleFr": "Ce film est très bien."
+    },
+    {
+      "word": "太...了",
+      "pinyin": "tài...le",
+      "meaning": "trop... (intensité)",
+      "exampleZh": "这个菜太贵了！",
+      "examplePinyin": "Zhège cài tài guì le!",
+      "exampleFr": "Ce plat est trop cher !"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 se retrouvent après une semaine. 王明 a passé un bon moment avec sa famille, tandis que 李华 a eu un problème. Ils parlent de leurs sentiments.",
+      "goals": [
+        "Décrire ses sentiments avec des adjectifs comme 高兴, 难过, 担心, 害怕",
+        "Utiliser 让 pour exprimer ce qui provoque une émotion",
+        "Nuancer l'intensité avec 真, 很 ou 太...了",
+        "Réagir avec empathie aux émotions d'autrui"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez : 1) Les mots qui décrivent des émotions. 2) Les phrases qui expliquent la cause d'une émotion. 3) Les mots qui renforcent l'intensité des sentiments.",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "王明，你回来了！这几天怎么样？",
+          "pinyin": "Wáng Míng, nǐ huílái le! Zhè jǐ tiān zěnmeyàng?",
+          "translation": "Wang Ming, tu es rentré ! Comment étaient ces derniers jours ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "很好！我和家人一起看电视，真高兴！",
+          "pinyin": "Hěn hǎo! Wǒ hé jiārén yīqǐ kàn diànshì, zhēn gāoxìng!",
+          "translation": "Très bien ! J'ai regardé la télévision avec ma famille, je suis vraiment content !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "真好！我这几天不太好，生病了，很难过。",
+          "pinyin": "Zhēn hǎo! Wǒ zhè jǐ tiān bù tài hǎo, shēngbìng le, hěn nánguò.",
+          "translation": "C'est super ! Ces derniers jours, je n'allais pas très bien, j'ai été malade, j'étais très triste."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "啊，这让我很担心。现在好些了吗？",
+          "pinyin": "Ā, zhè ràng wǒ hěn dānxīn. Xiànzài hǎo xiē le ma?",
+          "translation": "Ah, cela m'inquiète beaucoup. Tu vas mieux maintenant ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好多了，谢谢。不过，我害怕再生病。",
+          "pinyin": "Hǎo duō le, xièxie. Bùguò, wǒ hàipà zài shēngbìng.",
+          "translation": "Beaucoup mieux, merci. Mais j'ai peur de retomber malade."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "别担心，多休息就好了。你太累了！",
+          "pinyin": "Bié dānxīn, duō xiūxi jiù hǎo le. Nǐ tài lèi le!",
+          "translation": "Ne t'inquiète pas, repose-toi bien. Tu es trop fatigué !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你真好！这让我很高兴。",
+          "pinyin": "Nǐ zhēn hǎo! Zhè ràng wǒ hěn gāoxìng.",
+          "translation": "Tu es vraiment gentil ! Cela me rend très content."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "兴",
+        "难",
+        "担",
+        "心",
+        "害",
+        "怕",
+        "让",
+        "真",
+        "非"
+      ],
+      "grammar": [
+        {
+          "point": "Verbes de sentiment + objet",
+          "explanation": "En chinois, les émotions s'expriment souvent avec un verbe suivi d'un objet (souvent un cœur ou un sentiment). Contrairement au français, on ne dit pas 'je suis triste' mais 'je sens de la tristesse' (我难过). Erreur typique du francophone : oublier le verbe et dire directement l'adjectif (ex : '我高兴' au lieu de '我很高兴').",
+          "examples": [
+            {
+              "chinese": "我很高兴。",
+              "pinyin": "Wǒ hěn gāoxìng.",
+              "translation": "Je suis content."
+            },
+            {
+              "chinese": "他很难过。",
+              "pinyin": "Tā hěn nánguò.",
+              "translation": "Il est triste."
+            },
+            {
+              "chinese": "妈妈担心你。",
+              "pinyin": "Māma dānxīn nǐ.",
+              "translation": "Maman s'inquiète pour toi."
+            }
+          ]
+        },
+        {
+          "point": "让 + personne + adjectif (causatif)",
+          "explanation": "让 est utilisé pour exprimer ce qui provoque une émotion chez quelqu'un. Structure : [Cause] 让 [Personne] [Émotion]. Erreur typique : inverser l'ordre ou oublier 让 (ex : '这高兴我' au lieu de '这让我很高兴').",
+          "examples": [
+            {
+              "chinese": "这让我很高兴。",
+              "pinyin": "Zhè ràng wǒ hěn gāoxìng.",
+              "translation": "Cela me rend très content."
+            },
+            {
+              "chinese": "你的电话让我担心。",
+              "pinyin": "Nǐ de diànhuà ràng wǒ dānxīn.",
+              "translation": "Ton appel m'a inquiété."
+            }
+          ]
+        },
+        {
+          "point": "Adverbes d'intensité : 真, 很, 太...了",
+          "explanation": "Pour nuancer l'intensité d'une émotion : 真 (vraiment, souvent à l'oral), 很 (très), 太...了 (trop, souvent négatif). Erreur typique : utiliser 很 avec 真 (ex : '真很高兴' est incorrect).",
+          "examples": [
+            {
+              "chinese": "你真好！",
+              "pinyin": "Nǐ zhēn hǎo!",
+              "translation": "Tu es vraiment gentil !"
+            },
+            {
+              "chinese": "这个消息很好！",
+              "pinyin": "Zhège xiāoxi hěn hǎo!",
+              "translation": "Cette nouvelle est très bonne !"
+            },
+            {
+              "chinese": "这个电影太长了！",
+              "pinyin": "Zhège diànyǐng tài cháng le!",
+              "translation": "Ce film est trop long !"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "高兴 (gāoxìng) : Le 1er ton de 高 est haut et plat, le 4e ton de 兴 est descendant. Attention à ne pas monter le ton de 兴 (erreur fréquente : prononcer 'gāoxíng').",
+        "难过 (nánguò) : Le 2e ton de 难 est montant, le 4e ton de 过 est descendant. Ne pas confondre 难 (nán) avec 南 (nán, sud).",
+        "害怕 (hàipà) : Les deux syllabes sont en 4e ton descendant. Attention à ne pas prononcer 怕 comme 'bà' (erreur fréquente due à l'aspiration)."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères et mots s'appuient sur vos acquis pour exprimer des émotions complexes. Voici les liens clés :",
+      "links": [
+        {
+          "from": "兴",
+          "relation": "COMPOSE",
+          "to": "高兴"
+        },
+        {
+          "from": "心",
+          "relation": "RADICAL_DE",
+          "to": "担心"
+        },
+        {
+          "from": "让",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "认 (rèn, reconnaître)"
+        },
+        {
+          "from": "真",
+          "relation": "CONTRASTE_AVEC",
+          "to": "假 (jiǎ, faux)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décris comment tu te sens aujourd'hui en utilisant au moins deux émotions différentes et un adverbe d'intensité.",
+          "hint": "Utilise la structure : 今天我... (ex : 今天我很高兴，也有点儿担心). Ajoute 真, 很 ou 太...了 pour l'intensité.",
+          "example": {
+            "chinese": "今天我很高兴，因为我买了新衣服。不过，我有点儿担心明天的工作。",
+            "pinyin": "Jīntiān wǒ hěn gāoxìng, yīnwèi wǒ mǎi le xīn yīfu. Bùguò, wǒ yǒudiǎnr dānxīn míngtiān de gōngzuò.",
+            "translation": "Aujourd'hui, je suis très content parce que j'ai acheté de nouveaux vêtements. Mais je m'inquiète un peu pour le travail de demain."
+          }
+        },
+        {
+          "instruction": "Explique ce qui te rend heureux ou triste en utilisant 让. Parle d'une situation récente.",
+          "hint": "Structure : [Situation] 让 [Pronom] [Émotion]. Ex : 朋友来看我让我很高兴。",
+          "example": {
+            "chinese": "昨天我朋友给我打电话，这让我很高兴。不过，我生病了，这让我很难过。",
+            "pinyin": "Zuótiān wǒ péngyou gěi wǒ dǎ diànhuà, zhè ràng wǒ hěn gāoxìng. Bùguò, wǒ shēngbìng le, zhè ràng wǒ hěn nánguò.",
+            "translation": "Hier, mon ami m'a appelé, cela m'a rendu très content. Mais j'ai été malade, cela m'a rendu très triste."
+          }
+        },
+        {
+          "instruction": "Réagis à ce que ressent ton ami. Utilise des phrases comme '别担心', '真好', ou '这让我...'.",
+          "hint": "Montre de l'empathie. Ex : 别担心，多休息！ ou 这让我也很高兴！",
+          "example": {
+            "chinese": "A: 我害怕明天的考试。 B: 别害怕！你准备得很好，这让我很放心。",
+            "pinyin": "A: Wǒ hàipà míngtiān de kǎoshì. B: Bié hàipà! Nǐ zhǔnbèi de hěn hǎo, zhè ràng wǒ hěn fàngxīn.",
+            "translation": "A : J'ai peur de l'examen de demain. B : N'aie pas peur ! Tu t'es très bien préparé, cela me rassure."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à exprimer vos émotions (高兴, 难过, 担心, 害怕) et à réagir à celles des autres. Vous savez maintenant utiliser 让 pour expliquer ce qui provoque un sentiment, et nuancer l'intensité avec 真, 很 ou 太...了. N'oubliez pas : en chinois, on 'sent' une émotion (我难过) plutôt qu'on 'est' triste. Pratiquez ces structures pour communiquer avec plus d'empathie !",
+      "reviewWords": [
+        "高兴",
+        "难过",
+        "担心",
+        "害怕",
+        "让",
+        "真",
+        "很",
+        "太...了"
+      ],
+      "reviewHanzi": [
+        "兴",
+        "难",
+        "担",
+        "心",
+        "害",
+        "怕",
+        "让",
+        "真",
+        "非"
+      ]
+    }
+  }
+}

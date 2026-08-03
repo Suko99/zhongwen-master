@@ -1,0 +1,484 @@
+{
+  "slug": "quelle-heure-est-il",
+  "title": "Quelle heure est-il ?",
+  "mission": "Demander et donner l'heure, situer une action dans la journée",
+  "level": "A1",
+  "order": 7,
+  "hanzi": [
+    {
+      "character": "点",
+      "pinyin": "diǎn",
+      "meaning": "heure (pour l'heure)",
+      "hskLevel": 1,
+      "radical": "火 (feu)",
+      "components": [
+        "占",
+        "灬"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une goutte de feu (灬) tombant sur un objet (占), symbolisant un moment précis. Il est aujourd'hui utilisé pour désigner les heures dans le système horaire.",
+      "family": [
+        "时间 (temps)"
+      ],
+      "commonErrors": [
+        "Confusion avec 电 (diàn, électricité) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "分",
+      "pinyin": "fēn",
+      "meaning": "minute; diviser",
+      "hskLevel": 1,
+      "radical": "刀 (couteau)",
+      "components": [
+        "八",
+        "刀"
+      ],
+      "etymology": "Ce caractère représente une division ou une séparation. Le radical 刀 (couteau) évoque l'idée de couper, tandis que 八 suggère une division en deux parties.",
+      "family": [
+        "分钟 (minute)"
+      ],
+      "commonErrors": [
+        "Oublier le ton montant (2e ton) et prononcer 'fèn' (4e ton)."
+      ]
+    },
+    {
+      "character": "上",
+      "pinyin": "shàng",
+      "meaning": "au-dessus; précédent; monter",
+      "hskLevel": 1,
+      "radical": "一 (un)",
+      "components": [
+        "一",
+        "卜"
+      ],
+      "etymology": "Ce caractère représente une ligne horizontale (一) avec un trait vertical (卜) partant vers le haut, symbolisant quelque chose qui monte ou qui est au-dessus. Il est utilisé pour désigner la matinée (上午).",
+      "family": [
+        "上午 (matin)"
+      ],
+      "commonErrors": [
+        "Confusion avec 下 (xià, en dessous)."
+      ]
+    },
+    {
+      "character": "午",
+      "pinyin": "wǔ",
+      "meaning": "midi",
+      "hskLevel": 1,
+      "radical": "十 (dix)",
+      "components": [
+        "丿",
+        "干"
+      ],
+      "etymology": "Ce caractère représente traditionnellement un pilon, symbolisant le milieu de la journée. Il est utilisé pour désigner 'midi' (中午).",
+      "family": [
+        "中午 (midi)"
+      ],
+      "commonErrors": [
+        "Prononcer 'wú' (2e ton) au lieu de 'wǔ' (3e ton)."
+      ]
+    },
+    {
+      "character": "下",
+      "pinyin": "xià",
+      "meaning": "en dessous; suivant; descendre",
+      "hskLevel": 1,
+      "radical": "一 (un)",
+      "components": [
+        "一",
+        "卜"
+      ],
+      "etymology": "Ce caractère représente une ligne horizontale (一) avec un trait vertical (卜) partant vers le bas, symbolisant quelque chose qui descend ou qui est en dessous. Il est utilisé pour désigner l'après-midi (下午).",
+      "family": [
+        "下午 (après-midi)"
+      ],
+      "commonErrors": [
+        "Confusion avec 上 (shàng, au-dessus)."
+      ]
+    },
+    {
+      "character": "晚",
+      "pinyin": "wǎn",
+      "meaning": "soir; tard",
+      "hskLevel": 1,
+      "radical": "日 (soleil)",
+      "components": [
+        "日",
+        "免"
+      ],
+      "etymology": "Ce caractère combine 日 (soleil) avec 免 (éviter), suggérant l'idée du soleil qui disparaît, d'où le sens de 'soir'.",
+      "family": [
+        "晚上 (soir)"
+      ],
+      "commonErrors": [
+        "Prononcer 'wàn' (4e ton) au lieu de 'wǎn' (3e ton)."
+      ]
+    },
+    {
+      "character": "现",
+      "pinyin": "xiàn",
+      "meaning": "maintenant; apparaître",
+      "hskLevel": 1,
+      "radical": "王 (jade)",
+      "components": [
+        "王",
+        "见"
+      ],
+      "etymology": "Ce caractère combine 王 (jade) avec 见 (voir), suggérant l'idée de quelque chose qui devient visible, d'où le sens de 'maintenant'.",
+      "family": [
+        "现在 (maintenant)"
+      ],
+      "commonErrors": [
+        "Confusion avec 见 (jiàn, voir)."
+      ]
+    },
+    {
+      "character": "刻",
+      "pinyin": "kè",
+      "meaning": "quart d'heure; graver",
+      "hskLevel": 2,
+      "radical": "刀 (couteau)",
+      "components": [
+        "亥",
+        "刀"
+      ],
+      "etymology": "Ce caractère représente l'action de graver ou de couper, d'où son sens de 'quart d'heure'. Le radical 刀 (couteau) évoque l'idée de découper.",
+      "family": [
+        "一刻 (un quart d'heure)"
+      ],
+      "commonErrors": [
+        "Prononcer 'kē' (1er ton) au lieu de 'kè' (4e ton)."
+      ]
+    },
+    {
+      "character": "半",
+      "pinyin": "bàn",
+      "meaning": "moitié; demi",
+      "hskLevel": 1,
+      "radical": "十 (dix)",
+      "components": [
+        "丶",
+        "二",
+        "十"
+      ],
+      "etymology": "Ce caractère représente une division en deux parties égales, symbolisée par le trait horizontal divisant 十 (dix) en deux.",
+      "family": [
+        "半个小时 (une demi-heure)"
+      ],
+      "commonErrors": [
+        "Prononcer 'bán' (2e ton) au lieu de 'bàn' (4e ton)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "现在",
+      "pinyin": "xiàn zài",
+      "meaning": "maintenant",
+      "exampleZh": "现在几点？",
+      "examplePinyin": "Xiàn zài jǐ diǎn?",
+      "exampleFr": "Quelle heure est-il maintenant ?"
+    },
+    {
+      "word": "点",
+      "pinyin": "diǎn",
+      "meaning": "heure (pour l'heure)",
+      "exampleZh": "现在八点。",
+      "examplePinyin": "Xiàn zài bā diǎn.",
+      "exampleFr": "Il est huit heures maintenant."
+    },
+    {
+      "word": "分",
+      "pinyin": "fēn",
+      "meaning": "minute",
+      "exampleZh": "现在八点十分。",
+      "examplePinyin": "Xiàn zài bā diǎn shí fēn.",
+      "exampleFr": "Il est huit heures dix maintenant."
+    },
+    {
+      "word": "刻",
+      "pinyin": "kè",
+      "meaning": "quart d'heure",
+      "exampleZh": "现在八点一刻。",
+      "examplePinyin": "Xiàn zài bā diǎn yī kè.",
+      "exampleFr": "Il est huit heures et quart maintenant."
+    },
+    {
+      "word": "半",
+      "pinyin": "bàn",
+      "meaning": "demi; moitié",
+      "exampleZh": "现在八点半。",
+      "examplePinyin": "Xiàn zài bā diǎn bàn.",
+      "exampleFr": "Il est huit heures et demie maintenant."
+    },
+    {
+      "word": "上午",
+      "pinyin": "shàng wǔ",
+      "meaning": "matin (avant midi)",
+      "exampleZh": "我上午吃饭。",
+      "examplePinyin": "Wǒ shàng wǔ chī fàn.",
+      "exampleFr": "Je mange le matin."
+    },
+    {
+      "word": "中午",
+      "pinyin": "zhōng wǔ",
+      "meaning": "midi",
+      "exampleZh": "中午十二点。",
+      "examplePinyin": "Zhōng wǔ shí èr diǎn.",
+      "exampleFr": "Il est douze heures à midi."
+    },
+    {
+      "word": "下午",
+      "pinyin": "xià wǔ",
+      "meaning": "après-midi",
+      "exampleZh": "我下午喝茶。",
+      "examplePinyin": "Wǒ xià wǔ hē chá.",
+      "exampleFr": "Je bois du thé l'après-midi."
+    },
+    {
+      "word": "晚上",
+      "pinyin": "wǎn shang",
+      "meaning": "soir; soirée",
+      "exampleZh": "晚上八点。",
+      "examplePinyin": "Wǎn shang bā diǎn.",
+      "exampleFr": "Il est huit heures du soir."
+    },
+    {
+      "word": "几点",
+      "pinyin": "jǐ diǎn",
+      "meaning": "quelle heure ?",
+      "exampleZh": "你几点吃饭？",
+      "examplePinyin": "Nǐ jǐ diǎn chī fàn?",
+      "exampleFr": "À quelle heure manges-tu ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Anna veut prendre un rendez-vous avec Wang Ming pour boire du thé. Elle lui demande à quelle heure il est disponible aujourd'hui et décrit sa routine quotidienne.",
+      "goals": [
+        "Demander l'heure actuelle",
+        "Donner l'heure avec précision (heures, minutes, quarts d'heure)",
+        "Situer une action dans la journée (matin, midi, après-midi, soir)"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez comment Anna et Wang Ming expriment l'heure et les moments de la journée. Notez les mots nouveaux liés au temps.",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "王明，现在几点？",
+          "pinyin": "Wáng Míng, xiàn zài jǐ diǎn?",
+          "translation": "Wang Ming, quelle heure est-il maintenant ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "现在八点半。你上午想喝茶吗？",
+          "pinyin": "Xiàn zài bā diǎn bàn. Nǐ shàng wǔ xiǎng hē chá ma?",
+          "translation": "Il est huit heures et demie maintenant. Veux-tu boire du thé ce matin ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我上午九点吃饭，十点喝茶。下午三点半想喝水。",
+          "pinyin": "Wǒ shàng wǔ jiǔ diǎn chī fàn, shí diǎn hē chá. Xià wǔ sān diǎn bàn xiǎng hē shuǐ.",
+          "translation": "Je mange à neuf heures ce matin, et je bois du thé à dix heures. Je veux boire de l'eau à trois heures et demie cet après-midi."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "晚上七点一刻，我和你喝茶，好吗？",
+          "pinyin": "Wǎn shang qī diǎn yī kè, wǒ hé nǐ hē chá, hǎo ma?",
+          "translation": "Et si nous buvions du thé ensemble à sept heures et quart ce soir ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "好！中午十二点，我在家。",
+          "pinyin": "Hǎo! Zhōng wǔ shí èr diǎn, wǒ zài jiā.",
+          "translation": "D'accord ! À midi pile, je suis chez moi."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好，明天！",
+          "pinyin": "Hǎo, míng tiān!",
+          "translation": "D'accord, à demain !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "点",
+        "分",
+        "上",
+        "午",
+        "下",
+        "晚",
+        "现",
+        "刻",
+        "半"
+      ],
+      "grammar": [
+        {
+          "point": "Structure pour donner l'heure : Heure + 点 + (Minute + 分) + (刻) + (半)",
+          "explanation": "En chinois, on exprime l'heure en commençant par l'heure, suivie de 点 (diǎn), puis des minutes (分, fēn), des quarts d'heure (刻, kè) ou de la demi-heure (半, bàn). Erreur typique du francophone : dire '八点和十五分' au lieu de '八点十五分'.",
+          "examples": [
+            {
+              "chinese": "现在七点二十分。",
+              "pinyin": "Xiàn zài qī diǎn èr shí fēn.",
+              "translation": "Il est sept heures vingt maintenant."
+            },
+            {
+              "chinese": "现在五点一刻。",
+              "pinyin": "Xiàn zài wǔ diǎn yī kè.",
+              "translation": "Il est cinq heures et quart maintenant."
+            },
+            {
+              "chinese": "现在六点半。",
+              "pinyin": "Xiàn zài liù diǎn bàn.",
+              "translation": "Il est six heures et demie maintenant."
+            }
+          ]
+        },
+        {
+          "point": "Placer l'heure avant le verbe",
+          "explanation": "En chinois, l'heure se place généralement avant le verbe pour indiquer quand une action a lieu. Erreur typique du francophone : placer l'heure après le verbe.",
+          "examples": [
+            {
+              "chinese": "我上午八点喝茶。",
+              "pinyin": "Wǒ shàng wǔ bā diǎn hē chá.",
+              "translation": "Je bois du thé à huit heures du matin."
+            },
+            {
+              "chinese": "他下午三点半吃饭。",
+              "pinyin": "Tā xià wǔ sān diǎn bàn chī fàn.",
+              "translation": "Il mange à trois heures et demie de l'après-midi."
+            }
+          ]
+        },
+        {
+          "point": "Utiliser 上午, 中午, 下午 et 晚上 pour situer une action dans la journée",
+          "explanation": "Ces mots servent à préciser le moment de la journée où une action a lieu. Erreur typique du francophone : confondre 上午 (matin) et 下午 (après-midi).",
+          "examples": [
+            {
+              "chinese": "我上午九点吃饭。",
+              "pinyin": "Wǒ shàng wǔ jiǔ diǎn chī fàn.",
+              "translation": "Je mange à neuf heures du matin."
+            },
+            {
+              "chinese": "中午十二点，我喝水。",
+              "pinyin": "Zhōng wǔ shí èr diǎn, wǒ hē shuǐ.",
+              "translation": "Je bois de l'eau à midi pile."
+            },
+            {
+              "chinese": "晚上七点，他喝茶。",
+              "pinyin": "Wǎn shang qī diǎn, tā hē chá.",
+              "translation": "Il boit du thé à sept heures du soir."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 点 (diǎn) est le 3e ton (descendant-montant).",
+        "Le ton de 分 (fēn) est le 1er ton (haut et plat).",
+        "Le ton de 半 (bàn) est le 4e ton (descendant)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots de cette leçon sont liés à des notions déjà acquises :",
+      "links": [
+        {
+          "from": "点",
+          "relation": "COMPOSE",
+          "to": "现在 (maintenant)"
+        },
+        {
+          "from": "上",
+          "relation": "COMPOSE",
+          "to": "上午 (matin)"
+        },
+        {
+          "from": "下",
+          "relation": "COMPOSE",
+          "to": "下午 (après-midi)"
+        },
+        {
+          "from": "午",
+          "relation": "COMPOSE",
+          "to": "中午 (midi)"
+        },
+        {
+          "from": "晚",
+          "relation": "COMPOSE",
+          "to": "晚上 (soir)"
+        },
+        {
+          "from": "刻",
+          "relation": "RADICAL_DE",
+          "to": "刀 (couteau, déjà vu dans 分)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Demandez à votre ami(e) à quelle heure il/elle boit du thé ce soir. Utilisez 晚上 et 几点.",
+          "hint": "Structure : 晚上 + 几点 + 喝茶 ?",
+          "example": {
+            "chinese": "你晚上几点喝茶？",
+            "pinyin": "Nǐ wǎn shang jǐ diǎn hē chá?",
+            "translation": "À quelle heure bois-tu du thé ce soir ?"
+          }
+        },
+        {
+          "instruction": "Dites à votre ami(e) que vous voulez boire de l'eau à trois heures et quart cet après-midi. Utilisez 下午 et 刻.",
+          "hint": "Structure : 下午 + heure + 刻 + 想 + 喝水.",
+          "example": {
+            "chinese": "我下午三点一刻想喝水。",
+            "pinyin": "Wǒ xià wǔ sān diǎn yī kè xiǎng hē shuǐ.",
+            "translation": "Je veux boire de l'eau à trois heures et quart cet après-midi."
+          }
+        },
+        {
+          "instruction": "Répondez à la question : '现在几点？' (Il est dix heures et demie du matin). Utilisez 上午 et 半.",
+          "hint": "Structure : 上午 + heure + 半.",
+          "example": {
+            "chinese": "现在上午十点半。",
+            "pinyin": "Xiàn zài shàng wǔ shí diǎn bàn.",
+            "translation": "Il est dix heures et demie du matin maintenant."
+          }
+        },
+        {
+          "instruction": "Proposez à votre ami(e) de boire du thé ensemble à six heures et demie ce soir. Utilisez 晚上 et 半.",
+          "hint": "Structure : 晚上 + heure + 半 + 和 + 你 + 喝茶 + 好吗 ?",
+          "example": {
+            "chinese": "晚上六点半，和你喝茶，好吗？",
+            "pinyin": "Wǎn shang liù diǎn bàn, hé nǐ hē chá, hǎo ma?",
+            "translation": "Et si nous buvions du thé ensemble à six heures et demie ce soir ?"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à demander et donner l'heure en chinois, ainsi qu'à situer une action dans la journée. Vous savez maintenant utiliser 点, 分, 刻 et 半 pour exprimer l'heure, et 上午, 中午, 下午 et 晚上 pour indiquer le moment de la journée.",
+      "reviewWords": [
+        "现在",
+        "点",
+        "分",
+        "刻",
+        "半",
+        "上午",
+        "中午",
+        "下午",
+        "晚上",
+        "几点"
+      ],
+      "reviewHanzi": [
+        "点",
+        "分",
+        "上",
+        "午",
+        "下",
+        "晚",
+        "现",
+        "刻",
+        "半"
+      ]
+    }
+  }
+}

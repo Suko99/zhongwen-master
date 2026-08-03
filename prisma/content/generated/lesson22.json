@@ -1,0 +1,600 @@
+{
+  "slug": "chez-le-medecin",
+  "title": "Chez le médecin",
+  "mission": "Décrire un symptôme et comprendre un conseil en mandarin",
+  "level": "A2",
+  "order": 22,
+  "hanzi": [
+    {
+      "character": "病",
+      "pinyin": "bìng",
+      "meaning": "maladie, tomber malade",
+      "hskLevel": 1,
+      "radical": "疒 (maladie)",
+      "components": [
+        "疒",
+        "丙"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une personne alitée (疒) sous un toit, avec 丙 (troisième) suggérant peut-être un ordre de priorité dans les soins. L'origine exacte est débattue, mais le radical 疒 indique clairement un lien avec la maladie.",
+      "family": [
+        "生病 (tomber malade)"
+      ],
+      "commonErrors": [
+        "Confusion avec 痛 (tòng, douleur) : 病 désigne la maladie en général, pas la douleur spécifique."
+      ]
+    },
+    {
+      "character": "痛",
+      "pinyin": "tòng",
+      "meaning": "douleur, douloureux",
+      "hskLevel": 2,
+      "radical": "疒 (maladie)",
+      "components": [
+        "疒",
+        "甬"
+      ],
+      "etymology": "Le radical 疒 indique un lien avec la maladie ou la souffrance. La partie 甬 (yǒng) suggère phonétiquement le son, mais son rôle exact dans la composition est incertain. Ce caractère est souvent utilisé pour décrire des douleurs localisées.",
+      "family": [
+        "头痛 (mal de tête)"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte du ton : 痛 est au 4e ton (descendant), pas au 1er ton."
+      ]
+    },
+    {
+      "character": "头",
+      "pinyin": "tóu",
+      "meaning": "tête",
+      "hskLevel": 1,
+      "radical": "大 (grand)",
+      "components": [
+        "大",
+        "⺀"
+      ],
+      "etymology": "Représente une tête humaine (大) avec une marque distinctive (⺀). Le radical 大 évoque la taille ou l'importance, ce qui est cohérent avec la tête comme partie essentielle du corps.",
+      "family": [
+        "头痛 (mal de tête)"
+      ],
+      "commonErrors": [
+        "Confusion avec 买 (mǎi, acheter) en écriture manuscrite rapide."
+      ]
+    },
+    {
+      "character": "发",
+      "pinyin": "fā",
+      "meaning": "émettre (utilisé dans 发烧)",
+      "hskLevel": 1,
+      "radical": "又 (encore)",
+      "components": [
+        "又",
+        "丿",
+        "丶"
+      ],
+      "etymology": "Dans 发烧, ce caractère prend le sens d'émettre (de la chaleur). Le radical 又 suggère une action répétée ou une émission.",
+      "family": [
+        "发烧 (avoir de la fièvre)"
+      ],
+      "commonErrors": [
+        "Prononciation incorrecte : 发 pour 'fièvre' se prononce fā (1er ton), pas fà (4e ton)."
+      ]
+    },
+    {
+      "character": "烧",
+      "pinyin": "shāo",
+      "meaning": "brûler, fièvre",
+      "hskLevel": 2,
+      "radical": "火 (feu)",
+      "components": [
+        "火",
+        "尧"
+      ],
+      "etymology": "Le radical 火 (feu) indique clairement un lien avec la chaleur. 尧 (yáo) suggère phonétiquement le son. Ce caractère décrit la fièvre comme une chaleur interne.",
+      "family": [
+        "发烧 (avoir de la fièvre)"
+      ],
+      "commonErrors": [
+        "Confusion avec 少 (shǎo, peu) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "咳",
+      "pinyin": "ké",
+      "meaning": "tousser",
+      "hskLevel": 3,
+      "radical": "口 (bouche)",
+      "components": [
+        "口",
+        "亥"
+      ],
+      "etymology": "Le radical 口 (bouche) indique que ce caractère est lié à une action orale. 亥 (hài) suggère phonétiquement le son. Ce caractère décrit spécifiquement l'action de tousser.",
+      "family": [
+        "咳嗽 (tousser)"
+      ],
+      "commonErrors": [
+        "Oubli du ton : 咳 est au 2e ton (montant), pas au 1er ton."
+      ]
+    },
+    {
+      "character": "嗽",
+      "pinyin": "sòu",
+      "meaning": "tousser",
+      "hskLevel": 3,
+      "radical": "口 (bouche)",
+      "components": [
+        "口",
+        "束"
+      ],
+      "etymology": "Le radical 口 (bouche) indique une action orale. 束 (shù) suggère phonétiquement le son. Ce caractère est toujours utilisé avec 咳 pour former 咳嗽 (tousser).",
+      "family": [
+        "咳嗽 (tousser)"
+      ],
+      "commonErrors": [
+        "Utilisation isolée : 嗽 n'est presque jamais utilisé seul, toujours dans 咳嗽."
+      ]
+    },
+    {
+      "character": "药",
+      "pinyin": "yào",
+      "meaning": "médicament",
+      "hskLevel": 1,
+      "radical": "艹 (herbe)",
+      "components": [
+        "艹",
+        "约"
+      ],
+      "etymology": "Le radical 艹 (herbe) indique un lien avec les plantes médicinales. 约 (yuē) suggère phonétiquement le son. Ce caractère désigne les médicaments en général.",
+      "family": [
+        "吃药 (prendre des médicaments)"
+      ],
+      "commonErrors": [
+        "Confusion avec 要 (yào, vouloir) en raison de la similitude phonétique et graphique."
+      ]
+    },
+    {
+      "character": "休",
+      "pinyin": "xiū",
+      "meaning": "se reposer",
+      "hskLevel": 1,
+      "radical": "人 (personne)",
+      "components": [
+        "人",
+        "木"
+      ],
+      "etymology": "Représente une personne (人) appuyée contre un arbre (木), symbolisant le repos. Cette image est claire et souvent utilisée pour expliquer ce caractère.",
+      "family": [
+        "休息 (se reposer)"
+      ],
+      "commonErrors": [
+        "Confusion avec 体 (tǐ, corps) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "息",
+      "pinyin": "xī",
+      "meaning": "respirer, repos",
+      "hskLevel": 2,
+      "radical": "心 (cœur)",
+      "components": [
+        "自",
+        "心"
+      ],
+      "etymology": "Composé de 自 (soi-même) et 心 (cœur). L'interprétation traditionnelle veut que cela représente le fait de se concentrer sur son propre souffle (respiration) ou son état intérieur (repos).",
+      "family": [
+        "休息 (se reposer)"
+      ],
+      "commonErrors": [
+        "Confusion avec 西 (xī, ouest) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "该",
+      "pinyin": "gāi",
+      "meaning": "devoir (conseil)",
+      "hskLevel": 2,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "亥"
+      ],
+      "etymology": "Le radical 讠 (parole) indique un lien avec le langage ou les conseils. 亥 (hài) suggère phonétiquement le son. Ce caractère est utilisé pour exprimer une obligation ou un conseil.",
+      "family": [
+        "应该 (devoir, conseil)"
+      ],
+      "commonErrors": [
+        "Confusion avec 孩子 (háizi, enfant) en raison de la présence de 亥."
+      ]
+    },
+    {
+      "character": "喉",
+      "pinyin": "hóu",
+      "meaning": "gorge",
+      "hskLevel": 4,
+      "radical": "口 (bouche)",
+      "components": [
+        "口",
+        "侯"
+      ],
+      "etymology": "Le radical 口 (bouche) indique une partie du corps liée à la parole. 侯 (hóu) suggère phonétiquement le son. Ce caractère est toujours utilisé avec 咙 pour former 喉咙 (gorge).",
+      "family": [
+        "喉咙 (gorge)"
+      ],
+      "commonErrors": [
+        "Utilisation isolée : 喉 est rarement utilisé seul, toujours dans 喉咙."
+      ]
+    },
+    {
+      "character": "咙",
+      "pinyin": "lóng",
+      "meaning": "gorge",
+      "hskLevel": 4,
+      "radical": "口 (bouche)",
+      "components": [
+        "口",
+        "龙"
+      ],
+      "etymology": "Le radical 口 (bouche) indique une partie du corps. 龙 (lóng) suggère phonétiquement le son. Ce caractère est toujours utilisé avec 喉 pour former 喉咙 (gorge).",
+      "family": [
+        "喉咙 (gorge)"
+      ],
+      "commonErrors": [
+        "Utilisation isolée : 咙 est rarement utilisé seul, toujours dans 喉咙."
+      ]
+    },
+    {
+      "character": "肚",
+      "pinyin": "dù",
+      "meaning": "ventre",
+      "hskLevel": 2,
+      "radical": "月 (chair)",
+      "components": [
+        "月",
+        "土"
+      ],
+      "etymology": "Le radical 月 (chair) indique une partie du corps. 土 (tǔ) suggère phonétiquement le son. Ce caractère est toujours utilisé avec 子 pour former 肚子 (ventre).",
+      "family": [
+        "肚子 (ventre)"
+      ],
+      "commonErrors": [
+        "Confusion avec 土 (tǔ, terre) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "服",
+      "pinyin": "fú",
+      "meaning": "confort, obéir (utilisé dans 舒服)",
+      "hskLevel": 2,
+      "radical": "月 (chair)",
+      "components": [
+        "月",
+        "卩"
+      ],
+      "etymology": "Le radical 月 (chair) suggère un lien avec le corps. Dans 舒服, 服 prend le sens de 'confort' ou 'se sentir bien'.",
+      "family": [
+        "舒服 (confortable)"
+      ],
+      "commonErrors": [
+        "Confusion avec 服 (fú, vêtement) en raison du même caractère utilisé dans différents contextes."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "生病",
+      "pinyin": "shēng bìng",
+      "meaning": "tomber malade",
+      "exampleZh": "我今天生病。",
+      "examplePinyin": "Wǒ jīntiān shēngbìng.",
+      "exampleFr": "Je suis malade aujourd'hui."
+    },
+    {
+      "word": "头痛",
+      "pinyin": "Wǒ tóutòng.",
+      "meaning": "mal de tête",
+      "exampleZh": "我头痛。",
+      "exampleFr": "J'ai mal à la tête."
+    },
+    {
+      "word": "发烧",
+      "pinyin": "Nǐ fāshāo ma?",
+      "meaning": "avoir de la fièvre",
+      "exampleZh": "你发烧吗？",
+      "exampleFr": "As-tu de la fièvre ?"
+    },
+    {
+      "word": "咳嗽",
+      "pinyin": "Tā késòu.",
+      "meaning": "tousser",
+      "exampleZh": "他咳嗽。",
+      "exampleFr": "Il tousse."
+    },
+    {
+      "word": "吃药",
+      "pinyin": "Nǐ gāi chī yào.",
+      "meaning": "prendre des médicaments",
+      "exampleZh": "你该吃药。",
+      "exampleFr": "Tu devrais prendre des médicaments."
+    },
+    {
+      "word": "休息",
+      "pinyin": "Nǐ yào xiūxi.",
+      "meaning": "se reposer",
+      "exampleZh": "你要休息。",
+      "exampleFr": "Tu dois te reposer."
+    },
+    {
+      "word": "该",
+      "pinyin": "Nǐ gāi duō xiūxi.",
+      "meaning": "devoir (conseil)",
+      "exampleZh": "你该多休息。",
+      "exampleFr": "Tu devrais te reposer davantage."
+    },
+    {
+      "word": "有点儿",
+      "pinyin": "Wǒ yǒudiǎnr tóutòng.",
+      "meaning": "un peu (désagréable)",
+      "exampleZh": "我有点儿头痛。",
+      "exampleFr": "J'ai un peu mal à la tête."
+    },
+    {
+      "word": "喉咙",
+      "pinyin": "Wǒ de hóulóng tòng.",
+      "meaning": "gorge",
+      "exampleZh": "我的喉咙痛。",
+      "exampleFr": "J'ai mal à la gorge."
+    },
+    {
+      "word": "肚子",
+      "pinyin": "Wǒ de dùzi tòng.",
+      "meaning": "ventre",
+      "exampleZh": "我的肚子痛。",
+      "exampleFr": "J'ai mal au ventre."
+    },
+    {
+      "word": "舒服",
+      "pinyin": "Wǒ jīntiān bù shūfu.",
+      "meaning": "confortable, se sentir bien",
+      "exampleZh": "我今天不舒服。",
+      "exampleFr": "Je ne me sens pas bien aujourd'hui."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous êtes chez le médecin en Chine. Vous devez décrire vos symptômes (mal de tête, fièvre, toux) et comprendre les conseils du médecin (prendre des médicaments, se reposer).",
+      "goals": [
+        "Décrire un symptôme avec 有点儿 + douleur",
+        "Comprendre et donner un conseil avec 该/要",
+        "Utiliser le vocabulaire du corps et des maladies"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant entre 王明 (patient) et 医生 (médecin). Repérez comment 王明 décrit ses symptômes et comment le médecin lui donne des conseils.",
+      "dialogue": [
+        {
+          "speaker": "医生",
+          "chinese": "你哪儿不舒服？",
+          "pinyin": "Nǐ nǎr bù shūfu?",
+          "translation": "Où ne te sens-tu pas bien ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我有点儿头痛，还发烧。",
+          "pinyin": "Wǒ yǒudiǎnr tóutòng, hái fāshāo.",
+          "translation": "J'ai un peu mal à la tête et aussi de la fièvre."
+        },
+        {
+          "speaker": "医生",
+          "chinese": "你咳嗽吗？",
+          "pinyin": "Nǐ késòu ma?",
+          "translation": "Est-ce que tu tousses ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "是，我的喉咙也痛。",
+          "pinyin": "Shì, wǒ de hóulóng yě tòng.",
+          "translation": "Oui, ma gorge me fait mal aussi."
+        },
+        {
+          "speaker": "医生",
+          "chinese": "你该吃药，还要多休息。",
+          "pinyin": "Nǐ gāi chī yào, hái yào duō xiūxi.",
+          "translation": "Tu devrais prendre des médicaments et te reposer davantage."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好，我还要喝水吗？",
+          "pinyin": "Hǎo, wǒ hái yào hē shuǐ ma?",
+          "translation": "D'accord, est-ce que je dois aussi boire de l'eau ?"
+        },
+        {
+          "speaker": "医生",
+          "chinese": "要，多喝水好。",
+          "pinyin": "Yào, duō hē shuǐ hǎo.",
+          "translation": "Oui, boire beaucoup d'eau est bon."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "病",
+        "痛",
+        "头",
+        "发",
+        "烧",
+        "咳",
+        "嗽",
+        "药",
+        "休",
+        "息",
+        "该",
+        "喉",
+        "咙",
+        "肚",
+        "服"
+      ],
+      "grammar": [
+        {
+          "point": "有点儿 + douleur",
+          "explanation": "有点儿 est utilisé pour exprimer un degré léger mais désagréable d'une douleur ou d'un état. Erreur typique du francophone : utiliser 很 (hěn) à la place de 有点儿 pour exprimer un désagrément (ex : 我很头痛 au lieu de 我有点儿头痛).",
+          "examples": [
+            {
+              "chinese": "我有点儿冷。",
+              "pinyin": "Wǒ yǒudiǎnr lěng.",
+              "translation": "J'ai un peu froid (et ça me dérange)."
+            },
+            {
+              "chinese": "这儿有点儿热。",
+              "pinyin": "Zhèr yǒudiǎnr rè.",
+              "translation": "Il fait un peu chaud ici (et c'est désagréable)."
+            }
+          ]
+        },
+        {
+          "point": "该/要 pour donner un conseil",
+          "explanation": "该 et 要 sont utilisés pour exprimer un conseil ou une obligation. 该 est plus poli et moins direct que 要. Erreur typique du francophone : oublier le verbe après 该/要 (ex : 你该休息 au lieu de 你该多休息).",
+          "examples": [
+            {
+              "chinese": "你该多休息。",
+              "pinyin": "Nǐ gāi duō xiūxi.",
+              "translation": "Tu devrais te reposer davantage."
+            },
+            {
+              "chinese": "你要吃药。",
+              "pinyin": "Nǐ yào chī yào.",
+              "translation": "Tu dois prendre des médicaments."
+            }
+          ]
+        },
+        {
+          "point": "Vocabulaire du corps",
+          "explanation": "En mandarin, les parties du corps sont souvent combinées avec 痛 (tòng) pour exprimer une douleur. Erreur typique du francophone : dire 'mal à la tête' littéralement (ex : 头的痛 au lieu de 头痛).",
+          "examples": [
+            {
+              "chinese": "肚子痛",
+              "pinyin": "dùzi tòng",
+              "translation": "mal au ventre"
+            },
+            {
+              "chinese": "喉咙痛",
+              "pinyin": "hóulóng tòng",
+              "translation": "mal à la gorge"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "有点儿 (yǒudiǎnr) : Le ton neutre de 儿 est très léger. Ne le prononcez pas comme un 2e ton (montant). Exemple : 有点儿冷 (yǒudiǎnr lěng).",
+        "咳嗽 (késòu) : Le 咳 est au 2e ton (montant), et le 嗽 au 4e ton (descendant). Ne les inversez pas.",
+        "该 (gāi) : Prononcez-le au 1er ton (haut et plat), pas au 4e ton."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et mots s'articulent avec ce que vous connaissez déjà :",
+      "links": [
+        {
+          "from": "病",
+          "relation": "COMPOSE",
+          "to": "生病 (tomber malade)"
+        },
+        {
+          "from": "痛",
+          "relation": "RADICAL_DE",
+          "to": "疒 (maladie)"
+        },
+        {
+          "from": "头痛",
+          "relation": "DONNE_LE_SON",
+          "to": "痛 (tòng)"
+        },
+        {
+          "from": "发烧",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "发现 (découvrir)"
+        },
+        {
+          "from": "药",
+          "relation": "CONTRASTE_AVEC",
+          "to": "要 (vouloir)"
+        },
+        {
+          "from": "休息",
+          "relation": "COMPOSE",
+          "to": "休 (se reposer) + 息 (respirer)"
+        },
+        {
+          "from": "喉咙",
+          "relation": "COMPOSE",
+          "to": "喉 (gorge) + 咙 (gorge)"
+        },
+        {
+          "from": "肚子",
+          "relation": "COMPOSE",
+          "to": "肚 (ventre) + 子 (suffixe)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décris tes symptômes à un médecin. Utilise 有点儿 + douleur et au moins deux parties du corps.",
+          "hint": "Exemple de structure : 我有点儿...，还...。我的...也痛。",
+          "example": {
+            "chinese": "我有点儿头痛，还发烧。我的喉咙也痛。",
+            "pinyin": "Wǒ yǒudiǎnr tóutòng, hái fāshāo. Wǒ de hóulóng yě tòng.",
+            "translation": "J'ai un peu mal à la tête et aussi de la fièvre. Ma gorge me fait mal aussi."
+          }
+        },
+        {
+          "instruction": "Donne un conseil à un ami malade. Utilise 该 ou 要 + deux actions (ex : prendre des médicaments, se reposer).",
+          "hint": "Exemple de structure : 你该...，还要...。",
+          "example": {
+            "chinese": "你该吃药，还要多休息。",
+            "pinyin": "Nǐ gāi chī yào, hái yào duō xiūxi.",
+            "translation": "Tu devrais prendre des médicaments et te reposer davantage."
+          }
+        },
+        {
+          "instruction": "Réponds à un médecin qui te demande où tu as mal. Utilise 有点儿 ou 很 + douleur.",
+          "hint": "Exemple de structure : 我的...有点儿/很痛。",
+          "example": {
+            "chinese": "我的肚子有点儿痛，头也痛。",
+            "pinyin": "Wǒ de dùzi yǒudiǎnr tòng, tóu yě tòng.",
+            "translation": "J'ai un peu mal au ventre et aussi mal à la tête."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à décrire des symptômes avec 有点儿 + douleur, à donner des conseils avec 该/要, et à utiliser le vocabulaire du corps et des maladies. Rappelez-vous : 有点儿 exprime un désagrément léger, et 该 est plus poli que 要 pour les conseils.",
+      "reviewWords": [
+        "生病",
+        "头痛",
+        "发烧",
+        "咳嗽",
+        "吃药",
+        "休息",
+        "该",
+        "有点儿",
+        "喉咙",
+        "肚子",
+        "舒服"
+      ],
+      "reviewHanzi": [
+        "病",
+        "痛",
+        "头",
+        "发",
+        "烧",
+        "咳",
+        "嗽",
+        "药",
+        "休",
+        "息",
+        "该",
+        "喉",
+        "咙",
+        "肚",
+        "服"
+      ]
+    }
+  }
+}

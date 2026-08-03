@@ -1,0 +1,422 @@
+{
+  "slug": "premiers-chengyu",
+  "title": "Premiers Chengyu",
+  "mission": "Comprendre et placer ses premiers proverbes à 4 caractères",
+  "level": "B1",
+  "order": 40,
+  "hanzi": [
+    {
+      "character": "成",
+      "pinyin": "chéng",
+      "meaning": "devenir, accomplir",
+      "hskLevel": 1,
+      "radical": "戈 (arme)",
+      "components": [
+        "厂",
+        "戈"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une arme (戈) sous un abri (厂), symbolisant l'achèvement d'une action ou d'une transformation. L'origine exacte est débattue, mais il est souvent associé à l'idée de complétion.",
+      "family": [
+        "成功 (succès)",
+        "完成 (achever)"
+      ],
+      "commonErrors": [
+        "Confondre avec 城 (ville) en raison de la similitude phonétique et visuelle."
+      ]
+    },
+    {
+      "character": "语",
+      "pinyin": "yǔ",
+      "meaning": "langage, parole",
+      "hskLevel": 2,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "吾"
+      ],
+      "etymology": "Composé du radical 讠 (parole) et de 吾 (je, moi), ce caractère évoque l'idée d'expression personnelle ou de communication. Il est souvent utilisé pour désigner le langage ou les mots.",
+      "family": [
+        "汉语 (chinois)",
+        "英语 (anglais)"
+      ],
+      "commonErrors": [
+        "Oublier le ton montant (2e ton) et prononcer yú par erreur."
+      ]
+    },
+    {
+      "character": "马",
+      "pinyin": "mǎ",
+      "meaning": "cheval",
+      "hskLevel": 1,
+      "radical": "马 (cheval)",
+      "components": [
+        "马"
+      ],
+      "etymology": "Ce caractère est une représentation stylisée d'un cheval. Il est à la fois un radical et un caractère indépendant, souvent utilisé dans des mots liés aux animaux ou aux déplacements.",
+      "family": [
+        "马上 (tout de suite)",
+        "马马虎虎 (comme ci comme ça)"
+      ],
+      "commonErrors": [
+        "Confondre avec 妈 (mère) en raison de la similitude phonétique (mā)."
+      ]
+    },
+    {
+      "character": "虎",
+      "pinyin": "hǔ",
+      "meaning": "tigre",
+      "hskLevel": 3,
+      "radical": "虍 (tigre)",
+      "components": [
+        "虍",
+        "几"
+      ],
+      "etymology": "Ce caractère représente un tigre, avec le radical 虍 (tigre) et le composant 几 (table basse), évoquant peut-être la posture du tigre. Il est souvent utilisé dans des expressions métaphoriques.",
+      "family": [
+        "老虎 (tigre)",
+        "马马虎虎 (comme ci comme ça)"
+      ],
+      "commonErrors": [
+        "Prononcer hù (4e ton) au lieu de hǔ (3e ton)."
+      ]
+    },
+    {
+      "character": "画",
+      "pinyin": "huà",
+      "meaning": "dessiner, peinture",
+      "hskLevel": 2,
+      "radical": "田 (champ)",
+      "components": [
+        "一",
+        "田",
+        "凵"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente un pinceau (一) traçant des lignes dans un champ (田), symbolisant l'acte de dessiner. L'origine exacte est débattue, mais il est associé à l'art et à la peinture.",
+      "family": [
+        "画画 (dessiner)"
+      ],
+      "commonErrors": [
+        "Confondre avec 话 (parole) en raison de la similitude phonétique (huà)."
+      ]
+    },
+    {
+      "character": "蛇",
+      "pinyin": "shé",
+      "meaning": "serpent",
+      "hskLevel": 3,
+      "radical": "虫 (insecte)",
+      "components": [
+        "虫",
+        "它"
+      ],
+      "etymology": "Composé du radical 虫 (insecte) et de 它 (il/elle pour les animaux), ce caractère représente un serpent. Il est souvent utilisé dans des expressions métaphoriques ou culturelles.",
+      "family": [
+        "画蛇添足 (gâcher par excès)"
+      ],
+      "commonErrors": [
+        "Prononcer shě (3e ton) au lieu de shé (2e ton)."
+      ]
+    },
+    {
+      "character": "足",
+      "pinyin": "zú",
+      "meaning": "pied, suffisant",
+      "hskLevel": 2,
+      "radical": "足 (pied)",
+      "components": [
+        "口",
+        "止"
+      ],
+      "etymology": "Ce caractère représente un pied, avec le composant 止 (arrêt) et 口 (bouche), évoquant peut-être l'idée de marcher ou de s'arrêter. Il est aussi utilisé pour signifier \"suffisant\".",
+      "family": [
+        "画蛇添足 (gâcher par excès)"
+      ],
+      "commonErrors": [
+        "Confondre avec 走 (marcher) en raison de la similitude sémantique."
+      ]
+    },
+    {
+      "character": "添",
+      "pinyin": "tiān",
+      "meaning": "ajouter",
+      "hskLevel": 4,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "天"
+      ],
+      "etymology": "Composé du radical 氵 (eau) et de 天 (ciel), ce caractère évoque l'idée d'ajouter quelque chose, comme de l'eau qui s'ajoute à une étendue. Il est souvent utilisé dans des expressions liées à l'ajout ou à l'augmentation.",
+      "family": [
+        "画蛇添足 (gâcher par excès)"
+      ],
+      "commonErrors": [
+        "Prononcer tiàn (4e ton) au lieu de tiān (1er ton)."
+      ]
+    },
+    {
+      "character": "龙",
+      "pinyin": "lóng",
+      "meaning": "dragon",
+      "hskLevel": 3,
+      "radical": "龙 (dragon)",
+      "components": [
+        "龙"
+      ],
+      "etymology": "Ce caractère représente un dragon, créature mythique importante dans la culture chinoise. Il est souvent utilisé dans des expressions symboliques ou culturelles.",
+      "family": [
+        "龙年 (année du dragon)"
+      ],
+      "commonErrors": [
+        "Prononcer lòng (4e ton) au lieu de lóng (2e ton)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "成语",
+      "pinyin": "chéng yǔ",
+      "meaning": "proverbe chinois (à 4 caractères)",
+      "exampleZh": "中国人喜欢成语。",
+      "examplePinyin": "Zhōngguó rén xǐhuān chéngyǔ.",
+      "exampleFr": "Les Chinois aiment les proverbes."
+    },
+    {
+      "word": "马马虎虎",
+      "pinyin": "mǎ mǎ hǔ hǔ",
+      "meaning": "comme ci comme ça, négligent",
+      "exampleZh": "他答得马马虎虎。",
+      "examplePinyin": "Tā dá de mǎmǎhǔhǔ.",
+      "exampleFr": "Il a répondu de manière négligée."
+    },
+    {
+      "word": "人山人海",
+      "pinyin": "rén shān rén hǎi",
+      "meaning": "une foule immense",
+      "exampleZh": "这里人山人海。",
+      "examplePinyin": "Zhèlǐ rénshānrénhǎi.",
+      "exampleFr": "Ici, il y a une foule immense."
+    },
+    {
+      "word": "画蛇添足",
+      "pinyin": "huà shé tiān zú",
+      "meaning": "gâcher par excès",
+      "exampleZh": "这样做是画蛇添足。",
+      "examplePinyin": "Zhèyàng zuò shì huàshétiānzú.",
+      "exampleFr": "Faire comme ça, c'est gâcher par excès."
+    },
+    {
+      "word": "意思",
+      "pinyin": "yìsi",
+      "meaning": "signification, sens",
+      "exampleZh": "这个词是什么意思？",
+      "examplePinyin": "Zhège cí shì shénme yìsi?",
+      "exampleFr": "Quelle est la signification de ce mot ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es en cours de chinois avec ton professeur 王老师. Aujourd'hui, il t'explique comment utiliser les 成语 (chéngyǔ) pour enrichir tes conversations. Tu vas découvrir quelques proverbes célèbres et apprendre à les placer au bon moment.",
+      "goals": [
+        "Comprendre la structure des 成语",
+        "Apprendre 4 proverbes courants et leur contexte d'utilisation",
+        "Savoir expliquer le sens d'un 成语 en chinois",
+        "Placer un 成语 dans une conversation naturelle"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue suivant entre 王老师 et 李华. Repère les 成语 utilisés et note dans quel contexte ils apparaissent.",
+      "dialogue": [
+        {
+          "speaker": "王老师",
+          "chinese": "李华，你答得马马虎虎，要认真。",
+          "pinyin": "Lǐ Huá, nǐ dá de mǎmǎhǔhǔ, yào rènzhēn.",
+          "translation": "Li Hua, tu as répondu de manière négligée, il faut être sérieux."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "对不起，老师。昨天我看电视，这里很热闹！",
+          "pinyin": "Duìbuqǐ, lǎoshī. Zuótiān wǒ kàn diànshì, zhèlǐ hěn rènào!",
+          "translation": "Désolé, professeur. Hier, j'ai regardé la télévision, c'était très animé ici !"
+        },
+        {
+          "speaker": "王老师",
+          "chinese": "电视很好看，但你不能因为看电视就不做题。这样做是画蛇添足。",
+          "pinyin": "Diànshì hěn hǎokàn, dàn nǐ bùnéng yīnwèi kàn diànshì jiù bù zuò tí. Zhèyàng zuò shì huàshétiānzú.",
+          "translation": "La télévision est intéressante, mais tu ne peux pas ne pas faire tes exercices à cause de ça. Faire comme ça, c'est gâcher par excès."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "老师，我懂了。我以后会好好学习，不再马马虎虎。",
+          "pinyin": "Lǎoshī, wǒ dǒng le. Wǒ yǐhòu huì hǎohāo xuéxí, bù zài mǎmǎhǔhǔ.",
+          "translation": "Professeur, j'ai compris. À l'avenir, j'étudierai sérieusement et je ne serai plus négligent."
+        },
+        {
+          "speaker": "王老师",
+          "chinese": "很好。你的字写得很好！",
+          "pinyin": "Hěn hǎo. Nǐ de zì xiě de hěn hǎo!",
+          "translation": "Très bien. Ton écriture est très belle !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "谢谢老师！我会努力的。",
+          "pinyin": "Xièxie lǎoshī! Wǒ huì nǔlì de.",
+          "translation": "Merci professeur ! Je ferai des efforts."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "成",
+        "语",
+        "马",
+        "虎",
+        "画",
+        "蛇",
+        "足",
+        "添",
+        "龙"
+      ],
+      "grammar": [
+        {
+          "point": "Structure des 成语 (chéngyǔ)",
+          "explanation": "Les 成语 sont des expressions figées composées de 4 caractères. Ils condensent une idée en quelques mots. Leur structure ne peut pas être modifiée. Erreur typique du francophone : vouloir traduire mot à mot chaque caractère.",
+          "examples": [
+            {
+              "chinese": "马马虎虎 (mǎmǎhǔhǔ)",
+              "pinyin": "mǎ mǎ hǔ hǔ",
+              "translation": "Comme ci comme ça (utilisé pour décrire un travail négligé)."
+            },
+            {
+              "chinese": "人山人海 (rénshānrénhǎi)",
+              "pinyin": "rén shān rén hǎi",
+              "translation": "Une foule immense (utilisé pour décrire un endroit très fréquenté)."
+            }
+          ]
+        },
+        {
+          "point": "Quand utiliser un 成语 ?",
+          "explanation": "Les 成语 rendent une conversation plus expressive. Ils sont souvent employés pour commenter une situation. Erreur typique du francophone : les placer sans comprendre leur nuance.",
+          "examples": [
+            {
+              "chinese": "这样做是画蛇添足。",
+              "pinyin": "Zhèyàng zuò shì huàshétiānzú.",
+              "translation": "Faire comme ça, c'est gâcher par excès."
+            }
+          ]
+        },
+        {
+          "point": "Comprendre le sens d'un 成语",
+          "explanation": "Pour comprendre un 成语, il faut connaître son origine. Par exemple, 画蛇添足 vient d'une légende où un homme dessine un serpent et lui ajoute des pieds. Erreur typique : se fier à la traduction littérale.",
+          "examples": [
+            {
+              "chinese": "这个成语是什么意思？",
+              "pinyin": "Zhège chéngyǔ shì shénme yìsi?",
+              "translation": "Quelle est la signification de ce proverbe ?"
+            },
+            {
+              "chinese": "马马虎虎的意思是做事不认真。",
+              "pinyin": "Mǎmǎhǔhǔ de yìsi shì zuòshì bù rènzhēn.",
+              "translation": "马马虎虎 signifie faire les choses sans sérieux."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au 3e ton dans 虎 (hǔ) : il descend puis remonte.",
+        "Le 成 (chéng) de 成语 se prononce avec un 2e ton montant.",
+        "Dans 马马虎虎 (mǎmǎhǔhǔ), les tons se lient naturellement."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères de cette leçon sont liés à des concepts ou à des mots que tu connais déjà.",
+      "links": [
+        {
+          "from": "成 (chéng)",
+          "relation": "COMPOSE",
+          "to": "成功 (succès)"
+        },
+        {
+          "from": "语 (yǔ)",
+          "relation": "COMPOSE",
+          "to": "汉语 (chinois)"
+        },
+        {
+          "from": "马 (mǎ)",
+          "relation": "DONNE_LE_SON",
+          "to": "妈妈 (māma)"
+        },
+        {
+          "from": "虎 (hǔ)",
+          "relation": "CONTRASTE_AVEC",
+          "to": "猫 (māo)"
+        },
+        {
+          "from": "画 (huà)",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "话 (huà)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Ton ami 马克 te dit qu'il a répondu aux questions sans vérifier. Utilise un 成语 pour commenter.",
+          "hint": "Pense à un 成语 qui décrit une performance négligée.",
+          "example": {
+            "chinese": "你这样马马虎虎，题会答错！",
+            "pinyin": "Nǐ zhèyàng mǎmǎhǔhǔ, tí huì dá cuò!",
+            "translation": "Si tu fais comme ça, tu vas te tromper dans tes réponses !"
+          }
+        },
+        {
+          "instruction": "Ton ami 小明 décrit un parc très fréquenté. Utilise un 成语 pour réagir.",
+          "hint": "Pense à un 成语 qui décrit une foule immense.",
+          "example": {
+            "chinese": "这里人山人海吧？",
+            "pinyin": "Zhèlǐ rénshānrénhǎi ba?",
+            "translation": "Il y a une foule immense ici, n'est-ce pas ?"
+          }
+        },
+        {
+          "instruction": "Explique le sens du 成语 画蛇添足 à ton professeur.",
+          "hint": "Utilise la structure : ...的意思是...",
+          "example": {
+            "chinese": "画蛇添足的意思是做多余的事。",
+            "pinyin": "Huàshétiānzú de yìsi shì zuò duōyú de shì.",
+            "translation": "画蛇添足 signifie faire quelque chose de superflu."
+          }
+        },
+        {
+          "instruction": "Complimente ton ami 大卫 pour son écriture.",
+          "hint": "Utilise une expression simple pour décrire une belle écriture.",
+          "example": {
+            "chinese": "你的字写得很好！",
+            "pinyin": "Nǐ de zì xiě de hěn hǎo!",
+            "translation": "Ton écriture est très belle !"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as découvert les 成语, ces proverbes à 4 caractères qui enrichissent la langue chinoise. Tu as appris leur structure et comment les utiliser pour rendre tes conversations plus expressives.",
+      "reviewWords": [
+        "成语",
+        "马马虎虎",
+        "人山人海",
+        "画蛇添足",
+        "意思"
+      ],
+      "reviewHanzi": [
+        "成",
+        "语",
+        "马",
+        "虎",
+        "画",
+        "蛇",
+        "足",
+        "添",
+        "龙"
+      ]
+    }
+  }
+}

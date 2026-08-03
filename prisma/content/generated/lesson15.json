@@ -1,0 +1,483 @@
+{
+  "slug": "au-restaurant",
+  "title": "Au restaurant",
+  "mission": "Commander un repas complet et payer",
+  "level": "A1",
+  "order": 15,
+  "hanzi": [
+    {
+      "character": "菜",
+      "pinyin": "cài",
+      "meaning": "légume; plat",
+      "hskLevel": 1,
+      "radical": "艹 (herbe)",
+      "components": [
+        "艹",
+        "采"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente des plantes (艹) cueillies (采), d'où le sens de 'légume' puis 'plat'.",
+      "family": [
+        "菜单 (menu)"
+      ],
+      "commonErrors": [
+        "Confusion avec 采 (cueillir) en raison du composant commun."
+      ]
+    },
+    {
+      "character": "单",
+      "pinyin": "dān",
+      "meaning": "seul; liste",
+      "hskLevel": 1,
+      "radical": "丷 (diviser)",
+      "components": [
+        "丷",
+        "甲"
+      ],
+      "etymology": "Origine débattue. Le radical 丷 suggère une division, et le composant 甲 pourrait évoquer une liste écrite.",
+      "family": [
+        "菜单 (menu)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en 'shàn'."
+      ]
+    },
+    {
+      "character": "汤",
+      "pinyin": "tāng",
+      "meaning": "soupe",
+      "hskLevel": 1,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "昜"
+      ],
+      "etymology": "Composé phono-sémantique : 氵 (eau) + 昜 (son). L'eau chauffée produit de la vapeur, d'où le sens de 'soupe'.",
+      "family": [
+        "热汤 (soupe chaude)"
+      ],
+      "commonErrors": [
+        "Confusion avec 烫 (brûlant)."
+      ]
+    },
+    {
+      "character": "面",
+      "pinyin": "miàn",
+      "meaning": "farine; nouilles",
+      "hskLevel": 1,
+      "radical": "面 (visage)",
+      "components": [
+        "一",
+        "囬"
+      ],
+      "etymology": "Représente à l'origine un visage vu de face. Par extension, désigne la surface des choses comme la farine, puis les nouilles.",
+      "family": [
+        "面条 (nouilles)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en 'màn'."
+      ]
+    },
+    {
+      "character": "条",
+      "pinyin": "tiáo",
+      "meaning": "bande; classificateur pour objets longs",
+      "hskLevel": 1,
+      "radical": "木 (bois)",
+      "components": [
+        "夂",
+        "木"
+      ],
+      "etymology": "Représente une branche d'arbre avec des feuilles, d'où le sens d'objets longs comme les nouilles.",
+      "family": [
+        "面条 (nouilles)"
+      ],
+      "commonErrors": [
+        "Mauvais classificateur pour objets non longs."
+      ]
+    },
+    {
+      "character": "碗",
+      "pinyin": "wǎn",
+      "meaning": "bol",
+      "hskLevel": 1,
+      "radical": "石 (pierre)",
+      "components": [
+        "石",
+        "宛"
+      ],
+      "etymology": "Composé phono-sémantique : 石 (pierre) + 宛 (son). À l'origine, les bols étaient en pierre.",
+      "family": [
+        "一碗 (un bol)"
+      ],
+      "commonErrors": [
+        "Confusion avec 椀."
+      ]
+    },
+    {
+      "character": "结",
+      "pinyin": "jié",
+      "meaning": "nouer; finir",
+      "hskLevel": 2,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "吉"
+      ],
+      "etymology": "Composé phono-sémantique : 纟 (soie) + 吉 (son). Représente l'action de nouer un fil de soie.",
+      "family": [
+        "结账 (payer l'addition)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en 'jiē'."
+      ]
+    },
+    {
+      "character": "账",
+      "pinyin": "zhàng",
+      "meaning": "compte; addition",
+      "hskLevel": 2,
+      "radical": "贝 (argent)",
+      "components": [
+        "贝",
+        "长"
+      ],
+      "etymology": "Composé phono-sémantique : 贝 (argent) + 长 (son). Représente un compte ou une dette.",
+      "family": [
+        "结账 (payer l'addition)"
+      ],
+      "commonErrors": [
+        "Confusion avec 帐."
+      ]
+    },
+    {
+      "character": "付",
+      "pinyin": "fù",
+      "meaning": "payer",
+      "hskLevel": 2,
+      "radical": "亻 (personne)",
+      "components": [
+        "亻",
+        "寸"
+      ],
+      "etymology": "Représente une personne donnant quelque chose à une autre, d'où le sens de 'payer'.",
+      "family": [
+        "付钱 (payer)"
+      ],
+      "commonErrors": [
+        "Confusion avec 附."
+      ]
+    },
+    {
+      "character": "谢",
+      "pinyin": "xiè",
+      "meaning": "remercier",
+      "hskLevel": 1,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "射"
+      ],
+      "etymology": "Composé phono-sémantique : 讠 (parole) + 射 (son). Représente l'action de remercier par des paroles.",
+      "family": [
+        "谢谢 (merci)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en 'xiě'."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "点菜",
+      "pinyin": "diǎn cài",
+      "meaning": "commander (un plat)",
+      "exampleZh": "我要点菜。",
+      "examplePinyin": "Wǒ yào diǎn cài.",
+      "exampleFr": "Je veux commander."
+    },
+    {
+      "word": "菜单",
+      "pinyin": "cài dān",
+      "meaning": "menu",
+      "exampleZh": "我要菜单。",
+      "examplePinyin": "Wǒ yào cài dān.",
+      "exampleFr": "Je veux le menu."
+    },
+    {
+      "word": "汤",
+      "pinyin": "tāng",
+      "meaning": "soupe",
+      "exampleZh": "我要一碗汤。",
+      "examplePinyin": "Wǒ yào yī wǎn tāng.",
+      "exampleFr": "Je veux un bol de soupe."
+    },
+    {
+      "word": "面条",
+      "pinyin": "miàn tiáo",
+      "meaning": "nouilles",
+      "exampleZh": "我要面条。",
+      "examplePinyin": "Wǒ yào miàn tiáo.",
+      "exampleFr": "Je veux des nouilles."
+    },
+    {
+      "word": "饭",
+      "pinyin": "fàn",
+      "meaning": "riz (cuit); repas",
+      "exampleZh": "我要一碗饭。",
+      "examplePinyin": "Wǒ yào yī wǎn fàn.",
+      "exampleFr": "Je veux un bol de riz."
+    },
+    {
+      "word": "还是",
+      "pinyin": "hái shi",
+      "meaning": "ou (choix exclusif)",
+      "exampleZh": "你要茶还是水？",
+      "examplePinyin": "Nǐ yào chá hái shi shuǐ?",
+      "exampleFr": "Tu veux du thé ou de l'eau ?"
+    },
+    {
+      "word": "结账",
+      "pinyin": "jié zhàng",
+      "meaning": "payer l'addition",
+      "exampleZh": "结账！",
+      "examplePinyin": "Jié zhàng!",
+      "exampleFr": "L'addition, s'il vous plaît !"
+    },
+    {
+      "word": "付钱",
+      "pinyin": "fù qián",
+      "meaning": "payer",
+      "exampleZh": "我付钱。",
+      "examplePinyin": "Wǒ fù qián.",
+      "exampleFr": "Je paie."
+    },
+    {
+      "word": "谢谢",
+      "pinyin": "xiè xie",
+      "meaning": "merci",
+      "exampleZh": "谢谢！",
+      "examplePinyin": "Xièxie!",
+      "exampleFr": "Merci !"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous êtes dans un restaurant avec un ami. Vous devez commander des plats, demander l'addition et payer.",
+      "goals": [
+        "Commander au moins deux plats et une boisson.",
+        "Demander l'addition et payer.",
+        "Dire merci."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue ci-dessous. Repérez comment on commande, comment on propose un choix et comment on demande l'addition.",
+      "dialogue": [
+        {
+          "speaker": "A",
+          "chinese": "你好！这是菜单。",
+          "pinyin": "Nǐ hǎo! Zhè shì cài dān.",
+          "translation": "Bonjour ! Voici le menu."
+        },
+        {
+          "speaker": "B",
+          "chinese": "谢谢。我要一碗汤。",
+          "pinyin": "Xièxie. Wǒ yào yī wǎn tāng.",
+          "translation": "Merci. Je veux un bol de soupe."
+        },
+        {
+          "speaker": "A",
+          "chinese": "好。你要面条还是饭？",
+          "pinyin": "Hǎo. Nǐ yào miàn tiáo hái shi fàn?",
+          "translation": "D'accord. Tu veux des nouilles ou du riz ?"
+        },
+        {
+          "speaker": "B",
+          "chinese": "我要饭。",
+          "pinyin": "Wǒ yào fàn.",
+          "translation": "Je veux du riz."
+        },
+        {
+          "speaker": "C",
+          "chinese": "我要面条和茶。",
+          "pinyin": "Wǒ yào miàn tiáo hé chá.",
+          "translation": "Je veux des nouilles et du thé."
+        },
+        {
+          "speaker": "A",
+          "chinese": "好。",
+          "pinyin": "Hǎo.",
+          "translation": "D'accord."
+        },
+        {
+          "speaker": "B",
+          "chinese": "结账！",
+          "pinyin": "Jié zhàng!",
+          "translation": "L'addition, s'il vous plaît !"
+        },
+        {
+          "speaker": "A",
+          "chinese": "十块。",
+          "pinyin": "Shí kuài.",
+          "translation": "Dix yuans."
+        },
+        {
+          "speaker": "B",
+          "chinese": "钱。谢谢！",
+          "pinyin": "Qián. Xièxie!",
+          "translation": "Voici l'argent. Merci !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "菜",
+        "单",
+        "汤",
+        "面",
+        "条",
+        "碗",
+        "结",
+        "账",
+        "付",
+        "谢"
+      ],
+      "grammar": [
+        {
+          "point": "点菜 (commander un plat)",
+          "explanation": "点菜 signifie 'commander un plat'. On l'utilise avec 要 (vouloir). Erreur typique : oublier 要 et dire 我点菜 (incorrect).",
+          "examples": [
+            {
+              "chinese": "我要点菜。",
+              "pinyin": "Wǒ yào diǎn cài.",
+              "translation": "Je veux commander."
+            },
+            {
+              "chinese": "他要点一碗汤。",
+              "pinyin": "Tā yào diǎn yī wǎn tāng.",
+              "translation": "Il veut commander un bol de soupe."
+            }
+          ]
+        },
+        {
+          "point": "还是 (ou exclusif)",
+          "explanation": "还是 propose un choix entre deux options. Erreur typique : utiliser 也 (aussi) à la place.",
+          "examples": [
+            {
+              "chinese": "你要面条还是饭？",
+              "pinyin": "Nǐ yào miàn tiáo hái shi fàn?",
+              "translation": "Tu veux des nouilles ou du riz ?"
+            },
+            {
+              "chinese": "你要茶还是水？",
+              "pinyin": "Nǐ yào chá hái shi shuǐ?",
+              "translation": "Tu veux du thé ou de l'eau ?"
+            }
+          ]
+        },
+        {
+          "point": "结账 et 付钱 (payer l'addition)",
+          "explanation": "结账 signifie 'demander l'addition', 付钱 signifie 'payer'. Erreur typique : dire 付账 (incorrect).",
+          "examples": [
+            {
+              "chinese": "结账！",
+              "pinyin": "Jié zhàng!",
+              "translation": "L'addition, s'il vous plaît !"
+            },
+            {
+              "chinese": "我付钱。",
+              "pinyin": "Wǒ fù qián.",
+              "translation": "Je paie."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton 3 (descendant-montant) : dans 点菜 (diǎn cài), 点 est en ton 3.",
+        "Le ton 2 (montant) : dans 还是 (hái shi), 还 est en ton 2.",
+        "La prononciation de 结账 (jié zhàng) : 结 est en ton 2, 账 en ton 4."
+      ]
+    },
+    "connection": {
+      "text": "Cette leçon réutilise des éléments déjà appris :",
+      "links": [
+        {
+          "from": "菜",
+          "relation": "RADICAL_DE",
+          "to": "艹 (herbe, dans 茶)"
+        },
+        {
+          "from": "汤",
+          "relation": "COMPOSE",
+          "to": "氵 (eau, dans 水)"
+        },
+        {
+          "from": "还是",
+          "relation": "CONTRASTE_AVEC",
+          "to": "也 (aussi)"
+        },
+        {
+          "from": "结账",
+          "relation": "COMPOSE",
+          "to": "账 (贝, argent, dans 钱)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Commandez une soupe, un plat principal (nouilles ou riz) et une boisson.",
+          "hint": "Utilisez : 我要... / 你要...还是...？",
+          "example": {
+            "chinese": "A: 你要点什么？\nB: 我要一碗汤和饭。\nA: 你要喝什么？\nB: 我要茶。",
+            "pinyin": "A: Nǐ yào diǎn shénme?\nB: Wǒ yào yī wǎn tāng hé fàn.\nA: Nǐ yào hē shénme?\nB: Wǒ yào chá.",
+            "translation": "A : Que veux-tu commander ?\nB : Je veux un bol de soupe et du riz.\nA : Que veux-tu boire ?\nB : Je veux du thé."
+          }
+        },
+        {
+          "instruction": "Demandez l'addition et dites que vous allez payer.",
+          "hint": "Utilisez : 结账！ / 我付钱。",
+          "example": {
+            "chinese": "B: 结账！\nA: 八块。\nB: 钱。",
+            "pinyin": "B: Jié zhàng!\nA: Bā kuài.\nB: Qián.",
+            "translation": "B : L'addition, s'il vous plaît !\nA : Huit yuans.\nB : Voici l'argent."
+          }
+        },
+        {
+          "instruction": "Proposez à votre ami de choisir entre deux plats ou deux boissons.",
+          "hint": "Utilisez : 你要...还是...？",
+          "example": {
+            "chinese": "A: 你要面条还是饭？\nB: 我要饭。",
+            "pinyin": "A: Nǐ yào miàn tiáo hái shi fàn?\nB: Wǒ yào fàn.",
+            "translation": "A : Tu veux des nouilles ou du riz ?\nB : Je veux du riz."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Vous avez appris à commander au restaurant avec 点菜, à proposer des choix avec 还是, et à demander l'addition avec 结账 et 付钱. Révisez ces mots pour votre prochaine visite au restaurant !",
+      "reviewWords": [
+        "点菜",
+        "菜单",
+        "汤",
+        "面条",
+        "饭",
+        "还是",
+        "结账",
+        "付钱",
+        "谢谢"
+      ],
+      "reviewHanzi": [
+        "菜",
+        "单",
+        "汤",
+        "面",
+        "条",
+        "碗",
+        "结",
+        "账",
+        "付",
+        "谢"
+      ]
+    }
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "slug": "nuances-de-synonymes",
+  "title": "Le mot juste : nuances de synonymes",
+  "mission": "Choisir entre des quasi-synonymes selon le contexte pour exprimer avec précision",
+  "level": "B2",
+  "order": 57,
+  "hanzi": [
+    {
+      "character": "辨",
+      "pinyin": "biàn",
+      "meaning": "distinguer, discerner",
+      "hskLevel": 5,
+      "radical": "刀",
+      "components": [
+        "辡",
+        "刀"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente l'action de trancher pour séparer et distinguer clairement.",
+      "family": [
+        "辨别"
+      ],
+      "commonErrors": [
+        "Confondre avec 辩"
+      ]
+    },
+    {
+      "character": "析",
+      "pinyin": "xī",
+      "meaning": "analyser",
+      "hskLevel": 5,
+      "radical": "木",
+      "components": [
+        "木",
+        "斤"
+      ],
+      "etymology": "Représente l'action de fendre du bois avec une hache pour en examiner les détails.",
+      "family": [
+        "分析"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'xiè'"
+      ]
+    },
+    {
+      "character": "突",
+      "pinyin": "tū",
+      "meaning": "soudain",
+      "hskLevel": 4,
+      "radical": "穴",
+      "components": [
+        "穴",
+        "犬"
+      ],
+      "etymology": "Représente un chien sortant brusquement d'une grotte.",
+      "family": [
+        "突然"
+      ],
+      "commonErrors": [
+        "Confondre avec 兔"
+      ]
+    },
+    {
+      "character": "忽",
+      "pinyin": "hū",
+      "meaning": "négliger, soudain",
+      "hskLevel": 5,
+      "radical": "心",
+      "components": [
+        "勿",
+        "心"
+      ],
+      "etymology": "Évoque un cœur qui oublie ou néglige quelque chose.",
+      "family": [
+        "忽然"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'hù'"
+      ]
+    },
+    {
+      "character": "解",
+      "pinyin": "jiě",
+      "meaning": "comprendre, résoudre",
+      "hskLevel": 3,
+      "radical": "角",
+      "components": [
+        "角",
+        "刀",
+        "牛"
+      ],
+      "etymology": "Représente l'action de séparer les cornes d'un bœuf avec un couteau.",
+      "family": [
+        "了解"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'jiè'"
+      ]
+    },
+    {
+      "character": "悟",
+      "pinyin": "wù",
+      "meaning": "comprendre, réaliser",
+      "hskLevel": 5,
+      "radical": "心",
+      "components": [
+        "心",
+        "吾"
+      ],
+      "etymology": "Évoque un cœur qui prend conscience de quelque chose.",
+      "family": [
+        "领悟"
+      ],
+      "commonErrors": [
+        "Confondre avec 语"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "辨析",
+      "pinyin": "biànxī",
+      "meaning": "analyser et distinguer",
+      "exampleZh": "我们要辨析这两个词不同在哪儿。",
+      "examplePinyin": "Wǒmen yào biànxī zhè liǎng gè cí bùtóng zài nǎr.",
+      "exampleFr": "Nous devons analyser où ces deux mots diffèrent."
+    },
+    {
+      "word": "突然",
+      "pinyin": "tūrán",
+      "meaning": "soudain (événement surprenant)",
+      "exampleZh": "他突然不来了。",
+      "examplePinyin": "Tā tūrán bù lái le.",
+      "exampleFr": "Il n'est soudainement plus venu."
+    },
+    {
+      "word": "忽然",
+      "pinyin": "hūrán",
+      "meaning": "soudain (perception subjective)",
+      "exampleZh": "天忽然黑了。",
+      "examplePinyin": "Tiān hūrán hēi le.",
+      "exampleFr": "Le ciel est soudain devenu noir."
+    },
+    {
+      "word": "常",
+      "pinyin": "cháng",
+      "meaning": "souvent, ordinaire",
+      "exampleZh": "他常来这里。",
+      "examplePinyin": "Tā cháng lái zhèlǐ.",
+      "exampleFr": "Il vient souvent ici."
+    },
+    {
+      "word": "往",
+      "pinyin": "wǎng",
+      "meaning": "souvent (dans un contexte)",
+      "exampleZh": "他往早来。",
+      "examplePinyin": "Tā wǎng zǎo lái.",
+      "exampleFr": "Il arrive souvent tôt."
+    },
+    {
+      "word": "了解",
+      "pinyin": "liǎojiě",
+      "meaning": "comprendre (connaissance approfondie)",
+      "exampleZh": "我了解这个人。",
+      "examplePinyin": "Wǒ liǎojiě zhège rén.",
+      "exampleFr": "Je connais bien cette personne."
+    },
+    {
+      "word": "解",
+      "pinyin": "jiě",
+      "meaning": "comprendre (saisir le sens)",
+      "exampleZh": "我解你的意思。",
+      "examplePinyin": "Wǒ jiě nǐ de yìsi.",
+      "exampleFr": "Je comprends ce que tu veux dire."
+    },
+    {
+      "word": "习惯",
+      "pinyin": "xíguàn",
+      "meaning": "habitude, s'habituer",
+      "exampleZh": "他习惯早起。",
+      "examplePinyin": "Tā xíguàn zǎo qǐ.",
+      "exampleFr": "Il a l'habitude de se lever tôt."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明和李华讨论怎么用词更准确。他们想知道怎么选词才不会说错。",
+      "goals": [
+        "学会区分突然和忽然",
+        "学会区分常和往",
+        "学会区分了解和解",
+        "学会在对的地方用对的词"
+      ]
+    },
+    "discovery": {
+      "instructions": "看下面的对话。注意粗体的词，想一想为什么用这个词。",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你**突然**不来了？",
+          "pinyin": "Lǐ Huá, nǐ **tūrán** bù lái le?",
+          "translation": "Li Hua, pourquoi tu n'es soudainement plus venu?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "对不起，我**忽然**想到一件事。",
+          "pinyin": "Duìbuqǐ, wǒ **hūrán** xiǎngdào yī jiàn shì.",
+          "translation": "Désolé, j'ai soudain pensé à quelque chose."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你**常**这样吗？",
+          "pinyin": "Nǐ **cháng** zhèyàng ma?",
+          "translation": "Tu fais souvent ça?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "不，**往**是有事的时候。",
+          "pinyin": "Bù, **wǎng** shì yǒu shì de shíhòu.",
+          "translation": "Non, c'est souvent quand j'ai quelque chose à faire."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我**了解**你的工作，但你也要**解**我的意思。",
+          "pinyin": "Wǒ **liǎojiě** nǐ de gōngzuò, dàn nǐ yě yào **jiě** wǒ de yìsi.",
+          "translation": "Je comprends ton travail, mais tu dois aussi comprendre ce que je veux dire."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好，我会小心。你**习惯**这里了吗？",
+          "pinyin": "Hǎo, wǒ huì xiǎoxīn. Nǐ **xíguàn** zhèlǐ le ma?",
+          "translation": "D'accord, je ferai attention. Tu t'es habitué ici?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "**了解**这里后会更好。",
+          "pinyin": "**Liǎojiě** zhèlǐ hòu huì gèng hǎo.",
+          "translation": "Ce sera mieux quand je connaîtrai mieux ici."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "辨",
+        "析",
+        "突",
+        "忽",
+        "解",
+        "悟"
+      ],
+      "grammar": [
+        {
+          "point": "区分突然和忽然",
+          "explanation": "**突然**用于让人惊讶的事情，比如：他突然不来了。\n**忽然**用于自己突然想到或感觉到的事情，比如：我忽然想起来了。\n\n错误：法国人常常两个词都用突然。",
+          "examples": [
+            {
+              "chinese": "他突然不见了。",
+              "pinyin": "Tā tūrán bù jiàn le.",
+              "translation": "Il a soudainement disparu."
+            },
+            {
+              "chinese": "我忽然想到他。",
+              "pinyin": "Wǒ hūrán xiǎngdào tā.",
+              "translation": "J'ai soudain pensé à lui."
+            }
+          ]
+        },
+        {
+          "point": "区分常和往",
+          "explanation": "**常**表示一般的经常，比如：他常来这里。\n**往**表示在特定情况下经常发生，比如：他往早来。\n\n错误：法国人常常用往表示一般的经常。",
+          "examples": [
+            {
+              "chinese": "他常看书。",
+              "pinyin": "Tā cháng kàn shū.",
+              "translation": "Il lit souvent des livres."
+            },
+            {
+              "chinese": "他往在家看书。",
+              "pinyin": "Tā wǎng zàijiā kàn shū.",
+              "translation": "Il lit souvent des livres à la maison."
+            }
+          ]
+        },
+        {
+          "point": "区分了解和解",
+          "explanation": "**了解**表示知道得很清楚，比如：我了解这个人。\n**解**表示懂得意思，比如：我解你的意思。\n\n错误：法国人常常用了解表示懂意思。",
+          "examples": [
+            {
+              "chinese": "我了解这个地方。",
+              "pinyin": "Wǒ liǎojiě zhège dìfang.",
+              "translation": "Je connais bien cet endroit."
+            },
+            {
+              "chinese": "我解你的想法。",
+              "pinyin": "Wǒ jiě nǐ de xiǎngfǎ.",
+              "translation": "Je comprends ta façon de penser."
+            }
+          ]
+        },
+        {
+          "point": "常用搭配",
+          "explanation": "有些词常常一起用：\n- 突然 + 动作：突然来，突然走\n- 忽然 + 想法：忽然想，忽然看\n- 往 + 情况：往这样，往早\n- 了解 + 人/地方：了解他，了解这里\n- 解 + 意思：解意思，解想法",
+          "examples": [
+            {
+              "chinese": "他突然来了。",
+              "pinyin": "Tā tūrán lái le.",
+              "translation": "Il est soudainement venu."
+            },
+            {
+              "chinese": "我忽然想到他。",
+              "pinyin": "Wǒ hūrán xiǎngdào tā.",
+              "translation": "J'ai soudain pensé à lui."
+            },
+            {
+              "chinese": "他往这样做。",
+              "pinyin": "Tā wǎng zhèyàng zuò.",
+              "translation": "Il fait souvent comme ça."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "**解**的发音是jiě，第三声（下降再上升）",
+        "**忽然**和**突然**的第一个音都是第一声（高平）",
+        "**往**的发音是wǎng，第三声（下降再上升）"
+      ]
+    },
+    "connection": {
+      "text": "新学的字和词跟以前学的有关系：",
+      "links": [
+        {
+          "from": "辨析",
+          "relation": "COMPOSE",
+          "to": "辨 + 析"
+        },
+        {
+          "from": "突然",
+          "relation": "COMPOSE",
+          "to": "突 + 然"
+        },
+        {
+          "from": "忽然",
+          "relation": "COMPOSE",
+          "to": "忽 + 然"
+        },
+        {
+          "from": "了解",
+          "relation": "CONTRASTE_AVEC",
+          "to": "解"
+        },
+        {
+          "from": "解",
+          "relation": "DONNE_LE_SON",
+          "to": "了解"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "用突然或忽然填空。",
+          "hint": "突然用于让人惊讶的事，忽然用于自己突然想到的事。",
+          "example": {
+            "chinese": "他_____不见了。 (突然)",
+            "pinyin": "Tā **tūrán** bù jiàn le.",
+            "translation": "Il a soudainement disparu."
+          }
+        },
+        {
+          "instruction": "用常或往填空。",
+          "hint": "常表示一般的经常，往表示在特定情况下经常。",
+          "example": {
+            "chinese": "他____来这里，____在周末来。 (常 / 往)",
+            "pinyin": "Tā **cháng** lái zhèlǐ, **wǎng** zài zhōumò lái.",
+            "translation": "Il vient souvent ici, souvent le week-end."
+          }
+        },
+        {
+          "instruction": "用了解或解填空。",
+          "hint": "了解表示知道得很清楚，解表示懂意思。",
+          "example": {
+            "chinese": "我____这个地方，但我不____他的想法。 (了解 / 解)",
+            "pinyin": "Wǒ **liǎojiě** zhège dìfang, dàn wǒ bù **jiě** tā de xiǎngfǎ.",
+            "translation": "Je connais bien cet endroit, mais je ne comprends pas sa façon de penser."
+          }
+        },
+        {
+          "instruction": "写一个4-6句的对话，王明和李华讨论怎么用词更准确。用至少两组同义词。",
+          "hint": "可以讨论一个简单的情况，比如朋友之间的误会。",
+          "example": {
+            "chinese": "王明：你为什么**忽然**不来？\n李华：不是，**突然**有事。\n王明：你**常**这样吗？\n李华：不，**往**是有事的时候。\n王明：我**了解**你的工作，但你也要**解**我的意思。",
+            "pinyin": "Wáng Míng: Nǐ wèishénme **hūrán** bù lái?\nLǐ Huá: Bù shì, **tūrán** yǒu shì.\nWáng Míng: Nǐ **cháng** zhèyàng ma?\nLǐ Huá: Bù, **wǎng** shì yǒu shì de shíhòu.\nWáng Míng: Wǒ **liǎojiě** nǐ de gōngzuò, dàn nǐ yě yào **jiě** wǒ de yìsi.",
+            "translation": "Wang Ming: Pourquoi tu n'es soudainement plus venu?\nLi Hua: Non, j'ai soudain eu quelque chose à faire.\nWang Ming: Tu fais souvent ça?\nLi Hua: Non, c'est souvent quand j'ai quelque chose à faire.\nWang Ming: Je comprends ton travail, mais tu dois aussi comprendre ce que je veux dire."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "在这一课，你学会了怎么选词更准确：\n1. **突然**用于让人惊讶的事，**忽然**用于自己突然想到的事。\n2. **常**表示一般的经常，**往**表示在特定情况下经常。\n3. **了解**表示知道得很清楚，**解**表示懂意思。\n4. 学会了常用的搭配。\n\n选对词能让你的中文更准确。",
+      "reviewWords": [
+        "辨析",
+        "突然",
+        "忽然",
+        "常",
+        "往",
+        "了解",
+        "解",
+        "习惯"
+      ],
+      "reviewHanzi": [
+        "辨",
+        "析",
+        "突",
+        "忽",
+        "解",
+        "悟"
+      ]
+    }
+  }
+}

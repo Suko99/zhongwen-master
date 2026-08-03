@@ -1,0 +1,422 @@
+{
+  "slug": "le-travail",
+  "title": "Le travail et les études",
+  "mission": "Dire son métier et son lieu de travail",
+  "level": "A1",
+  "order": 13,
+  "hanzi": [
+    {
+      "character": "工",
+      "pinyin": "gōng",
+      "meaning": "travail, ouvrier",
+      "hskLevel": 1,
+      "radical": "工 (travail)",
+      "components": [
+        "工"
+      ],
+      "etymology": "Représente à l'origine un outil de travail, peut-être un ciseau ou un burin. L'interprétation traditionnelle veut qu'il symbolise l'idée de travail manuel ou d'artisanat.",
+      "family": [
+        "工作 (travail)"
+      ],
+      "commonErrors": [
+        "Confusion avec 干 (gàn, faire) en raison de la similitude visuelle."
+      ]
+    },
+    {
+      "character": "作",
+      "pinyin": "zuò",
+      "meaning": "faire, œuvre",
+      "hskLevel": 1,
+      "radical": "亻 (personne)",
+      "components": [
+        "亻",
+        "乍"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 亻 (personne) suggère une action humaine, tandis que 乍 (zhà) donne le son. L'origine exacte de 乍 est débattue, mais il pourrait représenter une action soudaine.",
+      "family": [
+        "工作 (travail)"
+      ],
+      "commonErrors": [
+        "Confusion avec 做 (zuò, faire) en raison de la similarité de sens et de prononciation."
+      ]
+    },
+    {
+      "character": "师",
+      "pinyin": "shī",
+      "meaning": "maître, enseignant",
+      "hskLevel": 1,
+      "radical": "巾 (tissu)",
+      "components": [
+        "𠂉",
+        "一",
+        "巾"
+      ],
+      "etymology": "Représentait à l'origine un étendard ou une bannière, symbolisant l'autorité. Par extension, il a pris le sens de maître ou d'enseignant. Le radical 巾 (tissu) suggère un lien avec les vêtements ou les insignes d'autorité.",
+      "family": [
+        "老师 (enseignant)"
+      ],
+      "commonErrors": [
+        "Confusion avec 狮 (shī, lion) en raison de la similarité de prononciation."
+      ]
+    },
+    {
+      "character": "医",
+      "pinyin": "yī",
+      "meaning": "médecine, médecin",
+      "hskLevel": 1,
+      "radical": "匚 (boîte)",
+      "components": [
+        "匚",
+        "矢"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 匚 (boîte) suggère un contenant (peut-être pour des remèdes), tandis que 矢 (shǐ, flèche) donne le son. L'origine exacte est incertaine, mais il pourrait symboliser un récipient pour des outils médicaux.",
+      "family": [
+        "医生 (médecin)"
+      ],
+      "commonErrors": [
+        "Confusion avec 衣 (yī, vêtement) en raison de la similarité de prononciation."
+      ]
+    },
+    {
+      "character": "院",
+      "pinyin": "yuàn",
+      "meaning": "cour, institution",
+      "hskLevel": 1,
+      "radical": "阝 (ville, colline)",
+      "components": [
+        "阝",
+        "完"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 阝 (ville) suggère un lieu, tandis que 完 (wán, complet) donne le son. Il désignait à l'origine une cour ou un espace clos, puis par extension une institution.",
+      "family": [
+        "医院 (hôpital)"
+      ],
+      "commonErrors": [
+        "Confusion avec 完 (wán, complet) en raison de la similarité visuelle."
+      ]
+    },
+    {
+      "character": "司",
+      "pinyin": "sī",
+      "meaning": "administrer, département",
+      "hskLevel": 1,
+      "radical": "口 (bouche)",
+      "components": [
+        "口",
+        "一",
+        "乛"
+      ],
+      "etymology": "Représentait à l'origine une main tenant un bâton de commandement, symbolisant l'autorité. Le radical 口 (bouche) suggère une fonction liée à la parole ou aux ordres.",
+      "family": [
+        "公司 (entreprise)"
+      ],
+      "commonErrors": [
+        "Confusion avec 同 (tóng, même) en raison de la similarité visuelle."
+      ]
+    },
+    {
+      "character": "老",
+      "pinyin": "lǎo",
+      "meaning": "vieux, expérimenté",
+      "hskLevel": 1,
+      "radical": "耂 (vieux)",
+      "components": [
+        "耂",
+        "匕"
+      ],
+      "etymology": "Représentait à l'origine une personne âgée courbée avec une canne. Par extension, il désigne quelqu'un d'expérimenté, comme un enseignant. Le radical 耂 (vieux) renforce cette idée.",
+      "family": [
+        "老师 (enseignant)"
+      ],
+      "commonErrors": [
+        "Confusion avec 考 (kǎo, examen) en raison de la similarité visuelle."
+      ]
+    },
+    {
+      "character": "校",
+      "pinyin": "xiào",
+      "meaning": "école, corriger",
+      "hskLevel": 1,
+      "radical": "木 (bois)",
+      "components": [
+        "木",
+        "交"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 木 (bois) suggère un bâtiment ou une structure, tandis que 交 (jiāo, croiser) donne le son. À l'origine, il désignait un lieu où l'on corrigeait ou formait, d'où le sens d'école.",
+      "family": [
+        "学校 (école)"
+      ],
+      "commonErrors": [
+        "Confusion avec 较 (jiào, comparer) en raison de la similarité visuelle."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "工作",
+      "pinyin": "gōng zuò",
+      "meaning": "travail, travailler",
+      "exampleZh": "你有工作吗？",
+      "examplePinyin": "Nǐ yǒu gōng zuò ma?",
+      "exampleFr": "As-tu un travail ?"
+    },
+    {
+      "word": "老师",
+      "pinyin": "lǎo shī",
+      "meaning": "enseignant",
+      "exampleZh": "我是老师。",
+      "examplePinyin": "Wǒ shì lǎo shī.",
+      "exampleFr": "Je suis enseignant."
+    },
+    {
+      "word": "医生",
+      "pinyin": "yī shēng",
+      "meaning": "médecin",
+      "exampleZh": "他是医生。",
+      "examplePinyin": "Tā shì yī shēng.",
+      "exampleFr": "Il est médecin."
+    },
+    {
+      "word": "公司",
+      "pinyin": "gōng sī",
+      "meaning": "entreprise",
+      "exampleZh": "我在公司。",
+      "examplePinyin": "Wǒ zài gōng sī.",
+      "exampleFr": "Je suis dans une entreprise."
+    },
+    {
+      "word": "医院",
+      "pinyin": "yī yuàn",
+      "meaning": "hôpital",
+      "exampleZh": "医生在医院。",
+      "examplePinyin": "Yī shēng zài yī yuàn.",
+      "exampleFr": "Le médecin est à l'hôpital."
+    },
+    {
+      "word": "学校",
+      "pinyin": "xué xiào",
+      "meaning": "école",
+      "exampleZh": "学生在学校。",
+      "examplePinyin": "Xué shēng zài xué xiào.",
+      "exampleFr": "Les élèves sont à l'école."
+    },
+    {
+      "word": "做",
+      "pinyin": "zuò",
+      "meaning": "faire",
+      "exampleZh": "你做什么？",
+      "examplePinyin": "Nǐ zuò shén me?",
+      "exampleFr": "Que fais-tu ?"
+    },
+    {
+      "word": "在",
+      "pinyin": "zài",
+      "meaning": "à, être en train de",
+      "exampleZh": "他在医院。",
+      "examplePinyin": "Tā zài yī yuàn.",
+      "exampleFr": "Il est à l'hôpital."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 安娜 se rencontrent dans un parc. Ils se présentent et parlent de leur travail et de leur lieu de travail.",
+      "goals": [
+        "Dire son métier",
+        "Demander le métier de quelqu'un",
+        "Indiquer son lieu de travail"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez comment 王明 et 安娜 parlent de leur travail et de leur lieu de travail. Notez les mots nouveaux et leur utilisation.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "你好，我叫王明。你有工作吗？",
+          "pinyin": "Nǐ hǎo, wǒ jiào Wáng Míng. Nǐ yǒu gōng zuò ma?",
+          "translation": "Bonjour, je m'appelle Wang Ming. As-tu un travail ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "你好，我叫安娜。我是老师，在学校。你呢？",
+          "pinyin": "Nǐ hǎo, wǒ jiào Ān nà. Wǒ shì lǎo shī, zài xué xiào. Nǐ ne?",
+          "translation": "Bonjour, je m'appelle Anna. Je suis enseignante, je suis à l'école. Et toi ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我是医生，在医院。",
+          "pinyin": "Wǒ shì yī shēng, zài yī yuàn.",
+          "translation": "Je suis médecin, je suis à l'hôpital."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "你喜欢你的工作吗？",
+          "pinyin": "Nǐ xǐ huān nǐ de gōng zuò ma?",
+          "translation": "Aimes-tu ton travail ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "很喜欢！你呢？",
+          "pinyin": "Hěn xǐ huān! Nǐ ne?",
+          "translation": "Beaucoup ! Et toi ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我也很喜欢。",
+          "pinyin": "Wǒ yě hěn xǐ huān.",
+          "translation": "Moi aussi, j'aime beaucoup."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "工",
+        "作",
+        "师",
+        "医",
+        "院",
+        "司",
+        "老",
+        "校"
+      ],
+      "grammar": [
+        {
+          "point": "Demander le travail : 有工作吗？",
+          "explanation": "Pour demander si quelqu'un a un travail, on utilise 有工作吗？ (As-tu un travail ?). C'est une question simple qui utilise le verbe 有 (avoir) déjà connu. Erreur typique du francophone : utiliser 做 (faire) directement sans structure appropriée.",
+          "examples": [
+            {
+              "chinese": "你有工作吗？",
+              "pinyin": "Nǐ yǒu gōng zuò ma?",
+              "translation": "As-tu un travail ?"
+            },
+            {
+              "chinese": "我有工作。",
+              "pinyin": "Wǒ yǒu gōng zuò.",
+              "translation": "J'ai un travail."
+            }
+          ]
+        },
+        {
+          "point": "Être + métier : 是 + métier",
+          "explanation": "Pour dire \"je suis + métier\", on utilise 是 (shì) suivi du métier. Contrairement au français, on ne dit pas \"je fais\" mais \"je suis\" pour les métiers. Erreur typique du francophone : oublier 是 et dire directement 我老师 (incorrect).",
+          "examples": [
+            {
+              "chinese": "我是医生。",
+              "pinyin": "Wǒ shì yī shēng.",
+              "translation": "Je suis médecin."
+            },
+            {
+              "chinese": "他是学生。",
+              "pinyin": "Tā shì xué shēng.",
+              "translation": "Il est étudiant."
+            }
+          ]
+        },
+        {
+          "point": "Lieu de travail : 在 + lieu",
+          "explanation": "Pour indiquer où l'on travaille, on utilise 在 (zài) + lieu. En français, on dirait \"je travaille à l'hôpital\", mais en chinois, on peut simplement dire 我在医院 (je suis à l'hôpital). Erreur typique : oublier 在 ou placer le lieu après le verbe (ex : 我医院在, incorrect).",
+          "examples": [
+            {
+              "chinese": "我在公司。",
+              "pinyin": "Wǒ zài gōng sī.",
+              "translation": "Je suis dans une entreprise."
+            },
+            {
+              "chinese": "她在学校。",
+              "pinyin": "Tā zài xué xiào.",
+              "translation": "Elle est à l'école."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton 1 (ex : 工 gōng) est haut et plat, comme si vous chantiez une note sans la monter ni la descendre.",
+        "Le ton 3 (ex : 我 wǒ) descend puis remonte. Attention à ne pas le confondre avec le ton 2 (montant) : 我 (wǒ) vs 你 (nǐ).",
+        "Le ton 4 (ex : 做 zuò) est descendant et sec, comme si vous donniez un ordre. Évitez de le faire trop long."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères s'appuient sur des acquis pour former des mots utiles. Voici les liens avec ce que vous connaissez déjà :",
+      "links": [
+        {
+          "from": "工",
+          "relation": "COMPOSE",
+          "to": "工作 (travail)"
+        },
+        {
+          "from": "师",
+          "relation": "COMPOSE",
+          "to": "老师 (enseignant)"
+        },
+        {
+          "from": "老",
+          "relation": "DONNE_LE_SON",
+          "to": "老师 (lǎo shī)"
+        },
+        {
+          "from": "在",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "再 (zài, encore - déjà connu)"
+        },
+        {
+          "from": "司",
+          "relation": "COMPOSE",
+          "to": "公司 (entreprise)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Présentez-vous en disant votre nom, votre métier et votre lieu de travail. Utilisez les structures : 我叫...，我是...，我在...。",
+          "hint": "Utilisez les mots : 老师, 医生, 学生, 公司, 医院, 学校. Exemple : 我叫王明，我是医生，我在医院。",
+          "example": {
+            "chinese": "我叫李华，我是学生，我在学校。",
+            "pinyin": "Wǒ jiào Lǐ Huá, wǒ shì xué shēng, wǒ zài xué xiào.",
+            "translation": "Je m'appelle Li Hua, je suis étudiant, je suis à l'école."
+          }
+        },
+        {
+          "instruction": "Demandez à votre partenaire s'il/elle a un travail et où il/elle est. Utilisez les structures : 你有工作吗？你在哪儿？",
+          "hint": "Répondez en utilisant les mots appris et la structure 在 + lieu.",
+          "example": {
+            "chinese": "A: 你有工作吗？ B: 有，我是老师。 A: 你在哪儿？ B: 我在学校。",
+            "pinyin": "A: Nǐ yǒu gōng zuò ma? B: Yǒu, wǒ shì lǎo shī. A: Nǐ zài nǎr? B: Wǒ zài xué xiào.",
+            "translation": "A : As-tu un travail ? B : Oui, je suis enseignant. A : Où es-tu ? B : Je suis à l'école."
+          }
+        },
+        {
+          "instruction": "Dites si vous aimez votre travail ou vos études en utilisant 喜欢. Exemple : 我很喜欢我的工作。",
+          "hint": "Utilisez 很 (hěn) pour renforcer 喜欢 (ex : 很喜欢).",
+          "example": {
+            "chinese": "我很喜欢我的学校。",
+            "pinyin": "Wǒ hěn xǐ huān wǒ de xué xiào.",
+            "translation": "J'aime beaucoup mon école."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à parler de votre métier et de votre lieu de travail. Vous savez maintenant utiliser les structures 有工作吗？ (As-tu un travail ?), 是 + métier (je suis + métier), et 在 + lieu (je suis à...). Vous avez également découvert 8 nouveaux caractères et des mots clés comme 工作, 老师, 医生, 公司, 医院, et 学校.",
+      "reviewWords": [
+        "工作",
+        "老师",
+        "医生",
+        "公司",
+        "医院",
+        "学校",
+        "做",
+        "在"
+      ],
+      "reviewHanzi": [
+        "工",
+        "作",
+        "师",
+        "医",
+        "院",
+        "司",
+        "老",
+        "校"
+      ]
+    }
+  }
+}

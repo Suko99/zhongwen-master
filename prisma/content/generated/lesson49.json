@@ -1,0 +1,451 @@
+{
+  "slug": "nature-et-environnement",
+  "title": "Nature et environnement",
+  "mission": "Discuter de la protection de l'environnement et des actions pour protéger la nature",
+  "level": "B1",
+  "order": 49,
+  "hanzi": [
+    {
+      "character": "环",
+      "pinyin": "huán",
+      "meaning": "environnement, boucle",
+      "hskLevel": 3,
+      "radical": "王 (roi)",
+      "components": [
+        "王",
+        "不"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une boucle ou un cercle (不 comme simplification de 丿 et 丨 formant un tour) autour d'un objet précieux (王, 'roi'), symbolisant la protection ou l'entourage. Le sens moderne d'« environnement » est une extension récente.",
+      "family": [
+        "环境",
+        "环保"
+      ],
+      "commonErrors": [
+        "Confusion avec 还 (huán/hái) en raison de la proximité phonétique."
+      ]
+    },
+    {
+      "character": "境",
+      "pinyin": "jìng",
+      "meaning": "frontière, territoire, condition",
+      "hskLevel": 4,
+      "radical": "土 (terre)",
+      "components": [
+        "土",
+        "竟"
+      ],
+      "etymology": "Composé phono-sémantique : 竟 (jìng, 'finalement') donne le son, tandis que 土 (terre) indique le sens lié à un territoire ou une limite. Le sens de « condition » (comme dans 环境) est une extension métaphorique.",
+      "family": [
+        "环境",
+        "边境"
+      ],
+      "commonErrors": [
+        "Oublier le ton montant (4e) et prononcer jìn (进)."
+      ]
+    },
+    {
+      "character": "保",
+      "pinyin": "bǎo",
+      "meaning": "protéger, garantir",
+      "hskLevel": 3,
+      "radical": "亻 (homme)",
+      "components": [
+        "亻",
+        "呆"
+      ],
+      "etymology": "À l'origine, ce caractère représentait une personne (亻) tenant un enfant (simplifié en 呆), symbolisant la protection. Le sens s'est élargi à toute forme de protection ou de garantie.",
+      "family": [
+        "保护",
+        "保险"
+      ],
+      "commonErrors": [
+        "Confusion avec 报 (bào, 'rapporter') en raison de la similitude visuelle."
+      ]
+    },
+    {
+      "character": "护",
+      "pinyin": "hù",
+      "meaning": "protéger, défendre",
+      "hskLevel": 3,
+      "radical": "扌 (main)",
+      "components": [
+        "扌",
+        "户"
+      ],
+      "etymology": "Composé phono-sémantique : 户 (hù, 'porte') donne le son, tandis que 扌 (main) indique l'action de protéger ou défendre. Le caractère évoque l'idée de couvrir ou garder une porte.",
+      "family": [
+        "保护",
+        "护士"
+      ],
+      "commonErrors": [
+        "Prononcer hū (1er ton) au lieu de hù (4e ton)."
+      ]
+    },
+    {
+      "character": "污",
+      "pinyin": "wū",
+      "meaning": "sale, pollué",
+      "hskLevel": 5,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "亏"
+      ],
+      "etymology": "Composé phono-sémantique : 亏 (kuī, 'perte') donne une idée de dégradation, tandis que 氵 (eau) indique que cette dégradation concerne un liquide. Le sens de « pollué » est une extension moderne.",
+      "family": [
+        "污染",
+        "污水"
+      ],
+      "commonErrors": [
+        "Confusion avec 乌 (wū, 'corbeau') en raison de la proximité phonétique."
+      ]
+    },
+    {
+      "character": "染",
+      "pinyin": "rǎn",
+      "meaning": "teindre, polluer, infecter",
+      "hskLevel": 5,
+      "radical": "木 (bois)",
+      "components": [
+        "氵",
+        "九",
+        "木"
+      ],
+      "etymology": "À l'origine, ce caractère représentait l'action de teindre du bois (木) avec un liquide (氵) en plusieurs étapes (九, 'neuf', symbolisant la répétition). Le sens de « polluer » est une extension récente.",
+      "family": [
+        "污染",
+        "感染"
+      ],
+      "commonErrors": [
+        "Prononcer ràn (4e ton) au lieu de rǎn (3e ton)."
+      ]
+    },
+    {
+      "character": "植",
+      "pinyin": "zhí",
+      "meaning": "planter, végétal",
+      "hskLevel": 4,
+      "radical": "木 (bois)",
+      "components": [
+        "木",
+        "直"
+      ],
+      "etymology": "Composé phono-sémantique : 直 (zhí, 'droit') donne le son, tandis que 木 (bois) indique le sens lié aux plantes. Le caractère évoque l'idée de faire pousser quelque chose droit (comme un arbre).",
+      "family": [
+        "植物",
+        "种植"
+      ],
+      "commonErrors": [
+        "Confusion avec 值 (zhí, 'valeur') en raison de la proximité phonétique."
+      ]
+    },
+    {
+      "character": "害",
+      "pinyin": "hài",
+      "meaning": "nuire, dommage",
+      "hskLevel": 3,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "丰",
+        "口"
+      ],
+      "etymology": "Ce caractère représentait à l'origine une maison (宀) où quelque chose de néfaste (丰 comme simplification de 害) était prononcé (口), symbolisant un malheur ou un dommage. Le sens moderne est « nuire » ou « dommage ».",
+      "family": [
+        "有害",
+        "害怕"
+      ],
+      "commonErrors": [
+        "Confusion avec 合 (hé, 'unir') en raison de la similitude visuelle."
+      ]
+    },
+    {
+      "character": "约",
+      "pinyin": "yuē",
+      "meaning": "convenir, économiser, approximativement",
+      "hskLevel": 3,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "勺"
+      ],
+      "etymology": "Composé phono-sémantique : 勺 (sháo, 'cuillère') donne une idée de mesure, tandis que 纟 (soie) indique une action liée à lier ou convenir. Le sens d'« économiser » vient de l'idée de mesurer ou limiter.",
+      "family": [
+        "节约",
+        "大约"
+      ],
+      "commonErrors": [
+        "Confusion avec 药 (yào, 'médicament') en raison de la proximité phonétique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "环境",
+      "pinyin": "huán jìng",
+      "meaning": "environnement",
+      "exampleZh": "这个地方的环境很好。",
+      "examplePinyin": "Zhège dìfang de huánjìng hěn hǎo.",
+      "exampleFr": "L'environnement de cet endroit est très bon."
+    },
+    {
+      "word": "保护",
+      "pinyin": "bǎo hù",
+      "meaning": "protéger",
+      "exampleZh": "保护环境是大家的事。",
+      "examplePinyin": "Bǎohù huánjìng shì dàjiā de shì.",
+      "exampleFr": "Protéger l'environnement est l'affaire de tous."
+    },
+    {
+      "word": "污染",
+      "pinyin": "wū rǎn",
+      "meaning": "pollution, polluer",
+      "exampleZh": "这里的污染很大。",
+      "examplePinyin": "Zhèlǐ de wūrǎn hěn dà.",
+      "exampleFr": "La pollution ici est très importante."
+    },
+    {
+      "word": "植物",
+      "pinyin": "zhí wù",
+      "meaning": "plante, végétal",
+      "exampleZh": "公园里有很多植物。",
+      "examplePinyin": "Gōngyuán lǐ yǒu hěn duō zhíwù.",
+      "exampleFr": "Il y a beaucoup de plantes dans le parc."
+    },
+    {
+      "word": "有害",
+      "pinyin": "yǒu hài",
+      "meaning": "nocif, nuisible",
+      "exampleZh": "这个东西有害。",
+      "examplePinyin": "Zhège dōngxi yǒuhài.",
+      "exampleFr": "Cette chose est nocive."
+    },
+    {
+      "word": "节约",
+      "pinyin": "jié yuē",
+      "meaning": "économiser",
+      "exampleZh": "节约用电很重要。",
+      "examplePinyin": "Jiéyuē yòngdiàn hěn zhòngyào.",
+      "exampleFr": "Économiser l'électricité est très important."
+    },
+    {
+      "word": "为了",
+      "pinyin": "wèi le",
+      "meaning": "pour, afin de",
+      "exampleZh": "为了环境，我们少用纸。",
+      "examplePinyin": "Wèile huánjìng, wǒmen shǎo yòng zhǐ.",
+      "exampleFr": "Afin de protéger l'environnement, nous utilisons moins de papier."
+    },
+    {
+      "word": "越来越",
+      "pinyin": "yuè lái yuè",
+      "meaning": "de plus en plus",
+      "exampleZh": "天气越来越冷了。",
+      "examplePinyin": "Tiānqì yuè lái yuè lěng le.",
+      "exampleFr": "Le temps devient de plus en plus froid."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 discutent des problèmes de pollution dans leur ville et des actions qu'ils peuvent faire pour protéger l'environnement. Ils parlent des plantes et des habitudes à adopter pour réduire la pollution.",
+      "goals": [
+        "Comprendre et utiliser le vocabulaire lié à la nature et à l'environnement.",
+        "Employer 为了 + but pour exprimer une intention.",
+        "Réutiliser 越来越 dans un contexte écologique."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Quels mots ou structures reconnaissez-vous ? Quels nouveaux mots semblent liés à l'environnement ?",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你看，这里的水越来越脏了。",
+          "pinyin": "Lǐ Huá, nǐ kàn, zhèlǐ de shuǐ yuè lái yuè zāng le.",
+          "translation": "Li Hua, regarde, l'eau ici devient de plus en plus sale."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "啊，污染也越来越大。为了保护环境，我们应该做什么？",
+          "pinyin": "A, wūrǎn yě yuè lái yuè dà. Wèile bǎohù huánjìng, wǒmen yīnggāi zuò shénme?",
+          "translation": "Ah, la pollution devient aussi de plus en plus importante. Pour protéger l'environnement, que devrions-nous faire ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我们可以少用纸，多种植物。植物能让空气好。",
+          "pinyin": "Wǒmen kěyǐ shǎo yòng zhǐ, duō zhòng zhíwù. Zhíwù néng ràng kōngqì hǎo.",
+          "translation": "Nous pouvons utiliser moins de papier et planter plus de végétaux. Les plantes peuvent améliorer l'air."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "对！还有，节约用电也很重要。这样可以少污染。",
+          "pinyin": "Duì! Hái yǒu, jiéyuē yòngdiàn yě hěn zhòngyào. Zhèyàng kěyǐ shǎo wūrǎn.",
+          "translation": "Exact ! Et économiser l'électricité est aussi très important. Cela peut réduire la pollution."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我们还可以告诉朋友，保护植物。很多植物因为污染有害。",
+          "pinyin": "Wǒmen hái kěyǐ gàosu péngyou, bǎohù zhíwù. Hěn duō zhíwù yīnwèi wūrǎn yǒuhài.",
+          "translation": "Nous pouvons aussi dire à nos amis de protéger les plantes. Beaucoup de plantes sont en danger à cause de la pollution."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好！为了我们的环境，大家一起做吧！",
+          "pinyin": "Hǎo! Wèile wǒmen de huánjìng, dàjiā yīqǐ zuò ba!",
+          "translation": "Bien ! Pour notre environnement, agissons tous ensemble !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "环",
+        "境",
+        "保",
+        "护",
+        "污",
+        "染",
+        "植",
+        "害",
+        "约"
+      ],
+      "grammar": [
+        {
+          "point": "为了 + but (pour, afin de)",
+          "explanation": "La structure 为了 + [but] exprime une intention ou un objectif. Contrairement au français, où « pour » peut être suivi d'un verbe à l'infinitif, en chinois, 为了 est suivi d'une proposition complète (sujet + verbe + objet). Erreur typique du francophone : oublier le sujet après 为了 (ex : ❌ 为了保护环境 → ✅ 为了我们保护环境).",
+          "examples": [
+            {
+              "chinese": "为了少污染，我们走路。",
+              "pinyin": "Wèile shǎo wūrǎn, wǒmen zǒulù.",
+              "translation": "Afin de réduire la pollution, nous marchons."
+            },
+            {
+              "chinese": "为了保护植物，我们不扔东西。",
+              "pinyin": "Wèile bǎohù zhíwù, wǒmen bù rēng dōngxi.",
+              "translation": "Pour protéger les plantes, nous ne jetons pas de choses."
+            }
+          ]
+        },
+        {
+          "point": "越来越 + adjectif (de plus en plus)",
+          "explanation": "La structure 越来越 + [adjectif] exprime une augmentation progressive. Elle est souvent utilisée pour décrire des changements négatifs ou positifs dans l'environnement. Erreur typique : placer 越来越 après l'adjectif (ex : ❌ 污染越来大 → ✅ 污染越来越大).",
+          "examples": [
+            {
+              "chinese": "天气越来越热了。",
+              "pinyin": "Tiānqì yuè lái yuè rè le.",
+              "translation": "Le temps devient de plus en plus chaud."
+            },
+            {
+              "chinese": "植物越来越少了。",
+              "pinyin": "Zhíwù yuè lái yuè shǎo le.",
+              "translation": "Les plantes deviennent de moins en moins nombreuses."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 保 (bǎo) est le 3e ton (descendant-montant) : commencez bas, descendez, puis remontez.",
+        "Le ton de 染 (rǎn) est le 3e ton : évitez de le prononcer comme un 4e ton (ràn).",
+        "Le ton de 约 (yuē) est le 1er ton (haut et plat) : maintenez une hauteur constante."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots de cette leçon sont liés à des concepts déjà connus. Voici comment ils s'articulent avec vos acquis :",
+      "links": [
+        {
+          "from": "环境",
+          "relation": "COMPOSE",
+          "to": "环 + 境"
+        },
+        {
+          "from": "保护",
+          "relation": "COMPOSE",
+          "to": "保 + 护"
+        },
+        {
+          "from": "污染",
+          "relation": "COMPOSE",
+          "to": "污 + 染"
+        },
+        {
+          "from": "植物",
+          "relation": "COMPOSE",
+          "to": "植 + 物 (déjà connu)"
+        },
+        {
+          "from": "节约",
+          "relation": "COMPOSE",
+          "to": "节 (déjà connu) + 约"
+        },
+        {
+          "from": "有害",
+          "relation": "COMPOSE",
+          "to": "有 (déjà connu) + 害"
+        },
+        {
+          "from": "为了",
+          "relation": "DONNE_LE_SON",
+          "to": "为 (déjà connu dans 因为)"
+        },
+        {
+          "from": "越来越",
+          "relation": "RADICAL_DE",
+          "to": "越 (走, 'marcher') + 来 (déjà connu)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Imaginez que vous discutez avec un ami des problèmes environnementaux dans votre ville. Utilisez 为了 et 越来越 pour proposer des solutions.",
+          "hint": "Pensez à des actions concrètes comme économiser l'eau ou utiliser moins de papier. Exemple : 为了少污染，我们可以...",
+          "example": {
+            "chinese": "为了少污染，我们可以多走路。现在，污染越来越大。",
+            "pinyin": "Wèile shǎo wūrǎn, wǒmen kěyǐ duō zǒulù. Xiànzài, wūrǎn yuè lái yuè dà.",
+            "translation": "Afin de réduire la pollution, nous pouvons marcher plus. Maintenant, la pollution devient de plus en plus importante."
+          }
+        },
+        {
+          "instruction": "Décrivez une situation où la nature est en danger à cause de la pollution. Utilisez au moins 3 mots de vocabulaire de la leçon.",
+          "hint": "Pensez à des éléments comme l'eau ou les plantes. Exemple : 因为污染，很多植物有害。",
+          "example": {
+            "chinese": "因为污染，这里的水越来越脏。很多植物都死了。",
+            "pinyin": "Yīnwèi wūrǎn, zhèlǐ de shuǐ yuè lái yuè zāng. Hěn duō zhíwù dōu sǐ le.",
+            "translation": "À cause de la pollution, l'eau ici devient de plus en plus sale. Beaucoup de plantes sont mortes."
+          }
+        },
+        {
+          "instruction": "Proposez une action pour protéger l'environnement. Utilisez 为了 et 节约.",
+          "hint": "Pensez à des actions comme économiser l'eau ou l'électricité. Exemple : 为了节约用水，我们可以...",
+          "example": {
+            "chinese": "为了节约用水，我们少洗东西。",
+            "pinyin": "Wèile jiéyuē yòngshuǐ, wǒmen shǎo xǐ dōngxi.",
+            "translation": "Afin d'économiser l'eau, nous lavons moins de choses."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à discuter de la protection de l'environnement et des problèmes de pollution. Vous avez découvert des mots clés comme 环境, 保护, 污染, et 植物, ainsi que des structures utiles comme 为了 + but et 越来越 + adjectif. Ces outils vous permettent d'exprimer des intentions et de décrire des changements liés à l'écologie.",
+      "reviewWords": [
+        "环境",
+        "保护",
+        "污染",
+        "植物",
+        "有害",
+        "节约",
+        "为了",
+        "越来越"
+      ],
+      "reviewHanzi": [
+        "环",
+        "境",
+        "保",
+        "护",
+        "污",
+        "染",
+        "植",
+        "害",
+        "约"
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Utilisateur unique (PRD §1 : une seule personne, une expérience unique)
+model User {
+  id                   String                @id @default(cuid())
+  name                 String
+  level                String                @default("A1") // A1 | A2 | B1 | B2
+  goal                 String? // objectif personnel actuel (pondération SRS, PRD §4)
+  createdAt            DateTime              @default(now())
+  progress             UserProgress[]
+  reviews              Review[]
+  conversationMessages ConversationMessage[]
+}
+
+// Mémoire persistante de la Conversation IA (小龙) : sans cette table, le fil
+// ne vivait que dans l'état React et disparaissait au rechargement — 小龙
+// "oubliait" tout d'une session à l'autre malgré l'historique en mémoire.
+model ConversationMessage {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id])
+  role        String // user | assistant
+  content     String
+  pinyin      String?
+  translation String?
+  correction  String?
+  createdAt   DateTime @default(now())
+
+  @@index([userId, createdAt])
+}
+
+// Fiche Hanzi = contenu pur, sans état de maîtrise (la maîtrise vit dans UserProgress)
+model Hanzi {
+  id           String         @id @default(cuid())
+  character    String         @unique
+  pinyin       String
+  meaning      String
+  hskLevel     Int            @default(1)
+  radical      String
+  components   String // JSON: string[]
+  etymology    String
+  family       String // JSON: string[] — mots dérivés (PRD §5, futur graphe)
+  commonErrors String         @default("[]") // JSON: string[]
+  progress     UserProgress[]
+}
+
+model Vocabulary {
+  id            String         @id @default(cuid())
+  word          String         @unique
+  pinyin        String
+  meaning       String
+  hskLevel      Int            @default(1)
+  exampleZh     String?
+  examplePinyin String?
+  exampleFr     String?
+  lessonId      String?
+  lesson        Lesson?        @relation(fields: [lessonId], references: [id])
+  progress      UserProgress[]
+}
+
+model Lesson {
+  id         String         @id @default(cuid())
+  slug       String         @unique
+  title      String
+  mission    String // mission communicative (PRD §3, étape 1)
+  level      String         @default("A1")
+  order      Int
+  content    String // JSON: LessonContent (les 6 étapes, typé dans src/lib/types.ts)
+  vocabulary Vocabulary[]
+  progress   UserProgress[]
+}
+
+// Un nœud de progression par (utilisateur, item). Porte les 4 scores de maîtrise
+// (PRD §3) et l'état FSRS (PRD §4). Pour nodeType LESSON, seul completedAt compte.
+model UserProgress {
+  id            String      @id @default(cuid())
+  userId        String
+  user          User        @relation(fields: [userId], references: [id])
+  nodeType      String // HANZI | WORD | LESSON
+  hanziId       String?
+  hanzi         Hanzi?      @relation(fields: [hanziId], references: [id])
+  vocabId       String?
+  vocab         Vocabulary? @relation(fields: [vocabId], references: [id])
+  lessonId      String?
+  lesson        Lesson?     @relation(fields: [lessonId], references: [id])
+  recognition   Int         @default(0) // 0–100
+  comprehension Int         @default(0)
+  production    Int         @default(0)
+  automaticity  Int         @default(0)
+  due           DateTime    @default(now()) // colonne requêtable, dupliquée de fsrsCard
+  fsrsCard      String? // carte ts-fsrs sérialisée en JSON
+  completedAt   DateTime?
+  createdAt     DateTime    @default(now())
+  reviews       Review[]
+
+  @@index([userId, due])
+}
+
+// Historique SRS brut : chaque rating est une donnée (PRD principe 3)
+model Review {
+  id         String       @id @default(cuid())
+  userId     String
+  user       User         @relation(fields: [userId], references: [id])
+  progressId String
+  progress   UserProgress @relation(fields: [progressId], references: [id])
+  rating     Int // 1=Again 2=Hard 3=Good 4=Easy
+  log        String // ReviewLog ts-fsrs sérialisé (ré-optimisation FSRS future)
+  reviewedAt DateTime     @default(now())
+}

@@ -1,0 +1,408 @@
+{
+  "slug": "bien-que-mais",
+  "title": "Bien que... mais : 虽然...但是",
+  "mission": "Nuancer son propos avec des concessions",
+  "level": "B1",
+  "order": 38,
+  "hanzi": [
+    {
+      "character": "虽",
+      "pinyin": "suī",
+      "meaning": "bien que, quoique",
+      "hskLevel": 3,
+      "radical": "虫",
+      "components": [
+        "虫",
+        "八"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente un insecte (虫) sous une couverture (八), symbolisant une situation atténuée. Le radical 虫 évoque souvent des notions de petitesse ou de subtilité.",
+      "family": [
+        "虽然"
+      ],
+      "commonErrors": [
+        "Confusion avec 虫 (chóng) seul, qui signifie 'insecte'."
+      ]
+    },
+    {
+      "character": "但",
+      "pinyin": "dàn",
+      "meaning": "mais, cependant",
+      "hskLevel": 3,
+      "radical": "人",
+      "components": [
+        "亻",
+        "旦"
+      ],
+      "etymology": "Le composant 旦 (dàn, aube) donne une indication phonétique, tandis que le radical 人 (personne) suggère une attitude humaine. Le sens de 'mais' découle du contraste.",
+      "family": [
+        "但是"
+      ],
+      "commonErrors": [
+        "Confusion avec 旦 (dàn) seul, qui signifie 'aube'."
+      ]
+    },
+    {
+      "character": "可",
+      "pinyin": "kě",
+      "meaning": "pouvoir, approuver, mais",
+      "hskLevel": 1,
+      "radical": "口",
+      "components": [
+        "丁",
+        "口"
+      ],
+      "etymology": "Ce caractère représente une bouche (口) qui s'ouvre pour approuver. Il est utilisé dans des structures comme 可以 ou 可是.",
+      "family": [
+        "可是",
+        "可以"
+      ],
+      "commonErrors": [
+        "Prononcer le 3e ton au lieu du 2e ton montant."
+      ]
+    },
+    {
+      "character": "值",
+      "pinyin": "zhí",
+      "meaning": "valoir, mériter",
+      "hskLevel": 4,
+      "radical": "人",
+      "components": [
+        "亻",
+        "直"
+      ],
+      "etymology": "Le radical 人 (personne) et le composant 直 (droit) suggèrent l'idée de quelque chose qui 'mérite' ou 'vaut' une action.",
+      "family": [
+        "值得"
+      ],
+      "commonErrors": [
+        "Confusion avec 直 (zhí) seul, qui signifie 'droit'."
+      ]
+    },
+    {
+      "character": "得",
+      "pinyin": "de",
+      "meaning": "particule structurale",
+      "hskLevel": 2,
+      "radical": "彳",
+      "components": [
+        "彳",
+        "旦"
+      ],
+      "etymology": "Ce caractère est une particule grammaticale utilisée après un verbe pour introduire un complément de degré ou de possibilité. Le radical 彳 évoque le mouvement.",
+      "family": [
+        "值得"
+      ],
+      "commonErrors": [
+        "Confusion avec 得 (dé) 'obtenir' ou 得 (děi) 'devoir'."
+      ]
+    },
+    {
+      "character": "怕",
+      "pinyin": "pà",
+      "meaning": "craindre, avoir peur",
+      "hskLevel": 3,
+      "radical": "心",
+      "components": [
+        "忄",
+        "白"
+      ],
+      "etymology": "Le radical 忄(cœur) indique une émotion, tandis que 白 (blanc) donne une indication phonétique. Le sens de 'craindre' est lié à une réaction émotionnelle.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer le 4e ton au lieu du 4e ton descendant."
+      ]
+    },
+    {
+      "character": "关",
+      "pinyin": "guān",
+      "meaning": "fermer, concerner",
+      "hskLevel": 3,
+      "radical": "八",
+      "components": [
+        "丷",
+        "天"
+      ],
+      "etymology": "Ce caractère représente deux mains (丷) qui ferment une porte (symbolisée par 天). Il est utilisé dans des mots comme 关系 (relation).",
+      "family": [
+        "没关系"
+      ],
+      "commonErrors": [
+        "Confusion avec 开 (kāi) 'ouvrir'."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "虽然",
+      "pinyin": "suī rán",
+      "meaning": "bien que, quoique",
+      "exampleZh": "虽然今天下雨，但我们去公园。",
+      "examplePinyin": "Suīrán jīntiān xiàyǔ, dàn wǒmen qù gōngyuán.",
+      "exampleFr": "Bien qu'il pleuve aujourd'hui, nous allons au parc."
+    },
+    {
+      "word": "但是",
+      "pinyin": "dàn shì",
+      "meaning": "mais, cependant",
+      "exampleZh": "这杯茶很好喝，但是太贵。",
+      "examplePinyin": "Zhè bēi chá hěn hǎohē, dànshì tài guì.",
+      "exampleFr": "Ce thé est très bon, mais trop cher."
+    },
+    {
+      "word": "可是",
+      "pinyin": "kě shì",
+      "meaning": "mais, pourtant",
+      "exampleZh": "我想去，可是没有钱。",
+      "examplePinyin": "Wǒ xiǎng qù, kěshì méiyǒu qián.",
+      "exampleFr": "Je veux y aller, mais je n'ai pas d'argent."
+    },
+    {
+      "word": "还",
+      "pinyin": "hái",
+      "meaning": "malgré tout, encore",
+      "exampleZh": "虽然他很忙，但还来了。",
+      "examplePinyin": "Suīrán tā hěn máng, dàn hái lái le.",
+      "exampleFr": "Bien qu'il soit très occupé, il est tout de même venu."
+    },
+    {
+      "word": "值得",
+      "pinyin": "zhí de",
+      "meaning": "valoir le coup, mériter",
+      "exampleZh": "这本书很好看，值得买。",
+      "examplePinyin": "Zhè běn shū hěn hǎokàn, zhíde mǎi.",
+      "exampleFr": "Ce livre est très intéressant, ça vaut le coup de l'acheter."
+    },
+    {
+      "word": "怕",
+      "pinyin": "pà",
+      "meaning": "craindre, avoir peur",
+      "exampleZh": "我有点儿怕冷。",
+      "examplePinyin": "Wǒ yǒudiǎnr pà lěng.",
+      "exampleFr": "J'ai un peu peur du froid."
+    },
+    {
+      "word": "没关系",
+      "pinyin": "méi guān xi",
+      "meaning": "ce n'est pas grave",
+      "exampleZh": "没关系，可以再试。",
+      "examplePinyin": "Méiguānxi, kěyǐ zài shì.",
+      "exampleFr": "Ce n'est pas grave, on peut réessayer."
+    },
+    {
+      "word": "虽然...但是...",
+      "pinyin": "suī rán... dàn shì...",
+      "meaning": "bien que... mais...",
+      "exampleZh": "虽然他很忙，但还是来帮我。",
+      "examplePinyin": "Suīrán tā hěn máng, dàn hái lái bāng wǒ.",
+      "exampleFr": "Bien qu'il soit très occupé, il est tout de même venu m'aider."
+    },
+    {
+      "word": "虽然...可是...",
+      "pinyin": "suī rán... kě shì...",
+      "meaning": "bien que... pourtant...",
+      "exampleZh": "虽然这杯茶很热，可是很好喝。",
+      "examplePinyin": "Suīrán zhè bēi chá hěn rè, kěshì hěn hǎohē.",
+      "exampleFr": "Bien que ce thé soit très chaud, il est pourtant très bon."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "马克 et 李华 discutent de leurs projets pour le week-end. 马克 veut aller au parc, mais 李华 préfère rester à la maison. Ils échangent leurs opinions en nuancant leurs arguments.",
+      "goals": [
+        "Exprimer des opinions nuancées avec 虽然...但是/可是",
+        "Utiliser 还 pour insister malgré une concession",
+        "Comprendre et produire des structures concessives doubles"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue ci-dessous. Repérez les mots qui introduisent des concessions (bien que, mais, malgré tout). Comment les idées s'enchaînent-elles ? Ne traduisez pas encore.",
+      "dialogue": [
+        {
+          "speaker": "马克",
+          "chinese": "李华，虽然我喜欢去公园，但是今天天气不太好。",
+          "pinyin": "Mǎkè, suīrán wǒ xǐhuān qù gōngyuán, dànshì jīntiān tiānqì bù tài hǎo.",
+          "translation": "Li Hua, bien que j'aime aller au parc, le temps n'est pas très bon aujourd'hui."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "可是，公园很好看，还值得去。",
+          "pinyin": "Kěshì, gōngyuán hěn hǎokàn, hái zhíde qù.",
+          "translation": "Mais le parc est très beau, ça vaut tout de même le coup d'y aller."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "虽然公园很好看，但是我有点儿怕冷。",
+          "pinyin": "Suīrán gōngyuán hěn hǎokàn, dànshì wǒ yǒudiǎnr pà lěng.",
+          "translation": "Bien que le parc soit beau, j'ai un peu peur du froid."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "没关系，可以多穿衣服。虽然有点儿冷，但还可以去。",
+          "pinyin": "Méiguānxi, kěyǐ duō chuān yīfu. Suīrán yǒudiǎnr lěng, dàn hái kěyǐ qù.",
+          "translation": "Ce n'est pas grave, on peut mettre plus de vêtements. Bien qu'il fasse un peu froid, on peut tout de même y aller."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "好吧，虽然我习惯了在家看电视，但今天听你的。",
+          "pinyin": "Hǎo ba, suīrán wǒ xíguàn le zài jiā kàn diànshì, dàn jīntiān tīng nǐ de.",
+          "translation": "D'accord, bien que j'aie l'habitude de regarder la télévision à la maison, aujourd'hui je vais t'écouter."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "虽",
+        "但",
+        "可",
+        "值",
+        "得",
+        "怕",
+        "关"
+      ],
+      "grammar": [
+        {
+          "point": "虽然...但是/可是 : structure concessive",
+          "explanation": "Cette structure permet d'exprimer une concession suivie d'une restriction. 虽然 introduit la concession (bien que...), tandis que 但是 ou 可是 introduit la restriction (mais...). Les deux parties sont obligatoires en chinois. Erreur typique : oublier 但是/可是 et dire *虽然...就... (incorrect).",
+          "examples": [
+            {
+              "chinese": "虽然他不太会游泳，但还想去。",
+              "pinyin": "Suīrán tā bù tài huì yóuyǒng, dàn hái xiǎng qù.",
+              "translation": "Bien qu'il ne sache pas très bien nager, il veut tout de même y aller."
+            },
+            {
+              "chinese": "虽然这杯茶很贵，可是很好喝。",
+              "pinyin": "Suīrán zhè bēi chá hěn guì, kěshì hěn hǎohē.",
+              "translation": "Bien que ce thé soit cher, il est pourtant très bon."
+            }
+          ]
+        },
+        {
+          "point": "还 (malgré tout)",
+          "explanation": "还 est utilisé pour insister sur une action malgré une concession. Il se place généralement après 但是/可是. Erreur typique : confondre 还 (hái, malgré tout) avec 还是 (háishì, dans une question alternative).",
+          "examples": [
+            {
+              "chinese": "虽然下雨，但我们还去了。",
+              "pinyin": "Suīrán xiàyǔ, dàn wǒmen hái qù le.",
+              "translation": "Bien qu'il pleuve, nous y sommes tout de même allés."
+            },
+            {
+              "chinese": "虽然他不太懂，但还很努力。",
+              "pinyin": "Suīrán tā bù tài dǒng, dàn hái hěn nǔlì.",
+              "translation": "Bien qu'il ne comprenne pas très bien, il fait tout de même des efforts."
+            }
+          ]
+        },
+        {
+          "point": "Double connecteur obligatoire",
+          "explanation": "En chinois, 虽然 doit toujours être suivi de 但是 ou 可是. Omettre l'un des deux est une erreur fréquente chez les francophones, qui calquent la structure française 'bien que...'. Exemple incorrect : *虽然他很忙，就来了 (manque 但是/可是).",
+          "examples": [
+            {
+              "chinese": "虽然他生病了，但还来了。",
+              "pinyin": "Suīrán tā bìng le, dàn hái lái le.",
+              "translation": "Bien qu'il soit malade, il est tout de même venu."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au ton de 虽然 (suīrán) : 1er ton (suī) haut et plat, 2e ton (rán) montant. Ne pas prononcer *suí rán (2e ton + 2e ton).",
+        "但是 (dànshì) : 4e ton (dàn) descendant, 4e ton (shì) descendant. Éviter *dàn shí (2e ton).",
+        "还 (hái) : 2e ton montant. Ne pas confondre avec 还是 (háishì, dans une question alternative)."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères et structures s'appuient sur vos acquis pour exprimer des nuances. Voici les liens clés :",
+      "links": [
+        {
+          "from": "虽",
+          "relation": "COMPOSE",
+          "to": "虽然"
+        },
+        {
+          "from": "但",
+          "relation": "COMPOSE",
+          "to": "但是"
+        },
+        {
+          "from": "可",
+          "relation": "COMPOSE",
+          "to": "可是"
+        },
+        {
+          "from": "值",
+          "relation": "COMPOSE",
+          "to": "值得"
+        },
+        {
+          "from": "得",
+          "relation": "COMPOSE",
+          "to": "值得"
+        },
+        {
+          "from": "关",
+          "relation": "COMPOSE",
+          "to": "没关系"
+        },
+        {
+          "from": "虽然...但是...",
+          "relation": "CONTRASTE_AVEC",
+          "to": "因为...所以... (cause à effet)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Exprimez une concession et une restriction sur ce thème : 'vous voulez boire du thé, mais il est trop chaud'. Utilisez 虽然...但是...",
+          "hint": "Pensez à inclure : 茶 (thé), 热 (chaud), 喝 (boire). Exemple de structure : 虽然..., 但是...",
+          "example": {
+            "chinese": "虽然这杯茶很好喝，但是太热了。",
+            "pinyin": "Suīrán zhè bēi chá hěn hǎohē, dànshì tài rè le.",
+            "translation": "Bien que ce thé soit très bon, il est trop chaud."
+          }
+        },
+        {
+          "instruction": "Nuancez cette affirmation : 'Ce livre est intéressant, mais il est cher'. Utilisez 虽然...可是...",
+          "hint": "Utilisez les mots : 书 (livre), 好看 (intéressant), 贵 (cher). Structure : 虽然..., 可是...",
+          "example": {
+            "chinese": "虽然这本书很好看，可是太贵了。",
+            "pinyin": "Suīrán zhè běn shū hěn hǎokàn, kěshì tài guì le.",
+            "translation": "Bien que ce livre soit très intéressant, il est trop cher."
+          }
+        },
+        {
+          "instruction": "Décrivez une situation où vous insistez pour faire quelque chose malgré un obstacle. Utilisez 虽然...但是还...",
+          "hint": "Exemples d'obstacles : 天气不好 (mauvais temps), 很忙 (occupé), 没有钱 (pas d'argent). Exemple de structure : 虽然..., 但是还...",
+          "example": {
+            "chinese": "虽然今天下雨，但是我们还去公园了。",
+            "pinyin": "Suīrán jīntiān xiàyǔ, dànshì wǒmen hái qù gōngyuán le.",
+            "translation": "Bien qu'il pleuve aujourd'hui, nous sommes tout de même allés au parc."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à nuancer vos propos avec des structures concessives. 虽然...但是/可是 permet d'introduire une concession suivie d'une restriction, tandis que 还 insiste sur une action malgré tout. N'oubliez pas que ces structures sont indissociables en chinois : 虽然 doit toujours être suivi de 但是 ou 可是.",
+      "reviewWords": [
+        "虽然",
+        "但是",
+        "可是",
+        "还",
+        "值得",
+        "怕",
+        "没关系",
+        "虽然...但是...",
+        "虽然...可是..."
+      ],
+      "reviewHanzi": [
+        "虽",
+        "但",
+        "可",
+        "值",
+        "得",
+        "怕",
+        "关"
+      ]
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "slug": "bilan-a2",
+  "title": "Bilan A2 : raconter son week-end",
+  "mission": "Raconter un week-end complet avec passé, durée et comparaisons",
+  "level": "A2",
+  "order": 35,
+  "hanzi": [
+    {
+      "character": "周",
+      "pinyin": "zhōu",
+      "meaning": "semaine; tour",
+      "hskLevel": 1,
+      "radical": "口 (bouche)",
+      "components": [
+        "冂",
+        "吉"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une bouche (口) entourée de sons ou d'activités répétées, symbolisant un cycle hebdomadaire. Le lien avec 'semaine' est une extension moderne.",
+      "family": [
+        "星期",
+        "周末"
+      ],
+      "commonErrors": [
+        "Confusion avec 州 (zhōu, 'état/province') en raison de la similitude visuelle."
+      ]
+    },
+    {
+      "character": "末",
+      "pinyin": "mò",
+      "meaning": "fin; extrémité",
+      "hskLevel": 2,
+      "radical": "木 (bois)",
+      "components": [
+        "一",
+        "木"
+      ],
+      "etymology": "Représente la cime d'un arbre (木), où les branches sont moins denses, d'où le sens de 'fin'. L'origine est ancienne et bien attestée.",
+      "family": [
+        "周末"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en 'mè' (4e ton) au lieu de 'mò' (4e ton descendant)."
+      ]
+    },
+    {
+      "character": "赛",
+      "pinyin": "sài",
+      "meaning": "concours; compétition",
+      "hskLevel": 3,
+      "radical": "贝 (coquillage, valeur)",
+      "components": [
+        "宀",
+        "一",
+        "八",
+        "贝"
+      ],
+      "etymology": "Composé phono-sémantique : 宀 (toit) + 贝 (valeur) + phonétique '𡬳' (sài). Représente une compétition où l'on attribue une valeur (贝) sous un toit.",
+      "family": [
+        "比赛"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en 'sāi' (1er ton) au lieu de 'sài' (4e ton descendant)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "周末",
+      "pinyin": "zhōu mò",
+      "meaning": "week-end",
+      "exampleZh": "这个周末你去不去看电影？",
+      "examplePinyin": "Zhè ge zhōu mò nǐ qù bu qù kàn diàn yǐng?",
+      "exampleFr": "Vas-tu au cinéma ce week-end ?"
+    },
+    {
+      "word": "好久不见",
+      "pinyin": "hǎo jiǔ bù jiàn",
+      "meaning": "ça fait longtemps qu'on ne s'est pas vu",
+      "exampleZh": "好久不见！你最近好吗？",
+      "examplePinyin": "Hǎo jiǔ bù jiàn! Nǐ zuì jìn hǎo ma?",
+      "exampleFr": "Ça fait longtemps ! Comment vas-tu ces derniers temps ?"
+    },
+    {
+      "word": "比赛",
+      "pinyin": "bǐ sài",
+      "meaning": "concours; compétition",
+      "exampleZh": "昨天的比赛你去了吗？",
+      "examplePinyin": "Zuó tiān de bǐ sài nǐ qù le ma?",
+      "exampleFr": "Es-tu allé à la compétition d'hier ?"
+    },
+    {
+      "word": "多久",
+      "pinyin": "duō jiǔ",
+      "meaning": "combien de temps",
+      "exampleZh": "你学中文学了多少时间？",
+      "examplePinyin": "Nǐ xué Zhōng wén xué le duō shǎo shí jiān?",
+      "exampleFr": "Depuis combien de temps apprends-tu le chinois ?"
+    },
+    {
+      "word": "更",
+      "pinyin": "gèng",
+      "meaning": "plus; encore plus",
+      "exampleZh": "今天比昨天更热。",
+      "examplePinyin": "Jīn tiān bǐ zuó tiān gèng rè.",
+      "exampleFr": "Aujourd'hui, il fait encore plus chaud qu'hier."
+    },
+    {
+      "word": "最",
+      "pinyin": "zuì",
+      "meaning": "le plus",
+      "exampleZh": "这是我最喜欢的书。",
+      "examplePinyin": "Zhè shì wǒ zuì xǐ huān de shū.",
+      "exampleFr": "C'est mon livre préféré."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu retrouves ton ami(e) chinois(e) après le week-end. Il/elle te demande ce que tu as fait, combien de temps ça a duré, et comment c'était par rapport à d'habitude.",
+      "goals": [
+        "Décrire les activités de ton week-end avec le passé (了).",
+        "Indiquer la durée de chaque activité (多少时间).",
+        "Comparer ton week-end à d'autres (比, 更, 最)."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue ci-dessous. Repère : 1) les mots pour 'week-end' ; 2) les structures de comparaison ; 3) les indications de durée.",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "王明，周末好吗？",
+          "pinyin": "Wáng Míng, zhōu mò hǎo ma?",
+          "translation": "Wang Ming, ton week-end était bien ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好久不见！周末我去看电影了。",
+          "pinyin": "Hǎo jiǔ bù jiàn! Zhōu mò wǒ qù kàn diàn yǐng le.",
+          "translation": "Ça fait longtemps ! Ce week-end, je suis allé voir un film."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "看电影看了多少时间？",
+          "pinyin": "Kàn diàn yǐng kàn le duō shǎo shí jiān?",
+          "translation": "Combien de temps as-tu regardé le film ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "看了两个钟。比上次更好看，但是票更贵。",
+          "pinyin": "Kàn le liǎng ge zhōng. Bǐ shàng cì gèng hǎo kàn, dàn shì piào gèng guì.",
+          "translation": "Je l'ai regardé pendant deux heures. C'était mieux que la dernière fois, mais les billets étaient plus chers."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你觉哪个周末最好？",
+          "pinyin": "Nǐ jué nǎ ge zhōu mò zuì hǎo?",
+          "translation": "Quel week-end as-tu trouvé le meilleur ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "这个周末最好，因我和马克一起去的。",
+          "pinyin": "Zhè ge zhōu mò zuì hǎo, yīn wǒ hé Mǎ kè yī qǐ qù de.",
+          "translation": "Ce week-end était le meilleur, parce que j'y suis allé avec Mark."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "下次我也想去！",
+          "pinyin": "Xià cì wǒ yě xiǎng qù!",
+          "translation": "La prochaine fois, j'aimerais y aller aussi !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "周",
+        "末",
+        "赛"
+      ],
+      "grammar": [
+        {
+          "point": "Raconter au passé avec 了",
+          "explanation": "En chinois, on utilise 了 après le verbe pour indiquer une action accomplie. Attention : le francophone a tendance à oublier 了 ou à le placer avant le verbe (ex: 错误 : 我了去 → 正确 : 我去了).",
+          "examples": [
+            {
+              "chinese": "我吃饭了。",
+              "pinyin": "Wǒ chī fàn le.",
+              "translation": "J'ai mangé."
+            },
+            {
+              "chinese": "他看书了。",
+              "pinyin": "Tā kàn shū le.",
+              "translation": "Il a lu un livre."
+            }
+          ]
+        },
+        {
+          "point": "Durée avec 了...多少时间 ou verbe + 了 + durée",
+          "explanation": "Pour indiquer la durée d'une action passée, on place 了 après le verbe et la durée à la fin. Le francophone confond souvent l'ordre (ex: 错误 : 我两个钟看电影了 → 正确 : 我看电影看了两个钟).",
+          "examples": [
+            {
+              "chinese": "我学中文学了两年。",
+              "pinyin": "Wǒ xué Zhōng wén xué le liǎng nián.",
+              "translation": "J'apprends le chinois depuis deux ans."
+            },
+            {
+              "chinese": "他睡觉睡了八个钟。",
+              "pinyin": "Tā shuì jiào shuì le bā ge zhōng.",
+              "translation": "Il a dormi huit heures."
+            }
+          ]
+        },
+        {
+          "point": "Comparaisons avec 比, 更, 最",
+          "explanation": "比 sert à comparer deux éléments (A 比 B + adjectif). 更 et 最 expriment des degrés : 更 = 'encore plus', 最 = 'le plus'. Erreur typique du francophone : oublier l'ordre (ex: 错误 : 今天比昨天冷更 → 正确 : 今天比昨天更冷).",
+          "examples": [
+            {
+              "chinese": "这个房间比那个大。",
+              "pinyin": "Zhè ge fáng jiān bǐ nà ge dà.",
+              "translation": "Cette pièce est plus grande que celle-là."
+            },
+            {
+              "chinese": "这个菜更好吃。",
+              "pinyin": "Zhè ge cài gèng hǎo chī.",
+              "translation": "Ce plat est encore meilleur."
+            },
+            {
+              "chinese": "这是最好的车。",
+              "pinyin": "Zhè shì zuì hǎo de chē.",
+              "translation": "C'est la meilleure voiture."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "周 (zhōu) : 1er ton (haut et plat). Attention à ne pas prononcer 'zōu' (3e ton).",
+        "末 (mò) : 4e ton (descendant). Évitez de le prononcer 'mè' (4e ton).",
+        "赛 (sài) : 4e ton (descendant). Ne pas confondre avec 'sāi' (1er ton)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères s'appuient sur des acquis :",
+      "links": [
+        {
+          "from": "周",
+          "relation": "COMPOSE",
+          "to": "周末"
+        },
+        {
+          "from": "末",
+          "relation": "COMPOSE",
+          "to": "周末"
+        },
+        {
+          "from": "赛",
+          "relation": "COMPOSE",
+          "to": "比赛"
+        },
+        {
+          "from": "赛",
+          "relation": "RADICAL_DE",
+          "to": "贝 (coquillage, valeur)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Raconte ton week-end à un ami. Utilise : 1) 3 activités avec 了 ; 2) la durée de chaque activité (多少时间) ; 3) une comparaison avec un autre week-end (比, 更, 最).",
+          "hint": "Exemple de structure : 周末我去了...，...了...个钟。比上次...，因...。我觉...最...。",
+          "example": {
+            "chinese": "周末我看了电视，看了两个钟。比上个周末更好看，因这个节目最好。",
+            "pinyin": "Zhōu mò wǒ kàn le diàn shì, kàn le liǎng ge zhōng. Bǐ shàng ge zhōu mò gèng hǎo kàn, yīn zhè ge jié mù zuì hǎo.",
+            "translation": "Ce week-end, j'ai regardé la télévision pendant deux heures. C'était mieux que le week-end dernier, parce que cette émission était la meilleure."
+          }
+        },
+        {
+          "instruction": "Demande à ton ami combien de temps il a fait une activité ce week-end. Utilise 多少时间 et une comparaison.",
+          "hint": "Exemple : 你周末...了多少时间？比...更...吗？",
+          "example": {
+            "chinese": "你周末游泳游了多少时间？比上次更快吗？",
+            "pinyin": "Nǐ zhōu mò yóu yǒng yóu le duō shǎo shí jiān? Bǐ shàng cì gèng kuài ma?",
+            "translation": "Combien de temps as-tu nagé ce week-end ? Plus vite que la dernière fois ?"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à : 1) Raconter ton week-end avec 了 (passé) ; 2) Exprimer la durée avec 了...多少时间 ; 3) Comparer avec 比, 更, 最. Ces outils te permettent de décrire des expériences passées de manière détaillée et nuancée.",
+      "reviewWords": [
+        "周末",
+        "好久不见",
+        "比赛",
+        "多久",
+        "更",
+        "最"
+      ],
+      "reviewHanzi": [
+        "周",
+        "末",
+        "赛"
+      ]
+    }
+  }
+}

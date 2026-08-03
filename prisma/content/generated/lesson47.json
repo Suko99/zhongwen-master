@@ -1,0 +1,259 @@
+{
+  "slug": "de-plus-en-plus",
+  "title": "De plus en plus : 越来越",
+  "mission": "Décrire des évolutions et tendances",
+  "level": "B1",
+  "order": 47,
+  "hanzi": [
+    {
+      "character": "越",
+      "pinyin": "yuè",
+      "meaning": "de plus en plus / dépasser",
+      "hskLevel": 3,
+      "radical": "走 (zǒu - marcher)",
+      "components": [
+        "走 (zǒu)",
+        "戈 (gē - lance)"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que 越 représente une personne (戈) qui marche (走) au-delà d'une limite, d'où l'idée de dépasser ou d'augmenter progressivement. L'origine exacte reste débattue parmi les experts.",
+      "family": [
+        "越来越",
+        "超越"
+      ],
+      "commonErrors": [
+        "Confondre 越 (yuè) avec 跃 (yuè - sauter) à cause de la ressemblance graphique."
+      ]
+    },
+    {
+      "character": "变",
+      "pinyin": "biàn",
+      "meaning": "changer / devenir",
+      "hskLevel": 3,
+      "radical": "又 (yòu - encore)",
+      "components": [
+        "亠 (tóu - tête)",
+        "又 (yòu)"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que 变 représente une tête (亠) qui change encore (又), d'où l'idée de transformation. Le lien avec le radical 又 (main) suggère une action manuelle de modification.",
+      "family": [
+        "变化",
+        "变得"
+      ],
+      "commonErrors": [
+        "Confondre 变 (biàn) avec 便 (biàn - alors) à cause de la prononciation identique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "越来越",
+      "pinyin": "yuè lái yuè",
+      "meaning": "de plus en plus",
+      "exampleZh": "他越来越高。",
+      "examplePinyin": "Tā yuè lái yuè gāo.",
+      "exampleFr": "Il devient de plus en plus grand."
+    },
+    {
+      "word": "变得",
+      "pinyin": "biàn de",
+      "meaning": "devenir (dans un état)",
+      "exampleZh": "他变得很大。",
+      "examplePinyin": "Tā biàn de hěn dà.",
+      "exampleFr": "Il devient très grand."
+    },
+    {
+      "word": "越...越...",
+      "pinyin": "yuè... yuè...",
+      "meaning": "plus... plus...",
+      "exampleZh": "越看越好。",
+      "examplePinyin": "Yuè kàn yuè hǎo.",
+      "exampleFr": "Plus on regarde, mieux c'est."
+    },
+    {
+      "word": "高",
+      "pinyin": "gāo",
+      "meaning": "grand/haut",
+      "exampleZh": "这个楼越来越高。",
+      "examplePinyin": "Zhège lóu yuè lái yuè gāo.",
+      "exampleFr": "Ce bâtiment devient de plus en plus haut."
+    },
+    {
+      "word": "好",
+      "pinyin": "hǎo",
+      "meaning": "bon/bien",
+      "exampleZh": "这本书越来越好。",
+      "examplePinyin": "Zhè běn shū yuè lái yuè hǎo.",
+      "exampleFr": "Ce livre devient de plus en plus bien."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu décris comment ton quartier, tes habitudes ou la société changent avec le temps. Par exemple : comment les gens marchent de plus en plus vite, comment ton ami devient de plus en plus grand, ou comment les prix augmentent.",
+      "goals": [
+        "Utiliser 越来越 + adjectif pour décrire une tendance.",
+        "Utiliser 越...越... pour exprimer une corrélation entre deux actions.",
+        "Utiliser 变得 pour indiquer un changement d'état."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe ce dialogue et note comment les personnages décrivent des changements. Repère les structures qui reviennent souvent.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "这几天天气越来越热。",
+          "pinyin": "Zhè jǐ tiān tiānqì yuè lái yuè rè.",
+          "translation": "Ces derniers jours, le temps devient de plus en plus chaud."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "啊，我越来越不喜欢热天。",
+          "pinyin": "A, wǒ yuè lái yuè bù xǐhuan rè tiān.",
+          "translation": "Ah, je n'aime de plus en plus pas les jours chauds."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我天天去公园，因为越走越好。",
+          "pinyin": "Wǒ tiāntiān qù gōngyuán, yīnwèi yuè zǒu yuè hǎo.",
+          "translation": "Je vais tous les jours au parc, parce que plus je marche, mieux je me sens."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "这个公园变得很多人来。",
+          "pinyin": "Zhège gōngyuán biàn de hěn duō rén lái.",
+          "translation": "Ce parc devient très fréquenté."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "越",
+        "变"
+      ],
+      "grammar": [
+        {
+          "point": "越来越 + adjectif",
+          "explanation": "Cette structure exprime une tendance progressive : 'de plus en plus + adjectif'. L'adjectif qui suit est toujours au positif (ex: 热, 高, 好). Attention : le francophone a tendance à oublier le 来 et dire simplement '越 + adjectif'.",
+          "examples": [
+            {
+              "chinese": "他越来越高。",
+              "pinyin": "Tā yuè lái yuè gāo.",
+              "translation": "Il devient de plus en plus grand."
+            },
+            {
+              "chinese": "这个房间越来越大。",
+              "pinyin": "Zhège fángjiān yuè lái yuè dà.",
+              "translation": "Cette pièce devient de plus en plus grande."
+            }
+          ]
+        },
+        {
+          "point": "越...越...",
+          "explanation": "Cette structure exprime une corrélation : 'plus... plus...'. La première partie introduit une condition, la seconde le résultat. Les deux parties utilisent le même verbe ou adjectif. Erreur typique : oublier un des 越 ou inverser l'ordre.",
+          "examples": [
+            {
+              "chinese": "越吃越想吃。",
+              "pinyin": "Yuè chī yuè xiǎng chī.",
+              "translation": "Plus on mange, plus on a envie de manger."
+            },
+            {
+              "chinese": "越看越喜欢。",
+              "pinyin": "Yuè kàn yuè xǐhuan.",
+              "translation": "Plus on regarde, plus on aime."
+            }
+          ]
+        },
+        {
+          "point": "变得 + adjectif",
+          "explanation": "变得 introduit un changement d'état : 'devenir + adjectif'. Il est souvent utilisé avec des adjectifs comme 高, 好, ou 多. Erreur typique : confondre avec 变成 (qui introduit un nom, pas un adjectif).",
+          "examples": [
+            {
+              "chinese": "他变得很高。",
+              "pinyin": "Tā biàn de hěn gāo.",
+              "translation": "Il devient très grand."
+            },
+            {
+              "chinese": "这个房间变得很大。",
+              "pinyin": "Zhège fángjiān biàn de hěn dà.",
+              "translation": "Cette pièce devient très grande."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 越 (yuè) est descendant (4e ton) : haut puis descendant comme 'non !' en français.",
+        "Le ton de 变 (biàn) est descendant-montant (3e ton) : bas puis remontant comme 'hein ?' interrogatif.",
+        "Dans 越来越, 来 est prononcé avec un ton léger (neutre) car il fait partie d'une structure figée."
+      ]
+    },
+    "connection": {
+      "text": "Ces structures s'appuient sur des caractères déjà connus. 越 contient le radical 走 (marcher) qui évoque le mouvement, ce qui aide à mémoriser l'idée de progression. 变 est lié à l'idée de changement déjà vue avec 变化 (changement).",
+      "links": [
+        {
+          "from": "越",
+          "relation": "RADICAL_DE",
+          "to": "走"
+        },
+        {
+          "from": "变",
+          "relation": "DONNE_LE_SON",
+          "to": "便"
+        },
+        {
+          "from": "越来越",
+          "relation": "COMPOSE",
+          "to": "越"
+        },
+        {
+          "from": "变得",
+          "relation": "COMPOSE",
+          "to": "变"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décris une tendance que tu observes dans ta vie quotidienne en utilisant 越来越 + adjectif.",
+          "hint": "Pense à des changements comme : les prix qui montent, les gens qui marchent plus vite, ou ton ami qui grandit.",
+          "example": {
+            "chinese": "现在车越来越贵。",
+            "pinyin": "Xiànzài chē yuè lái yuè guì.",
+            "translation": "Maintenant, les voitures deviennent de plus en plus chères."
+          }
+        },
+        {
+          "instruction": "Exprime une corrélation entre deux actions en utilisant 越...越....",
+          "hint": "Pense à des actions qui s'influencent : plus tu manges, plus tu es content ; plus tu étudies, plus tu comprends.",
+          "example": {
+            "chinese": "越学越懂。",
+            "pinyin": "Yuè xué yuè dǒng.",
+            "translation": "Plus on étudie, plus on comprend."
+          }
+        },
+        {
+          "instruction": "Décris un changement d'état en utilisant 变得 + adjectif.",
+          "hint": "Pense à des transformations comme : devenir plus grand, plus propre, ou plus fréquenté.",
+          "example": {
+            "chinese": "这个学校变得很大。",
+            "pinyin": "Zhège xuéxiào biàn de hěn dà.",
+            "translation": "Cette école devient très grande."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à décrire des évolutions avec trois structures clés : 越来越 + adjectif pour les tendances, 越...越... pour les corrélations, et 变得 + adjectif pour les changements d'état. Ces outils te permettent de parler des transformations dans ton environnement ou ta vie quotidienne.",
+      "reviewWords": [
+        "越来越",
+        "变得",
+        "越...越...",
+        "高",
+        "好"
+      ],
+      "reviewHanzi": [
+        "越",
+        "变"
+      ]
+    }
+  }
+}

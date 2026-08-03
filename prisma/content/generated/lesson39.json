@@ -1,0 +1,443 @@
+{
+  "slug": "parce-que-donc",
+  "title": "Parce que... donc : 因为...所以",
+  "mission": "Expliquer les causes et conséquences avec des connecteurs logiques",
+  "level": "B1",
+  "order": 39,
+  "hanzi": [
+    {
+      "character": "因",
+      "pinyin": "yīn",
+      "meaning": "cause, raison",
+      "hskLevel": 3,
+      "radical": "囗 (enceinte)",
+      "components": [
+        "囗",
+        "大"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une personne (大) enfermée dans une enceinte (囗), symbolisant une cause ou une raison interne. L'origine exacte est débattue, mais la logique phono-sémantique associe 囗 à la notion de limite et 大 comme élément phonétique.",
+      "family": [
+        "因为",
+        "原因"
+      ],
+      "commonErrors": [
+        "Confusion avec 困 (kùn) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "为",
+      "pinyin": "wèi",
+      "meaning": "pour, à cause de",
+      "hskLevel": 2,
+      "radical": "丶 (point)",
+      "components": [
+        "丶",
+        "力"
+      ],
+      "etymology": "Ce caractère dérive d'une représentation ancienne d'une main tenant un objet, symbolisant l'action ou la cause. En composition, il prend souvent le sens de 'pour' ou 'à cause de'. Attention : il se prononce wéi au 2e ton dans d'autres contextes (ex: 以为).",
+      "family": [
+        "因为",
+        "为什么",
+        "为了"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en wéi au lieu de wèi dans 因为."
+      ]
+    },
+    {
+      "character": "所",
+      "pinyin": "suǒ",
+      "meaning": "endroit, donc (dans 所以)",
+      "hskLevel": 3,
+      "radical": "户 (porte)",
+      "components": [
+        "户",
+        "斤"
+      ],
+      "etymology": "Ce caractère combine 户 (porte) et 斤 (hache), symbolisant un lieu où l'on décide. Dans 所以, il prend un sens abstrait de conséquence. La logique phono-sémantique associe 户 à la notion de lieu et 斤 comme élément phonétique.",
+      "family": [
+        "所以"
+      ],
+      "commonErrors": [
+        "Confusion avec 斤 (jīn) en raison du composant commun."
+      ]
+    },
+    {
+      "character": "由",
+      "pinyin": "yóu",
+      "meaning": "raison, cause (dans 由于)",
+      "hskLevel": 3,
+      "radical": "丨 (ligne verticale)",
+      "components": [
+        "丨",
+        "田"
+      ],
+      "etymology": "Ce caractère représente un champ (田) avec une ligne verticale (丨), symbolisant une origine ou une source. Dans 由于, il exprime la cause. La logique phono-sémantique associe 田 à la notion de source et 丨 comme marqueur.",
+      "family": [
+        "由于"
+      ],
+      "commonErrors": [
+        "Confusion avec 甲 (jiǎ) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "故",
+      "pinyin": "gù",
+      "meaning": "raison, ancien (dans 缘故)",
+      "hskLevel": 4,
+      "radical": "攵 (action)",
+      "components": [
+        "古",
+        "攵"
+      ],
+      "etymology": "Ce caractère combine 古 (ancien) et 攵 (action), symbolisant une cause liée au passé. La logique phono-sémantique associe 古 comme élément phonétique et 攵 pour l'action.",
+      "family": [
+        "缘故"
+      ],
+      "commonErrors": [
+        "Confusion avec 做 (zuò) en raison du composant 攵."
+      ]
+    },
+    {
+      "character": "缘",
+      "pinyin": "yuán",
+      "meaning": "raison, bord (dans 缘故)",
+      "hskLevel": 4,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "彖"
+      ],
+      "etymology": "Ce caractère combine 纟 (soie) et 彖 (interpréter), symbolisant un lien ou une raison. La logique phono-sémantique associe 纟 à la notion de lien et 彖 comme élément phonétique.",
+      "family": [
+        "缘故"
+      ],
+      "commonErrors": [
+        "Confusion avec 绿 (lǜ) en raison du radical 纟."
+      ]
+    },
+    {
+      "character": "案",
+      "pinyin": "àn",
+      "meaning": "cas, dossier (dans 答案)",
+      "hskLevel": 4,
+      "radical": "木 (bois)",
+      "components": [
+        "安",
+        "木"
+      ],
+      "etymology": "Ce caractère combine 安 (paix) et 木 (bois), symbolisant une table où l'on pose des documents. Dans 答案, il prend le sens de réponse. La logique phono-sémantique associe 安 comme élément phonétique et 木 pour la table.",
+      "family": [
+        "答案"
+      ],
+      "commonErrors": [
+        "Confusion avec 安 (ān) en raison du composant commun."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "因为",
+      "pinyin": "yīn wèi",
+      "meaning": "parce que",
+      "exampleZh": "因为天气不好，我们不出去。",
+      "examplePinyin": "Yīnwèi tiānqì bù hǎo, wǒmen bù chūqù.",
+      "exampleFr": "Parce que le temps n'est pas bon, nous ne sortons pas."
+    },
+    {
+      "word": "所以",
+      "pinyin": "suǒ yǐ",
+      "meaning": "donc",
+      "exampleZh": "他很累，所以早睡。",
+      "examplePinyin": "Tā hěn lèi, suǒyǐ zǎo shuì.",
+      "exampleFr": "Il est très fatigué, donc il se couche tôt."
+    },
+    {
+      "word": "为什么",
+      "pinyin": "wèi shén me",
+      "meaning": "pourquoi",
+      "exampleZh": "你为什么不吃？",
+      "examplePinyin": "Nǐ wèishénme bù chī?",
+      "exampleFr": "Pourquoi ne manges-tu pas ?"
+    },
+    {
+      "word": "由于",
+      "pinyin": "yóu yú",
+      "meaning": "en raison de (registre écrit)",
+      "exampleZh": "由于时间不多，我们快走。",
+      "examplePinyin": "Yóuyú shíjiān bù duō, wǒmen kuài zǒu.",
+      "exampleFr": "En raison du peu de temps, nous nous dépêchons."
+    },
+    {
+      "word": "回答",
+      "pinyin": "huí dá",
+      "meaning": "répondre",
+      "exampleZh": "请问，你回答我。",
+      "examplePinyin": "Qǐng wèn, nǐ huídá wǒ.",
+      "exampleFr": "S'il te plaît, réponds à ma question."
+    },
+    {
+      "word": "答案",
+      "pinyin": "dá àn",
+      "meaning": "réponse, solution",
+      "exampleZh": "这个问的答案是什么？",
+      "examplePinyin": "Zhège wèn de dá'àn shì shénme?",
+      "exampleFr": "Quelle est la réponse à cette question ?"
+    },
+    {
+      "word": "缘故",
+      "pinyin": "yuán gù",
+      "meaning": "raison, cause",
+      "exampleZh": "由于天气缘故，我们不去。",
+      "examplePinyin": "Yóuyú tiānqì yuángù, wǒmen bù qù.",
+      "exampleFr": "En raison du temps, nous n'y allons pas."
+    },
+    {
+      "word": "慢慢",
+      "pinyin": "màn man",
+      "meaning": "lentement",
+      "exampleZh": "你慢慢吃，别着急。",
+      "examplePinyin": "Nǐ mànman chī, bié zháojí.",
+      "exampleFr": "Mange lentement, ne te presse pas."
+    },
+    {
+      "word": "好久",
+      "pinyin": "hǎo jiǔ",
+      "meaning": "longtemps",
+      "exampleZh": "好久不见，你最近怎么样？",
+      "examplePinyin": "Hǎojiǔ bù jiàn, nǐ zuìjìn zěnmeyàng?",
+      "exampleFr": "Ça fait longtemps qu'on ne s'est pas vus, comment vas-tu récemment ?"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 discutent des raisons pour lesquelles 王明 n'est pas venu hier. Ils expliquent les causes et conséquences de différentes situations.",
+      "goals": [
+        "Utiliser 因为...所以 pour lier cause et conséquence",
+        "Répondre à 为什么 avec une explication développée",
+        "Employer 由于 dans un registre plus formel"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez les mots qui introduisent des explications ou des conséquences. Comment sont-ils placés dans la phrase ?",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "王明，你昨天为什么没来？",
+          "pinyin": "Wáng Míng, nǐ zuótiān wèishénme méi lái?",
+          "translation": "Wang Ming, pourquoi n'es-tu pas venu hier ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "因为我生病了，所以没去。",
+          "pinyin": "Yīnwèi wǒ shēngbìng le, suǒyǐ méi qù.",
+          "translation": "Parce que j'étais malade, donc je ne suis pas venu."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你现在好点儿了吗？",
+          "pinyin": "Nǐ xiànzài hǎo diǎnr le ma?",
+          "translation": "Est-ce que ça va mieux maintenant ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好多了。由于吃了药，头不痛了。",
+          "pinyin": "Hǎo duō le. Yóuyú chī le yào, tóu bù tòng le.",
+          "translation": "Beaucoup mieux. En raison des médicaments, je n'ai plus mal à la tête."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "那你今天有空吗？我想请你吃饭。",
+          "pinyin": "Nà nǐ jīntiān yǒu kòng ma? Wǒ xiǎng qǐng nǐ chīfàn.",
+          "translation": "Alors, es-tu libre aujourd'hui ? Je voudrais t'inviter à manger."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好啊！因为你是我的好朋友，所以我一定去。",
+          "pinyin": "Hǎo a! Yīnwèi nǐ shì wǒ de hǎo péngyou, suǒyǐ wǒ yīdìng qù.",
+          "translation": "D'accord ! Parce que tu es mon bon ami, donc je viendrai certainement."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "太好了！我们慢慢吃，好久没见了。",
+          "pinyin": "Tài hǎo le! Wǒmen mànman chī, hǎojiǔ méi jiàn le.",
+          "translation": "Super ! Nous mangerons lentement, ça fait longtemps qu'on ne s'est pas vus."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "因",
+        "为",
+        "所",
+        "由",
+        "故",
+        "缘",
+        "案"
+      ],
+      "grammar": [
+        {
+          "point": "因为...所以 : cause et conséquence",
+          "explanation": "因为 introduit la cause, 所以 introduit la conséquence. Ces deux connecteurs sont souvent utilisés ensemble, mais 所以 peut être omis dans un registre oral. Erreur typique : placer 所以 en début de phrase comme en français.",
+          "examples": [
+            {
+              "chinese": "因为天冷，所以我多穿衣。",
+              "pinyin": "Yīnwèi tiān lěng, suǒyǐ wǒ duō chuān yī.",
+              "translation": "Parce qu'il fait froid, donc je mets plus de vêtements."
+            },
+            {
+              "chinese": "他很累，所以早睡。",
+              "pinyin": "Tā hěn lèi, suǒyǐ zǎo shuì.",
+              "translation": "Il est très fatigué, donc il se couche tôt."
+            }
+          ]
+        },
+        {
+          "point": "为什么 en réponse développée",
+          "explanation": "Pour répondre à 为什么, on utilise souvent 因为 suivi de la cause. On peut aussi ajouter 所以 pour introduire une conséquence, mais ce n'est pas obligatoire. Erreur typique : oublier le 因为 et répondre directement avec la conséquence.",
+          "examples": [
+            {
+              "chinese": "A: 你为什么不去？ B: 因为我有事。",
+              "pinyin": "A: Nǐ wèishénme bù qù? B: Yīnwèi wǒ yǒu shì.",
+              "translation": "A : Pourquoi ne vas-tu pas ? B : Parce que j'ai quelque chose à faire."
+            },
+            {
+              "chinese": "A: 你为什么学中文？ B: 因为我想去中国。",
+              "pinyin": "A: Nǐ wèishénme xué Zhōngwén? B: Yīnwèi wǒ xiǎng qù Zhōngguó.",
+              "translation": "A : Pourquoi apprends-tu le chinois ? B : Parce que je veux aller en Chine."
+            }
+          ]
+        },
+        {
+          "point": "由于 : registre écrit",
+          "explanation": "由于 est un synonyme plus formel de 因为, souvent utilisé à l'écrit. Il peut être suivi de 所以, mais ce n'est pas obligatoire. Erreur typique : utiliser 由于 dans un contexte oral informel.",
+          "examples": [
+            {
+              "chinese": "由于时间不多，我们快走。",
+              "pinyin": "Yóuyú shíjiān bù duō, wǒmen kuài zǒu.",
+              "translation": "En raison du peu de temps, nous nous dépêchons."
+            },
+            {
+              "chinese": "由于下雨，我们不去了。",
+              "pinyin": "Yóuyú xiàyǔ, wǒmen bù qù le.",
+              "translation": "En raison de la pluie, nous n'y allons pas."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au ton de 为 dans 因为 : il se prononce wèi (4e ton), et non wéi (2e ton). Exemple : 因为 (yīn wèi).",
+        "Le ton de 所 dans 所以 est le 3e ton (descendant-montant) : suǒ yǐ. Veillez à ne pas le prononcer comme un 1er ton (suō).",
+        "Dans 由于, 由 se prononce yóu (2e ton montant), et non yōu. Exemple : 由于 (yóu yú)."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères et mots s'appuient sur des acquis précédents pour exprimer des relations logiques plus complexes.",
+      "links": [
+        {
+          "from": "因",
+          "relation": "COMPOSE",
+          "to": "因为"
+        },
+        {
+          "from": "为",
+          "relation": "COMPOSE",
+          "to": "因为"
+        },
+        {
+          "from": "所",
+          "relation": "COMPOSE",
+          "to": "所以"
+        },
+        {
+          "from": "由",
+          "relation": "COMPOSE",
+          "to": "由于"
+        },
+        {
+          "from": "故",
+          "relation": "COMPOSE",
+          "to": "缘故"
+        },
+        {
+          "from": "缘",
+          "relation": "COMPOSE",
+          "to": "缘故"
+        },
+        {
+          "from": "案",
+          "relation": "COMPOSE",
+          "to": "答案"
+        },
+        {
+          "from": "因为...所以",
+          "relation": "CONTRASTE_AVEC",
+          "to": "先...然后"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Expliquez pourquoi vous n'êtes pas allé à l'école hier en utilisant 因为...所以.",
+          "hint": "Utilisez des mots déjà connus comme 生病 ou 天气. Exemple : 因为 [cause], 所以 [conséquence].",
+          "example": {
+            "chinese": "因为我生病了，所以没去学校。",
+            "pinyin": "Yīnwèi wǒ shēngbìng le, suǒyǐ méi qù xuéxiào.",
+            "translation": "Parce que j'étais malade, donc je ne suis pas allé à l'école."
+          }
+        },
+        {
+          "instruction": "Répondez à la question suivante en utilisant 因为 : 你为什么喜欢冬天？",
+          "hint": "Pensez à des activités ou caractéristiques de l'hiver (下雪, 冷, etc.).",
+          "example": {
+            "chinese": "因为冬天可以看雪。",
+            "pinyin": "Yīnwèi dōngtiān kěyǐ kàn xuě.",
+            "translation": "Parce qu'en hiver, on peut voir la neige."
+          }
+        },
+        {
+          "instruction": "Décrivez une situation où vous avez utilisé 由于 dans un contexte formel.",
+          "hint": "Utilisez des mots comme 工作 ou 时间. Exemple : 由于 [cause], [conséquence].",
+          "example": {
+            "chinese": "由于工作太多，我没时间休息。",
+            "pinyin": "Yóuyú gōngzuò tài duō, wǒ méi shíjiān xiūxi.",
+            "translation": "En raison de trop de travail, je n'ai pas eu le temps de me reposer."
+          }
+        },
+        {
+          "instruction": "Imaginez un dialogue où vous expliquez à un ami pourquoi vous préférez habiter en ville. Utilisez 因为 et 所以.",
+          "hint": "Pensez aux avantages de la ville (方便, 公共汽车, 商店, etc.).",
+          "example": {
+            "chinese": "A: 你为什么喜欢住在城市？ B: 因为城市有很多商店和公共汽车，所以生活很方便。",
+            "pinyin": "A: Nǐ wèishénme xǐhuān zhù zài chéngshì? B: Yīnwèi chéngshì yǒu hěn duō shāngdiàn hé gōnggòng qìchē, suǒyǐ shēnghuó hěn fāngbiàn.",
+            "translation": "A : Pourquoi aimes-tu habiter en ville ? B : Parce que la ville a beaucoup de magasins et de bus, donc la vie est très pratique."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à exprimer des causes et des conséquences avec 因为...所以, à répondre à des questions avec 为什么, et à utiliser 由于 dans un registre plus formel. Ces structures vous permettent de construire des phrases plus complexes et d'expliquer vos actions de manière logique.",
+      "reviewWords": [
+        "因为",
+        "所以",
+        "为什么",
+        "由于",
+        "回答",
+        "答案",
+        "缘故",
+        "慢慢",
+        "好久"
+      ],
+      "reviewHanzi": [
+        "因",
+        "为",
+        "所",
+        "由",
+        "故",
+        "缘",
+        "案"
+      ]
+    }
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "slug": "ecrire-un-texte-argumente",
+  "title": "Écrire un texte argumenté",
+  "mission": "Rédiger un texte de 300 caractères structuré sur un sujet de société en utilisant une introduction, un développement et une conclusion avec des connecteurs logiques.",
+  "level": "B2",
+  "order": 59,
+  "hanzi": [
+    {
+      "character": "言",
+      "pinyin": "yán",
+      "meaning": "parole, dire",
+      "hskLevel": 3,
+      "radical": "言 (parole)",
+      "components": [
+        "言"
+      ],
+      "etymology": "Représente une langue sortant de la bouche, symbolisant la parole ou le discours. Utilisé comme radical dans de nombreux caractères liés à la communication.",
+      "family": [
+        "语言 (yǔyán)",
+        "发言 (fāyán)"
+      ],
+      "commonErrors": [
+        "Confondre avec « 信 » (xìn, lettre) en raison d'une graphie partiellement similaire."
+      ]
+    },
+    {
+      "character": "议",
+      "pinyin": "yì",
+      "meaning": "discuter, proposition",
+      "hskLevel": 4,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "义"
+      ],
+      "etymology": "Composé phono-sémantique : le radical « 讠 » (parole) évoque une discussion, tandis que « 义 » (yì) donne le son et renforce l'idée de « sens » ou « proposition ».",
+      "family": [
+        "建议 (jiànyì)",
+        "会议 (huìyì)"
+      ],
+      "commonErrors": [
+        "Prononcer « yí » (2e ton) au lieu de « yì » (4e ton descendant)."
+      ]
+    },
+    {
+      "character": "沟",
+      "pinyin": "gōu",
+      "meaning": "fossé, communiquer",
+      "hskLevel": 5,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "勾"
+      ],
+      "etymology": "Le radical « 氵 » évoque l'eau, tandis que « 勾 » (gōu) donne le son. À l'origine, désignait un fossé ou un canal, d'où l'idée de « communication » ou de « lien ».",
+      "family": [
+        "沟通 (gōutōng)",
+        "沟渠 (gōuqú)"
+      ],
+      "commonErrors": [
+        "Confondre avec « 钩 » (gōu, crochet) en raison de la proximité phonétique."
+      ]
+    },
+    {
+      "character": "通",
+      "pinyin": "tōng",
+      "meaning": "passer, communiquer",
+      "hskLevel": 3,
+      "radical": "辶 (mouvement)",
+      "components": [
+        "辶",
+        "甬"
+      ],
+      "etymology": "Le radical « 辶 » indique un mouvement, tandis que « 甬 » (yǒng) donne le son. L'idée est de « passer à travers » ou de « communiquer ».",
+      "family": [
+        "沟通 (gōutōng)",
+        "通过 (tōngguò)"
+      ],
+      "commonErrors": [
+        "Prononcer « tòng » (4e ton) au lieu de « tōng » (1er ton)."
+      ]
+    },
+    {
+      "character": "处",
+      "pinyin": "chù",
+      "meaning": "endroit, aspect",
+      "hskLevel": 3,
+      "radical": "夂 (action)",
+      "components": [
+        "夂",
+        "卜"
+      ],
+      "etymology": "Le radical « 夂 » évoque une action, tandis que « 卜 » (bǔ) donne le son. À l'origine, désignait un lieu ou une position, d'où l'idée d'« aspect » ou de « point de vue ».",
+      "family": [
+        "好处 (hǎochù)",
+        "坏处 (huàichù)"
+      ],
+      "commonErrors": [
+        "Confondre avec « 外 » (wài, extérieur) en raison d'une graphie partiellement similaire."
+      ]
+    },
+    {
+      "character": "使",
+      "pinyin": "shǐ",
+      "meaning": "utiliser, faire faire",
+      "hskLevel": 4,
+      "radical": "亻 (personne)",
+      "components": [
+        "亻",
+        "吏"
+      ],
+      "etymology": "Composé phono-sémantique : le radical « 亻 » (personne) évoque une action humaine, tandis que « 吏 » (lì) donne le son. L'idée est de « faire faire » ou « utiliser ».",
+      "family": [
+        "使用 (shǐyòng)",
+        "使得 (shǐdé)"
+      ],
+      "commonErrors": [
+        "Prononcer « shì » (4e ton) au lieu de « shǐ » (3e ton descendant-montant)."
+      ]
+    },
+    {
+      "character": "注",
+      "pinyin": "zhù",
+      "meaning": "remarquer, verser",
+      "hskLevel": 4,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "主"
+      ],
+      "etymology": "Le radical « 氵 » évoque l'eau, tandis que « 主 » (zhǔ) donne le son. À l'origine, désignait l'action de verser de l'eau, d'où l'idée de « prêter attention » ou « remarquer ».",
+      "family": [
+        "注意 (zhùyì)",
+        "注重 (zhùzhòng)"
+      ],
+      "commonErrors": [
+        "Confondre avec « 柱 » (zhù, pilier) en raison de la proximité phonétique."
+      ]
+    },
+    {
+      "character": "清",
+      "pinyin": "qīng",
+      "meaning": "clair, pur",
+      "hskLevel": 3,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "青"
+      ],
+      "etymology": "Composé phono-sémantique : le radical « 氵 » (eau) évoque la pureté, tandis que « 青 » (qīng) donne le son. L'idée est de « clarté » ou de « transparence ».",
+      "family": [
+        "清楚 (qīngchu)",
+        "清洁 (qīngjié)"
+      ],
+      "commonErrors": [
+        "Prononcer « qìng » (4e ton) au lieu de « qīng » (1er ton)."
+      ]
+    },
+    {
+      "character": "普",
+      "pinyin": "pǔ",
+      "meaning": "universel, général",
+      "hskLevel": 4,
+      "radical": "日 (soleil)",
+      "components": [
+        "並",
+        "日"
+      ],
+      "etymology": "Le radical « 日 » évoque la lumière ou la généralité, tandis que « 並 » (bìng) donne le son. L'idée est de « répandre » ou de « généraliser ».",
+      "family": [
+        "普通 (pǔtōng)",
+        "普及 (pǔjí)"
+      ],
+      "commonErrors": [
+        "Confondre avec « 晋 » (jìn, avancer) en raison d'une graphie partiellement similaire."
+      ]
+    },
+    {
+      "character": "容",
+      "pinyin": "róng",
+      "meaning": "contenir, permettre",
+      "hskLevel": 4,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "谷"
+      ],
+      "etymology": "Le radical « 宀 » évoque un abri, tandis que « 谷 » (gǔ) donne le son. L'idée est de « contenir » ou de « permettre ».",
+      "family": [
+        "容易 (róngyì)",
+        "内容 (nèiróng)"
+      ],
+      "commonErrors": [
+        "Prononcer « yóng » (2e ton) au lieu de « róng » (2e ton montant)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "言",
+      "pinyin": "yán",
+      "meaning": "parole, introduction",
+      "exampleZh": "这篇文章的言很清楚。",
+      "examplePinyin": "Zhè piān wénzhāng de yán hěn qīngchu.",
+      "exampleFr": "L'introduction de cet article est très claire."
+    },
+    {
+      "word": "议",
+      "pinyin": "yì",
+      "meaning": "proposition, suggestion",
+      "exampleZh": "你有什么议？",
+      "examplePinyin": "Nǐ yǒu shénme yì?",
+      "exampleFr": "As-tu des suggestions ?"
+    },
+    {
+      "word": "沟通",
+      "pinyin": "gōutōng",
+      "meaning": "communiquer, communication",
+      "exampleZh": "社交媒体帮沟通。",
+      "examplePinyin": "Shèjiāo méitǐ bāng gōutōng.",
+      "exampleFr": "Les réseaux sociaux aident à la communication."
+    },
+    {
+      "word": "处",
+      "pinyin": "chù",
+      "meaning": "aspect, point",
+      "exampleZh": "社交媒体有好处也有坏处。",
+      "examplePinyin": "Shèjiāo méitǐ yǒu hǎochù yě yǒu huàichù.",
+      "exampleFr": "Les réseaux sociaux ont des avantages et des inconvénients."
+    },
+    {
+      "word": "使用",
+      "pinyin": "shǐyòng",
+      "meaning": "utiliser, utilisation",
+      "exampleZh": "我们要合理使用社交媒体。",
+      "examplePinyin": "Wǒmen yào hélǐ shǐyòng shèjiāo méitǐ.",
+      "exampleFr": "Nous devons utiliser les réseaux sociaux de manière raisonnable."
+    },
+    {
+      "word": "注意",
+      "pinyin": "zhùyì",
+      "meaning": "faire attention, remarquer",
+      "exampleZh": "要注意社交媒体的问题。",
+      "examplePinyin": "Yào zhùyì shèjiāo méitǐ de wèntí.",
+      "exampleFr": "Il faut faire attention aux problèmes des réseaux sociaux."
+    },
+    {
+      "word": "清楚",
+      "pinyin": "qīngchu",
+      "meaning": "clair, clairement",
+      "exampleZh": "这个证明很清楚。",
+      "examplePinyin": "Zhè ge zhèngmíng hěn qīngchu.",
+      "exampleFr": "Cette preuve est très claire."
+    },
+    {
+      "word": "普通",
+      "pinyin": "pǔtōng",
+      "meaning": "commun, général",
+      "exampleZh": "社交媒体很普通。",
+      "examplePinyin": "Shèjiāo méitǐ hěn pǔtōng.",
+      "exampleFr": "Les réseaux sociaux sont très répandus."
+    },
+    {
+      "word": "容易",
+      "pinyin": "róngyì",
+      "meaning": "facile, facilement",
+      "exampleZh": "社交媒体让交流容易。",
+      "examplePinyin": "Shèjiāo méitǐ ràng jiāoliú róngyì.",
+      "exampleFr": "Les réseaux sociaux facilitent la communication."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es étudiant et ton professeur te demande d'écrire un texte de 300 caractères sur le thème : « Les réseaux sociaux aident-ils à mieux communiquer ? ». Tu dois structurer ton texte avec une introduction, un développement en deux parties, et une conclusion.",
+      "goals": [
+        "Utiliser des connecteurs logiques pour organiser tes idées.",
+        "Introduire des arguments avec des exemples concrets.",
+        "Conclure en résumant ton point de vue."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe ce dialogue entre deux étudiants qui discutent de la structure d'un texte. Repère les connecteurs logiques et les mots liés à l'argumentation. Ne traduis pas encore.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "马克，你觉得写一篇文章应该先写什么？",
+          "pinyin": "Mǎkè, nǐ juéde xiě yī piān wénzhāng yīnggāi xiān xiě shénme?",
+          "translation": "Mark, selon toi, par quoi devrait-on commencer pour écrire un article ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "首先，要写言。比如，可以说：「现在，社交媒体很重要。」",
+          "pinyin": "Shǒuxiān, yào xiě yán. Bǐrú, kěyǐ shuō: \"Xiànzài, shèjiāo méitǐ hěn zhòngyào.\"",
+          "translation": "Tout d'abord, il faut écrire une introduction. Par exemple, on peut dire : « Aujourd'hui, les réseaux sociaux sont très importants. »"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "然后呢？",
+          "pinyin": "Ránhòu ne?",
+          "translation": "Et ensuite ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "其次，要用证明来说。比如，可以说：「很多人每天用社交媒体。」",
+          "pinyin": "Qícì, yào yòng zhèngmíng lái shuō. Bǐrú, kěyǐ shuō: \"Hěnduō rén měitiān yòng shèjiāo méitǐ.\"",
+          "translation": "Ensuite, il faut utiliser des preuves pour exposer. Par exemple, on peut dire : « Beaucoup de gens utilisent les réseaux sociaux tous les jours. »"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "最后怎么写？",
+          "pinyin": "Zuìhòu zěnme xiě?",
+          "translation": "Comment écrire la fin ?"
+        },
+        {
+          "speaker": "马克",
+          "chinese": "最后，要总结观点，并提议。比如：「社交媒体有好处，但要合理使用。」",
+          "pinyin": "Zuìhòu, yào zǒngjié guāndiǎn, bìng tí yì. Bǐrú: \"Shèjiāo méitǐ yǒu hǎochù, dàn yào hélǐ shǐyòng.\"",
+          "translation": "Finalement, il faut résumer son point de vue et proposer une suggestion. Par exemple : « Les réseaux sociaux ont des avantages, mais il faut les utiliser de manière raisonnable. »"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "这样一篇文章就好了！",
+          "pinyin": "Zhèyàng yī piān wénzhāng jiù hǎo le!",
+          "translation": "Comme ça, l'article est bien !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "言",
+        "议",
+        "沟",
+        "通",
+        "处",
+        "使",
+        "注",
+        "清",
+        "普",
+        "容"
+      ],
+      "grammar": [
+        {
+          "point": "Structure d'un texte argumenté : introduction, développement, conclusion",
+          "explanation": "Un texte argumenté en chinois suit une structure claire : 1) **Introduction (言 yán)** : présenter le sujet et la thèse. 2) **Développement (正文 zhèngwén)** : divisé en paragraphes (段 duàn), chaque paragraphe expose un argument étayé par des preuves (证明 zhèngmíng). 3) **Conclusion (总结 zǒngjié)** : résumer les idées et proposer une synthèse ou des suggestions. \nErreur typique du francophone : oublier de lier explicitement chaque paragraphe à la thèse principale, ce qui rend le texte moins cohérent.",
+          "examples": [
+            {
+              "chinese": "首先，我们看社交媒体的好处。其次，我们看它的问题。最后，我们提议。",
+              "pinyin": "Shǒuxiān, wǒmen kàn shèjiāo méitǐ de hǎochù. Qícì, wǒmen kàn tā de wèntí. Zuìhòu, wǒmen tí yì.",
+              "translation": "Tout d'abord, examinons les avantages des réseaux sociaux. Ensuite, examinons leurs problèmes. Finalement, proposons des suggestions."
+            }
+          ]
+        },
+        {
+          "point": "Connecteurs logiques pour l'écrit",
+          "explanation": "Les connecteurs logiques structurent le texte et guident le lecteur. Voici les principaux : \n- **Introduction** : 首先 (shǒuxiān, tout d'abord), 第一 (dì yī, premièrement). \n- **Ajout d'arguments** : 其次 (qícì, ensuite), 另外 (lìngwài, de plus). \n- **Opposition** : 但是 (dànshì, mais), 虽然...但是... (suīrán...dànshì..., bien que...mais...). \n- **Cause/effet** : 因为 (yīnwèi, parce que), 所以 (suǒyǐ, donc). \n- **Conclusion** : 最后 (zuìhòu, finalement), 总之 (zǒngzhī, en résumé). \nErreur typique : utiliser des connecteurs oraux comme « 然后 » (ránhòu) à l'écrit, alors que « 其次 » (qícì) est plus formel.",
+          "examples": [
+            {
+              "chinese": "社交媒体让人容易交流。但是，它也让一些人不快乐。",
+              "pinyin": "Shèjiāo méitǐ ràng rén róngyì jiāoliú. Dànshì, tā yě ràng yīxiē rén bù kuàilè.",
+              "translation": "Les réseaux sociaux facilitent la communication entre les gens. Mais ils rendent aussi certaines personnes malheureuses."
+            },
+            {
+              "chinese": "因为社交媒体很普通，所以很多人开始关注问题。",
+              "pinyin": "Yīnwèi shèjiāo méitǐ hěn pǔtōng, suǒyǐ hěnduō rén kāishǐ guānzhù wèntí.",
+              "translation": "Parce que les réseaux sociaux sont très répandus, beaucoup de gens commencent à s'intéresser aux problèmes."
+            }
+          ]
+        },
+        {
+          "point": "Utilisation de « 证明 » (zhèngmíng) pour étayer un argument",
+          "explanation": "Pour rendre un argument convaincant, il faut l'appuyer sur des preuves (证明 zhèngmíng). « 证明 » signifie « preuve » ou « prouver » et introduit des faits ou des données. \nErreur typique : utiliser « 因为 » (yīnwèi) pour introduire une preuve au lieu de « 证明 ». « 因为 » exprime une cause, pas une preuve.",
+          "examples": [
+            {
+              "chinese": "有证明说，很多人每天用社交媒体。",
+              "pinyin": "Yǒu zhèngmíng shuō, hěnduō rén měitiān yòng shèjiāo méitǐ.",
+              "translation": "Il est prouvé que beaucoup de gens utilisent les réseaux sociaux tous les jours."
+            },
+            {
+              "chinese": "这个证明很清楚。",
+              "pinyin": "Zhè ge zhèngmíng hěn qīngchu.",
+              "translation": "Cette preuve est très claire."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au ton de « 言 » (yán) : 2e ton montant. Ne pas prononcer « yàn » (4e ton).",
+        "« 议 » (yì) est un 4e ton descendant. Évite de le confondre avec « 意 » (yì, sens).",
+        "« 沟 » (gōu) se prononce avec un 1er ton. Ne pas le confondre avec « 钩 » (gōu, crochet)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères de cette leçon s'appuient sur des acquis précédents pour renforcer la maîtrise de l'argumentation écrite. Voici leurs liens avec ce que tu connais déjà :",
+      "links": [
+        {
+          "from": "言",
+          "relation": "RADICAL_DE",
+          "to": "说 (shuō, parler)"
+        },
+        {
+          "from": "议",
+          "relation": "COMPOSE",
+          "to": "会议 (huìyì, réunion)"
+        },
+        {
+          "from": "沟",
+          "relation": "RADICAL_DE",
+          "to": "氵 (eau, comme dans « 海 » hǎi)"
+        },
+        {
+          "from": "通",
+          "relation": "COMPOSE",
+          "to": "通过 (tōngguò, passer par)"
+        },
+        {
+          "from": "处",
+          "relation": "COMPOSE",
+          "to": "好处 (hǎochù, avantage)"
+        },
+        {
+          "from": "使",
+          "relation": "RADICAL_DE",
+          "to": "亻 (personne, comme dans « 他 » tā)"
+        },
+        {
+          "from": "注",
+          "relation": "RADICAL_DE",
+          "to": "氵 (eau, comme dans « 水 » shuǐ)"
+        },
+        {
+          "from": "清",
+          "relation": "COMPOSE",
+          "to": "清楚 (qīngchu, clair)"
+        },
+        {
+          "from": "普",
+          "relation": "RADICAL_DE",
+          "to": "日 (soleil, comme dans « 明 » míng)"
+        },
+        {
+          "from": "容",
+          "relation": "COMPOSE",
+          "to": "容易 (róngyì, facile)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Rédige l'introduction (environ 60 caractères) de ton texte sur le thème : « Les réseaux sociaux aident-ils à mieux communiquer ? ». Utilise un connecteur comme « 首先 » ou « 现在 » (xiànzài, maintenant) pour introduire le sujet.",
+          "hint": "Présente le contexte (importance des réseaux sociaux) et annonce ta thèse. Exemple : « Aujourd'hui, les réseaux sociaux jouent un rôle important dans notre vie. »",
+          "example": {
+            "chinese": "现在，社交媒体在生活中很重要。有人说它帮沟通，也有人说它有问题。",
+            "pinyin": "Xiànzài, shèjiāo méitǐ zài shēnghuó zhōng hěn zhòngyào. Yǒurén shuō tā bāng gōutōng, yě yǒurén shuō tā yǒu wèntí.",
+            "translation": "Aujourd'hui, les réseaux sociaux sont très importants dans la vie. Certains disent qu'ils aident à la communication, tandis que d'autres pensent qu'ils posent problème."
+          }
+        },
+        {
+          "instruction": "Écris un paragraphe de développement (environ 100 caractères) pour soutenir l'argument suivant : « Les réseaux sociaux facilitent la communication ». Utilise des connecteurs comme « 比如 » (bǐrú, par exemple) ou « 有证明 » (yǒu zhèngmíng, il est prouvé que) pour introduire des exemples.",
+          "hint": "Mentionne des exemples concrets (échanges avec des amis, partage d'informations).",
+          "example": {
+            "chinese": "社交媒体让人容易交流。比如，朋友之间可以随时聊天。有证明说，很多人每天用社交媒体跟朋友沟通。",
+            "pinyin": "Shèjiāo méitǐ ràng rén róngyì jiāoliú. Bǐrú, péngyou zhījiān kěyǐ suíshí liáotiān. Yǒu zhèngmíng shuō, hěnduō rén měitiān yòng shèjiāo méitǐ gēn péngyou gōutōng.",
+            "translation": "Les réseaux sociaux facilitent la communication entre les gens. Par exemple, les amis peuvent discuter à tout moment. Il est prouvé que beaucoup de gens utilisent les réseaux sociaux tous les jours pour communiquer avec leurs amis."
+          }
+        },
+        {
+          "instruction": "Rédige un paragraphe de développement (environ 100 caractères) pour nuancer ton argument avec des contre-exemples. Utilise des connecteurs comme « 但是 » (dànshì, mais) ou « 然而 » (rán'ér, cependant).",
+          "hint": "Mentionne des problèmes comme la superficialité des échanges ou les malentendus.",
+          "example": {
+            "chinese": "但是，社交媒体也有问题。比如，很多人只在网上交流，现实中的沟通变少了。此外，有时候信息不真实，会让人误解。",
+            "pinyin": "Dànshì, shèjiāo méitǐ yě yǒu wèntí. Bǐrú, hěnduō rén zhǐ zài wǎngshàng jiāoliú, xiànshí zhōng de gōutōng biàn shǎo le. Cǐwài, yǒu shíhou xìnxī bù zhēnshí, huì ràng rén wùjiě.",
+            "translation": "Mais les réseaux sociaux posent aussi des problèmes. Par exemple, beaucoup de gens communiquent uniquement en ligne, et les échanges dans la vie réelle diminuent. De plus, parfois les informations ne sont pas vraies, ce qui peut entraîner des malentendus."
+          }
+        },
+        {
+          "instruction": "Écris la conclusion (environ 60 caractères) de ton texte. Utilise un connecteur comme « 总之 » (zǒngzhī, en résumé) ou « 最后 » (zuìhòu, finalement) pour résumer ton point de vue et proposer une suggestion.",
+          "hint": "Synthétise les avantages et les inconvénients, puis propose une solution (ex : utiliser les réseaux sociaux de manière raisonnable).",
+          "example": {
+            "chinese": "总之，社交媒体有好处也有问题。我们要合理使用，改善沟通。",
+            "pinyin": "Zǒngzhī, shèjiāo méitǐ yǒu hǎochù yě yǒu wèntí. Wǒmen yào hélǐ shǐyòng, gǎishàn gōutōng.",
+            "translation": "En résumé, les réseaux sociaux ont des avantages et des inconvénients. Nous devons les utiliser de manière raisonnable pour améliorer la communication."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à structurer un texte argumenté en chinois avec une introduction, un développement et une conclusion. Tu as découvert des connecteurs logiques pour organiser tes idées et des mots clés pour étayer tes arguments avec des preuves. N'oublie pas d'utiliser des exemples concrets pour rendre ton texte convaincant.",
+      "reviewWords": [
+        "言",
+        "议",
+        "沟通",
+        "处",
+        "使用",
+        "注意",
+        "清楚",
+        "普通",
+        "容易"
+      ],
+      "reviewHanzi": [
+        "言",
+        "议",
+        "沟",
+        "通",
+        "处",
+        "使",
+        "注",
+        "清",
+        "普",
+        "容"
+      ]
+    }
+  }
+}

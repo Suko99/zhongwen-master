@@ -1,0 +1,407 @@
+{
+  "slug": "donner-et-offrir",
+  "title": "Donner et offrir",
+  "mission": "Faire un cadeau et remercier",
+  "level": "A2",
+  "order": 30,
+  "hanzi": [
+    {
+      "character": "送",
+      "pinyin": "sòng",
+      "meaning": "offrir, accompagner",
+      "hskLevel": 2,
+      "radical": "辶 (marche)",
+      "components": [
+        "关",
+        "辶"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une main (关) qui offre quelque chose en marchant (辶). Le radical 辶 indique souvent un mouvement ou une action liée au déplacement.",
+      "family": [
+        "送礼"
+      ],
+      "commonErrors": [
+        "Confondre avec 给 (donner) : 送 implique souvent un cadeau ou un accompagnement physique, tandis que 给 est plus général."
+      ]
+    },
+    {
+      "character": "礼",
+      "pinyin": "lǐ",
+      "meaning": "cadeau, cérémonie, politesse",
+      "hskLevel": 2,
+      "radical": "礻 (rituel)",
+      "components": [
+        "礻",
+        "乚"
+      ],
+      "etymology": "Ce caractère dérive du radical 礻 (rituel) et représente à l'origine les rites et les cérémonies. Par extension, il désigne aussi les cadeaux offerts lors de ces occasions.",
+      "family": [
+        "礼物"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'li' en français (sans le 3e ton) : le ton est descendant-montant (ǐ)."
+      ]
+    },
+    {
+      "character": "物",
+      "pinyin": "wù",
+      "meaning": "objet, chose",
+      "hskLevel": 2,
+      "radical": "牛 (bœuf)",
+      "components": [
+        "牛",
+        "勿"
+      ],
+      "etymology": "À l'origine, ce caractère représentait un bœuf (牛) et un objet (勿), symbolisant les biens ou les possessions. Le radical 牛 est ici un élément sémantique.",
+      "family": [
+        "礼物"
+      ],
+      "commonErrors": [
+        "Confondre avec 勿 (wù, ne pas) : 物 signifie 'objet', tandis que 勿 est une négation."
+      ]
+    },
+    {
+      "character": "包",
+      "pinyin": "bāo",
+      "meaning": "emballer, paquet",
+      "hskLevel": 2,
+      "radical": "勹 (envelopper)",
+      "components": [
+        "勹",
+        "巳"
+      ],
+      "etymology": "Ce caractère représente quelque chose enveloppé (勹) dans un tissu ou un contenant. Le radical 勹 indique souvent une action d'enveloppement.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer comme 'bao' en français (sans le 1er ton) : le ton est haut et plat (bāo)."
+      ]
+    },
+    {
+      "character": "纸",
+      "pinyin": "zhǐ",
+      "meaning": "papier",
+      "hskLevel": 2,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "氏"
+      ],
+      "etymology": "Ce caractère combine le radical 纟 (soie) et un phonétique (氏). À l'origine, il désignait des matériaux fins comme la soie, puis par extension le papier.",
+      "family": [],
+      "commonErrors": [
+        "Confondre avec 只 (zhǐ, seulement) : 纸 signifie 'papier' et se prononce avec le 3e ton."
+      ]
+    },
+    {
+      "character": "装",
+      "pinyin": "zhuāng",
+      "meaning": "emballer, installer",
+      "hskLevel": 2,
+      "radical": "衣 (vêtement)",
+      "components": [
+        "衣",
+        "壮"
+      ],
+      "etymology": "Ce caractère combine le radical 衣 (vêtement) et un phonétique (壮). Il représente à l'origine l'idée d'habiller ou de préparer quelque chose, d'où le sens d'emballer.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer comme 'zhuang' en français (sans le 1er ton) : le ton est haut et plat (zhuāng)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "送礼物",
+      "pinyin": "sòng lǐwù",
+      "meaning": "offrir un cadeau",
+      "exampleZh": "我送礼物给妈妈。",
+      "examplePinyin": "Wǒ sòng lǐwù gěi māma.",
+      "exampleFr": "J'offre un cadeau à maman."
+    },
+    {
+      "word": "礼物",
+      "pinyin": "lǐwù",
+      "meaning": "cadeau",
+      "exampleZh": "这是我的礼物。",
+      "examplePinyin": "Zhè shì wǒ de lǐwù.",
+      "exampleFr": "C'est mon cadeau."
+    },
+    {
+      "word": "包",
+      "pinyin": "bāo",
+      "meaning": "emballer",
+      "exampleZh": "我帮你包。",
+      "examplePinyin": "Wǒ bāng nǐ bāo.",
+      "exampleFr": "Je t'aide à emballer."
+    },
+    {
+      "word": "装",
+      "pinyin": "zhuāng",
+      "meaning": "emballer",
+      "exampleZh": "我帮你装。",
+      "examplePinyin": "Wǒ bāng nǐ zhuāng.",
+      "exampleFr": "Je t'aide à emballer."
+    },
+    {
+      "word": "纸",
+      "pinyin": "zhǐ",
+      "meaning": "papier",
+      "exampleZh": "这纸很好。",
+      "examplePinyin": "Zhè zhǐ hěn hǎo.",
+      "exampleFr": "Ce papier est très bien."
+    },
+    {
+      "word": "本",
+      "pinyin": "běn",
+      "meaning": "classificateur pour livres",
+      "exampleZh": "我送你一本书。",
+      "examplePinyin": "Wǒ sòng nǐ yī běn shū.",
+      "exampleFr": "Je t'offre un livre."
+    },
+    {
+      "word": "杯",
+      "pinyin": "bēi",
+      "meaning": "verre, tasse (classificateur)",
+      "exampleZh": "我给你一杯茶。",
+      "examplePinyin": "Wǒ gěi nǐ yī bēi chá.",
+      "exampleFr": "Je te donne une tasse de thé."
+    },
+    {
+      "word": "谢谢",
+      "pinyin": "xièxie",
+      "meaning": "merci",
+      "exampleZh": "谢谢你！",
+      "examplePinyin": "Xièxie nǐ!",
+      "exampleFr": "Merci à toi !"
+    },
+    {
+      "word": "喜欢",
+      "pinyin": "xǐhuān",
+      "meaning": "aimer, apprécier",
+      "exampleZh": "我喜欢这个。",
+      "examplePinyin": "Wǒ xǐhuān zhège.",
+      "exampleFr": "J'aime ceci."
+    },
+    {
+      "word": "给",
+      "pinyin": "gěi",
+      "meaning": "donner, à (préposition)",
+      "exampleZh": "我给你一本书。",
+      "examplePinyin": "Wǒ gěi nǐ yī běn shū.",
+      "exampleFr": "Je te donne un livre."
+    },
+    {
+      "word": "送给",
+      "pinyin": "sòng gěi",
+      "meaning": "offrir à",
+      "exampleZh": "我送给你一个礼物。",
+      "examplePinyin": "Wǒ sòng gěi nǐ yī gè lǐwù.",
+      "exampleFr": "Je t'offre un cadeau."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "安娜今天生日。她的朋友王明和李华想送她一个礼物。他们一起选礼物，包礼物，然后送给她。",
+      "goals": [
+        "选择一个礼物",
+        "用送和给表达送礼物",
+        "说谢谢和喜欢"
+      ]
+    },
+    "discovery": {
+      "instructions": "看下面的对话。注意怎么送礼物、说谢谢和喜欢。找出新词。",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "安娜，今天你生日，我们送你一个礼物！",
+          "pinyin": "Ānnà, jīntiān nǐ shēngrì, wǒmen sòng nǐ yī gè lǐwù!",
+          "translation": "Anna, aujourd'hui c'est ton anniversaire, nous t'offrons un cadeau !"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "谢谢你们！我可开吗？",
+          "pinyin": "Xièxie nǐmen! Wǒ kě kāi ma?",
+          "translation": "Merci à vous ! Puis-je l'ouvrir ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "可！这是我们送给你的。",
+          "pinyin": "Kě! Zhè shì wǒmen sòng gěi nǐ de.",
+          "translation": "Bien sûr ! C'est ce que nous t'offrons."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "哇，我喜欢这个！你们太好。",
+          "pinyin": "Wā, wǒ xǐhuān zhège! Nǐmen tài hǎo.",
+          "translation": "Waouh, j'aime beaucoup ! Vous êtes très gentils."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我们还送你一杯茶。",
+          "pinyin": "Wǒmen hái sòng nǐ yī bēi chá.",
+          "translation": "Nous t'offrons aussi une tasse de thé."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "谢谢！这个礼物包得真好。",
+          "pinyin": "Xièxie! Zhège lǐwù bāo de zhēn hǎo.",
+          "translation": "Merci ! Ce cadeau est vraiment bien emballé."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "送",
+        "礼",
+        "物",
+        "包",
+        "纸",
+        "装"
+      ],
+      "grammar": [
+        {
+          "point": "Utilisation de 给 avec double objet",
+          "explanation": "En chinois, on peut utiliser 给 avec deux objets : le destinataire et l'objet donné. La structure est : Sujet + 给 + Destinataire + Objet. Attention : en français, on dit 'donner quelque chose à quelqu'un', mais en chinois, on place d'abord le destinataire, puis l'objet. Exemple : 我给你一个礼物 (Je te donne un cadeau).",
+          "examples": [
+            {
+              "chinese": "他给我一杯茶。",
+              "pinyin": "Tā gěi wǒ yī bēi chá.",
+              "translation": "Il me donne une tasse de thé."
+            },
+            {
+              "chinese": "妈妈给我一个礼物。",
+              "pinyin": "Māma gěi wǒ yī gè lǐwù.",
+              "translation": "Maman me donne un cadeau."
+            }
+          ]
+        },
+        {
+          "point": "Différence entre 送 et 给",
+          "explanation": "送 et 给 signifient tous les deux 'donner', mais 送 implique souvent un cadeau ou un accompagnement (ex : offrir un livre). 给 est plus général. Exemple : 送礼物 (offrir un cadeau) vs 给钱 (donner de l'argent).",
+          "examples": [
+            {
+              "chinese": "我送你一本书。",
+              "pinyin": "Wǒ sòng nǐ yī běn shū.",
+              "translation": "Je t'offre un livre."
+            },
+            {
+              "chinese": "他给我一个东西。",
+              "pinyin": "Tā gěi wǒ yī gè dōngxi.",
+              "translation": "Il me donne une chose."
+            }
+          ]
+        },
+        {
+          "point": "Classificateurs pour les objets",
+          "explanation": "En chinois, on utilise des classificateurs pour compter les objets. Voici quelques classificateurs utiles : 个 (gè) pour les objets généraux, 本 (běn) pour les livres, 杯 (bēi) pour les tasses/verres. Exemple : 一个礼物 (un cadeau), 一本书 (un livre).",
+          "examples": [
+            {
+              "chinese": "我买了一个礼物。",
+              "pinyin": "Wǒ mǎi le yī gè lǐwù.",
+              "translation": "J'ai acheté un cadeau."
+            },
+            {
+              "chinese": "这是一张纸。",
+              "pinyin": "Zhè shì yī zhāng zhǐ.",
+              "translation": "C'est une feuille de papier."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "送 (sòng) : 4e ton (descendant). Ne prononcez pas comme 'song' sans ton.",
+        "礼 (lǐ) : 3e ton (descendant-montant). Évitez de prononcer 'li' (2e ton).",
+        "装 (zhuāng) : 1er ton (haut et plat). Prononcez bien le ton."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères s'articulent avec ce que vous connaissez déjà :",
+      "links": [
+        {
+          "from": "送",
+          "relation": "COMPOSE",
+          "to": "送礼物"
+        },
+        {
+          "from": "礼",
+          "relation": "RADICAL_DE",
+          "to": "礼物"
+        },
+        {
+          "from": "物",
+          "relation": "COMPOSE",
+          "to": "礼物"
+        },
+        {
+          "from": "包",
+          "relation": "SEUL",
+          "to": ""
+        },
+        {
+          "from": "纸",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "只"
+        },
+        {
+          "from": "装",
+          "relation": "SEUL",
+          "to": ""
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "想象你朋友生日。选择一个礼物并解释为什么送这个礼物。用送给和量词。",
+          "hint": "使用结构：我送给你 + [量词] + [礼物]，因为... (例如：我送给你一本书，因为你喜欢看书)。",
+          "example": {
+            "chinese": "我送给你一本书，因为你喜欢学中文。",
+            "pinyin": "Wǒ sòng gěi nǐ yī běn shū, yīnwèi nǐ xǐhuān xué Zhōngwén.",
+            "translation": "Je t'offre un livre parce que tu aimes apprendre le chinois."
+          }
+        },
+        {
+          "instruction": "你的朋友送你一个礼物。表达你的喜欢和感谢。用喜欢和谢谢。",
+          "hint": "使用句子：谢谢！我喜欢这个！",
+          "example": {
+            "chinese": "哇，谢谢！我喜欢这个！",
+            "pinyin": "Wā, xièxie! Wǒ xǐhuān zhège!",
+            "translation": "Waouh, merci ! J'aime beaucoup !"
+          }
+        },
+        {
+          "instruction": "描述你怎么包一个礼物。用包和纸。",
+          "hint": "使用结构：我用 + [物品] + 包。",
+          "example": {
+            "chinese": "我用纸包。",
+            "pinyin": "Wǒ yòng zhǐ bāo.",
+            "translation": "J'emballe avec du papier."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à offrir un cadeau et à remercier. Vous savez maintenant utiliser 送 et 给 pour donner, et les classificateurs pour compter les objets. Pratiquez ces structures pour bien les maîtriser !",
+      "reviewWords": [
+        "送礼物",
+        "礼物",
+        "包",
+        "装",
+        "纸",
+        "本",
+        "杯",
+        "谢谢",
+        "喜欢",
+        "给",
+        "送给"
+      ],
+      "reviewHanzi": [
+        "送",
+        "礼",
+        "物",
+        "包",
+        "纸",
+        "装"
+      ]
+    }
+  }
+}

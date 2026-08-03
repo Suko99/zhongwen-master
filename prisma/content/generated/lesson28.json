@@ -1,0 +1,428 @@
+{
+  "slug": "inviter-et-refuser",
+  "title": "Inviter et refuser poliment",
+  "mission": "Proposer une sortie, accepter ou décliner sans vexer",
+  "level": "A2",
+  "order": 28,
+  "hanzi": [
+    {
+      "character": "请",
+      "pinyin": "qǐng",
+      "meaning": "inviter, prier, s'il vous plaît",
+      "hskLevel": 1,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "青"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 讠 (parole) indique le sens lié à la communication, tandis que 青 (qīng, vert/bleu) donne le son. L'interprétation traditionnelle veut que 请 exprime une demande polie, comme une parole apaisante (青 évoque la fraîcheur).",
+      "family": [
+        "请问",
+        "请客"
+      ],
+      "commonErrors": [
+        "Confondre avec 清 (qīng, clair) en raison de la similitude phonétique et graphique."
+      ]
+    },
+    {
+      "character": "对",
+      "pinyin": "duì",
+      "meaning": "correct, envers, à (quelqu'un)",
+      "hskLevel": 1,
+      "radical": "寸 (pouce, mesure)",
+      "components": [
+        "又",
+        "寸"
+      ],
+      "etymology": "Pictogramme stylisé représentant une main (又) tenant un outil de mesure (寸), symbolisant l'idée de justesse ou d'adéquation. Le sens de 'envers' découle de cette notion d'orientation correcte.",
+      "family": [
+        "对不起"
+      ],
+      "commonErrors": [
+        "Oublier le ton descendant (4e ton) et prononcer *dui (2e ton), ce qui peut changer le sens."
+      ]
+    },
+    {
+      "character": "起",
+      "pinyin": "qǐ",
+      "meaning": "se lever, commencer, avec (quelqu'un)",
+      "hskLevel": 1,
+      "radical": "走 (marcher)",
+      "components": [
+        "走",
+        "己"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 走 (marcher) indique le mouvement, tandis que 己 (jǐ, soi-même) donne le son. L'idée de 'commencer' ou 'se lever' est liée au mouvement initial.",
+      "family": [
+        "一起"
+      ],
+      "commonErrors": [
+        "Confondre avec 气 (qì, air) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "忙",
+      "pinyin": "máng",
+      "meaning": "occupé",
+      "hskLevel": 1,
+      "radical": "忄 (cœur)",
+      "components": [
+        "忄",
+        "亡"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 忄 (cœur) indique une émotion ou un état, tandis que 亡 (wáng, mourir/perdre) donne le son. L'idée d'être 'occupé' vient d'un cœur 'perdu' dans les tâches.",
+      "family": [
+        "很忙"
+      ],
+      "commonErrors": [
+        "Prononcer *māng (1er ton) au lieu du 2e ton montant."
+      ]
+    },
+    {
+      "character": "客",
+      "pinyin": "kè",
+      "meaning": "invité, client",
+      "hskLevel": 1,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "各"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 宀 (toit) indique un lieu, tandis que 各 (gè, chaque) donne le son. Un 'invité' est quelqu'un qui vient sous un toit.",
+      "family": [
+        "客人",
+        "请客"
+      ],
+      "commonErrors": [
+        "Confondre avec 课 (kè, cours) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "意",
+      "pinyin": "yì",
+      "meaning": "idée, sens, intention",
+      "hskLevel": 2,
+      "radical": "心 (cœur)",
+      "components": [
+        "音",
+        "心"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 心 (cœur) indique une activité mentale, tandis que 音 (yīn, son) donne le son. Une 'idée' est un son du cœur.",
+      "family": [
+        "意思"
+      ],
+      "commonErrors": [
+        "Prononcer *yí (2e ton) au lieu de yì (4e ton)."
+      ]
+    },
+    {
+      "character": "思",
+      "pinyin": "sī",
+      "meaning": "penser, réfléchir",
+      "hskLevel": 2,
+      "radical": "心 (cœur)",
+      "components": [
+        "田",
+        "心"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 心 (cœur) indique une activité mentale, tandis que 田 (tián, champ) donne le son. L'origine exacte est débattue, mais certains y voient l'idée de 'labourer' ses pensées comme un champ.",
+      "family": [
+        "意思"
+      ],
+      "commonErrors": [
+        "Prononcer *shī (1er ton) au lieu de sī (1er ton)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "请客",
+      "pinyin": "qǐng kè",
+      "meaning": "inviter (quelqu'un à payer)",
+      "exampleZh": "今天我请客。",
+      "examplePinyin": "Jīntiān wǒ qǐngkè.",
+      "exampleFr": "Aujourd'hui, c'est moi qui invite."
+    },
+    {
+      "word": "对不起",
+      "pinyin": "duìbuqǐ",
+      "meaning": "désolé, pardon",
+      "exampleZh": "对不起，我去不了。",
+      "examplePinyin": "Duìbuqǐ, wǒ qù bù liǎo.",
+      "exampleFr": "Désolé, je ne peux pas y aller."
+    },
+    {
+      "word": "不好意思",
+      "pinyin": "bù hǎo yìsi",
+      "meaning": "désolé (plus léger), gêné",
+      "exampleZh": "不好意思，我去不了。",
+      "examplePinyin": "Bù hǎo yìsi, wǒ qù bù liǎo.",
+      "exampleFr": "Désolé, je ne peux pas y aller."
+    },
+    {
+      "word": "一起",
+      "pinyin": "yīqǐ",
+      "meaning": "ensemble",
+      "exampleZh": "我和你一起去。",
+      "examplePinyin": "Wǒ hé nǐ yīqǐ qù.",
+      "exampleFr": "J'y vais avec toi."
+    },
+    {
+      "word": "可以",
+      "pinyin": "kěyǐ",
+      "meaning": "pouvoir (permission), d'accord",
+      "exampleZh": "我可以去吗？",
+      "examplePinyin": "Wǒ kěyǐ qù ma?",
+      "exampleFr": "Puis-je y aller ?"
+    },
+    {
+      "word": "能",
+      "pinyin": "néng",
+      "meaning": "pouvoir (capacité)",
+      "exampleZh": "我今天不能去。",
+      "examplePinyin": "Wǒ jīntiān bù néng qù.",
+      "exampleFr": "Je ne peux pas y aller aujourd'hui."
+    },
+    {
+      "word": "会",
+      "pinyin": "huì",
+      "meaning": "savoir (faire), pouvoir (compétence)",
+      "exampleZh": "你会说吗？",
+      "examplePinyin": "Nǐ huì shuō ma?",
+      "exampleFr": "Sais-tu parler ?"
+    },
+    {
+      "word": "客气",
+      "pinyin": "kèqi",
+      "meaning": "poli, courtois",
+      "exampleZh": "你太客气了！",
+      "examplePinyin": "Nǐ tài kèqi le!",
+      "exampleFr": "Tu es trop poli !"
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es invité(e) par ton ami 王明 à aller au cinéma ce week-end. Tu dois accepter ou refuser poliment, en expliquant pourquoi. Ensuite, tu proposes une autre activité à un autre ami, 马克, qui doit aussi répondre poliment.",
+      "goals": [
+        "Proposer une sortie avec 请 + personne + verbe",
+        "Accepter ou refuser avec 对不起/不好意思 + raison",
+        "Utiliser 可以/能/会 pour exprimer la possibilité ou la capacité"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue suivant. Qui invite qui ? Pourquoi la personne refuse-t-elle ? Comment propose-t-elle une alternative ? Ne traduis pas encore.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，今天你有时间吗？我想请你去看电影。",
+          "pinyin": "Lǐ Huá, jīntiān nǐ yǒu shíjiān ma? Wǒ xiǎng qǐng nǐ qù kàn diànyǐng.",
+          "translation": "Li Hua, as-tu du temps aujourd'hui ? Je voudrais t'inviter à aller voir un film."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "对不起，今天我有点儿忙。我要工作。",
+          "pinyin": "Duìbuqǐ, jīntiān wǒ yǒudiǎnr máng. Wǒ yào gōngzuò.",
+          "translation": "Désolé, aujourd'hui je suis un peu occupé. Je dois travailler."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "那明天呢？你可以吗？",
+          "pinyin": "Nà míngtiān ne? Nǐ kěyǐ ma?",
+          "translation": "Et demain ? Peux-tu ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "明天可以。几点？",
+          "pinyin": "Míngtiān kěyǐ. Jǐ diǎn?",
+          "translation": "Demain, je peux. À quelle heure ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "下午三点，好吗？",
+          "pinyin": "Xiàwǔ sān diǎn, hǎo ma?",
+          "translation": "À 15h, ça va ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好，我和你一起去。",
+          "pinyin": "Hǎo, wǒ hé nǐ yīqǐ qù.",
+          "translation": "D'accord, j'y vais avec toi."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好，明天见！",
+          "pinyin": "Hǎo, míngtiān jiàn!",
+          "translation": "D'accord, à demain !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "请",
+        "对",
+        "起",
+        "忙",
+        "客",
+        "意",
+        "思"
+      ],
+      "grammar": [
+        {
+          "point": "请 + personne + verbe : inviter quelqu'un à faire quelque chose",
+          "explanation": "La structure 请 + personne + verbe est utilisée pour inviter poliment quelqu'un à faire une action. Contrairement au français, où l'on dit 'Je t'invite à...', en chinois, on place la personne invitée juste après 请. Erreur typique : dire *我请去看电影 (wǒ qǐng qù kàn diànyǐng) au lieu de 我请你去看电影 (wǒ qǐng nǐ qù kàn diànyǐng).",
+          "examples": [
+            {
+              "chinese": "我请你吃饭。",
+              "pinyin": "Wǒ qǐng nǐ chīfàn.",
+              "translation": "Je t'invite à manger."
+            },
+            {
+              "chinese": "他请我去他家。",
+              "pinyin": "Tā qǐng wǒ qù tā jiā.",
+              "translation": "Il m'invite chez lui."
+            }
+          ]
+        },
+        {
+          "point": "对不起 vs 不好意思 : niveaux de politesse",
+          "explanation": "对不起 est plus formel et utilisé pour des excuses sincères ou des refus importants. 不好意思 est plus léger, souvent utilisé pour des petites gênes ou des refus moins graves. Erreur typique : utiliser 对不起 pour un simple 'désolé' dans un contexte informel, ce qui peut sembler trop sérieux.",
+          "examples": [
+            {
+              "chinese": "对不起，我去不了。",
+              "pinyin": "Duìbuqǐ, wǒ qù bù liǎo.",
+              "translation": "Désolé, je ne peux pas y aller."
+            },
+            {
+              "chinese": "不好意思，我来晚了。",
+              "pinyin": "Bù hǎo yìsi, wǒ lái wǎn le.",
+              "translation": "Désolé, je suis en retard."
+            }
+          ]
+        },
+        {
+          "point": "可以/能/会 : exprimer la possibilité ou la capacité",
+          "explanation": "可以 exprime une permission (externe), 能 exprime une capacité ou une possibilité (interne ou externe), et 会 exprime une compétence apprise. Erreur typique : confondre 能 et 会, par exemple dire *我会去 (wǒ huì qù) pour 'je peux y aller' au lieu de 我能去 (wǒ néng qù).",
+          "examples": [
+            {
+              "chinese": "我可以去吗？",
+              "pinyin": "Wǒ kěyǐ qù ma?",
+              "translation": "Puis-je y aller ? (permission)"
+            },
+            {
+              "chinese": "我能游泳。",
+              "pinyin": "Wǒ néng yóuyǒng.",
+              "translation": "Je sais nager. (capacité)"
+            },
+            {
+              "chinese": "你会说吗？",
+              "pinyin": "Nǐ huì shuō ma?",
+              "translation": "Sais-tu parler ? (compétence)"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au ton de 请 (qǐng, 3e ton) : il est descendant-montant. Ne le confonds pas avec *qíng (2e ton).",
+        "不好意思 (bù hǎo yìsi) : le ton de 不 change devant un 3e ton (hǎo). Il devient 2e ton : bú hǎo yìsi.",
+        "可以 (kěyǐ) : le ton de 以 est 3e ton (descendant-montant). Évite *kě yi (sans ton)."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et mots s'articulent avec ce que tu connais déjà :",
+      "links": [
+        {
+          "from": "请",
+          "relation": "COMPOSE",
+          "to": "请客 (inviter quelqu'un)"
+        },
+        {
+          "from": "对",
+          "relation": "COMPOSE",
+          "to": "对不起 (désolé)"
+        },
+        {
+          "from": "起",
+          "relation": "COMPOSE",
+          "to": "一起 (ensemble)"
+        },
+        {
+          "from": "忙",
+          "relation": "RADICAL_DE",
+          "to": "心 (cœur, état émotionnel)"
+        },
+        {
+          "from": "意",
+          "relation": "COMPOSE",
+          "to": "意思 (sens, idée)"
+        },
+        {
+          "from": "思",
+          "relation": "COMPOSE",
+          "to": "意思 (sens, idée)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Propose à ton ami 马克 d'aller manger des nouilles aujourd'hui. Utilise 请 + personne + verbe.",
+          "hint": "Commence par 今天, puis utilise 请 + 马克 + 去 + activité.",
+          "example": {
+            "chinese": "马克，今天我想请你去吃面条。",
+            "pinyin": "Mǎkè, jīntiān wǒ xiǎng qǐng nǐ qù chī miàntiáo.",
+            "translation": "Mark, aujourd'hui, je voudrais t'inviter à manger des nouilles."
+          }
+        },
+        {
+          "instruction": "Refuse poliment l'invitation de ton ami 大卫 en expliquant que tu es occupé(e). Utilise 对不起 ou 不好意思 + raison.",
+          "hint": "Commence par 对不起 ou 不好意思, puis explique avec 有点儿忙 ou 要 + activité.",
+          "example": {
+            "chinese": "对不起，今天我有点儿忙。我要去工作。",
+            "pinyin": "Duìbuqǐ, jīntiān wǒ yǒudiǎnr máng. Wǒ yào qù gōngzuò.",
+            "translation": "Désolé, aujourd'hui je suis un peu occupé. Je dois aller travailler."
+          }
+        },
+        {
+          "instruction": "Demande à 安娜 si elle peut aller au parc avec toi demain. Utilise 可以/能/会 selon le contexte.",
+          "hint": "Utilise 明天 + 安娜 + 可以/能/会 + 去 + 公园 + 吗？",
+          "example": {
+            "chinese": "安娜，明天你可以和我一起去公园吗？",
+            "pinyin": "Ānnà, míngtiān nǐ kěyǐ hé wǒ yīqǐ qù gōngyuán ma?",
+            "translation": "Anna, peux-tu aller au parc avec moi demain ?"
+          }
+        },
+        {
+          "instruction": "Accepte l'invitation de 王明 en utilisant 好 et propose une heure.",
+          "hint": "Commence par 好, puis utilise 下午 + heure.",
+          "example": {
+            "chinese": "好，我们下午三点去吧。",
+            "pinyin": "Hǎo, wǒmen xiàwǔ sān diǎn qù ba.",
+            "translation": "D'accord, allons-y à 15h."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à inviter quelqu'un avec 请 + personne + verbe, à accepter ou refuser poliment avec 对不起/不好意思, et à exprimer la possibilité avec 可以/能/会. Tu as aussi découvert 7 nouveaux caractères liés à la politesse et aux interactions sociales. N'oublie pas : en chinois, la politesse passe souvent par des structures claires et des excuses légères pour refuser.",
+      "reviewWords": [
+        "请客",
+        "对不起",
+        "不好意思",
+        "一起",
+        "可以",
+        "能",
+        "会",
+        "客气"
+      ],
+      "reviewHanzi": [
+        "请",
+        "对",
+        "起",
+        "忙",
+        "客",
+        "意",
+        "思"
+      ]
+    }
+  }
+}

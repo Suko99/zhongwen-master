@@ -1,0 +1,284 @@
+{
+  "slug": "aimer-et-preferer",
+  "title": "Aimer et préférer",
+  "mission": "Parler de ses goûts et loisirs",
+  "level": "A1",
+  "order": 11,
+  "hanzi": [
+    {
+      "character": "喜",
+      "pinyin": "xǐ",
+      "meaning": "aimer, apprécier",
+      "hskLevel": 2,
+      "radical": "口 (kǒu - bouche)",
+      "components": [
+        "士 (shì - érudit)",
+        "口 (kǒu - bouche)"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que 喜 représente un homme (士) qui rit (口) de joie. La bouche (口) symbolise l'expression de sentiments.",
+      "family": [
+        "喜欢 (xǐhuan - aimer)"
+      ],
+      "commonErrors": [
+        "Confondre 喜 avec 喝 (hē - boire) à cause de la clé 口."
+      ]
+    },
+    {
+      "character": "欢",
+      "pinyin": "huān",
+      "meaning": "joyeux, content",
+      "hskLevel": 3,
+      "radical": "又 (yòu - main droite)",
+      "components": [
+        "又 (yòu - main droite)",
+        "欠 (qiàn - devoir)"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que 欢 représente deux mains (又) qui se tendent vers quelque chose (欠), symbolisant l'enthousiasme. La clé 又 évoque l'action.",
+      "family": [
+        "喜欢 (xǐhuan - aimer)"
+      ],
+      "commonErrors": [
+        "Oublier que 欢 se prononce huān et non huàn."
+      ]
+    },
+    {
+      "character": "太",
+      "pinyin": "tài",
+      "meaning": "trop, très",
+      "hskLevel": 1,
+      "radical": "大 (dà - grand)",
+      "components": [
+        "大 (dà - grand)",
+        "、 (point)"
+      ],
+      "etymology": "太 représente une personne (大) avec un point en dessous, symbolisant l'excès ou l'extrême. Le radical 大 évoque la grandeur.",
+      "family": [
+        "太...了 (tài...le - trop)"
+      ],
+      "commonErrors": [
+        "Confondre 太 avec 大 (dà - grand) en prononciation."
+      ]
+    },
+    {
+      "character": "很",
+      "pinyin": "hěn",
+      "meaning": "très",
+      "hskLevel": 1,
+      "radical": "彳 (chì - pas)",
+      "components": [
+        "彳 (chì - pas)",
+        "艮 (gěn - ferme)"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que 很 représente une personne qui avance (彳) avec détermination (艮), d'où l'idée de degré marqué. Le radical 彳 évoque le mouvement.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer 很 comme 'hen' sans le ton 3."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "喜欢",
+      "pinyin": "xǐhuan",
+      "meaning": "aimer, apprécier",
+      "exampleZh": "我喜欢看书。",
+      "examplePinyin": "Wǒ xǐhuan kàn shū.",
+      "exampleFr": "J'aime lire."
+    },
+    {
+      "word": "太",
+      "pinyin": "tài",
+      "meaning": "trop, très",
+      "exampleZh": "这个茶太贵。",
+      "examplePinyin": "Zhège chá tài guì.",
+      "exampleFr": "Ce thé est trop cher."
+    },
+    {
+      "word": "很",
+      "pinyin": "hěn",
+      "meaning": "très",
+      "exampleZh": "这个公园很大。",
+      "examplePinyin": "Zhège gōngyuán hěn dà.",
+      "exampleFr": "Ce parc est très grand."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu discutes avec un ami de tes loisirs préférés et de ceux des autres.",
+      "goals": [
+        "Exprimer ce que tu aimes ou n'aimes pas.",
+        "Dire ce que tu préfères.",
+        "Décrire des activités de loisirs.",
+        "Utiliser 喜欢 + verbe/nom et 很/太."
+      ]
+    },
+    "discovery": {
+      "instructions": "Lis ce dialogue et repère les mots liés aux goûts et aux loisirs. Ne traduis pas encore, observe simplement.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "你喜欢什么？",
+          "pinyin": "Nǐ xǐhuan shénme?",
+          "translation": "Qu'est-ce que tu aimes ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我喜欢游泳和看书。",
+          "pinyin": "Wǒ xǐhuan yóuyǒng hé kàn shū.",
+          "translation": "J'aime nager et lire."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我也喜欢游泳！太好！",
+          "pinyin": "Wǒ yě xǐhuan yóuyǒng! Tài hǎo!",
+          "translation": "J'aime aussi nager ! C'est trop bien !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你喜欢看电视吗？",
+          "pinyin": "Nǐ xǐhuan kàn diànshì ma?",
+          "translation": "Aimes-tu regarder la télévision ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "很喜欢！",
+          "pinyin": "Hěn xǐhuan!",
+          "translation": "J'aime beaucoup !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "喜",
+        "欢",
+        "太",
+        "很"
+      ],
+      "grammar": [
+        {
+          "point": "喜欢 + verbe/nom",
+          "explanation": "Pour exprimer un goût ou une préférence, on utilise 喜欢 suivi d'un verbe (ex : 看书 - lire) ou d'un nom (ex : 茶 - thé). C'est l'équivalent de 'aimer' en français. Contrairement au français, on n'utilise pas de verbe comme 'faire' avant l'activité.",
+          "examples": [
+            {
+              "chinese": "我喜欢喝茶。",
+              "pinyin": "Wǒ xǐhuan hē chá.",
+              "translation": "J'aime boire du thé."
+            },
+            {
+              "chinese": "他喜欢中国。",
+              "pinyin": "Tā xǐhuan Zhōngguó.",
+              "translation": "Il aime la Chine."
+            }
+          ]
+        },
+        {
+          "point": "很/太",
+          "explanation": "很 (hěn) signifie 'très' et sert à renforcer un adjectif ou un verbe. 太 (tài) signifie 'trop' et exprime un degré excessif. Attention : en chinois, 很 n'est pas toujours traduit en français ('je suis grand' = 我很大).",
+          "examples": [
+            {
+              "chinese": "这个水很少。",
+              "pinyin": "Zhège shuǐ hěn shǎo.",
+              "translation": "Cette eau est très peu."
+            },
+            {
+              "chinese": "这个车太贵。",
+              "pinyin": "Zhège chē tài guì.",
+              "translation": "Cette voiture est trop chère."
+            }
+          ]
+        },
+        {
+          "point": "Adjectifs sans 是",
+          "explanation": "En chinois, les adjectifs peuvent être utilisés directement comme prédicats sans le verbe 是 (shì - être). C'est une différence majeure avec le français. Ex : 很好 (hěn hǎo - très bien) au lieu de 是很好.",
+          "examples": [
+            {
+              "chinese": "这个茶好。",
+              "pinyin": "Zhège chá hǎo.",
+              "translation": "Ce thé est bon."
+            },
+            {
+              "chinese": "他很大。",
+              "pinyin": "Tā hěn dà.",
+              "translation": "Il est très grand."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton 3 (descendant-montant) de 喜 (xǐ) : baisse puis remonte.",
+        "Le ton 1 (plat) de 太 (tài) : stable et haut.",
+        "Le ton 3 (descendant-montant) de 很 (hěn) : baisse puis remonte."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères s'appuient sur des acquis précédents :",
+      "links": [
+        {
+          "from": "喜",
+          "relation": "COMPOSE",
+          "to": "喜欢"
+        },
+        {
+          "from": "欢",
+          "relation": "COMPOSE",
+          "to": "喜欢"
+        },
+        {
+          "from": "太",
+          "relation": "DONNE_LE_SON",
+          "to": "大 (dà - grand)"
+        },
+        {
+          "from": "很",
+          "relation": "RADICAL_DE",
+          "to": "彳 (chì - pas)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Dis à ton ami ce que tu aimes faire comme loisirs.",
+          "hint": "Utilise 喜欢 + activité (ex : 看书, 游泳, 看电视).",
+          "example": {
+            "chinese": "我喜欢看书和游泳。",
+            "pinyin": "Wǒ xǐhuan kàn shū hé yóuyǒng.",
+            "translation": "J'aime lire et nager."
+          }
+        },
+        {
+          "instruction": "Demande à ton ami s'il aime une activité précise.",
+          "hint": "Utilise 你喜欢...吗？",
+          "example": {
+            "chinese": "你喜欢看电影吗？",
+            "pinyin": "Nǐ xǐhuan kàn diànyǐng ma?",
+            "translation": "Aimes-tu regarder des films ?"
+          }
+        },
+        {
+          "instruction": "Exprime ton enthousiasme pour une activité.",
+          "hint": "Utilise 太...！",
+          "example": {
+            "chinese": "这个公园太大！",
+            "pinyin": "Zhège gōngyuán tài dà!",
+            "translation": "Ce parc est trop grand !"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Pour parler de tes goûts et loisirs en chinois : 1) Utilise 喜欢 + verbe/nom pour exprimer ce que tu aimes. 2) Utilise 很 ou 太 pour renforcer un adjectif ou exprimer un degré excessif. 3) Les adjectifs s'emploient directement comme prédicats sans 是.",
+      "reviewWords": [
+        "喜欢",
+        "太",
+        "很"
+      ],
+      "reviewHanzi": [
+        "喜",
+        "欢",
+        "太",
+        "很"
+      ]
+    }
+  }
+}

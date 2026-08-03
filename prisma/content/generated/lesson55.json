@@ -1,0 +1,596 @@
+{
+  "slug": "lire-un-article",
+  "title": "Lire un article de presse authentique",
+  "mission": "Comprendre un article complet sans dictionnaire",
+  "level": "B2",
+  "order": 55,
+  "hanzi": [
+    {
+      "character": "刊",
+      "pinyin": "kān",
+      "meaning": "publier, périodique",
+      "hskLevel": 5,
+      "radical": "刂 (couteau)",
+      "components": [
+        "干",
+        "刂"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente l'action de graver (刂) des caractères sur une planche (干) pour imprimer un journal ou un magazine. L'origine exacte reste débattue, mais la composante phonétique 干 (gān) suggère une relation avec le son.",
+      "family": [
+        "报刊 (bàokān, presse)",
+        "周刊 (zhōukān, hebdomadaire)"
+      ],
+      "commonErrors": [
+        "Confondre avec 刑 (xíng, peine) en raison du radical 刂."
+      ]
+    },
+    {
+      "character": "评",
+      "pinyin": "píng",
+      "meaning": "commenter, évaluer",
+      "hskLevel": 4,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "平"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 讠 (parole) indique le sens lié au langage, tandis que 平 (píng) donne le son. L'idée est d'« aplanir » les opinions pour les évaluer.",
+      "family": [
+        "评论 (pínglùn, commentaire)",
+        "批评 (pīpíng, critique)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 平 (píng) sans tenir compte du ton montant (2e ton)."
+      ]
+    },
+    {
+      "character": "述",
+      "pinyin": "shù",
+      "meaning": "raconter, exposer",
+      "hskLevel": 5,
+      "radical": "辶 (mouvement)",
+      "components": [
+        "木",
+        "丶",
+        "辶"
+      ],
+      "etymology": "Le radical 辶 suggère un mouvement ou un déplacement, tandis que 朮 (shù) donne le son. L'idée est de « suivre un chemin » pour raconter une histoire.",
+      "family": [
+        "叙述 (xùshù, narration)",
+        "描述 (miáoshù, description)"
+      ],
+      "commonErrors": [
+        "Confondre avec 术 (shù, technique) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "态",
+      "pinyin": "tài",
+      "meaning": "état, attitude",
+      "hskLevel": 4,
+      "radical": "心 (cœur)",
+      "components": [
+        "太",
+        "心"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 心 (cœur) indique le sens lié aux émotions ou à l'état d'esprit, tandis que 太 (tài) donne le son. L'idée est de décrire l'« état » du cœur ou de l'esprit.",
+      "family": [
+        "状态 (zhuàngtài, état)",
+        "态度 (tàidu, attitude)"
+      ],
+      "commonErrors": [
+        "Confondre avec 太 (tài, trop) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "度",
+      "pinyin": "dù",
+      "meaning": "degré, mesure",
+      "hskLevel": 3,
+      "radical": "广 (abri)",
+      "components": [
+        "广",
+        "廿",
+        "又"
+      ],
+      "etymology": "Le radical 广 évoque un abri ou un espace, tandis que les composants 廿 (vingt) et 又 (main) suggèrent une mesure ou une évaluation. L'origine exacte est débattue, mais l'idée est de « mesurer » un espace ou une quantité.",
+      "family": [
+        "温度 (wēndù, température)",
+        "制度 (zhìdù, système)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 渡 (dù, traverser) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "源",
+      "pinyin": "yuán",
+      "meaning": "source, origine",
+      "hskLevel": 5,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "原"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 氵 (eau) indique le sens lié à un flux ou une origine, tandis que 原 (yuán) donne le son. L'idée est de décrire la « source » d'un cours d'eau ou d'une idée.",
+      "family": [
+        "来源 (láiyuán, source)",
+        "资源 (zīyuán, ressources)"
+      ],
+      "commonErrors": [
+        "Confondre avec 原 (yuán, origine) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "趋",
+      "pinyin": "qū",
+      "meaning": "tendance, se diriger vers",
+      "hskLevel": 5,
+      "radical": "走 (marcher)",
+      "components": [
+        "走",
+        "刍"
+      ],
+      "etymology": "Le radical 走 (marcher) évoque un mouvement, tandis que 刍 (chú) donne le son. L'idée est de « marcher vers une tendance » ou une direction.",
+      "family": [
+        "趋势 (qūshì, tendance)",
+        "趋向 (qūxiàng, tendre vers)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 区 (qū, zone) sans tenir compte du ton montant (2e ton)."
+      ]
+    },
+    {
+      "character": "势",
+      "pinyin": "shì",
+      "meaning": "puissance, tendance",
+      "hskLevel": 4,
+      "radical": "力 (force)",
+      "components": [
+        "执",
+        "力"
+      ],
+      "etymology": "Le radical 力 (force) indique le sens lié à la puissance ou à l'énergie, tandis que 执 (zhí) donne le son. L'idée est de décrire une « force » ou une « tendance » en mouvement.",
+      "family": [
+        "形势 (xíngshì, situation)",
+        "势力 (shìlì, influence)"
+      ],
+      "commonErrors": [
+        "Confondre avec 热 (rè, chaud) en raison de la similitude graphique partielle."
+      ]
+    },
+    {
+      "character": "统",
+      "pinyin": "tǒng",
+      "meaning": "unifier, système",
+      "hskLevel": 4,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "充"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 纟 (soie) évoque l'idée de lien ou de connexion, tandis que 充 (chōng) donne le son. L'idée est d'« unifier » ou de « systématiser » des éléments.",
+      "family": [
+        "系统 (xìtǒng, système)",
+        "统一 (tǒngyī, unifier)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 通 (tōng, passer) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "策",
+      "pinyin": "cè",
+      "meaning": "stratégie, plan",
+      "hskLevel": 5,
+      "radical": "竹 (bambou)",
+      "components": [
+        "竹",
+        "束"
+      ],
+      "etymology": "Le radical 竹 (bambou) évoque l'idée d'écrire ou de documenter, tandis que 束 (shù) donne le son. À l'origine, ce caractère désignait des lamelles de bambou utilisées pour écrire des plans ou des stratégies.",
+      "family": [
+        "政策 (zhèngcè, politique)",
+        "策略 (cèlüè, stratégie)"
+      ],
+      "commonErrors": [
+        "Confondre avec 束 (shù, lier) en raison de la similitude graphique."
+      ]
+    },
+    {
+      "character": "施",
+      "pinyin": "shī",
+      "meaning": "mettre en œuvre, appliquer",
+      "hskLevel": 5,
+      "radical": "方 (carré)",
+      "components": [
+        "方",
+        "也"
+      ],
+      "etymology": "Le radical 方 (carré) évoque l'idée d'organisation ou de méthode, tandis que 也 (yě) donne le son. L'idée est de « mettre en œuvre » une action de manière organisée.",
+      "family": [
+        "实施 (shíshī, appliquer)",
+        "施工 (shīgōng, construction)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 师 (shī, maître) en raison de la similitude phonétique."
+      ]
+    },
+    {
+      "character": "针",
+      "pinyin": "zhēn",
+      "meaning": "aiguille, cibler",
+      "hskLevel": 4,
+      "radical": "钅 (métal)",
+      "components": [
+        "钅",
+        "十"
+      ],
+      "etymology": "Le radical 钅 (métal) indique le sens lié aux objets en métal, tandis que 十 (shí) donne une partie du son. L'idée est de décrire une « aiguille » ou un objet pointu utilisé pour cibler.",
+      "family": [
+        "针对 (zhēnduì, cibler)",
+        "方针 (fāngzhēn, politique)"
+      ],
+      "commonErrors": [
+        "Confondre avec 真 (zhēn, vrai) en raison de la similitude phonétique."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "报道",
+      "pinyin": "bàodào",
+      "meaning": "reportage, couvrir (un événement)",
+      "exampleZh": "这篇报道很好。",
+      "examplePinyin": "Zhè piān bàodào hěn hǎo.",
+      "exampleFr": "Ce reportage est très bon."
+    },
+    {
+      "word": "评论",
+      "pinyin": "pínglùn",
+      "meaning": "commentaire, critique",
+      "exampleZh": "他写了一篇评论。",
+      "examplePinyin": "Tā xiě le yī piān pínglùn.",
+      "exampleFr": "Il a écrit un commentaire."
+    },
+    {
+      "word": "对于",
+      "pinyin": "duìyú",
+      "meaning": "concernant, à propos de",
+      "exampleZh": "于这个问，大家看法不同。",
+      "examplePinyin": "Yú zhège wèn, dàjiā kànfǎ bùtóng.",
+      "exampleFr": "Concernant cette question, tout le monde a des avis différents."
+    },
+    {
+      "word": "关于",
+      "pinyin": "guānyú",
+      "meaning": "au sujet de",
+      "exampleZh": "于这件事，我都不知。",
+      "examplePinyin": "Yú zhè jiàn shì, wǒ dōu bù zhī.",
+      "exampleFr": "Au sujet de cette affaire, je ne sais rien."
+    },
+    {
+      "word": "随着",
+      "pinyin": "suízhe",
+      "meaning": "au fur et à mesure que, avec",
+      "exampleZh": "随济展，们的活平提了。",
+      "examplePinyin": "Suí jì zhǎn, rénmen de shēnghuó shuǐpíng tí le.",
+      "exampleFr": "Au fur et à mesure du développement économique, le niveau de vie des gens s'est amélioré."
+    },
+    {
+      "word": "根据",
+      "pinyin": "gēnjù",
+      "meaning": "selon, d'après",
+      "exampleZh": "根据报，这个实了。",
+      "examplePinyin": "Gēnjù bào, zhège shí le.",
+      "exampleFr": "Selon le reportage, cela a été réalisé."
+    },
+    {
+      "word": "趋势",
+      "pinyin": "qūshì",
+      "meaning": "tendance",
+      "exampleZh": "这个展的趋势很好。",
+      "examplePinyin": "Zhège zhǎn de qūshì hěn hǎo.",
+      "exampleFr": "La tendance de ce développement est bonne."
+    },
+    {
+      "word": "政策",
+      "pinyin": "zhèngcè",
+      "meaning": "politique (mesures gouvernementales)",
+      "exampleZh": "政府发布了新政策。",
+      "examplePinyin": "Zhèngfǔ fābù le xīn zhèngcè.",
+      "exampleFr": "Le gouvernement a publié une nouvelle politique."
+    },
+    {
+      "word": "实施",
+      "pinyin": "shíshī",
+      "meaning": "mettre en œuvre, appliquer",
+      "exampleZh": "这个政策开始实了。",
+      "examplePinyin": "Zhège zhèngcè kāishǐ shí le.",
+      "exampleFr": "Cette politique a commencé à être mise en œuvre."
+    },
+    {
+      "word": "来源",
+      "pinyin": "láiyuán",
+      "meaning": "source, origine",
+      "exampleZh": "这篇文章的来源可靠吗？",
+      "examplePinyin": "Zhè piān wénzhāng de láiyuán kěkào ma?",
+      "exampleFr": "La source de cet article est-elle fiable ?"
+    },
+    {
+      "word": "状态",
+      "pinyin": "zhuàngtài",
+      "meaning": "état, situation",
+      "exampleZh": "他的健康状很好。",
+      "examplePinyin": "Tā de jiànkāng zhuàng hěn hǎo.",
+      "exampleFr": "Son état de santé est très bon."
+    },
+    {
+      "word": "系统",
+      "pinyin": "xìtǒng",
+      "meaning": "système",
+      "exampleZh": "这个系很好。",
+      "examplePinyin": "Zhège xì hěn hǎo.",
+      "exampleFr": "Ce système est très bon."
+    },
+    {
+      "word": "政府",
+      "pinyin": "zhèngfǔ",
+      "meaning": "gouvernement",
+      "exampleZh": "政府在问这个问。",
+      "examplePinyin": "Zhèngfǔ zài wèn zhège wèn.",
+      "exampleFr": "Le gouvernement pose cette question."
+    },
+    {
+      "word": "针对",
+      "pinyin": "zhēnduì",
+      "meaning": "cibler, viser",
+      "exampleZh": "这个政策是针对年轻人的。",
+      "examplePinyin": "Zhège zhèngcè shì zhēnduì niánqīng rén de.",
+      "exampleFr": "Cette politique cible les jeunes."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous êtes journaliste pour un média et devez analyser un article en mandarin sur une nouvelle politique. Votre objectif est de comprendre les idées principales, les sources citées, et les tendances évoquées sans utiliser de dictionnaire.",
+      "goals": [
+        "Identifier les structures typiques de l'écrit journalistique.",
+        "Repérer les connecteurs logiques spécifiques aux articles de presse.",
+        "Comprendre les nuances des termes politiques et médiatiques."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez ce dialogue entre deux journalistes discutant d'un article. Repérez les mots ou structures qui semblent typiques des médias. Ne cherchez pas à tout traduire, mais identifiez les éléments récurrents.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "你看了今天的报吗？于政府新政策的。",
+          "pinyin": "Nǐ kàn le jīntiān de bào ma? Yú zhèngfǔ xīn zhèngcè de.",
+          "translation": "As-tu lu le journal d'aujourd'hui ? Au sujet de la nouvelle politique du gouvernement."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "看了。于这个政策，评论不一样。",
+          "pinyin": "Kàn le. Yú zhège zhèngcè, pínglùn bù yīyàng.",
+          "translation": "Oui. Concernant cette politique, les commentaires ne sont pas les mêmes."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "报说，随济展，政府决实新政策。",
+          "pinyin": "Bào shuō, suí jì zhǎn, zhèngfǔ jué shí xīn zhèngcè.",
+          "translation": "Le journal dit qu'avec le développement économique, le gouvernement a décidé de mettre en œuvre une nouvelle politique."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "于文章的来源，这个政策是针对年轻人的。",
+          "pinyin": "Yú wénzhāng de láiyuán, zhège zhèngcè shì zhēnduì niánqīng rén de.",
+          "translation": "Selon la source de l'article, cette politique cible les jeunes."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "不过，文章提了些问。比如，系的状还不稳。",
+          "pinyin": "Bùguò, wénzhāng tí le xiē wèn. Bǐrú, xì de zhuàng hái bù wěn.",
+          "translation": "Cependant, l'article a mentionné quelques problèmes. Par exemple, l'état du système n'est pas encore stable."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "是的。还，大家对这个政策的趋势看法不同。",
+          "pinyin": "Shì de. Hái, dàjiā duì zhège zhèngcè de qūshì kànfǎ bùtóng.",
+          "translation": "Oui. De plus, tout le monde a des avis différents sur la tendance de cette politique."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我们要详细地析这个报。",
+          "pinyin": "Wǒmen yào xiángxì de xī zhège bào.",
+          "translation": "Nous devons analyser ce journal en détail."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "刊",
+        "评",
+        "述",
+        "态",
+        "度",
+        "源",
+        "趋",
+        "势",
+        "统",
+        "策",
+        "施",
+        "针"
+      ],
+      "grammar": [
+        {
+          "point": "对于/关于 : exprimer le thème ou le sujet",
+          "explanation": "Ces deux prépositions introduisent un thème ou un sujet, mais avec des nuances différentes. <br> - **对于** (duìyú) : met l'accent sur l'objet ou la cible d'une action ou d'une opinion. Il est souvent utilisé pour introduire un point de vue ou une attitude. <br>   Erreur typique du francophone : confondre avec « pour » en français, alors qu'il signifie plutôt « concernant » ou « à l'égard de ». <br> - **关于** (guānyú) : introduit simplement un sujet ou un thème, sans connotation particulière. Il est plus neutre et souvent utilisé dans les titres ou les introductions.",
+          "examples": [
+            {
+              "chinese": "于这个问，大家看法不同。",
+              "pinyin": "Yú zhège wèn, dàjiā kànfǎ bùtóng.",
+              "translation": "Concernant cette question, tout le monde a des avis différents."
+            },
+            {
+              "chinese": "于这件事，我都不知。",
+              "pinyin": "Yú zhè jiàn shì, wǒ dōu bù zhī.",
+              "translation": "Au sujet de cette affaire, je ne sais rien."
+            }
+          ]
+        },
+        {
+          "point": "随着 : exprimer une évolution concomitante",
+          "explanation": "**随着** (suízhe) signifie « au fur et à mesure que » ou « avec ». Il introduit une action ou un changement qui se produit en même temps qu'un autre. <br>   Erreur typique du francophone : utiliser « avec » seul (ex: « avec le développement ») au lieu de « au fur et à mesure que ».",
+          "examples": [
+            {
+              "chinese": "随济展，们的活平提了。",
+              "pinyin": "Suí jì zhǎn, rénmen de shēnghuó shuǐpíng tí le.",
+              "translation": "Au fur et à mesure du développement économique, le niveau de vie des gens s'est amélioré."
+            },
+            {
+              "chinese": "随年龄增，他变得更熟了。",
+              "pinyin": "Suí niánlíng zēng, tā biàn de gèng shú le.",
+              "translation": "Au fur et à mesure qu'il vieillit, il devient plus mature."
+            }
+          ]
+        },
+        {
+          "point": "Structures typiques de l'écrit journalistique",
+          "explanation": "Les articles de presse en mandarin utilisent souvent des structures spécifiques pour introduire des informations, des sources ou des analyses. Voici quelques exemples courants : <br> - **根据... (gēnjù...) : selon...** (pour citer une source) <br> - **报说... (bào shuō...) : le journal dit que...** (pour introduire une information) <br>   Erreur typique du francophone : traduire mot à mot (« selon le journal dit ») au lieu d'utiliser des structures naturelles en mandarin.",
+          "examples": [
+            {
+              "chinese": "根据数，这个实了。",
+              "pinyin": "Gēnjù shù, zhège shí le.",
+              "translation": "Selon les données, cela a été réalisé."
+            },
+            {
+              "chinese": "报说，这个趋势还会继续。",
+              "pinyin": "Bào shuō, zhège qūshì hái huì jìxù.",
+              "translation": "Le journal dit que cette tendance va continuer."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton descendant (4e ton) de **针** (zhēn) : ce ton est court et énergique. Exemple : 针对 (zhēnduì).",
+        "Le ton montant (2e ton) de **趋** (qū) : ce ton monte comme une question. Exemple : 趋势 (qūshì).",
+        "La distinction entre **施** (shī, 1er ton) et **师** (shī, 1er ton) : bien que les tons soient identiques, les significations diffèrent. **施** signifie « mettre en œuvre », tandis que **师** signifie « maître »."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots de cette leçon s'appuient sur des acquis précédents pour former des termes spécifiques au domaine des médias et de la politique. Voici quelques liens utiles :",
+      "links": [
+        {
+          "from": "刊",
+          "relation": "RADICAL_DE",
+          "to": "报 (bào, journal)"
+        },
+        {
+          "from": "评",
+          "relation": "COMPOSE",
+          "to": "评论 (pínglùn, commentaire)"
+        },
+        {
+          "from": "述",
+          "relation": "DONNE_LE_SON",
+          "to": "术 (shù, technique)"
+        },
+        {
+          "from": "态",
+          "relation": "COMPOSE",
+          "to": "状态 (zhuàngtài, état)"
+        },
+        {
+          "from": "源",
+          "relation": "COMPOSE",
+          "to": "来源 (láiyuán, source)"
+        },
+        {
+          "from": "趋",
+          "relation": "COMPOSE",
+          "to": "趋势 (qūshì, tendance)"
+        },
+        {
+          "from": "统",
+          "relation": "COMPOSE",
+          "to": "系统 (xìtǒng, système)"
+        },
+        {
+          "from": "策",
+          "relation": "COMPOSE",
+          "to": "政策 (zhèngcè, politique)"
+        },
+        {
+          "from": "施",
+          "relation": "COMPOSE",
+          "to": "实施 (shíshī, appliquer)"
+        },
+        {
+          "from": "针",
+          "relation": "COMPOSE",
+          "to": "针对 (zhēnduì, cibler)"
+        },
+        {
+          "from": "对于",
+          "relation": "CONTRASTE_AVEC",
+          "to": "关于 (guānyú, au sujet de)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Rédigez un court paragraphe (5-6 phrases) résumant un article de presse sur une nouvelle politique éducative. Utilisez au moins 3 des mots suivants : 报, 于, 随, 根据, 趋势, 政策, 实.",
+          "hint": "Commencez par introduire le sujet avec 于, puis utilisez 随 pour décrire une évolution. Citez une source avec 根据 et terminez par une analyse de la 趋势.",
+          "example": {
+            "chinese": "于教育新政策，最近有很多报。于这个政策，政府的目标是提高学生的学习。随社会的展，教育的重要性越来越大。根据教育部的数，这个政策开始实了。不过，大家对这个政策的趋势看法不同。",
+            "pinyin": "Yú jiàoyù xīn zhèngcè, zuìjìn yǒu hěn duō bào. Yú zhège zhèngcè, zhèngfǔ de mùbiāo shì tígāo xuéshēng de xuéxí. Suí shèhuì de zhǎn, jiàoyù de zhòngyàoxìng yuè lái yuè dà. Gēnjù jiàoyù bù de shù, zhège zhèngcè kāishǐ shí le. Bùguò, dàjiā duì zhège zhèngcè de qūshì kànfǎ bùtóng.",
+            "translation": "Au sujet de la nouvelle politique éducative, il y a eu beaucoup de reportages récemment. Concernant cette politique, l'objectif du gouvernement est d'améliorer les études des élèves. Avec le développement de la société, l'importance de l'éducation devient de plus en plus grande. Selon les données du ministère de l'Éducation, cette politique a commencé à être mise en œuvre. Cependant, tout le monde a des avis différents sur la tendance de cette politique."
+          }
+        },
+        {
+          "instruction": "Imaginez que vous êtes journaliste et interviewez un expert sur une tendance économique. Posez 3 questions en utilisant 于, 随, et 根据.",
+          "hint": "Utilisez 于 pour introduire le thème, 随 pour demander une évolution, et 根据 pour citer des données.",
+          "example": {
+            "chinese": "1. 于经济的展趋势，您有什么看法？\n2. 随技术的进，经济会有什么变？\n3. 根据最近的数，这个趋势会持续多久？",
+            "pinyin": "1. Yú jīngjì de zhǎn qūshì, nín yǒu shénme kànfǎ?\n2. Suí jìshù de jìn, jīngjì huì yǒu shénme biàn?\n3. Gēnjù zuìjìn de shù, zhège qūshì huì chíxù duōjiǔ?",
+            "translation": "1. Au sujet de la tendance de développement économique, quel est votre avis ?\n2. Avec les progrès technologiques, quels changements l'économie va-t-elle subir ?\n3. Selon les données récentes, combien de temps cette tendance va-t-elle durer ?"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Cette leçon vous a introduit aux structures et au vocabulaire spécifiques à la lecture d'articles de presse en mandarin. Vous avez appris à : <br> - Utiliser **对于** et **关于** pour introduire un thème ou un sujet. <br> - Employer **随着** pour décrire une évolution concomitante. <br> - Reconnaître les structures typiques de l'écrit journalistique, comme **根据** ou **报说**. <br> - Comprendre des termes clés liés aux médias et à la politique, comme **政策**, **趋势**, ou **实施**. <br> Ces compétences vous permettront d'analyser des articles authentiques avec plus de confiance.",
+      "reviewWords": [
+        "报道",
+        "评论",
+        "对于",
+        "关于",
+        "随着",
+        "根据",
+        "趋势",
+        "政策",
+        "实施",
+        "来源",
+        "状态",
+        "系统",
+        "政府",
+        "针对"
+      ],
+      "reviewHanzi": [
+        "刊",
+        "评",
+        "述",
+        "态",
+        "度",
+        "源",
+        "趋",
+        "势",
+        "统",
+        "策",
+        "施",
+        "针"
+      ]
+    }
+  }
+}

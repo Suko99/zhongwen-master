@@ -1,0 +1,476 @@
+{
+  "slug": "la-meteo",
+  "title": "La météo et les saisons",
+  "mission": "Parler du temps qu'il fait",
+  "level": "A1",
+  "order": 14,
+  "hanzi": [
+    {
+      "character": "气",
+      "pinyin": "qì",
+      "meaning": "air, gaz, énergie",
+      "hskLevel": 1,
+      "radical": "气 (vapeur)",
+      "components": [
+        "气"
+      ],
+      "etymology": "Représente la vapeur ou l'air qui s'élève. Radical autonome. Associé à des concepts abstraits comme l'énergie ou l'humeur (ex: 天气).",
+      "family": [
+        "天气 (météo)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en 'chi' au lieu de 'qi' (4e ton)."
+      ]
+    },
+    {
+      "character": "冷",
+      "pinyin": "lěng",
+      "meaning": "froid",
+      "hskLevel": 1,
+      "radical": "冫 (glace)",
+      "components": [
+        "冫",
+        "令"
+      ],
+      "etymology": "Composé phono-sémantique : 冫 (glace) + 令 (son 'ling'). Le radical indique le sens (froid), tandis que 令 donne une approximation du son.",
+      "family": [
+        "冷水 (eau froide)"
+      ],
+      "commonErrors": [
+        "Oublier le 3e ton descendant-montant et prononcer 'leng' (ton neutre)."
+      ]
+    },
+    {
+      "character": "热",
+      "pinyin": "rè",
+      "meaning": "chaud",
+      "hskLevel": 1,
+      "radical": "灬 (feu)",
+      "components": [
+        "执",
+        "灬"
+      ],
+      "etymology": "Composé phono-sémantique : 执 (son 'zhi') + 灬 (feu). Le radical 灬 suggère la chaleur ou le feu. L'origine exacte de 执 est débattue.",
+      "family": [
+        "热水 (eau chaude)"
+      ],
+      "commonErrors": [
+        "Prononcer 're' sans le 4e ton descendant, ou confondre avec 日 (rì)."
+      ]
+    },
+    {
+      "character": "雨",
+      "pinyin": "yǔ",
+      "meaning": "pluie",
+      "hskLevel": 1,
+      "radical": "雨 (pluie)",
+      "components": [
+        "雨"
+      ],
+      "etymology": "Pictogramme représentant des gouttes de pluie tombant d'un nuage. Radical autonome. Utilisé comme préfixe dans des mots liés à la pluie (ex: 下雨).",
+      "family": [
+        "下雨 (pleuvoir)"
+      ],
+      "commonErrors": [
+        "Prononcer 'yu' sans le 3e ton, ou confondre avec 语 (yǔ, langue)."
+      ]
+    },
+    {
+      "character": "雪",
+      "pinyin": "xuě",
+      "meaning": "neige",
+      "hskLevel": 1,
+      "radical": "雨 (pluie)",
+      "components": [
+        "雨",
+        "彐"
+      ],
+      "etymology": "Composé sémantique : 雨 (pluie) + 彐 (représentant des flocons de neige). Le radical 雨 indique le lien avec les précipitations.",
+      "family": [
+        "下雪 (neiger)"
+      ],
+      "commonErrors": [
+        "Prononcer 'xue' sans le 3e ton, ou confondre avec 学 (xué, étudier)."
+      ]
+    },
+    {
+      "character": "春",
+      "pinyin": "chūn",
+      "meaning": "printemps",
+      "hskLevel": 1,
+      "radical": "日 (soleil)",
+      "components": [
+        "𡗗",
+        "日"
+      ],
+      "etymology": "Composé phono-sémantique : 𡗗 (son 'chun') + 日 (soleil). Le radical 日 suggère la saison ensoleillée. L'origine de 𡗗 est complexe et débattue.",
+      "family": [
+        "春天 (printemps)"
+      ],
+      "commonErrors": [
+        "Prononcer 'chun' sans le 1er ton haut et plat."
+      ]
+    },
+    {
+      "character": "夏",
+      "pinyin": "xià",
+      "meaning": "été",
+      "hskLevel": 2,
+      "radical": "夊 (marcher lentement)",
+      "components": [
+        "夂",
+        "目",
+        "自"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une personne (自) portant un chapeau (目) pour se protéger du soleil, symbolisant l'été. Origine débattue.",
+      "family": [
+        "夏天 (été)"
+      ],
+      "commonErrors": [
+        "Confondre avec 下 (xià, descendre) en raison de la prononciation identique."
+      ]
+    },
+    {
+      "character": "秋",
+      "pinyin": "qiū",
+      "meaning": "automne",
+      "hskLevel": 1,
+      "radical": "禾 (grain)",
+      "components": [
+        "禾",
+        "火"
+      ],
+      "etymology": "Composé sémantique : 禾 (grain) + 火 (feu). Représente les grains mûrs (禾) qui sont récoltés et parfois brûlés (火) en automne. Le radical 禾 indique le lien avec les céréales.",
+      "family": [
+        "秋天 (automne)"
+      ],
+      "commonErrors": [
+        "Prononcer 'qiu' sans le 1er ton."
+      ]
+    },
+    {
+      "character": "冬",
+      "pinyin": "dōng",
+      "meaning": "hiver",
+      "hskLevel": 1,
+      "radical": "冫 (glace)",
+      "components": [
+        "夂",
+        "冫"
+      ],
+      "etymology": "Pictogramme stylisé représentant deux morceaux de glace (冫) liés par le froid. Le radical 冫 indique le lien avec le froid.",
+      "family": [
+        "冬天 (hiver)"
+      ],
+      "commonErrors": [
+        "Prononcer 'dong' sans le 1er ton haut et plat."
+      ]
+    },
+    {
+      "character": "会",
+      "pinyin": "huì",
+      "meaning": "probablement (futur)",
+      "hskLevel": 1,
+      "radical": "人 (personne)",
+      "components": [
+        "人",
+        "云"
+      ],
+      "etymology": "Composé phono-sémantique : 人 (personne) + 云 (son 'yun'). Représente à l'origine une réunion de personnes, d'où le sens de 'savoir' ou 'probablement'.",
+      "family": [],
+      "commonErrors": [
+        "Confondre avec 回 (huí, retourner) en raison de la prononciation similaire."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "天气",
+      "pinyin": "tiān qì",
+      "meaning": "météo, temps (qu'il fait)",
+      "exampleZh": "今天天气很好。",
+      "examplePinyin": "Jīn tiān tiān qì hěn hǎo.",
+      "exampleFr": "Aujourd'hui, le temps est très beau."
+    },
+    {
+      "word": "冷",
+      "pinyin": "lěng",
+      "meaning": "froid",
+      "exampleZh": "今天很冷。",
+      "examplePinyin": "Jīn tiān hěn lěng.",
+      "exampleFr": "Aujourd'hui, il fait froid."
+    },
+    {
+      "word": "热",
+      "pinyin": "rè",
+      "meaning": "chaud",
+      "exampleZh": "今天很热。",
+      "examplePinyin": "Jīn tiān hěn rè.",
+      "exampleFr": "Aujourd'hui, il fait chaud."
+    },
+    {
+      "word": "下雨",
+      "pinyin": "xià yǔ",
+      "meaning": "pleuvoir",
+      "exampleZh": "今天下雨。",
+      "examplePinyin": "Jīn tiān xià yǔ.",
+      "exampleFr": "Aujourd'hui, il pleut."
+    },
+    {
+      "word": "下雪",
+      "pinyin": "xià xuě",
+      "meaning": "neiger",
+      "exampleZh": "今天下雪。",
+      "examplePinyin": "Jīn tiān xià xuě.",
+      "exampleFr": "Aujourd'hui, il neige."
+    },
+    {
+      "word": "春天",
+      "pinyin": "chūn tiān",
+      "meaning": "printemps",
+      "exampleZh": "春天天气好。",
+      "examplePinyin": "Chūn tiān tiān qì hǎo.",
+      "exampleFr": "Au printemps, le temps est beau."
+    },
+    {
+      "word": "夏天",
+      "pinyin": "xià tiān",
+      "meaning": "été",
+      "exampleZh": "夏天很热。",
+      "examplePinyin": "Xià tiān hěn rè.",
+      "exampleFr": "L'été est très chaud."
+    },
+    {
+      "word": "秋天",
+      "pinyin": "qiū tiān",
+      "meaning": "automne",
+      "exampleZh": "秋天天气好。",
+      "examplePinyin": "Qiū tiān tiān qì hǎo.",
+      "exampleFr": "En automne, le temps est beau."
+    },
+    {
+      "word": "冬天",
+      "pinyin": "dōng tiān",
+      "meaning": "hiver",
+      "exampleZh": "冬天很冷。",
+      "examplePinyin": "Dōng tiān hěn lěng.",
+      "exampleFr": "L'hiver est très froid."
+    },
+    {
+      "word": "会",
+      "pinyin": "huì",
+      "meaning": "probablement (futur)",
+      "exampleZh": "明天会下雨。",
+      "examplePinyin": "Míng tiān huì xià yǔ.",
+      "exampleFr": "Demain, il pleuvra probablement."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es en Chine pour un échange universitaire. Tes amis chinois te demandent quel temps il fait dans ta ville natale. Tu décris la météo aujourd'hui et demain en utilisant les nouveaux mots appris.",
+      "goals": [
+        "Décrire le temps qu'il fait aujourd'hui.",
+        "Parler du temps qu'il fera demain.",
+        "Exprimer des préférences sur les saisons."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue suivant entre 王明 et 安娜. Repère les mots liés à la météo et comment ils expriment le temps aujourd'hui et demain.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "安娜，今天天气好不好？",
+          "pinyin": "Ān nà, jīn tiān tiān qì hǎo bù hǎo?",
+          "translation": "Anna, est-ce que le temps est beau aujourd'hui ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "今天下雨，很冷。",
+          "pinyin": "Jīn tiān xià yǔ, hěn lěng.",
+          "translation": "Aujourd'hui, il pleut, il fait très froid."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "明天天气好不好？",
+          "pinyin": "Míng tiān tiān qì hǎo bù hǎo?",
+          "translation": "Est-ce que le temps sera beau demain ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "明天不会下雨，会很冷。",
+          "pinyin": "Míng tiān bù huì xià yǔ, huì hěn lěng.",
+          "translation": "Demain, il ne pleuvra pas, mais il fera probablement très froid."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你喜欢什么天气？",
+          "pinyin": "Nǐ xǐ huān shén me tiān qì?",
+          "translation": "Quel temps aimes-tu ?"
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我喜欢天气好。",
+          "pinyin": "Wǒ xǐ huān tiān qì hǎo.",
+          "translation": "J'aime quand le temps est beau."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "气",
+        "冷",
+        "热",
+        "雨",
+        "雪",
+        "春",
+        "夏",
+        "秋",
+        "冬",
+        "会"
+      ],
+      "grammar": [
+        {
+          "point": "Verbes météo : 下雨 et 下雪",
+          "explanation": "En chinois, les verbes comme 下雨 (pleuvoir) et 下雪 (neiger) s'utilisent sans sujet. Contrairement au français, on ne dit pas 'il pleut' mais directement 下雨. Erreur typique du francophone : ajouter un sujet comme '天下雨' (incorrect).",
+          "examples": [
+            {
+              "chinese": "今天下雨。",
+              "pinyin": "Jīn tiān xià yǔ.",
+              "translation": "Aujourd'hui, il pleut."
+            },
+            {
+              "chinese": "明天下雪。",
+              "pinyin": "Míng tiān xià xuě.",
+              "translation": "Demain, il neigera."
+            }
+          ]
+        },
+        {
+          "point": "Adjectifs prédicatifs : 冷 et 热",
+          "explanation": "Les adjectifs comme 冷 (froid) et 热 (chaud) peuvent être utilisés directement comme prédicats, sans verbe 'être'. On ajoute souvent 很 (très) pour nuancer, même si le sens est neutre. Erreur typique : oublier 很 et dire '天气冷' (correct mais perçu comme contrastif, ex: 'le temps est froid [et non chaud]').",
+          "examples": [
+            {
+              "chinese": "今天很冷。",
+              "pinyin": "Jīn tiān hěn lěng.",
+              "translation": "Aujourd'hui, il fait froid."
+            },
+            {
+              "chinese": "夏天很热。",
+              "pinyin": "Xià tiān hěn rè.",
+              "translation": "L'été est chaud."
+            }
+          ]
+        },
+        {
+          "point": "Futur probable avec 会",
+          "explanation": "会 est utilisé pour exprimer un futur probable ou une prédiction. Il se place avant le verbe. Contrairement au français, il n'y a pas de conjugaison du verbe. Erreur typique : utiliser 要 (vouloir) à la place de 会 pour exprimer le futur.",
+          "examples": [
+            {
+              "chinese": "明天会下雨。",
+              "pinyin": "Míng tiān huì xià yǔ.",
+              "translation": "Demain, il pleuvra probablement."
+            },
+            {
+              "chinese": "冬天会很冷。",
+              "pinyin": "Dōng tiān huì hěn lěng.",
+              "translation": "L'hiver sera probablement très froid."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le 3e ton (descendant-montant) : 冷 (lěng) et 雨 (yǔ). Attention à bien descendre puis remonter la voix. Exemple : 冷 ne doit pas sonner comme 'leng' (ton neutre).",
+        "Le 4e ton (descendant) : 热 (rè) et 雪 (xuě). La voix doit descendre fortement. Éviter de prononcer 热 comme 're' (sans ton).",
+        "Les sons 'q' et 'x' : 雪 (xuě) et 秋 (qiū). Le 'q' est plus fort que le 'x', qui est plus doux et sifflant. Exemple : ne pas confondre 秋 (qiū) avec 休 (xiū)."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères et mots s'appuient sur des acquis précédents pour former des phrases plus complexes. Voici les liens clés :",
+      "links": [
+        {
+          "from": "气",
+          "relation": "COMPOSE",
+          "to": "天气 (météo)"
+        },
+        {
+          "from": "冷/热",
+          "relation": "CONTRASTE_AVEC",
+          "to": "大/小 (grand/petit)"
+        },
+        {
+          "from": "下雨/下雪",
+          "relation": "RADICAL_DE",
+          "to": "雨/雪 (pluie/neige)"
+        },
+        {
+          "from": "会",
+          "relation": "DONNE_LE_SON",
+          "to": "回 (retourner)"
+        },
+        {
+          "from": "春/夏/秋/冬",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "天 (ciel)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décris le temps qu'il fait aujourd'hui et demain dans ta ville. Utilise 下雨 ou 下雪 et 会.",
+          "hint": "Exemple : Aujourd'hui, il pleut. Demain, il fera probablement froid.",
+          "example": {
+            "chinese": "今天下雨。明天会很冷。",
+            "pinyin": "Jīn tiān xià yǔ. Míng tiān huì hěn lěng.",
+            "translation": "Aujourd'hui, il pleut. Demain, il fera probablement froid."
+          }
+        },
+        {
+          "instruction": "Parle de ta saison préférée et explique pourquoi. Utilise 冷, 热 et une saison (春天, 夏天, 秋天, 冬天).",
+          "hint": "Exemple : J'aime l'automne parce que le temps est beau.",
+          "example": {
+            "chinese": "我喜欢秋天，因为天气好。",
+            "pinyin": "Wǒ xǐ huān qiū tiān, yīn wèi tiān qì hǎo.",
+            "translation": "J'aime l'automne parce que le temps est beau."
+          }
+        },
+        {
+          "instruction": "Imagine que tu parles à un ami chinois. Demande-lui s'il aime l'hiver et s'il neige souvent dans sa ville. Utilise 下雪 et 会.",
+          "hint": "Exemple : Aimes-tu l'hiver ? Est-ce qu'il neige souvent dans ta ville en hiver ?",
+          "example": {
+            "chinese": "你喜欢冬天吗？你的城市冬天下雪吗？",
+            "pinyin": "Nǐ xǐ huān dōng tiān ma? Nǐ de chéng shì dōng tiān xià xuě ma?",
+            "translation": "Aimes-tu l'hiver ? Est-ce qu'il neige souvent dans ta ville en hiver ?"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à parler de la météo et des saisons en chinois. Tu peux maintenant décrire le temps qu'il fait (下雨, 下雪, 冷, 热), parler des saisons (春天, 夏天, 秋天, 冬天), et exprimer des prédictions avec 会. N'oublie pas les particularités des verbes météo (pas de sujet) et des adjectifs prédicatifs (utilisation de 很).",
+      "reviewWords": [
+        "天气",
+        "冷",
+        "热",
+        "下雨",
+        "下雪",
+        "春天",
+        "夏天",
+        "秋天",
+        "冬天",
+        "会"
+      ],
+      "reviewHanzi": [
+        "气",
+        "冷",
+        "热",
+        "雨",
+        "雪",
+        "春",
+        "夏",
+        "秋",
+        "冬",
+        "会"
+      ]
+    }
+  }
+}

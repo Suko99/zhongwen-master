@@ -1,0 +1,334 @@
+{
+  "slug": "entrer-et-sortir",
+  "title": "Entrer, sortir, monter, descendre",
+  "mission": "Décrire les mouvements avec précision en utilisant les compléments directionnels 进, 出 avec 来 et 去",
+  "level": "A2",
+  "order": 18,
+  "hanzi": [
+    {
+      "character": "进",
+      "pinyin": "jìn",
+      "meaning": "entrer",
+      "hskLevel": 1,
+      "radical": "辶 (chuo, marche)",
+      "components": [
+        "井",
+        "辶"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente l'action d'entrer dans un puits (井), symbolisant un espace clos. Le radical 辶 indique un mouvement.",
+      "family": [
+        "进入 (entrer)",
+        "进来 (entrer vers ici)"
+      ],
+      "commonErrors": [
+        "Confusion avec 出 (sortir) en raison de la similarité des compléments directionnels."
+      ]
+    },
+    {
+      "character": "出",
+      "pinyin": "chū",
+      "meaning": "sortir",
+      "hskLevel": 1,
+      "radical": "凵 (kan, boîte ouverte)",
+      "components": [
+        "凵",
+        "山"
+      ],
+      "etymology": "Ce caractère représente une plante sortant de terre (山 dans 凵), symbolisant l'émergence. Le radical 凵 évoque une ouverture.",
+      "family": [
+        "出来 (sortir vers ici)",
+        "出去 (sortir vers là-bas)"
+      ],
+      "commonErrors": [
+        "Oublier le ton (4e ton descendant) et le prononcer comme le 1er ton."
+      ]
+    },
+    {
+      "character": "站",
+      "pinyin": "zhàn",
+      "meaning": "station, se tenir debout",
+      "hskLevel": 2,
+      "radical": "立 (li, debout)",
+      "components": [
+        "立",
+        "占"
+      ],
+      "etymology": "Composé phono-sémantique : 立 (debout) pour le sens, et 占 (zhan) pour le son. Représente une personne debout à un arrêt.",
+      "family": [
+        "车站 (station de bus/train)",
+        "站起来 (se lever)"
+      ],
+      "commonErrors": [
+        "Confusion avec 坐 (s'asseoir) en raison de leur opposition."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "进来",
+      "pinyin": "jìn lái",
+      "meaning": "entrer (vers ici)",
+      "exampleZh": "你进来！",
+      "examplePinyin": "Nǐ jìn lái!",
+      "exampleFr": "Entre !"
+    },
+    {
+      "word": "进去",
+      "pinyin": "jìn qù",
+      "meaning": "entrer (vers là-bas)",
+      "exampleZh": "他进去了。",
+      "examplePinyin": "Tā jìn qù le.",
+      "exampleFr": "Il est entré."
+    },
+    {
+      "word": "出来",
+      "pinyin": "chū lái",
+      "meaning": "sortir (vers ici)",
+      "exampleZh": "你出来！",
+      "examplePinyin": "Nǐ chū lái!",
+      "exampleFr": "Sors !"
+    },
+    {
+      "word": "出去",
+      "pinyin": "chū qù",
+      "meaning": "sortir (vers là-bas)",
+      "exampleZh": "他出去了。",
+      "examplePinyin": "Tā chū qù le.",
+      "exampleFr": "Il est sorti."
+    },
+    {
+      "word": "上来",
+      "pinyin": "shàng lái",
+      "meaning": "monter (vers ici)",
+      "exampleZh": "你上来！",
+      "examplePinyin": "Nǐ shàng lái!",
+      "exampleFr": "Monte !"
+    },
+    {
+      "word": "上去",
+      "pinyin": "shàng qù",
+      "meaning": "monter (vers là-bas)",
+      "exampleZh": "他上去了。",
+      "examplePinyin": "Tā shàng qù le.",
+      "exampleFr": "Il est monté."
+    },
+    {
+      "word": "下来",
+      "pinyin": "xià lái",
+      "meaning": "descendre (vers ici)",
+      "exampleZh": "你下来！",
+      "examplePinyin": "Nǐ xià lái!",
+      "exampleFr": "Descends !"
+    },
+    {
+      "word": "下去",
+      "pinyin": "xià qù",
+      "meaning": "descendre (vers là-bas)",
+      "exampleZh": "他下去了。",
+      "examplePinyin": "Tā xià qù le.",
+      "exampleFr": "Il est descendu."
+    },
+    {
+      "word": "车站",
+      "pinyin": "chē zhàn",
+      "meaning": "station de bus/train",
+      "exampleZh": "他在车站。",
+      "examplePinyin": "Tā zài chē zhàn.",
+      "exampleFr": "Il est à la station."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 sont dans un immeuble. 王明 est à l'entrée et 李华 est à l'étage supérieur. Ils doivent se rejoindre pour aller à la station de bus.",
+      "goals": [
+        "Décrire les mouvements de 王明 et 李华 dans l'immeuble.",
+        "Utiliser les compléments directionnels pour indiquer la direction des mouvements.",
+        "Demander et donner des indications claires."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez les mots qui indiquent des mouvements et leur direction (vers ici ou vers là-bas).",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你在哪儿？",
+          "pinyin": "Lǐ Huá, nǐ zài nǎr?",
+          "translation": "Li Hua, où es-tu ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我在楼上。你上来！",
+          "pinyin": "Wǒ zài lóu shàng. Nǐ shàng lái!",
+          "translation": "Je suis à l'étage supérieur. Monte !"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好，我进来了。",
+          "pinyin": "Hǎo, wǒ jìn lái le.",
+          "translation": "D'accord, j'entre."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "现在你下去吧。",
+          "pinyin": "Xiànzài nǐ xià qù ba.",
+          "translation": "Maintenant, descends."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "车站在哪儿？",
+          "pinyin": "Chē zhàn zài nǎr?",
+          "translation": "Où est la station de bus ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "在门口。你出去。",
+          "pinyin": "Zài mén kǒu. Nǐ chū qù.",
+          "translation": "À l'entrée. Sors."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好，走。",
+          "pinyin": "Hǎo, zǒu.",
+          "translation": "D'accord, partons."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "进",
+        "出",
+        "站"
+      ],
+      "grammar": [
+        {
+          "point": "Compléments directionnels avec 来 et 去",
+          "explanation": "En mandarin, pour décrire un mouvement avec précision, on utilise des verbes de mouvement (进, 出, 上, 下) suivis de 来 (vers ici) ou 去 (vers là-bas). Attention : le francophone a tendance à inverser 来 et 去, car en français, 'venir' et 'aller' dépendent du point de vue du locuteur, alors qu'en chinois, 来 indique un mouvement vers le locuteur et 去 un mouvement s'éloignant du locuteur.",
+          "examples": [
+            {
+              "chinese": "你进来。",
+              "pinyin": "Nǐ jìn lái.",
+              "translation": "Entre (vers moi)."
+            },
+            {
+              "chinese": "他出去了。",
+              "pinyin": "Tā chū qù le.",
+              "translation": "Il est sorti (loin de moi)."
+            },
+            {
+              "chinese": "你上来！",
+              "pinyin": "Nǐ shàng lái!",
+              "translation": "Monte (vers moi) !"
+            }
+          ]
+        },
+        {
+          "point": "Structure de base : Verbe + Direction + 来/去",
+          "explanation": "La structure est toujours : verbe de mouvement (进, 出, 上, 下) + direction (来 ou 去). Exemple : 上来 (monter vers ici), 下去 (descendre vers là-bas). Le francophone peut oublier d'ajouter 来 ou 去, ce qui rend la phrase incomplète.",
+          "examples": [
+            {
+              "chinese": "他下来了。",
+              "pinyin": "Tā xià lái le.",
+              "translation": "Il est descendu (vers moi)."
+            },
+            {
+              "chinese": "我上去。",
+              "pinyin": "Wǒ shàng qù.",
+              "translation": "Je monte (vers là-bas)."
+            }
+          ]
+        },
+        {
+          "point": "Utilisation de 在 avec les compléments directionnels",
+          "explanation": "Pour indiquer une position, on utilise 在 suivi d'un lieu + direction. Exemple : 在楼上 (à l'étage supérieur). Le francophone peut confondre 在楼上 et 上楼 (monter à l'étage), qui sont deux structures différentes.",
+          "examples": [
+            {
+              "chinese": "他在楼下。",
+              "pinyin": "Tā zài lóu xià.",
+              "translation": "Il est en bas."
+            },
+            {
+              "chinese": "他在门口。",
+              "pinyin": "Tā zài mén kǒu.",
+              "translation": "Il est à l'entrée."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Les tons de 来 (lái, 2e ton montant) et 去 (qù, 4e ton descendant) sont souvent confondus par les francophones. Répétez : 来 (montant), 去 (descendant).",
+        "Le ton de 进 (jìn, 4e ton descendant) et 出 (chū, 1er ton) : attention à ne pas prononcer 进 comme un 1er ton.",
+        "站 (zhàn, 4e ton descendant) : veillez à bien marquer le ton descendant."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères et mots s'appuient sur des acquis précédents pour décrire des mouvements avec précision.",
+      "links": [
+        {
+          "from": "进",
+          "relation": "RADICAL_DE",
+          "to": "辶 (déjà vu dans 这, 那, 过)"
+        },
+        {
+          "from": "出",
+          "relation": "CONTRASTE_AVEC",
+          "to": "进"
+        },
+        {
+          "from": "站",
+          "relation": "COMPOSE",
+          "to": "车站 (avec 车, déjà connu)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décrivez les mouvements de 李华 dans l'immeuble en utilisant les compléments directionnels. Exemple : Il est monté à l'étage supérieur.",
+          "hint": "Utilisez 上去, 下去, 进来, 出去 selon la direction. Pensez à indiquer si le mouvement est vers vous ou loin de vous.",
+          "example": {
+            "chinese": "李华从楼下上去了。现在他在楼上。",
+            "pinyin": "Lǐ Huá cóng lóu xià shàng qù le. Xiànzài tā zài lóu shàng.",
+            "translation": "Li Hua est monté de l'étage inférieur. Maintenant, il est à l'étage supérieur."
+          }
+        },
+        {
+          "instruction": "Imaginez que vous êtes à l'entrée d'un immeuble. Donnez des indications à un ami pour qu'il vous rejoigne.",
+          "hint": "Utilisez 进来, 上来, ou 下来 selon l'endroit où se trouve votre ami. Exemple : Si votre ami est en bas, dites-lui de monter vers vous.",
+          "example": {
+            "chinese": "我在门口。你在楼下吗？你上来！",
+            "pinyin": "Wǒ zài mén kǒu. Nǐ zài lóu xià ma? Nǐ shàng lái!",
+            "translation": "Je suis à l'entrée. Es-tu en bas ? Monte !"
+          }
+        },
+        {
+          "instruction": "Vous êtes dans un bus et vous voulez descendre à la prochaine station. Dites-le au chauffeur.",
+          "hint": "Utilisez 下车 (descendre du bus) et 下去 pour indiquer la direction. Exemple : Je veux descendre à la prochaine station.",
+          "example": {
+            "chinese": "下一站我下去。",
+            "pinyin": "Xià yí zhàn wǒ xià qù.",
+            "translation": "Je descends à la prochaine station."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à décrire des mouvements avec précision en utilisant les compléments directionnels 进, 出 combinés avec 来 et 去. Vous savez maintenant indiquer si un mouvement est dirigé vers vous (来) ou loin de vous (去), et décrire des actions comme entrer ou sortir dans un contexte spatial.",
+      "reviewWords": [
+        "进来",
+        "进去",
+        "出来",
+        "出去",
+        "上来",
+        "上去",
+        "下来",
+        "下去",
+        "车站"
+      ],
+      "reviewHanzi": [
+        "进",
+        "出",
+        "站"
+      ]
+    }
+  }
+}

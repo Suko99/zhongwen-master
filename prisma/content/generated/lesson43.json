@@ -1,0 +1,296 @@
+{
+  "slug": "si-jamais",
+  "title": "Et si ? L'hypothèse avec 如果",
+  "mission": "Faire des hypothèses et des plans conditionnels",
+  "level": "B1",
+  "order": 43,
+  "hanzi": [
+    {
+      "character": "如",
+      "pinyin": "rú",
+      "meaning": "comme, si",
+      "hskLevel": 3,
+      "radical": "女",
+      "components": [
+        "女",
+        "口"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente une femme (女) qui parle (口), évoquant l'idée de conformité ou de condition ('si'). Le sens de 'comme' ou 'si' découle de cette notion de correspondance.",
+      "family": [
+        "如果",
+        "如何"
+      ],
+      "commonErrors": [
+        "Confusion avec 好 (hǎo) en raison de la similitude visuelle partielle."
+      ]
+    },
+    {
+      "character": "果",
+      "pinyin": "guǒ",
+      "meaning": "fruit, résultat",
+      "hskLevel": 2,
+      "radical": "木",
+      "components": [
+        "田",
+        "木"
+      ],
+      "etymology": "Ce caractère représente un arbre (木) portant des fruits (田 symbolisant ici les fruits suspendus). Il évoque donc le résultat ou la conséquence, d'où son usage dans des mots comme 如果 (si... alors).",
+      "family": [
+        "如果",
+        "水果"
+      ],
+      "commonErrors": [
+        "Confusion avec 田 (tián, champ) en raison du composant commun."
+      ]
+    },
+    {
+      "character": "就",
+      "pinyin": "jiù",
+      "meaning": "alors, tout de suite",
+      "hskLevel": 2,
+      "radical": "尢",
+      "components": [
+        "京",
+        "尤"
+      ],
+      "etymology": "Ce caractère combine 京 (capitale) et 尤 (particulier), évoquant l'idée de rapidité ou de conséquence immédiate. Il est souvent utilisé pour marquer une suite logique ('alors').",
+      "family": [
+        "如果...就..."
+      ],
+      "commonErrors": [
+        "Confusion avec 才 (cái, seulement) pour marquer la séquence temporelle."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "如果",
+      "pinyin": "rú guǒ",
+      "meaning": "si (hypothèse)",
+      "exampleZh": "如果今天天气好，你去不去？",
+      "examplePinyin": "Rúguǒ jīntiān tiānqì hǎo, nǐ qù bu qù?",
+      "exampleFr": "S'il fait beau aujourd'hui, y vas-tu ?"
+    },
+    {
+      "word": "要是",
+      "pinyin": "yào shi",
+      "meaning": "si (oral)",
+      "exampleZh": "要是你有钱，买不买这本书？",
+      "examplePinyin": "Yàoshi nǐ yǒu qián, mǎi bu mǎi zhè běn shū?",
+      "exampleFr": "Si tu as de l'argent, achètes-tu ce livre ?"
+    },
+    {
+      "word": "的话",
+      "pinyin": "de huà",
+      "meaning": "si (à la fin d'une condition)",
+      "exampleZh": "你想去的话，说给我。",
+      "examplePinyin": "Nǐ xiǎng qù de huà, shuō gěi wǒ.",
+      "exampleFr": "Si tu veux y aller, dis-le-moi."
+    },
+    {
+      "word": "就",
+      "pinyin": "jiù",
+      "meaning": "alors, tout de suite",
+      "exampleZh": "如果你想吃饭，就去那儿。",
+      "examplePinyin": "Rúguǒ nǐ xiǎng chīfàn, jiù qù nàr.",
+      "exampleFr": "Si tu veux manger, alors vas-y."
+    },
+    {
+      "word": "结果",
+      "pinyin": "jié guǒ",
+      "meaning": "résultat",
+      "exampleZh": "如果你不学习，结果会不好。",
+      "examplePinyin": "Rúguǒ nǐ bù xuéxí, jiéguǒ huì bù hǎo.",
+      "exampleFr": "Si tu n'étudies pas, le résultat ne sera pas bon."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明和李华在谈周末的计划。他们想如果天气好，就去公园；如果天气不好，就看书。",
+      "goals": [
+        "Exprimer des hypothèses avec 如果...就...",
+        "Utiliser 要是 et 的话 pour des conditions orales",
+        "Faire des plans conditionnels"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue entre 王明 et 李华. Repérez comment ils utilisent 如果, 要是 et 的话 pour parler de leurs projets.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，如果明天天气好，你想去哪儿？",
+          "pinyin": "Lǐ Huá, rúguǒ míngtiān tiānqì hǎo, nǐ xiǎng qù nǎr?",
+          "translation": "Li Hua, si demain il fait beau, où veux-tu aller ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "要是不下雨，我和你去公园。",
+          "pinyin": "Yàoshi bù xiàyǔ, wǒ hé nǐ qù gōngyuán.",
+          "translation": "S'il ne pleut pas, toi et moi irons au parc."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好！如果公园太远，我和你去看书。",
+          "pinyin": "Hǎo! Rúguǒ gōngyuán tài yuǎn, wǒ hé nǐ qù kànshū.",
+          "translation": "D'accord ! Si le parc est trop loin, toi et moi irons lire."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "要是你想吃中国菜，我和你去那家饭馆。",
+          "pinyin": "Yàoshi nǐ xiǎng chī Zhōngguó cài, wǒ hé nǐ qù nà jiā fànguǎn.",
+          "translation": "Si tu veux manger chinois, toi et moi irons dans ce restaurant."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "如果你有时间，我和你可以一起做饭。",
+          "pinyin": "Rúguǒ nǐ yǒu shíjiān, wǒ hé nǐ kěyǐ yīqǐ zuòfàn.",
+          "translation": "Si tu as le temps, toi et moi pouvons cuisiner ensemble."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好！要是你做饭，我洗碗。",
+          "pinyin": "Hǎo! Yàoshi nǐ zuòfàn, wǒ xǐ wǎn.",
+          "translation": "Bien ! Si tu cuisines, je ferai la vaisselle."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "如",
+        "果",
+        "就"
+      ],
+      "grammar": [
+        {
+          "point": "如果...就... (si... alors...)",
+          "explanation": "Cette structure permet d'exprimer une hypothèse et sa conséquence. 如果 introduit la condition, et 就 introduit la conséquence. Attention : en français, on omet souvent 'alors', mais en chinois 就 est presque toujours nécessaire.",
+          "examples": [
+            {
+              "chinese": "如果你想喝茶，就喝吧。",
+              "pinyin": "Rúguǒ nǐ xiǎng hē chá, jiù hē ba.",
+              "translation": "Si tu veux boire du thé, alors bois."
+            },
+            {
+              "chinese": "如果他不来，我们再等。",
+              "pinyin": "Rúguǒ tā bù lái, wǒmen zài děng.",
+              "translation": "S'il ne vient pas, alors nous attendrons encore."
+            }
+          ]
+        },
+        {
+          "point": "要是 (si, oral)",
+          "explanation": "要是 est une forme plus orale et courante de 如果. Elle est souvent utilisée dans les conversations informelles. Elle peut être suivie de 就 ou non.",
+          "examples": [
+            {
+              "chinese": "要是你有问题，问老师。",
+              "pinyin": "Yàoshi nǐ yǒu wèntí, wèn lǎoshī.",
+              "translation": "Si tu as des questions, demande au professeur."
+            },
+            {
+              "chinese": "要是明天冷，多穿衣。",
+              "pinyin": "Yàoshi míngtiān lěng, duō chuān yī.",
+              "translation": "S'il fait froid demain, mets plus de vêtements."
+            }
+          ]
+        },
+        {
+          "point": "...的话 (si, à la fin d'une condition)",
+          "explanation": "的话 est souvent placé à la fin d'une condition pour la renforcer. Il est très courant à l'oral et peut être utilisé avec 如果 ou 要是, ou seul.",
+          "examples": [
+            {
+              "chinese": "你想去的话，现在走。",
+              "pinyin": "Nǐ xiǎng qù de huà, xiànzài zǒu.",
+              "translation": "Si tu veux y aller, partons maintenant."
+            },
+            {
+              "chinese": "要是你不舒服，别去。",
+              "pinyin": "Yàoshi nǐ bù shūfu, bié qù.",
+              "translation": "Si tu ne te sens pas bien, ne pars pas."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 如 (rú) est le 2e ton (montant).",
+        "Le ton de 就 (jiù) est le 4e ton (descendant).",
+        "Dans 的话 (de huà), 话 est au 4e ton (descendant)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouvelles structures de cette leçon s'appuient sur des acquis précédents pour exprimer des hypothèses et des conditions.",
+      "links": [
+        {
+          "from": "如果",
+          "relation": "COMPOSE",
+          "to": "如 + 果"
+        },
+        {
+          "from": "要是",
+          "relation": "COMPOSE",
+          "to": "要 + 是"
+        },
+        {
+          "from": "的话",
+          "relation": "COMPOSE",
+          "to": "的 + 话"
+        },
+        {
+          "from": "就",
+          "relation": "DONNE_LE_SON",
+          "to": "京 (dans 就)"
+        },
+        {
+          "from": "如果...就...",
+          "relation": "CONTRASTE_AVEC",
+          "to": "因为...所以... (cause à effet, déjà connu)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Propose deux activités différentes selon la météo en utilisant 如果...就...",
+          "hint": "Utilise 天气 (météo), 下雨 (pleuvoir), 公园 (parc), 看书 (lire).",
+          "example": {
+            "chinese": "如果明天天气好，我们去公园。如果下雨，我们看书。",
+            "pinyin": "Rúguǒ míngtiān tiānqì hǎo, wǒmen qù gōngyuán. Rúguǒ xiàyǔ, wǒmen kànshū.",
+            "translation": "S'il fait beau demain, nous irons au parc. S'il pleut, nous lirons."
+          }
+        },
+        {
+          "instruction": "Exprime deux hypothèses sur tes projets en utilisant 要是 ou 的话.",
+          "hint": "Utilise 有时间 (avoir le temps), 旅行 (voyager), 在家 (à la maison), 休息 (se reposer).",
+          "example": {
+            "chinese": "要是我有时间，就去旅行。要是没时间，在家休息。",
+            "pinyin": "Yàoshi wǒ yǒu shíjiān, jiù qù lǚxíng. Yàoshi méi shíjiān, zài jiā xiūxi.",
+            "translation": "Si j'ai le temps, je voyagerai. Si je n'ai pas le temps, je me reposerai à la maison."
+          }
+        },
+        {
+          "instruction": "Propose un plan conditionnel pour le week-end en utilisant 如果...就...",
+          "hint": "Utilise 周末 (week-end), 累 (fatigué), 逛街 (faire du shopping), 睡觉 (dormir).",
+          "example": {
+            "chinese": "如果周末我不累，就去逛街。如果太累，就睡觉。",
+            "pinyin": "Rúguǒ zhōumò wǒ bù lèi, jiù qù guàngjiē. Rúguǒ tài lèi, jiù shuìjiào.",
+            "translation": "Si je ne suis pas fatigué ce week-end, j'irai faire du shopping. Si je suis trop fatigué, je dormirai."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à exprimer des hypothèses et des conditions en chinois. Les structures clés sont 如果...就... (si... alors...), 要是 (si, oral) et 的话 (si, à la fin d'une condition). Ces outils vous permettent de discuter de projets et d'imaginer différents scénarios.",
+      "reviewWords": [
+        "如果",
+        "要是",
+        "的话",
+        "就",
+        "结果"
+      ],
+      "reviewHanzi": [
+        "如",
+        "果",
+        "就"
+      ]
+    }
+  }
+}

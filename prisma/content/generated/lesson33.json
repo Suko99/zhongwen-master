@@ -1,0 +1,448 @@
+{
+  "slug": "le-nouvel-an-chinois",
+  "title": "Le Nouvel An chinois",
+  "mission": "Comprendre et souhaiter les vœux du 春节",
+  "level": "A2",
+  "order": 33,
+  "hanzi": [
+    {
+      "character": "节",
+      "pinyin": "jié",
+      "meaning": "fête, section, nœud",
+      "hskLevel": 1,
+      "radical": "艹 (herbe)",
+      "components": [
+        "艹",
+        "即"
+      ],
+      "etymology": "À l'origine, ce caractère représentait les nœuds sur une tige de bambou (symbolisant les sections ou divisions). Par extension, il désigne les fêtes ou les sections d'un texte. Le radical 艹 suggère un lien avec la nature ou les plantes.",
+      "family": [
+        "春节 (Fête du Printemps)",
+        "节日 (fête, jour férié)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *jiē* (1er ton au lieu de 2e ton montant)."
+      ]
+    },
+    {
+      "character": "祝",
+      "pinyin": "zhù",
+      "meaning": "souhaiter, féliciter",
+      "hskLevel": 2,
+      "radical": "礻 (rituel, esprit)",
+      "components": [
+        "礻",
+        "兄"
+      ],
+      "etymology": "Le radical 礻 indique un lien avec les rituels ou les offrandes. Le composant 兄 (frère aîné) suggère une relation de respect ou de bienveillance, d'où le sens de « souhaiter ».",
+      "family": [
+        "祝福 (bénédiction)",
+        "祝贺 (féliciter)"
+      ],
+      "commonErrors": [
+        "Confusion avec 住 (habiter) en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "福",
+      "pinyin": "fú",
+      "meaning": "bonheur, chance",
+      "hskLevel": 2,
+      "radical": "礻 (rituel, esprit)",
+      "components": [
+        "礻",
+        "畐"
+      ],
+      "etymology": "Le radical 礻 évoque les rituels, tandis que 畐 représente un vase rempli (symbolisant l'abondance). Ensemble, ils forment l'idée de bonheur ou de prospérité. Ce caractère est souvent affiché à l'envers pendant le Nouvel An pour symboliser l'arrivée du bonheur.",
+      "family": [
+        "幸福 (bonheur)",
+        "福气 (chance)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *fū* (1er ton au lieu de 2e ton)."
+      ]
+    },
+    {
+      "character": "新",
+      "pinyin": "xīn",
+      "meaning": "nouveau",
+      "hskLevel": 1,
+      "radical": "斤 (hache)",
+      "components": [
+        "立",
+        "木",
+        "斤"
+      ],
+      "etymology": "Le caractère combine 立 (debout), 木 (bois) et 斤 (hache). L'idée est de couper du bois pour construire quelque chose de nouveau, d'où le sens de « nouveau ».",
+      "family": [
+        "新年 (Nouvel An)",
+        "新闻 (nouvelles)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *xīng* (1er ton au lieu de 1er ton haut et plat)."
+      ]
+    },
+    {
+      "character": "乐",
+      "pinyin": "lè",
+      "meaning": "joyeux, musique",
+      "hskLevel": 1,
+      "radical": "丿 (trait oblique)",
+      "components": [
+        "丿",
+        "木"
+      ],
+      "etymology": "À l'origine, ce caractère représentait un instrument de musique en bois (木), d'où le sens de « musique » et, par extension, « joie ». Le caractère peut aussi se prononcer *yuè* (musique).",
+      "family": [
+        "快乐 (joyeux)",
+        "音乐 (musique)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *yuè* dans le mot 快乐 (toujours *lè* ici)."
+      ]
+    },
+    {
+      "character": "包",
+      "pinyin": "bāo",
+      "meaning": "enveloppe, paquet",
+      "hskLevel": 1,
+      "radical": "勹 (envelopper)",
+      "components": [
+        "勹",
+        "巳"
+      ],
+      "etymology": "Le radical 勹 signifie « envelopper », et le composant 巳 représente un objet enroulé. Ensemble, ils forment l'idée d'un paquet ou d'une enveloppe.",
+      "family": [
+        "红包 (enveloppe rouge)",
+        "书包 (cartable)"
+      ],
+      "commonErrors": [
+        "Confusion avec 抱 (embrasser) en raison de la similarité des caractères."
+      ]
+    },
+    {
+      "character": "吉",
+      "pinyin": "jí",
+      "meaning": "chanceux, propice",
+      "hskLevel": 3,
+      "radical": "口 (bouche)",
+      "components": [
+        "士",
+        "口"
+      ],
+      "etymology": "Le caractère combine 士 (lettré) et 口 (bouche), évoquant les paroles de bon augure prononcées par un lettré. Il symbolise la chance ou la prospérité.",
+      "family": [
+        "吉利 (chanceux)",
+        "吉祥 (propice)"
+      ],
+      "commonErrors": [
+        "Prononciation erronée en *jī* (1er ton au lieu de 2e ton)."
+      ]
+    },
+    {
+      "character": "利",
+      "pinyin": "lì",
+      "meaning": "avantageux, profit",
+      "hskLevel": 2,
+      "radical": "刂 (couteau)",
+      "components": [
+        "禾",
+        "刂"
+      ],
+      "etymology": "Le composant 禾 (céréale) et le radical 刂 (couteau) évoquent la récolte des céréales, symbolisant le profit ou l'avantage. Par extension, il désigne ce qui est bénéfique.",
+      "family": [
+        "吉利 (chanceux)",
+        "利益 (intérêt, profit)"
+      ],
+      "commonErrors": [
+        "Confusion avec 例 (exemple) en raison de la similarité des caractères."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "春节",
+      "pinyin": "chūn jié",
+      "meaning": "Fête du Printemps (Nouvel An chinois)",
+      "exampleZh": "今年春节你去哪儿？",
+      "examplePinyin": "Jīnnián chūnjié nǐ qù nǎr?",
+      "exampleFr": "Où vas-tu pour le Nouvel An chinois cette année ?"
+    },
+    {
+      "word": "新年",
+      "pinyin": "xīn nián",
+      "meaning": "Nouvel An",
+      "exampleZh": "新年快乐！",
+      "examplePinyin": "Xīnnián kuàilè!",
+      "exampleFr": "Bonne année !"
+    },
+    {
+      "word": "祝福",
+      "pinyin": "zhù fú",
+      "meaning": "bénédiction, vœux",
+      "exampleZh": "我祝你新年好！",
+      "examplePinyin": "Wǒ zhù nǐ xīnnián hǎo!",
+      "exampleFr": "Je te souhaite une bonne année !"
+    },
+    {
+      "word": "红包",
+      "pinyin": "hóng bāo",
+      "meaning": "enveloppe rouge (cadeau du Nouvel An)",
+      "exampleZh": "这是给你的红包。",
+      "examplePinyin": "Zhè shì gěi nǐ de hóngbāo.",
+      "exampleFr": "Voici une enveloppe rouge pour toi."
+    },
+    {
+      "word": "吉利",
+      "pinyin": "jí lì",
+      "meaning": "chanceux, propice",
+      "exampleZh": "这个字很吉利。",
+      "examplePinyin": "Zhège zì hěn jílì.",
+      "exampleFr": "Ce caractère est très chanceux."
+    },
+    {
+      "word": "快乐",
+      "pinyin": "kuài lè",
+      "meaning": "joyeux, heureux",
+      "exampleZh": "生日快乐！",
+      "examplePinyin": "Shēngrì kuàilè!",
+      "exampleFr": "Joyeux anniversaire !"
+    },
+    {
+      "word": "祝",
+      "pinyin": "zhù",
+      "meaning": "souhaiter",
+      "exampleZh": "祝你新年好！",
+      "examplePinyin": "Zhù nǐ xīnnián hǎo!",
+      "exampleFr": "Je te souhaite une bonne année !"
+    },
+    {
+      "word": "福",
+      "pinyin": "fú",
+      "meaning": "bonheur, chance",
+      "exampleZh": "福来了！",
+      "examplePinyin": "Fú lái le!",
+      "exampleFr": "Le bonheur arrive !"
+    },
+    {
+      "word": "年饭",
+      "pinyin": "nián fàn",
+      "meaning": "repas du Nouvel An",
+      "exampleZh": "我吃年饭。",
+      "examplePinyin": "Wǒ chī niánfàn.",
+      "exampleFr": "Je mange le repas du Nouvel An."
+    },
+    {
+      "word": "见年",
+      "pinyin": "jiàn nián",
+      "meaning": "voir pour le Nouvel An (présenter ses vœux)",
+      "exampleZh": "我去见年。",
+      "examplePinyin": "Wǒ qù jiàn nián.",
+      "exampleFr": "Je vais présenter mes vœux du Nouvel An."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es invité(e) chez 王明 pour fêter le 春节. Tu dois comprendre les vœux traditionnels, répondre poliment et offrir tes propres souhaits.",
+      "goals": [
+        "Comprendre les expressions de vœux du Nouvel An chinois",
+        "Utiliser 祝 pour formuler des souhaits",
+        "Découvrir les coutumes comme les enveloppes rouges (红包)"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue ci-dessous. Repère les mots liés aux vœux et aux traditions du Nouvel An. Note les expressions qui reviennent souvent.",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "王明，新年快乐！祝你春节吉利！",
+          "pinyin": "Wáng Míng, xīnnián kuàilè! Zhù nǐ chūnjié jílì!",
+          "translation": "Wang Ming, bonne année ! Je te souhaite un Nouvel An chinois chanceux !"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "谢谢！我也祝你新年好！",
+          "pinyin": "Xièxie! Wǒ yě zhù nǐ xīnnián hǎo!",
+          "translation": "Merci ! Je te souhaite aussi une bonne année !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "这是给你的红包。",
+          "pinyin": "Zhè shì gěi nǐ de hóngbāo.",
+          "translation": "Voici une enveloppe rouge pour toi."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "太谢谢你了！你吃饭了吗？",
+          "pinyin": "Tài xièxie nǐ le! Nǐ chī fàn le ma?",
+          "translation": "Merci beaucoup ! As-tu mangé ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "没有，一起吃吧！",
+          "pinyin": "Méiyǒu, yīqǐ chī ba!",
+          "translation": "Non, mangeons ensemble !"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好！祝今年好！",
+          "pinyin": "Hǎo! Zhù jīnnián hǎo!",
+          "translation": "D'accord ! Je souhaite une bonne année !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "节",
+        "祝",
+        "福",
+        "新",
+        "乐",
+        "包",
+        "吉",
+        "利"
+      ],
+      "grammar": [
+        {
+          "point": "Formule de vœux avec 祝",
+          "explanation": "En chinois, on utilise 祝 suivi de la personne et du souhait. Contrairement au français, où l'on dit « Je te souhaite... », en chinois, la structure est directe : 祝 + personne + souhait. Erreur typique du francophone : oublier la personne ou inverser l'ordre (ex : *祝快乐你* au lieu de 祝你快乐).",
+          "examples": [
+            {
+              "chinese": "祝你新年快乐！",
+              "pinyin": "Zhù nǐ xīnnián kuàilè!",
+              "translation": "Je te souhaite une bonne année !"
+            },
+            {
+              "chinese": "祝大家好！",
+              "pinyin": "Zhù dàjiā hǎo!",
+              "translation": "Je vous souhaite à tous une bonne année !"
+            }
+          ]
+        },
+        {
+          "point": "Vœux figés du Nouvel An",
+          "explanation": "Certaines expressions sont des formules toutes faites pour le Nouvel An. Elles sont souvent composées de deux caractères et expriment des souhaits de bonheur ou de chance. Exemples : 新年快乐 (Bonne année), 吉利 (chanceux), 福来了 (Le bonheur arrive).",
+          "examples": [
+            {
+              "chinese": "春节吉利！",
+              "pinyin": "Chūnjié jílì!",
+              "translation": "Un Nouvel An chinois chanceux !"
+            },
+            {
+              "chinese": "新年好！",
+              "pinyin": "Xīnnián hǎo!",
+              "translation": "Bonne année !"
+            }
+          ]
+        },
+        {
+          "point": "Culture des enveloppes rouges (红包)",
+          "explanation": "Les 红包 sont des enveloppes rouges contenant de l'argent, offertes pendant le Nouvel An chinois. Elles symbolisent la chance et la prospérité. On les offre généralement aux enfants ou aux amis. Erreur typique : oublier de dire 谢谢 (merci) en les recevant.",
+          "examples": [
+            {
+              "chinese": "这是给你的红包。",
+              "pinyin": "Zhè shì gěi nǐ de hóngbāo.",
+              "translation": "Voici une enveloppe rouge pour toi."
+            },
+            {
+              "chinese": "谢谢红包！",
+              "pinyin": "Xièxie hóngbāo!",
+              "translation": "Merci pour l'enveloppe rouge !"
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 祝 (zhù) est le 4e ton (descendant) : prononce-le comme si tu donnais un ordre (ex : « Stop ! »).",
+        "Le ton de 福 (fú) est le 2e ton (montant) : commence bas et monte comme dans une question en français (« Quoi ? »).",
+        "Le ton de 乐 dans 快乐 (lè) est le 4e ton (descendant), mais dans 音乐 (yīnyuè, musique), il est au 4e ton également. Attention à ne pas le confondre avec le 1er ton."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots de cette leçon sont liés à des concepts déjà connus. Voici comment ils s'articulent avec tes acquis :",
+      "links": [
+        {
+          "from": "节 (fête)",
+          "relation": "COMPOSE",
+          "to": "春节 (Fête du Printemps)"
+        },
+        {
+          "from": "红 (rouge)",
+          "relation": "DONNE_LE_SON",
+          "to": "红包 (enveloppe rouge)"
+        },
+        {
+          "from": "祝 (souhaiter)",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "住 (habiter)"
+        },
+        {
+          "from": "快 (rapide)",
+          "relation": "COMPOSE",
+          "to": "快乐 (joyeux)"
+        },
+        {
+          "from": "新 (nouveau)",
+          "relation": "COMPOSE",
+          "to": "新年 (Nouvel An)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Imagine que tu es chez 李华 pour le Nouvel An chinois. Formule trois vœux pour elle en utilisant 祝. Utilise au moins deux des mots suivants : 新年, 快乐, 吉利, 福.",
+          "hint": "Structure : 祝 + personne + souhait. Exemple : 祝你新年快乐！",
+          "example": {
+            "chinese": "祝你春节吉利！祝你今年好！祝你福来了！",
+            "pinyin": "Zhù nǐ chūnjié jílì! Zhù nǐ jīnnián hǎo! Zhù nǐ fú lái le!",
+            "translation": "Je te souhaite un Nouvel An chinois chanceux ! Je te souhaite une bonne année ! Que le bonheur arrive pour toi !"
+          }
+        },
+        {
+          "instruction": "Tu offres une enveloppe rouge à 王明. Écris ce que tu lui dis en utilisant 红包.",
+          "hint": "Utilise 这是给你的... pour offrir quelque chose.",
+          "example": {
+            "chinese": "这是给你的红包。",
+            "pinyin": "Zhè shì gěi nǐ de hóngbāo.",
+            "translation": "Voici une enveloppe rouge pour toi."
+          }
+        },
+        {
+          "instruction": "Tu réponds à 李华 qui te dit : 祝你新年快乐！. Utilise 也 (aussi) pour lui retourner le vœu.",
+          "hint": "Structure : 我也祝你...",
+          "example": {
+            "chinese": "我也祝你新年快乐！",
+            "pinyin": "Wǒ yě zhù nǐ xīnnián kuàilè!",
+            "translation": "Je te souhaite aussi une bonne année !"
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à comprendre et formuler des vœux pour le Nouvel An chinois (春节). Tu as découvert des expressions figées comme 新年快乐 ou 福来了, ainsi que la structure 祝 + personne + souhait pour exprimer tes vœux. Tu as aussi exploré la tradition des enveloppes rouges (红包) et leur importance culturelle. N'oublie pas que les tons sont cruciaux : 祝 (4e ton) et 福 (2e ton) sont souvent mal prononcés par les francophones.",
+      "reviewWords": [
+        "春节",
+        "新年",
+        "祝福",
+        "红包",
+        "吉利",
+        "快乐",
+        "祝",
+        "福",
+        "年饭",
+        "见年"
+      ],
+      "reviewHanzi": [
+        "节",
+        "祝",
+        "福",
+        "新",
+        "乐",
+        "包",
+        "吉",
+        "利"
+      ]
+    }
+  }
+}

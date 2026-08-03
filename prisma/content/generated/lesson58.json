@@ -1,0 +1,506 @@
+{
+  "slug": "humour-et-jeux-de-mots",
+  "title": "L'humour chinois et les jeux de mots",
+  "mission": "Comprendre les blagues à homophones et l'humour internet",
+  "level": "B2",
+  "order": 58,
+  "hanzi": [
+    {
+      "character": "谐",
+      "pinyin": "xié",
+      "meaning": "harmonie, homophonie",
+      "hskLevel": 5,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "皆"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère combine 'parole' (讠) et 'tous' (皆) pour évoquer une harmonie sonore, souvent utilisée pour les jeux de mots homophones.",
+      "family": [
+        "谐音"
+      ],
+      "commonErrors": [
+        "Confondre avec '皆' (jiē) seul, qui signifie 'tous'."
+      ]
+    },
+    {
+      "character": "音",
+      "pinyin": "yīn",
+      "meaning": "son, bruit",
+      "hskLevel": 1,
+      "radical": "音 (son)",
+      "components": [
+        "立",
+        "日"
+      ],
+      "etymology": "Ce caractère représente un son émis (立 'debout' sous 日 'soleil'), symbolisant la propagation du son. Radical autonome.",
+      "family": [
+        "音乐",
+        "声音"
+      ],
+      "commonErrors": [
+        "Oublier le ton plat (1er ton) et prononcer 'yín' (2e ton)."
+      ]
+    },
+    {
+      "character": "梗",
+      "pinyin": "gěng",
+      "meaning": "tige, gag (argot internet)",
+      "hskLevel": 6,
+      "radical": "木 (bois)",
+      "components": [
+        "木",
+        "更"
+      ],
+      "etymology": "Composé phono-sémantique : 'bois' (木) pour la tige + 'plus' (更) pour le son. En argot internet, désigne un gag ou une blague récurrente.",
+      "family": [
+        "网梗"
+      ],
+      "commonErrors": [
+        "Confondre avec '更' (gèng) 'plus'."
+      ]
+    },
+    {
+      "character": "搞",
+      "pinyin": "gǎo",
+      "meaning": "faire, s'occuper de (familier)",
+      "hskLevel": 4,
+      "radical": "扌 (main)",
+      "components": [
+        "扌",
+        "高"
+      ],
+      "etymology": "Composé phono-sémantique : 'main' (扌) + 'haut' (高) pour le son. Sens familier proche de 'faire' ou 'bricoler'.",
+      "family": [
+        "搞笑"
+      ],
+      "commonErrors": [
+        "Confondre avec '高' (gāo) 'haut'."
+      ]
+    },
+    {
+      "character": "笑",
+      "pinyin": "xiào",
+      "meaning": "rire, sourire",
+      "hskLevel": 2,
+      "radical": "竹 (bambou)",
+      "components": [
+        "竹",
+        "夭"
+      ],
+      "etymology": "Représente un bambou (竹) qui ploie sous le vent, évoquant le rire qui fait plier le corps. Radical secondaire.",
+      "family": [
+        "大笑"
+      ],
+      "commonErrors": [
+        "Prononcer 'xiāo' (1er ton) au lieu de 'xiào' (4e ton)."
+      ]
+    },
+    {
+      "character": "哏",
+      "pinyin": "gén",
+      "meaning": "drôle, punchline (argot)",
+      "hskLevel": 6,
+      "radical": "口 (bouche)",
+      "components": [
+        "口",
+        "艮"
+      ],
+      "etymology": "Composé phono-sémantique : 'bouche' (口) + 'arrêt' (艮) pour le son. Désigne le côté drôle d'une blague en argot.",
+      "family": [
+        "逗哏"
+      ],
+      "commonErrors": [
+        "Confondre avec '根' (gēn) 'racine'."
+      ]
+    },
+    {
+      "character": "逗",
+      "pinyin": "dòu",
+      "meaning": "taquiner, amuser",
+      "hskLevel": 5,
+      "radical": "辶 (mouvement)",
+      "components": [
+        "辶",
+        "豆"
+      ],
+      "etymology": "Composé phono-sémantique : 'mouvement' (辶) + 'haricot' (豆) pour le son. Sens étendu à 'faire rire'.",
+      "family": [
+        "逗笑"
+      ],
+      "commonErrors": [
+        "Prononcer 'dōu' (1er ton) au lieu de 'dòu' (4e ton)."
+      ]
+    },
+    {
+      "character": "吐",
+      "pinyin": "tǔ / tù",
+      "meaning": "cracher / vomir",
+      "hskLevel": 4,
+      "radical": "口 (bouche)",
+      "components": [
+        "口",
+        "土"
+      ],
+      "etymology": "Représente la bouche (口) qui expulse de la terre (土), symbolisant 'cracher'. Le 3e ton (tǔ) signifie 'cracher', le 4e ton (tù) 'vomir'.",
+      "family": [
+        "吐槽"
+      ],
+      "commonErrors": [
+        "Oublier la distinction tonale entre 'cracher' (tǔ) et 'vomir' (tù)."
+      ]
+    },
+    {
+      "character": "槽",
+      "pinyin": "cáo",
+      "meaning": "auge, critique (argot)",
+      "hskLevel": 6,
+      "radical": "木 (bois)",
+      "components": [
+        "木",
+        "曹"
+      ],
+      "etymology": "Composé phono-sémantique : 'bois' (木) + 'groupe' (曹) pour le son. Désigne une auge, puis en argot 'critiquer' (吐槽).",
+      "family": [
+        "吐槽"
+      ],
+      "commonErrors": [
+        "Confondre avec '曹' (cáo) seul."
+      ]
+    },
+    {
+      "character": "囧",
+      "pinyin": "jiǒng",
+      "meaning": "embarrassé (émoticône internet)",
+      "hskLevel": 6,
+      "radical": "囗 (enceinte)",
+      "components": [
+        "囗",
+        "八",
+        "口"
+      ],
+      "etymology": "Caractère ancien signifiant 'brillant', réinterprété comme un visage embarrassé (八 pour les sourcils, 口 pour la bouche). Utilisé comme émoticône.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer 'jiōng' (1er ton) au lieu de 'jiǒng' (3e ton)."
+      ]
+    },
+    {
+      "character": "萌",
+      "pinyin": "méng",
+      "meaning": "mignon, kawaii (argot)",
+      "hskLevel": 5,
+      "radical": "艹 (herbe)",
+      "components": [
+        "艹",
+        "明"
+      ],
+      "etymology": "Composé phono-sémantique : 'herbe' (艹) + 'clair' (明) pour le son. Sens étendu à 'mignon' sous l'influence du japonais 'moe'.",
+      "family": [
+        "萌"
+      ],
+      "commonErrors": [
+        "Confondre avec '明' (míng) 'clair'."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "谐音",
+      "pinyin": "xié yīn",
+      "meaning": "homophonie, jeu de mots sonore",
+      "exampleZh": "这个笑用了谐音。",
+      "examplePinyin": "Zhè ge xiào yòng le xié yīn.",
+      "exampleFr": "Cette blague utilise l'homophonie."
+    },
+    {
+      "word": "网梗",
+      "pinyin": "wǎng gěng",
+      "meaning": "mème internet, gag en ligne",
+      "exampleZh": "这个网梗很火。",
+      "examplePinyin": "Zhè ge wǎng gěng hěn huǒ.",
+      "exampleFr": "Ce mème internet est très populaire."
+    },
+    {
+      "word": "子",
+      "pinyin": "zi",
+      "meaning": "blague, histoire drôle (argot)",
+      "exampleZh": "他讲了一个子。",
+      "examplePinyin": "Tā jiǎng le yī ge zi.",
+      "exampleFr": "Il a raconté une blague."
+    },
+    {
+      "word": "搞笑",
+      "pinyin": "gǎo xiào",
+      "meaning": "drôle, comique",
+      "exampleZh": "这个视频很搞笑。",
+      "examplePinyin": "Zhè ge shì pín hěn gǎo xiào.",
+      "exampleFr": "Cette vidéo est très drôle."
+    },
+    {
+      "word": "吐槽",
+      "pinyin": "tǔ cáo",
+      "meaning": "critiquer (avec humour), râler",
+      "exampleZh": "他喜欢吐槽电视。",
+      "examplePinyin": "Tā xǐ huan tǔ cáo diàn shì.",
+      "exampleFr": "Il aime critiquer les émissions TV."
+    },
+    {
+      "word": "逗哏",
+      "pinyin": "dòu gén",
+      "meaning": "faire le clown, lancer des punchlines",
+      "exampleZh": "他在相声里逗哏。",
+      "examplePinyin": "Tā zài xiàng sheng lǐ dòu gén.",
+      "exampleFr": "Il fait le clown dans le xiangsheng (dialogue comique)."
+    },
+    {
+      "word": "囧",
+      "pinyin": "jiǒng",
+      "meaning": "émoticône d'embarras (visage gêné)",
+      "exampleZh": "他说了一个笑，我囧了。",
+      "examplePinyin": "Tā shuō le yī ge xiào, wǒ jiǒng le.",
+      "exampleFr": "Il a raconté une blague, j'étais gêné(e)."
+    },
+    {
+      "word": "萌",
+      "pinyin": "méng",
+      "meaning": "mignon, kawaii",
+      "exampleZh": "这只猫好萌啊！",
+      "examplePinyin": "Zhè zhī māo hǎo méng a!",
+      "exampleFr": "Ce chat est trop mignon !"
+    },
+    {
+      "word": "笑点",
+      "pinyin": "xiào diǎn",
+      "meaning": "point comique, chute d'une blague",
+      "exampleZh": "他的笑点很低。",
+      "examplePinyin": "Tā de xiào diǎn hěn dī.",
+      "exampleFr": "Il rit pour un rien (son seuil comique est bas)."
+    },
+    {
+      "word": "双",
+      "pinyin": "shuāng",
+      "meaning": "double sens, jeu de mots",
+      "exampleZh": "这个词有双的意思。",
+      "examplePinyin": "Zhè ge cí yǒu shuāng de yì si.",
+      "exampleFr": "Ce mot a un double sens."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "王明 et 李华 discutent des blagues chinoises sur Weibo. 王明 explique comment les homophones et les mèmes fonctionnent, tandis que 李华 essaie de comprendre pourquoi certains jeux de mots font rire les Chinois mais pas les étrangers.",
+      "goals": [
+        "Comprendre les mécanismes des blagues à homophones (谐音)",
+        "Découvrir l'argot internet (网梗, 囧, 萌)",
+        "Analyser les doubles sens (双) dans l'humour chinois"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant. Repérez : 1) Les mots qui jouent sur les sons. 2) Les expressions typiques d'internet. 3) Les réactions des personnages.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你听过这个子吗？为什么大卫的名字叫‘大妈’？",
+          "pinyin": "Lǐ Huá, nǐ tīng guo zhè ge zi ma? Wèi shén me Dà wèi de míng zi jiào ‘dà mā’?",
+          "translation": "Li Hua, as-tu entendu cette blague ? Pourquoi appelle-t-on David 'Grande Maman' ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "不知，为什么？",
+          "pinyin": "Bù zhī, wèi shén me?",
+          "translation": "Je ne sais pas, pourquoi ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "因为‘大卫’的谐音是‘大蜂’，而‘蜂’的谐音是‘妈’！",
+          "pinyin": "Yīn wèi ‘Dà wèi’ de xié yīn shì ‘dà fēng’, ér ‘fēng’ de xié yīn shì ‘mā’!",
+          "translation": "Parce que l'homophone de 'David' (大卫) est 'grande abeille' (大蜂), et l'homophone de 'abeille' (蜂) est 'maman' (妈) !"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "囧，这个笑点太高了，我没听懂。",
+          "pinyin": "Jiǒng, zhè ge xiào diǎn tài gāo le, wǒ méi tīng dǒng.",
+          "translation": "Oh là là (émoticône gêné), la chute est trop subtile, je n'ai pas compris."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "没事，我再给你讲一个网梗。你看这个图，为什么这个人在吐槽？",
+          "pinyin": "Méi shì, wǒ zài gěi nǐ jiǎng yī ge wǎng gěng. Nǐ kàn zhè ge tú, wèi shén me zhè ge rén zài tǔ cáo?",
+          "translation": "Pas de problème, je vais t'expliquer un autre mème. Regarde cette image, pourquoi cette personne râle-t-elle ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "因为这个菜单上的‘虾’写错了？",
+          "pinyin": "Yīn wèi zhè ge cài dān shàng de ‘xiā’ xiě cuò le?",
+          "translation": "Parce que sur ce menu, 'crevette' (虾) est mal écrit ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "对！这个双太搞笑了。",
+          "pinyin": "Duì! Zhè ge shuāng tài gǎo xiào le.",
+          "translation": "Exactement ! Ce double sens est trop drôle."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我懂了，中文的谐音真有意思！",
+          "pinyin": "Wǒ dǒng le, Zhōng wén de xié yīn zhēn yǒu yì si!",
+          "translation": "Je comprends, les homophones en chinois sont vraiment intéressants !"
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "谐",
+        "音",
+        "梗",
+        "搞",
+        "笑",
+        "哏",
+        "逗",
+        "吐",
+        "槽",
+        "囧",
+        "萌"
+      ],
+      "grammar": [
+        {
+          "point": "Homophonie (谐音) et jeux de mots",
+          "explanation": "Les blagues chinoises utilisent souvent des homophones pour créer des doubles sens. Par exemple, '十' (shí, dix) peut être associé à '石' (shí, pierre) car ils se prononcent pareil. **Erreur typique du francophone** : oublier que les tons changent le sens (ex : 'shī' vs 'shí' vs 'shǐ').",
+          "examples": [
+            {
+              "chinese": "‘十全十美’的‘十’谐音‘石’。",
+              "pinyin": "‘Shí quán shí měi’ de ‘shí’ xié yīn ‘shí’.",
+              "translation": "Dans 'parfait en tout point' (十全十美), 'dix' (十) rime avec 'pierre' (石)."
+            },
+            {
+              "chinese": "‘一生一世’的‘一’谐音‘衣’。",
+              "pinyin": "‘Yī shēng yī shì’ de ‘yī’ xié yīn ‘yī’.",
+              "translation": "Dans 'toute une vie' (一生一世), 'un' (一) rime avec 'vêtement' (衣)."
+            }
+          ]
+        },
+        {
+          "point": "Argot internet (网络用语)",
+          "explanation": "L'humour internet chinois utilise des caractères détournés comme 囧 (jiǒng, visage gêné) ou des mots comme 吐槽 (tǔ cáo, critiquer avec humour). **Erreur typique** : confondre 吐槽 (critiquer avec humour) avec 批评 (critiquer sérieusement).",
+          "examples": [
+            {
+              "chinese": "这个视频很萌！",
+              "pinyin": "Zhè ge shì pín hěn méng!",
+              "translation": "Cette vidéo est trop mignonne ! (萌 = kawaii)"
+            },
+            {
+              "chinese": "他总是吐槽老板。",
+              "pinyin": "Tā zǒng shì tǔ cáo lǎo bǎn.",
+              "translation": "Il critique toujours son patron (avec humour)."
+            }
+          ]
+        },
+        {
+          "point": "Doubles sens (双)",
+          "explanation": "Un mot ou une phrase peut avoir deux sens simultanés. Par exemple, '鸡' (jī, poulet) peut signifier 'viande de poulet' ou 'jouer' (dans certains contextes). **Erreur typique** : ne pas repérer le deuxième sens caché.",
+          "examples": [
+            {
+              "chinese": "‘我喜欢鸡’可以指‘吃鸡’或‘玩’。",
+              "pinyin": "‘Wǒ xǐ huan jī’ kě yǐ zhǐ ‘chī jī’ huò ‘wán’.",
+              "translation": "'J'aime le poulet' peut signifier 'manger du poulet' ou 'jouer' (dans un contexte de jeu)."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "1. **谐音 (xié yīn)** : Le 2e ton (é) est montant (comme dans 'été'), le 1er ton (yīn) est haut et plat (comme 'oui').",
+        "2. **囧 (jiǒng)** : 3e ton descendant-montant (comme 'je' dans 'je ne sais pas'). Évitez de prononcer 'jiōng' (1er ton).",
+        "3. **吐槽 (tǔ cáo)** : 'tǔ' est 3e ton (descendant-montant), 'cáo' est 2e ton (montant). Ne pas confondre avec 'tù cáo' (vomir + auge)."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères et mots s'appuient sur des acquis précédents :",
+      "links": [
+        {
+          "from": "谐",
+          "relation": "RADICAL_DE",
+          "to": "讠 (parole, déjà vu dans 说话)"
+        },
+        {
+          "from": "音",
+          "relation": "DONNE_LE_SON",
+          "to": "音乐 (musique, connu)"
+        },
+        {
+          "from": "搞",
+          "relation": "COMPOSE",
+          "to": "高 (haut, pour le son)"
+        },
+        {
+          "from": "笑",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "关 (fermer, même radical 八 mais sens différent)"
+        },
+        {
+          "from": "吐槽",
+          "relation": "CONTRASTE_AVEC",
+          "to": "批评 (critiquer sérieusement)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Créez une blague utilisant un homophone (谐音). Exemple : pourquoi dit-on '十全十美' pour souhaiter du bonheur ?",
+          "hint": "Pensez à des mots qui se prononcent pareil mais s'écrivent différemment (ex : 十 vs 石).",
+          "example": {
+            "chinese": "为什么说‘十全十美’？因为‘十’谐音‘石’，‘石’是‘坚固’的意思。",
+            "pinyin": "Wèi shén me shuō ‘shí quán shí měi’? Yīn wèi ‘shí’ xié yīn ‘shí’, ‘shí’ shì ‘jiān gù’ de yì si.",
+            "translation": "Pourquoi dit-on 'parfait en tout point' (十全十美) ? Parce que 'dix' (十) rime avec 'pierre' (石), et 'pierre' signifie 'solide'."
+          }
+        },
+        {
+          "instruction": "Décrivez une situation où vous utilisez 吐槽 ou 囧. Exemple : votre réaction face à une émission TV ridicule.",
+          "hint": "Utilisez des phrases comme '这个电视太...了，我忍不住...' (Cette émission TV est trop..., je n'ai pas pu m'empêcher de...).",
+          "example": {
+            "chinese": "这个电视太无聊了，我每天都在吐槽。",
+            "pinyin": "Zhè ge diàn shì tài wú liáo le, wǒ měi tiān dōu zài tǔ cáo.",
+            "translation": "Cette émission TV est trop ennuyeuse, je râle tous les jours."
+          }
+        },
+        {
+          "instruction": "Inventez un mème internet (网梗) avec un caractère détourné (ex : 囧 ou 萌). Décrivez l'image et son sens.",
+          "hint": "Associez un caractère à une situation (ex : 囧 pour une gaffe).",
+          "example": {
+            "chinese": "这个图里，一个人说错了话，大家都囧了。",
+            "pinyin": "Zhè ge tú lǐ, yī ge rén shuō cuò le huà, dà jiā dōu jiǒng le.",
+            "translation": "Sur cette image, quelqu'un a dit une bêtise, tout le monde était gêné (囧)."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Cette leçon a exploré l'humour chinois à travers : 1) Les homophones (谐音) qui créent des doubles sens. 2) L'argot internet (网梗, 囧, 萌) pour exprimer des émotions ou critiquer avec humour. 3) Les jeux de mots (双) qui jouent sur les ambiguïtés. **Attention** : les francophones ont tendance à oublier les tons, ce qui peut rendre les blagues incompréhensibles !",
+      "reviewWords": [
+        "谐音",
+        "网梗",
+        "子",
+        "搞笑",
+        "吐槽",
+        "逗哏",
+        "囧",
+        "萌",
+        "笑点",
+        "双"
+      ],
+      "reviewHanzi": [
+        "谐",
+        "音",
+        "梗",
+        "搞",
+        "笑",
+        "哏",
+        "逗",
+        "吐",
+        "槽",
+        "囧",
+        "萌"
+      ]
+    }
+  }
+}

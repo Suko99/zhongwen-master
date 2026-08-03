@@ -1,0 +1,493 @@
+{
+  "slug": "decrire-quelqu-un",
+  "title": "Décrire quelqu'un",
+  "mission": "Portrait physique et traits de caractère",
+  "level": "A2",
+  "order": 31,
+  "hanzi": [
+    {
+      "character": "胖",
+      "pinyin": "pàng",
+      "meaning": "gros, en surpoids",
+      "hskLevel": 2,
+      "radical": "月 (chair)",
+      "components": [
+        "月",
+        "半"
+      ],
+      "etymology": "Le radical 月 (chair) évoque le corps humain. Le composant 半 (moitié) suggère l'idée d'abondance ou d'excès.",
+      "family": [
+        "瘦 (shòu, mince)"
+      ],
+      "commonErrors": [
+        "À utiliser avec tact, car peut être perçu comme négatif."
+      ]
+    },
+    {
+      "character": "瘦",
+      "pinyin": "shòu",
+      "meaning": "mince, maigre",
+      "hskLevel": 2,
+      "radical": "疒 (maladie)",
+      "components": [
+        "疒",
+        "叟"
+      ],
+      "etymology": "Le radical 疒 (maladie) suggère un lien avec la santé, tandis que 叟 évoque une apparence frêle.",
+      "family": [
+        "胖 (pàng, gros)"
+      ],
+      "commonErrors": [
+        "Ne pas confondre avec 细 (xì, fin pour les objets)."
+      ]
+    },
+    {
+      "character": "漂",
+      "pinyin": "piào",
+      "meaning": "joli (dans 漂亮)",
+      "hskLevel": 2,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "票"
+      ],
+      "etymology": "Le radical 氵 (eau) évoque la fluidité, tandis que 票 suggère quelque chose qui attire le regard.",
+      "family": [
+        "亮 (liàng, brillant)"
+      ],
+      "commonErrors": [
+        "Toujours utiliser avec 亮 (piàoliang)."
+      ]
+    },
+    {
+      "character": "亮",
+      "pinyin": "liàng",
+      "meaning": "brillant, clair",
+      "hskLevel": 2,
+      "radical": "亠 (toit)",
+      "components": [
+        "亠",
+        "口",
+        "冖",
+        "几"
+      ],
+      "etymology": "Évoque la lumière ou la clarté, souvent associé à ce qui brille.",
+      "family": [
+        "漂 (piào, joli)"
+      ],
+      "commonErrors": [
+        "Ne pas confondre avec 光 (guāng, lumière)."
+      ]
+    },
+    {
+      "character": "帅",
+      "pinyin": "shuài",
+      "meaning": "beau (pour les hommes)",
+      "hskLevel": 2,
+      "radical": "巾 (tissu)",
+      "components": [
+        "师",
+        "巾"
+      ],
+      "etymology": "Le radical 巾 (tissu) suggère un lien avec l'apparence ou l'habillement.",
+      "family": [
+        "漂亮 (piàoliang, joli pour les femmes)"
+      ],
+      "commonErrors": [
+        "Uniquement pour les hommes."
+      ]
+    },
+    {
+      "character": "友",
+      "pinyin": "yǒu",
+      "meaning": "ami, amical",
+      "hskLevel": 1,
+      "radical": "又 (encore)",
+      "components": [
+        "又",
+        "手"
+      ],
+      "etymology": "Représente deux mains qui se serrent, symbolisant l'amitié.",
+      "family": [
+        "朋 (péng, ami)"
+      ],
+      "commonErrors": [
+        "Ne pas confondre avec 有 (yǒu, avoir)."
+      ]
+    },
+    {
+      "character": "善",
+      "pinyin": "shàn",
+      "meaning": "bon, bienveillant",
+      "hskLevel": 3,
+      "radical": "口 (bouche)",
+      "components": [
+        "羊",
+        "言"
+      ],
+      "etymology": "羊 (mouton) symbolise la douceur, 言 (parole) suggère la bienveillance.",
+      "family": [
+        "好 (hǎo, bon)"
+      ],
+      "commonErrors": [
+        "Toujours utiliser avec 良 (shànliáng)."
+      ]
+    },
+    {
+      "character": "良",
+      "pinyin": "liáng",
+      "meaning": "bon, de qualité",
+      "hskLevel": 3,
+      "radical": "艮 (arrêt)",
+      "components": [
+        "丶",
+        "艮"
+      ],
+      "etymology": "Évoque l'idée de quelque chose de correct ou de bon.",
+      "family": [
+        "善 (shàn, bon)"
+      ],
+      "commonErrors": [
+        "Plus formel que 好 (hǎo)."
+      ]
+    },
+    {
+      "character": "懒",
+      "pinyin": "lǎn",
+      "meaning": "paresseux",
+      "hskLevel": 3,
+      "radical": "心 (cœur)",
+      "components": [
+        "忄",
+        "赖"
+      ],
+      "etymology": "Le radical 忄 (cœur) suggère un trait de caractère lié à l'absence de motivation.",
+      "family": [
+        "勤 (qín, diligent)"
+      ],
+      "commonErrors": [
+        "À utiliser avec tact."
+      ]
+    },
+    {
+      "character": "勤",
+      "pinyin": "qín",
+      "meaning": "diligente, travailleur",
+      "hskLevel": 3,
+      "radical": "力 (force)",
+      "components": [
+        "堇",
+        "力"
+      ],
+      "etymology": "Le radical 力 (force) suggère l'effort ou le travail.",
+      "family": [
+        "懒 (lǎn, paresseux)"
+      ],
+      "commonErrors": [
+        "Décrit un trait de caractère, pas une action ponctuelle."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "很",
+      "pinyin": "hěn",
+      "meaning": "très (pour décrire)",
+      "exampleZh": "她很漂亮。",
+      "examplePinyin": "Tā hěn piàoliang.",
+      "exampleFr": "Elle est très jolie."
+    },
+    {
+      "word": "又",
+      "pinyin": "yòu",
+      "meaning": "et (pour combiner deux adjectifs)",
+      "exampleZh": "她又友又善。",
+      "examplePinyin": "Tā yòu yǒu yòu shàn.",
+      "exampleFr": "Elle est à la fois amicale et bienveillante."
+    },
+    {
+      "word": "有点儿",
+      "pinyin": "yǒudiǎnr",
+      "meaning": "un peu (négatif)",
+      "exampleZh": "他有点儿胖。",
+      "examplePinyin": "Tā yǒudiǎnr pàng.",
+      "exampleFr": "Il est un peu gros."
+    },
+    {
+      "word": "一点儿",
+      "pinyin": "yīdiǎnr",
+      "meaning": "un peu (positif)",
+      "exampleZh": "她瘦了一点儿。",
+      "examplePinyin": "Tā shòu le yīdiǎnr.",
+      "exampleFr": "Elle a un peu minci."
+    },
+    {
+      "word": "漂亮",
+      "pinyin": "piàoliang",
+      "meaning": "joli, beau",
+      "exampleZh": "她很漂亮。",
+      "examplePinyin": "Tā hěn piàoliang.",
+      "exampleFr": "Elle est très jolie."
+    },
+    {
+      "word": "帅",
+      "pinyin": "shuài",
+      "meaning": "beau (pour les hommes)",
+      "exampleZh": "他很帅。",
+      "examplePinyin": "Tā hěn shuài.",
+      "exampleFr": "Il est très beau."
+    },
+    {
+      "word": "善良",
+      "pinyin": "shànliáng",
+      "meaning": "bienveillant, gentil",
+      "exampleZh": "她是一个善良的人。",
+      "examplePinyin": "Tā shì yī gè shànliáng de rén.",
+      "exampleFr": "C'est une personne bienveillante."
+    },
+    {
+      "word": "懒",
+      "pinyin": "lǎn",
+      "meaning": "paresseux",
+      "exampleZh": "他有点儿懒。",
+      "examplePinyin": "Tā yǒudiǎnr lǎn.",
+      "exampleFr": "Il est un peu paresseux."
+    },
+    {
+      "word": "勤",
+      "pinyin": "qín",
+      "meaning": "diligente, travailleuse",
+      "exampleZh": "她又勤又善。",
+      "examplePinyin": "Tā yòu qín yòu shàn.",
+      "exampleFr": "Elle est à la fois travailleuse et bienveillante."
+    },
+    {
+      "word": "头",
+      "pinyin": "tóu",
+      "meaning": "tête, cheveux",
+      "exampleZh": "她的头很长。",
+      "examplePinyin": "Tā de tóu hěn cháng.",
+      "exampleFr": "Ses cheveux sont très longs."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Anna et Li Hua parlent des amis qu'elles vont voir. Elles décrivent leur apparence et leur caractère.",
+      "goals": [
+        "Décrire avec 很 + adjectif",
+        "Combiner deux qualités avec 又",
+        "Nuancer avec 有点儿 et 一点儿"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez comment Anna et Li Hua décrivent leurs amis. Notez les mots pour l'apparence et le caractère.",
+      "dialogue": [
+        {
+          "speaker": "安娜",
+          "chinese": "李华，王明什么样？",
+          "pinyin": "Lǐ Huá, Wáng Míng shénme yàng?",
+          "translation": "Li Hua, à quoi ressemble Wang Ming ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "他很高。他又帅又友。",
+          "pinyin": "Tā hěn gāo. Tā yòu shuài yòu yǒu.",
+          "translation": "Il est très grand. Il est à la fois beau et amical."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "那小明呢？",
+          "pinyin": "Nà Xiǎo Míng ne?",
+          "translation": "Et Xiao Ming ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "小明有点儿胖，他很善。他的头很短。",
+          "pinyin": "Xiǎo Míng yǒudiǎnr pàng, tā hěn shàn. Tā de tóu hěn duǎn.",
+          "translation": "Xiao Ming est un peu gros, il est très gentil. Ses cheveux sont très courts."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "大卫呢？他漂亮吗？",
+          "pinyin": "Dà Wèi ne? Tā piàoliang ma?",
+          "translation": "Et David ? Il est beau ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "他一般，他又勤又好。",
+          "pinyin": "Tā yībān, tā yòu qín yòu hǎo.",
+          "translation": "Il est ordinaire, il est à la fois travailleur et gentil."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "马克呢？他高吗？",
+          "pinyin": "Mǎkè ne? Tā gāo ma?",
+          "translation": "Et Marc ? Il est grand ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "他不高，有点儿矮。他很友。",
+          "pinyin": "Tā bù gāo, yǒudiǎnr ǎi. Tā hěn yǒu.",
+          "translation": "Il n'est pas grand, il est un peu petit. Il est très amical."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "胖",
+        "瘦",
+        "漂",
+        "亮",
+        "帅",
+        "友",
+        "善",
+        "良",
+        "懒",
+        "勤"
+      ],
+      "grammar": [
+        {
+          "point": "很 + adjectif pour décrire",
+          "explanation": "很 (hěn) est utilisé pour décrire une qualité. En chinois, on ne dit pas simplement \"il est grand\" (他高), mais \"il est très grand\" (他很高). Erreur typique : oublier 很 ou le remplacer par 太 (tài, trop).",
+          "examples": [
+            {
+              "chinese": "她很漂亮。",
+              "pinyin": "Tā hěn piàoliang.",
+              "translation": "Elle est très jolie."
+            },
+            {
+              "chinese": "他很高。",
+              "pinyin": "Tā hěn gāo.",
+              "translation": "Il est très grand."
+            }
+          ]
+        },
+        {
+          "point": "又... pour combiner deux qualités",
+          "explanation": "又 (yòu) permet de combiner deux adjectifs de même nature (positifs ou négatifs). Erreur typique : utiliser des adjectifs de natures opposées (ex : 又高又矮).",
+          "examples": [
+            {
+              "chinese": "她又善又勤。",
+              "pinyin": "Tā yòu shàn yòu qín.",
+              "translation": "Elle est à la fois bienveillante et travailleuse."
+            },
+            {
+              "chinese": "他又帅又友。",
+              "pinyin": "Tā yòu shuài yòu yǒu.",
+              "translation": "Il est à la fois beau et amical."
+            }
+          ]
+        },
+        {
+          "point": "有点儿 vs 一点儿",
+          "explanation": "有点儿 (yǒudiǎnr) exprime une nuance légèrement négative (ex : 有点儿胖 = un peu trop gros). 一点儿 (yīdiǎnr) est neutre ou positif (ex : 瘦了一点儿 = un peu plus mince). Erreur typique : utiliser 有点儿 pour une nuance positive.",
+          "examples": [
+            {
+              "chinese": "他有点儿懒。",
+              "pinyin": "Tā yǒudiǎnr lǎn.",
+              "translation": "Il est un peu paresseux (c'est un défaut)."
+            },
+            {
+              "chinese": "她漂亮了一点儿。",
+              "pinyin": "Tā piàoliang le yīdiǎnr.",
+              "translation": "Elle est un peu plus jolie (c'est une amélioration)."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton 3 (descendant-montant) : pour 矮 (ǎi) ou 有点儿 (yǒudiǎnr), la voix descend puis remonte.",
+        "有点儿 (yǒudiǎnr) : le \"r\" final est léger, presque muet.",
+        "又 (yòu) : ton 4 (descendant), à ne pas confondre avec 油 (yóu, huile) en ton 2."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères s'appuient sur des acquis :",
+      "links": [
+        {
+          "from": "又",
+          "relation": "DONNE_LE_SON",
+          "to": "又 (déjà connu, encore)"
+        },
+        {
+          "from": "有点儿",
+          "relation": "COMPOSE",
+          "to": "有 (déjà connu) + 点 (déjà connu)"
+        },
+        {
+          "from": "漂亮",
+          "relation": "COMPOSE",
+          "to": "漂 (nouveau) + 亮 (nouveau)"
+        },
+        {
+          "from": "善良",
+          "relation": "COMPOSE",
+          "to": "善 (nouveau) + 良 (nouveau)"
+        },
+        {
+          "from": "胖",
+          "relation": "CONTRASTE_AVEC",
+          "to": "瘦 (nouveau)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Décris un ami avec 很 + adjectif et 又 pour deux qualités.",
+          "hint": "Utilise des adjectifs comme 高, 矮, 胖, 瘦, 漂亮, 帅, 善, 勤.",
+          "example": {
+            "chinese": "我哥哥很高，他又友又勤。",
+            "pinyin": "Wǒ gēge hěn gāo, tā yòu yǒu yòu qín.",
+            "translation": "Mon frère est très grand, il est à la fois amical et travailleur."
+          }
+        },
+        {
+          "instruction": "Compare deux personnes avec 有点儿 et 一点儿.",
+          "hint": "Utilise 有点儿 pour une nuance négative et 一点儿 pour une nuance positive.",
+          "example": {
+            "chinese": "马克有点儿矮，大卫高了一点儿。",
+            "pinyin": "Mǎkè yǒudiǎnr ǎi, Dà Wèi gāo le yīdiǎnr.",
+            "translation": "Marc est un peu petit, David est un peu plus grand."
+          }
+        },
+        {
+          "instruction": "Décris un collègue avec 很 et 又.",
+          "hint": "Commence par 很 pour l'apparence, puis utilise 又 pour le caractère.",
+          "example": {
+            "chinese": "我同事很帅，他又友又勤。",
+            "pinyin": "Wǒ tóngshì hěn shuài, tā yòu yǒu yòu qín.",
+            "translation": "Mon collègue est très beau, il est à la fois amical et travailleur."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Vous avez appris à décrire l'apparence et le caractère avec 很 + adjectif, 又 pour combiner deux qualités, et 有点儿/一点儿 pour nuancer. Pratiquez ces structures pour les maîtriser !",
+      "reviewWords": [
+        "很",
+        "又",
+        "有点儿",
+        "一点儿",
+        "漂亮",
+        "帅",
+        "善良",
+        "懒",
+        "勤",
+        "头"
+      ],
+      "reviewHanzi": [
+        "胖",
+        "瘦",
+        "漂",
+        "亮",
+        "帅",
+        "友",
+        "善",
+        "良",
+        "懒",
+        "勤"
+      ]
+    }
+  }
+}

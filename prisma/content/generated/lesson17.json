@@ -1,0 +1,468 @@
+{
+  "slug": "comprendre-ou-pas",
+  "title": "Compris ! Les compléments de résultat",
+  "mission": "Dire si une action a abouti : entendu ET compris",
+  "level": "A2",
+  "order": 17,
+  "hanzi": [
+    {
+      "character": "懂",
+      "pinyin": "dǒng",
+      "meaning": "comprendre",
+      "hskLevel": 2,
+      "radical": "心 (cœur)",
+      "components": [
+        "忄",
+        "董"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente l'idée de 'comprendre avec le cœur' (忄 pour le cœur, 董 comme phonétique). L'origine exacte est débattue, mais le radical 心 suggère un lien avec les émotions ou la cognition.",
+      "family": [
+        "明白"
+      ],
+      "commonErrors": [
+        "Confondre avec 东 (dōng, est) à cause de la similitude phonétique. Attention : 懂 est un verbe, pas un nom."
+      ]
+    },
+    {
+      "character": "见",
+      "pinyin": "jiàn",
+      "meaning": "voir, apercevoir (résultat)",
+      "hskLevel": 1,
+      "radical": "见 (voir)",
+      "components": [
+        "见"
+      ],
+      "etymology": "Pictogramme représentant un œil (目) avec une ligne au-dessus, symbolisant la vision. Utilisé comme complément de résultat pour indiquer qu'une action a abouti à une perception visuelle.",
+      "family": [
+        "看见"
+      ],
+      "commonErrors": [
+        "Oublier que 见 seul signifie 'voir', mais en complément, il indique le résultat (ex: 看见 = avoir vu)."
+      ]
+    },
+    {
+      "character": "完",
+      "pinyin": "wán",
+      "meaning": "finir, terminer (résultat)",
+      "hskLevel": 2,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "元"
+      ],
+      "etymology": "Le radical 宀 évoque un toit, et 元 (yuán) donne le son. L'idée est celle d'un cycle achevé sous un toit, d'où 'terminer'.",
+      "family": [
+        "吃完"
+      ],
+      "commonErrors": [
+        "Confondre avec 玩 (wán, jouer) à cause de la prononciation identique. Attention au ton : 完 est 2e ton, 玩 est neutre."
+      ]
+    },
+    {
+      "character": "错",
+      "pinyin": "cuò",
+      "meaning": "faux, erreur",
+      "hskLevel": 2,
+      "radical": "钅 (métal)",
+      "components": [
+        "钅",
+        "昔"
+      ],
+      "etymology": "Le radical 钅 (métal) suggère un objet dur, et 昔 (xī) donne le son. L'idée est celle d'une erreur 'durcie' ou irréversible, comme une marque sur du métal.",
+      "family": [
+        "做错"
+      ],
+      "commonErrors": [
+        "Confondre avec 昨 (zuó, hier) à cause de la similitude graphique. 错 signifie 'erreur', pas 'hier'."
+      ]
+    },
+    {
+      "character": "题",
+      "pinyin": "tí",
+      "meaning": "sujet, question",
+      "hskLevel": 2,
+      "radical": "页 (page)",
+      "components": [
+        "是",
+        "页"
+      ],
+      "etymology": "Le radical 页 évoque une page ou un document, et 是 (shì) donne le son. Représente une question écrite sur une page.",
+      "family": [
+        "道题"
+      ],
+      "commonErrors": [
+        "Prononcer 'tī' au lieu de 'tí' (2e ton). Attention : 题 est un nom, pas un verbe."
+      ]
+    },
+    {
+      "character": "答",
+      "pinyin": "dá",
+      "meaning": "répondre",
+      "hskLevel": 2,
+      "radical": "竹 (bambou)",
+      "components": [
+        "竹",
+        "合"
+      ],
+      "etymology": "Le radical 竹 évoque les tablettes de bambou utilisées pour écrire. 合 (hé) donne le son et suggère l'idée de 'joindre' (une réponse à une question).",
+      "family": [
+        "回答"
+      ],
+      "commonErrors": [
+        "Confondre avec 打 (dǎ, frapper) à cause de la prononciation proche. 答 signifie 'répondre'."
+      ]
+    },
+    {
+      "character": "慢",
+      "pinyin": "màn",
+      "meaning": "lent",
+      "hskLevel": 2,
+      "radical": "心 (cœur)",
+      "components": [
+        "忄",
+        "曼"
+      ],
+      "etymology": "Le radical 忄 (cœur) suggère une émotion ou un état, et 曼 (màn) donne le son. L'idée est celle d'un cœur qui bat lentement.",
+      "family": [
+        "慢慢"
+      ],
+      "commonErrors": [
+        "Oublier que 慢 est un adjectif (ex: 'parler lentement' = 说得很慢), pas un verbe."
+      ]
+    },
+    {
+      "character": "再",
+      "pinyin": "zài",
+      "meaning": "encore, de nouveau",
+      "hskLevel": 1,
+      "radical": "冂 (cadre)",
+      "components": [
+        "一",
+        "冉"
+      ],
+      "etymology": "Représente l'idée de répétition ou de continuation, comme un cadre qui se referme sur une action. Radical simplifié 冂.",
+      "family": [
+        "再见"
+      ],
+      "commonErrors": [
+        "Placer 再 avant le sujet (ex: 'je veux encore' = 我再想, incorrect). La structure correcte est sujet + 再 + verbe."
+      ]
+    },
+    {
+      "character": "遍",
+      "pinyin": "biàn",
+      "meaning": "fois (pour les actions)",
+      "hskLevel": 3,
+      "radical": "辶 (mouvement)",
+      "components": [
+        "扁",
+        "辶"
+      ],
+      "etymology": "Le radical 辶 évoque le mouvement, et 扁 (biǎn) donne le son. Indique le nombre de fois qu'une action est répétée.",
+      "family": [
+        "一遍"
+      ],
+      "commonErrors": [
+        "Confondre avec 次 (cì, fois) : 遍 insiste sur le fait que l'action est menée de bout en bout."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "听",
+      "pinyin": "tīng",
+      "meaning": "écouter (avec complément de résultat)",
+      "exampleZh": "你听老师说的话吗？",
+      "examplePinyin": "Nǐ tīng lǎoshī shuō de huà ma?",
+      "exampleFr": "Écoutes-tu ce que dit le professeur ?"
+    },
+    {
+      "word": "看见",
+      "pinyin": "kàn jiàn",
+      "meaning": "voir, apercevoir",
+      "exampleZh": "我在公园看见了小明。",
+      "examplePinyin": "Wǒ zài gōngyuán kàn jiàn le Xiǎomíng.",
+      "exampleFr": "J’ai vu Xiao Ming au parc."
+    },
+    {
+      "word": "吃完",
+      "pinyin": "chī wán",
+      "meaning": "finir de manger",
+      "exampleZh": "他吃完饭了。",
+      "examplePinyin": "Tā chī wán fàn le.",
+      "exampleFr": "Il a fini de manger."
+    },
+    {
+      "word": "写",
+      "pinyin": "xiě",
+      "meaning": "écrire (avec complément de résultat)",
+      "exampleZh": "我写汉字。",
+      "examplePinyin": "Wǒ xiě hànzì.",
+      "exampleFr": "J’écris des caractères chinois."
+    },
+    {
+      "word": "做",
+      "pinyin": "zuò",
+      "meaning": "faire (avec complément de résultat)",
+      "exampleZh": "我做道题。",
+      "examplePinyin": "Wǒ zuò dào tí.",
+      "exampleFr": "Je fais une question."
+    },
+    {
+      "word": "回答",
+      "pinyin": "huí dá",
+      "meaning": "répondre",
+      "exampleZh": "请问，你回答吗？",
+      "examplePinyin": "Qǐng wèn, nǐ huí dá ma?",
+      "exampleFr": "S’il te plaît, réponds-tu ?"
+    },
+    {
+      "word": "问",
+      "pinyin": "wèn",
+      "meaning": "demander, question",
+      "exampleZh": "这个问很难。",
+      "examplePinyin": "Zhège wèn hěn nán.",
+      "exampleFr": "Cette question est difficile."
+    },
+    {
+      "word": "慢慢",
+      "pinyin": "màn man",
+      "meaning": "lentement",
+      "exampleZh": "请你说。",
+      "examplePinyin": "Qǐng nǐ shuō.",
+      "exampleFr": "Parle lentement, s’il te plaît."
+    },
+    {
+      "word": "再",
+      "pinyin": "zài",
+      "meaning": "encore, de nouveau",
+      "exampleZh": "我再听。",
+      "examplePinyin": "Wǒ zài tīng.",
+      "exampleFr": "J’écoute encore une fois."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Tu es en cours avec 王明. Le professeur parle, et tu ne comprends pas tout. Tu demandes à 王明 de répéter ou de parler plus lentement pour vérifier si tu as bien entendu.",
+      "goals": [
+        "Demander à quelqu’un de répéter ce qu’il a dit.",
+        "Dire si tu as compris ou non.",
+        "Expliquer que tu n’as pas fini d’écrire."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue ci-dessous. Repère les mots qui indiquent si une action est terminée ou comprise. Note comment on demande de répéter ou de parler plus lentement.",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "王明，老师说什么？我没听懂。",
+          "pinyin": "Wáng Míng, lǎoshī shuō shénme? Wǒ méi tīng dǒng.",
+          "translation": "Wang Ming, qu’est-ce que le professeur a dit ? Je n’ai pas compris."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "他说今天写汉字。",
+          "pinyin": "Tā shuō jīntiān xiě hànzì.",
+          "translation": "Il a dit qu’aujourd’hui on écrit des caractères chinois."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "写汉字？我没听见。你再说，好吗？",
+          "pinyin": "Xiě hànzì? Wǒ méi tīng jiàn. Nǐ zài shuō, hǎo ma?",
+          "translation": "Écrire des caractères chinois ? Je n’ai pas entendu. Peux-tu répéter, s’il te plaît ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "好，我慢慢说。今天写汉字。",
+          "pinyin": "Hǎo, wǒ màn man shuō. Jīntiān xiě hànzì.",
+          "translation": "D’accord, je parle lentement. Aujourd’hui on écrit des caractères chinois."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "哦，我听懂了。可是我还没写。",
+          "pinyin": "Ò, wǒ tīng dǒng le. Kěshì wǒ hái méi xiě.",
+          "translation": "Ah, j’ai compris. Mais je n’ai pas encore écrit."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "没事，我们一起写。",
+          "pinyin": "Méi shì, wǒmen yīqǐ xiě.",
+          "translation": "Ce n’est pas grave, écrivons ensemble."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "懂",
+        "见",
+        "完",
+        "错",
+        "题",
+        "答",
+        "慢",
+        "再",
+        "遍"
+      ],
+      "grammar": [
+        {
+          "point": "Compléments de résultat (懂/见/完)",
+          "explanation": "En chinois, on ajoute un complément après un verbe pour indiquer si l’action a abouti à un résultat. Contrairement au français, où on utilise souvent un adverbe (ex: 'j’ai bien compris'), le chinois place le résultat directement après le verbe.\n\nErreur typique du francophone : Oublier le complément et dire '我听' (wǒ tīng, j’écoute) au lieu de '我听懂' (wǒ tīng dǒng, j’ai compris). Le complément est obligatoire pour préciser le résultat.",
+          "examples": [
+            {
+              "chinese": "我看见他了。",
+              "pinyin": "Wǒ kàn jiàn tā le.",
+              "translation": "Je l’ai vu."
+            },
+            {
+              "chinese": "我吃完饭了。",
+              "pinyin": "Wǒ chī wán fàn le.",
+              "translation": "J’ai fini de manger."
+            },
+            {
+              "chinese": "我写汉字。",
+              "pinyin": "Wǒ xiě hànzì.",
+              "translation": "J’écris des caractères chinois."
+            }
+          ]
+        },
+        {
+          "point": "Différence entre 听 et 听懂",
+          "explanation": "听 (tīng) signifie simplement 'écouter', sans préciser si on a compris. 听懂 (tīng dǒng) ajoute le résultat : 'avoir compris en écoutant'.\n\nErreur typique : Dire '我听' pour 'j’ai compris' (incorrect). La bonne structure est verbe + complément de résultat.",
+          "examples": [
+            {
+              "chinese": "我听，但是没听懂。",
+              "pinyin": "Wǒ tīng, dànshì méi tīng dǒng.",
+              "translation": "J’ai écouté, mais je n’ai pas compris."
+            },
+            {
+              "chinese": "你听懂了吗？",
+              "pinyin": "Nǐ tīng dǒng le ma?",
+              "translation": "As-tu compris ?"
+            }
+          ]
+        },
+        {
+          "point": "Utilisation de 再 et 遍 pour répéter une action",
+          "explanation": "再 (zài) signifie 'encore' ou 'de nouveau', et se place avant le verbe. 遍 (biàn) indique le nombre de fois qu’une action est répétée de bout en bout.\n\nErreur typique : Placer 再 après le verbe (ex: '听再' au lieu de '再听'). La structure correcte est sujet + 再 + verbe.",
+          "examples": [
+            {
+              "chinese": "请再说。",
+              "pinyin": "Qǐng zài shuō.",
+              "translation": "Répète encore une fois, s’il te plaît."
+            },
+            {
+              "chinese": "我再听一次。",
+              "pinyin": "Wǒ zài tīng yī cì.",
+              "translation": "J’écoute encore une fois."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au 3e ton (descendant-montant) : 懂 (dǒng) et 慢 (màn) ont un ton qui descend puis remonte. Ne le confonds pas avec le 2e ton (montant), comme dans 完 (wán).",
+        "见 (jiàn) se prononce avec un 4e ton (descendant). Ne le confonds pas avec 件 (jiàn), qui a le même ton mais un sens différent.",
+        "再 (zài) se prononce avec un 4e ton (descendant), mais il est souvent mal prononcé comme un 1er ton (plat) par les francophones."
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux caractères et structures s’appuient sur tes connaissances précédentes. Voici les liens clés :",
+      "links": [
+        {
+          "from": "懂",
+          "relation": "COMPOSE",
+          "to": "心 (cœur, déjà connu)"
+        },
+        {
+          "from": "见",
+          "relation": "DONNE_LE_SON",
+          "to": "看见 (déjà connu)"
+        },
+        {
+          "from": "完",
+          "relation": "RADICAL_DE",
+          "to": "宀 (toit, déjà vu dans 家)"
+        },
+        {
+          "from": "错",
+          "relation": "RADICAL_DE",
+          "to": "钅 (métal, nouveau mais lié aux objets)"
+        },
+        {
+          "from": "再",
+          "relation": "CONTRASTE_AVEC",
+          "to": "又 (yòu, aussi, déjà connu)"
+        },
+        {
+          "from": "题",
+          "relation": "RADICAL_DE",
+          "to": "页 (page, nouveau mais lié à l’écrit)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Ton ami parle trop vite et tu n’as pas compris. Demande-lui de répéter lentement.",
+          "hint": "Utilise 听懂, 慢慢, et 再说.",
+          "example": {
+            "chinese": "对不起，我没听懂。你可以慢慢再说吗？",
+            "pinyin": "Duìbuqǐ, wǒ méi tīng dǒng. Nǐ kěyǐ màn man zài shuō ma?",
+            "translation": "Désolé, je n’ai pas compris. Peux-tu répéter lentement ?"
+          }
+        },
+        {
+          "instruction": "Tu n’as pas fini d’écrire tes caractères. Dis-le à ton professeur.",
+          "hint": "Utilise 写 et 还没.",
+          "example": {
+            "chinese": "老师，我还没写汉字。",
+            "pinyin": "Lǎoshī, wǒ hái méi xiě hànzì.",
+            "translation": "Professeur, je n’ai pas encore écrit les caractères chinois."
+          }
+        },
+        {
+          "instruction": "Tu n’as pas vu ton ami au parc. Demande à un autre ami s’il l’a vu.",
+          "hint": "Utilise 看见 et 公园.",
+          "example": {
+            "chinese": "你在公园看见王明了吗？",
+            "pinyin": "Nǐ zài gōngyuán kàn jiàn Wáng Míng le ma?",
+            "translation": "As-tu vu Wang Ming au parc ?"
+          }
+        },
+        {
+          "instruction": "Tu as fait une erreur à une question. Dis-le à ton professeur.",
+          "hint": "Utilise 做错 et 道题.",
+          "example": {
+            "chinese": "老师，我做错道题了。",
+            "pinyin": "Lǎoshī, wǒ zuò cuò dào tí le.",
+            "translation": "Professeur, j’ai fait une erreur à cette question."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à utiliser les compléments de résultat (懂, 见, 完) pour préciser si une action a abouti. Tu sais maintenant demander à quelqu’un de répéter (再说) ou de parler plus lentement (慢慢说), et exprimer si tu as compris (听懂) ou non (没听懂). Ces structures sont essentielles pour communiquer efficacement en mandarin, surtout dans un contexte d’apprentissage.",
+      "reviewWords": [
+        "听",
+        "看见",
+        "吃完",
+        "写",
+        "做",
+        "回答",
+        "问",
+        "慢慢",
+        "再"
+      ],
+      "reviewHanzi": [
+        "懂",
+        "见",
+        "完",
+        "错",
+        "题",
+        "答",
+        "慢",
+        "再",
+        "遍"
+      ]
+    }
+  }
+}

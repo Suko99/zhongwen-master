@@ -1,0 +1,378 @@
+{
+  "slug": "donner-son-avis",
+  "title": "À mon avis...",
+  "mission": "Exprimer et défendre une opinion personnelle",
+  "level": "B1",
+  "order": 41,
+  "hanzi": [
+    {
+      "character": "认",
+      "pinyin": "rèn",
+      "meaning": "reconnaître, admettre",
+      "hskLevel": 2,
+      "radical": "讠",
+      "components": [
+        "讠",
+        "人"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 讠 (parole) indique une action liée au langage, et 人 (personne) sert de phonétique. L'idée est de 'reconnaître par la parole'.",
+      "family": [
+        "认为"
+      ],
+      "commonErrors": [
+        "Confusion avec 人 (rén, personne) à cause de la similitude graphique."
+      ]
+    },
+    {
+      "character": "对",
+      "pinyin": "duì",
+      "meaning": "correct, envers",
+      "hskLevel": 1,
+      "radical": "寸",
+      "components": [
+        "又",
+        "寸"
+      ],
+      "etymology": "Composé phono-sémantique : 又 (main) et 寸 (pouce, mesure) symbolisent l'idée de vérifier ou ajuster quelque chose pour qu'il soit correct. Le radical est 寸 (mesure).",
+      "family": [
+        "对"
+      ],
+      "commonErrors": [
+        "Confusion avec 对不起 (duìbuqǐ, désolé) où 对 est souvent mal interprété comme 'correct' plutôt que comme une préposition."
+      ]
+    },
+    {
+      "character": "同",
+      "pinyin": "tóng",
+      "meaning": "identique, ensemble",
+      "hskLevel": 1,
+      "radical": "口",
+      "components": [
+        "冂",
+        "一",
+        "口"
+      ],
+      "etymology": "Ce caractère représente une bouche (口) sous un toit (冂), symbolisant l'idée de partager ou d'être ensemble. Le radical est 口 (bouche).",
+      "family": [
+        "同意",
+        "不同意"
+      ],
+      "commonErrors": [
+        "Les francophones ont tendance à prononcer ce caractère comme 'tong' sans le ton montant, ce qui peut entraîner des malentendus."
+      ]
+    },
+    {
+      "character": "意",
+      "pinyin": "yì",
+      "meaning": "idée, opinion",
+      "hskLevel": 2,
+      "radical": "心",
+      "components": [
+        "音",
+        "心"
+      ],
+      "etymology": "Composé phono-sémantique : 音 (son) sert de phonétique, et 心 (cœur) indique que cela concerne les pensées ou les sentiments. L'idée est celle d'une 'intention' ou d'une 'opinion' venant du cœur.",
+      "family": [
+        "同意",
+        "不同意"
+      ],
+      "commonErrors": [
+        "Confusion avec 音 (yīn, son) à cause de la similitude graphique."
+      ]
+    },
+    {
+      "character": "讨",
+      "pinyin": "tǎo",
+      "meaning": "discuter, demander",
+      "hskLevel": 3,
+      "radical": "讠",
+      "components": [
+        "讠",
+        "寸"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 讠 (parole) indique une action liée au langage, et 寸 (mesure) sert de phonétique. L'idée est celle de 'demander' ou 'discuter'.",
+      "family": [
+        "讨"
+      ],
+      "commonErrors": [
+        "Les francophones ont tendance à oublier que 讨 se prononce tǎo et non tāo."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "觉得",
+      "pinyin": "juéde",
+      "meaning": "trouver que, penser que",
+      "exampleZh": "我觉得这个杯子很好。",
+      "examplePinyin": "Wǒ juéde zhège bēizi hěn hǎo.",
+      "exampleFr": "Je trouve que cette tasse est très bien."
+    },
+    {
+      "word": "认为",
+      "pinyin": "rènwéi",
+      "meaning": "estimer que, considérer que",
+      "exampleZh": "我认为这杯茶很好喝。",
+      "examplePinyin": "Wǒ rènwéi zhè bēi chá hěn hǎo hē.",
+      "exampleFr": "Je considère que ce thé est très bon."
+    },
+    {
+      "word": "想",
+      "pinyin": "xiǎng",
+      "meaning": "penser, croire",
+      "exampleZh": "我想今天天气很好。",
+      "examplePinyin": "Wǒ xiǎng jīntiān tiānqì hěn hǎo.",
+      "exampleFr": "Je pense qu'aujourd'hui le temps est très beau."
+    },
+    {
+      "word": "对",
+      "pinyin": "duì...",
+      "meaning": "pour... (quelqu'un)",
+      "exampleZh": "对他来说，这个工作太多了。",
+      "examplePinyin": "Duì tā lái shuō, zhège gōngzuò tài duō le.",
+      "exampleFr": "Pour lui, ce travail est trop."
+    },
+    {
+      "word": "同意",
+      "pinyin": "tóngyì",
+      "meaning": "être d'accord",
+      "exampleZh": "我同意你的看法。",
+      "examplePinyin": "Wǒ tóngyì nǐ de kànfǎ.",
+      "exampleFr": "Je suis d'accord avec ton point de vue."
+    },
+    {
+      "word": "不同意",
+      "pinyin": "bù tóngyì",
+      "meaning": "ne pas être d'accord",
+      "exampleZh": "我不同意他的想法。",
+      "examplePinyin": "Wǒ bù tóngyì tā de xiǎngfǎ.",
+      "exampleFr": "Je ne suis pas d'accord avec son idée."
+    },
+    {
+      "word": "值得",
+      "pinyin": "zhíde",
+      "meaning": "valoir la peine",
+      "exampleZh": "这个杯子值得买。",
+      "examplePinyin": "Zhège bēizi zhíde mǎi.",
+      "exampleFr": "Cette tasse vaut la peine d'être achetée."
+    },
+    {
+      "word": "讨",
+      "pinyin": "tǎo",
+      "meaning": "discuter",
+      "exampleZh": "我们讨一下这个题。",
+      "examplePinyin": "Wǒmen tǎo yīxià zhège tí.",
+      "exampleFr": "Discutons un peu de cette question."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Lors d'une discussion en classe sur les habitudes quotidiennes, tu dois exprimer ton opinion sur l'importance de boire du thé et convaincre tes camarades.",
+      "goals": [
+        "Donner ton avis sur un sujet",
+        "Utiliser des structures pour exprimer ton opinion",
+        "Être d'accord ou non avec les opinions des autres"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observe le dialogue suivant entre 王明 et 李华. Repère comment ils expriment leurs opinions et s'ils sont d'accord ou non.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你觉得喝茶好吗？",
+          "pinyin": "Lǐ Huá, nǐ juéde hē chá hǎo ma?",
+          "translation": "Li Hua, trouves-tu que boire du thé est bien ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "我认为喝茶很好。对身体来说，喝茶值得。",
+          "pinyin": "Wǒ rènwéi hē chá hěn hǎo. Duì shēntǐ lái shuō, hē chá zhíde.",
+          "translation": "Je considère que boire du thé est très bien. Pour le corps, boire du thé vaut la peine."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我想你是对的。但是对我来说，喝茶有点儿少。",
+          "pinyin": "Wǒ xiǎng nǐ shì duì de. Dànshì duì wǒ lái shuō, hē chá yǒudiǎnr shǎo.",
+          "translation": "Je pense que tu as raison. Mais pour moi, je bois un peu peu de thé."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "你不同意多喝茶吗？",
+          "pinyin": "Nǐ bù tóngyì duō hē chá ma?",
+          "translation": "Tu n'es pas d'accord pour boire plus de thé ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我同意喝茶好，但是一天三杯就够了。",
+          "pinyin": "Wǒ tóngyì hē chá hǎo, dànshì yī tiān sān bēi jiù gòu le.",
+          "translation": "Je suis d'accord que boire du thé est bien, mais trois tasses par jour suffisent."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "这个想法好，我们可以讨一下。",
+          "pinyin": "Zhège xiǎngfǎ hǎo, wǒmen kěyǐ tǎo yīxià.",
+          "translation": "Cette idée est bonne, nous pouvons en discuter."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "认",
+        "对",
+        "同",
+        "意",
+        "讨"
+      ],
+      "grammar": [
+        {
+          "point": "Exprimer une opinion avec 觉得, 认为, 想",
+          "explanation": "Ces trois verbes servent à exprimer une opinion personnelle. 觉得 (juéde) est plus subjectif et informel, souvent utilisé pour donner une impression ou un sentiment. 认为 (rènwéi) est plus formel et utilisé pour exprimer une conviction ou une estimation réfléchie. 想 (xiǎng) peut aussi exprimer une opinion, mais il est souvent utilisé pour des pensées plus incertaines ou des suppositions. Erreur typique du francophone : oublier d'utiliser la particule 得 après 觉 pour former 觉得.",
+          "examples": [
+            {
+              "chinese": "我觉得这个杯子很好。",
+              "pinyin": "Wǒ juéde zhège bēizi hěn hǎo.",
+              "translation": "Je trouve que cette tasse est très bien."
+            },
+            {
+              "chinese": "我认为这杯茶很好喝。",
+              "pinyin": "Wǒ rènwéi zhè bēi chá hěn hǎo hē.",
+              "translation": "Je considère que ce thé est très bon."
+            },
+            {
+              "chinese": "我想今天天气很好。",
+              "pinyin": "Wǒ xiǎng jīntiān tiānqì hěn hǎo.",
+              "translation": "Je pense qu'aujourd'hui le temps est très beau."
+            }
+          ]
+        },
+        {
+          "point": "Utiliser 对 pour exprimer un point de vue",
+          "explanation": "Cette structure permet d'introduire le point de vue d'une personne ou d'un groupe. Elle se place généralement en début de phrase ou après le sujet. Erreur typique du francophone : oublier de placer 对 correctement dans la phrase.",
+          "examples": [
+            {
+              "chinese": "对他来说，这个工作太多了。",
+              "pinyin": "Duì tā lái shuō, zhège gōngzuò tài duō le.",
+              "translation": "Pour lui, ce travail est trop."
+            },
+            {
+              "chinese": "对学生来说，学习很重要。",
+              "pinyin": "Duì xuéshēng lái shuō, xuéxí hěn zhòngyào.",
+              "translation": "Pour les étudiants, étudier est très important."
+            }
+          ]
+        },
+        {
+          "point": "Exprimer l'accord ou le désaccord avec 同意 et 不同意",
+          "explanation": "同意 (tóngyì) signifie 'être d'accord', et 不同意 (bù tóngyì) signifie 'ne pas être d'accord'. Ces verbes peuvent être suivis d'un complément d'objet direct (une opinion, une idée). Erreur typique du francophone : oublier que 同意 est un verbe et l'utiliser comme un adjectif (ex: 'je suis d'accord' ne se traduit pas par '我同意的').",
+          "examples": [
+            {
+              "chinese": "我同意你的看法。",
+              "pinyin": "Wǒ tóngyì nǐ de kànfǎ.",
+              "translation": "Je suis d'accord avec ton point de vue."
+            },
+            {
+              "chinese": "他不同意这个想法。",
+              "pinyin": "Tā bù tóngyì zhège xiǎngfǎ.",
+              "translation": "Il n'est pas d'accord avec cette idée."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 认 est le 4e ton (rèn), descendant. Attention à bien le prononcer pour éviter les confusions avec d'autres mots.",
+        "讨 se prononce tǎo (3e ton), descendant-montant. Attention à ne pas le confondre avec tāo (1er ton).",
+        "意 se prononce yì (4e ton), descendant. Attention à bien distinguer ce ton pour éviter les malentendus."
+      ]
+    },
+    "connection": {
+      "text": "Voici comment les nouveaux caractères et mots se relient à ce que tu connais déjà :",
+      "links": [
+        {
+          "from": "认",
+          "relation": "COMPOSE",
+          "to": "认为"
+        },
+        {
+          "from": "对",
+          "relation": "DONNE_LE_SON",
+          "to": "对"
+        },
+        {
+          "from": "同",
+          "relation": "COMPOSE",
+          "to": "同意"
+        },
+        {
+          "from": "意",
+          "relation": "COMPOSE",
+          "to": "同意"
+        },
+        {
+          "from": "讠 (radical)",
+          "relation": "RADICAL_DE",
+          "to": "认, 讨"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Exprime ton opinion sur l'importance de boire de l'eau. Utilise 觉得, 认为 ou 想.",
+          "hint": "Pense à utiliser des structures comme 'je trouve que...' ou 'je considère que...'.",
+          "example": {
+            "chinese": "我认为喝水很重要，因为对身体好。",
+            "pinyin": "Wǒ rènwéi hē shuǐ hěn zhòngyào, yīnwèi duì shēntǐ hǎo.",
+            "translation": "Je considère que boire de l'eau est très important, car c'est bon pour le corps."
+          }
+        },
+        {
+          "instruction": "Dis ce que tu penses de l'idée de regarder la télévision. Utilise 对.",
+          "hint": "Pense à introduire ton point de vue avec 'pour moi...'.",
+          "example": {
+            "chinese": "对我来说，看电视很有意思。",
+            "pinyin": "Duì wǒ lái shuō, kàn diànshì hěn yǒuyìsi.",
+            "translation": "Pour moi, regarder la télévision est très intéressant."
+          }
+        },
+        {
+          "instruction": "Réagis à l'opinion d'un ami qui dit que lire des livres est une perte de temps. Utilise 同意 ou 不同意.",
+          "hint": "Exprime si tu es d'accord ou non avec son opinion.",
+          "example": {
+            "chinese": "我不同意。我觉得看书可以学到很多东西。",
+            "pinyin": "Wǒ bù tóngyì. Wǒ juéde kàn shū kěyǐ xué dào hěn duō dōngxi.",
+            "translation": "Je ne suis pas d'accord. Je trouve que lire des livres permet d'apprendre beaucoup de choses."
+          }
+        },
+        {
+          "instruction": "Discute avec un camarade pour savoir si vous êtes d'accord sur l'importance de boire du thé. Utilise les structures apprises.",
+          "hint": "Utilise 觉得, 同意 ou 不同意, et 对 pour structurer ton dialogue.",
+          "example": {
+            "chinese": "A: 你觉得喝茶好吗？\nB: 我认为喝茶很好。对身体来说，喝茶很重要。\nA: 我同意。但是对我来说，一天两杯就够了。",
+            "pinyin": "A: Nǐ juéde hē chá hǎo ma?\nB: Wǒ rènwéi hē chá hěn hǎo. Duì shēntǐ lái shuō, hē chá hěn zhòngyào.\nA: Wǒ tóngyì. Dànshì duì wǒ lái shuō, yī tiān liǎng bēi jiù gòu le.",
+            "translation": "A: Trouves-tu que boire du thé est bien ?\nB: Je considère que boire du thé est très bien. Pour le corps, boire du thé est très important.\nA: Je suis d'accord. Mais pour moi, deux tasses par jour suffisent."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, tu as appris à exprimer et défendre ton opinion en chinois. Tu peux maintenant utiliser 觉得, 认为 et 想 pour donner ton avis, 对 pour introduire un point de vue, et 同意 ou 不同意 pour exprimer ton accord ou désaccord. Ces structures te permettront de participer activement à des discussions et débats.",
+      "reviewWords": [
+        "觉得",
+        "认为",
+        "想",
+        "对",
+        "同意",
+        "不同意",
+        "值得",
+        "讨"
+      ],
+      "reviewHanzi": [
+        "认",
+        "对",
+        "同",
+        "意",
+        "讨"
+      ]
+    }
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "slug": "economie-et-societe",
+  "title": "Économie et société",
+  "mission": "Discuter de sujets abstraits : travail, inégalités, environnement",
+  "level": "B2",
+  "order": 56,
+  "hanzi": [
+    {
+      "character": "统",
+      "pinyin": "tǒng",
+      "meaning": "unifier, systématiser",
+      "hskLevel": 5,
+      "radical": "纟 (soie)",
+      "components": [
+        "纟",
+        "充"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que ce caractère représente l'idée d'unifier (统) en enroulant des fils de soie (纟) de manière ordonnée. Le composant 充 suggère phonétiquement le son et renforce l'idée de plénitude ou de complétude.",
+      "family": [
+        "统一 (unifier)",
+        "统计 (statistique)"
+      ],
+      "commonErrors": [
+        "Confondre avec 总 (zǒng, total) en raison de leur sens proche."
+      ]
+    },
+    {
+      "character": "计",
+      "pinyin": "jì",
+      "meaning": "calculer, planifier",
+      "hskLevel": 3,
+      "radical": "讠 (parole)",
+      "components": [
+        "讠",
+        "十"
+      ],
+      "etymology": "Ce caractère combine le radical de la parole (讠) avec le chiffre dix (十), suggérant l'idée de compter ou de planifier à travers des mots ou des nombres.",
+      "family": [
+        "统计 (statistique)",
+        "计划 (plan)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'jī' (premier ton) au lieu de 'jì' (quatrième ton)."
+      ]
+    },
+    {
+      "character": "贫",
+      "pinyin": "pín",
+      "meaning": "pauvre",
+      "hskLevel": 5,
+      "radical": "贝 (coquillage, argent)",
+      "components": [
+        "分",
+        "贝"
+      ],
+      "etymology": "Ce caractère combine le radical 贝 (argent) avec 分 (diviser), suggérant l'idée de partager des ressources limitées, d'où le sens de pauvreté.",
+      "family": [
+        "贫穷 (pauvreté)",
+        "贫困 (pauvre)"
+      ],
+      "commonErrors": [
+        "Confondre avec 贪 (tān, avide) en raison de leur prononciation proche."
+      ]
+    },
+    {
+      "character": "富",
+      "pinyin": "fù",
+      "meaning": "riche, abondant",
+      "hskLevel": 5,
+      "radical": "宀 (toit)",
+      "components": [
+        "宀",
+        "畐"
+      ],
+      "etymology": "Le radical 宀 (toit) suggère un abri, et 畐 représente phonétiquement le son tout en évoquant l'idée de plénitude. Ce caractère symbolise une maison pleine de richesses.",
+      "family": [
+        "富有 (riche)",
+        "富裕 (aisé)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'fū' (premier ton) au lieu de 'fù' (quatrième ton)."
+      ]
+    },
+    {
+      "character": "环",
+      "pinyin": "huán",
+      "meaning": "anneau, environnement",
+      "hskLevel": 4,
+      "radical": "王 (jade)",
+      "components": [
+        "王",
+        "不"
+      ],
+      "etymology": "Le radical 王 (jade) évoque quelque chose de précieux, tandis que 不 suggère phonétiquement le son. Ce caractère représente à l'origine un anneau de jade, d'où son extension au sens d'environnement.",
+      "family": [
+        "环境 (environnement)",
+        "环保 (protection de l'environnement)"
+      ],
+      "commonErrors": [
+        "Confondre avec 还 (hái, encore) en raison de leur prononciation proche."
+      ]
+    },
+    {
+      "character": "境",
+      "pinyin": "jìng",
+      "meaning": "frontière, condition",
+      "hskLevel": 5,
+      "radical": "土 (terre)",
+      "components": [
+        "土",
+        "竟"
+      ],
+      "etymology": "Le radical 土 (terre) évoque un lieu, et 竟 suggère phonétiquement le son tout en renforçant l'idée de limite ou de frontière.",
+      "family": [
+        "环境 (environnement)",
+        "境界 (niveau)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'jīng' (premier ton) au lieu de 'jìng' (quatrième ton)."
+      ]
+    },
+    {
+      "character": "污",
+      "pinyin": "wū",
+      "meaning": "sale, pollué",
+      "hskLevel": 5,
+      "radical": "氵 (eau)",
+      "components": [
+        "氵",
+        "亏"
+      ],
+      "etymology": "Le radical 氵 (eau) évoque un liquide, et 亏 suggère phonétiquement le son tout en renforçant l'idée de perte ou de dégradation. Ce caractère symbolise une eau devenue impure ou polluée.",
+      "family": [
+        "污染 (pollution)",
+        "污水 (eaux usées)"
+      ],
+      "commonErrors": [
+        "Confondre avec 乌 (wū, corbeau) en raison de leur prononciation identique."
+      ]
+    },
+    {
+      "character": "染",
+      "pinyin": "rǎn",
+      "meaning": "teindre, contaminer",
+      "hskLevel": 5,
+      "radical": "木 (bois)",
+      "components": [
+        "氵",
+        "九",
+        "木"
+      ],
+      "etymology": "Ce caractère combine le radical 氵 (eau) avec 木 (bois) et 九 (neuf), suggérant l'idée de tremper du bois dans un liquide pour le teindre. Par extension, il désigne la contamination.",
+      "family": [
+        "污染 (pollution)",
+        "感染 (infection)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'ràn' (quatrième ton) au lieu de 'rǎn' (troisième ton)."
+      ]
+    },
+    {
+      "character": "失",
+      "pinyin": "shī",
+      "meaning": "perdre, échec",
+      "hskLevel": 4,
+      "radical": "大 (grand)",
+      "components": [
+        "大",
+        "丿"
+      ],
+      "etymology": "Ce caractère représente une main (大) qui laisse échapper quelque chose (丿), symbolisant la perte ou l'échec.",
+      "family": [
+        "失业 (chômage)",
+        "失败 (échec)"
+      ],
+      "commonErrors": [
+        "Confondre avec 夫 (fū, mari) en raison de leur forme proche."
+      ]
+    },
+    {
+      "character": "平",
+      "pinyin": "píng",
+      "meaning": "plat, égal",
+      "hskLevel": 2,
+      "radical": "干 (bouclier)",
+      "components": [
+        "干",
+        "丷"
+      ],
+      "etymology": "Ce caractère représente à l'origine un outil de nivellement, symbolisant l'égalité ou la planéité.",
+      "family": [
+        "平等 (égalité)",
+        "和平 (paix)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'pīng' (premier ton) au lieu de 'píng' (deuxième ton)."
+      ]
+    },
+    {
+      "character": "差",
+      "pinyin": "chā",
+      "meaning": "différence, manquer",
+      "hskLevel": 3,
+      "radical": "工 (travail)",
+      "components": [
+        "羊",
+        "工"
+      ],
+      "etymology": "Ce caractère combine 羊 (mouton) et 工 (travail), suggérant à l'origine une différence dans la qualité du travail. Par extension, il désigne une différence ou un écart.",
+      "family": [
+        "差距 (écart)",
+        "差不多 (presque)"
+      ],
+      "commonErrors": [
+        "Confondre avec 差 (chà, mauvais) en raison de ses multiples prononciations."
+      ]
+    },
+    {
+      "character": "距",
+      "pinyin": "jù",
+      "meaning": "distance, écart",
+      "hskLevel": 5,
+      "radical": "足 (pied)",
+      "components": [
+        "足",
+        "巨"
+      ],
+      "etymology": "Le radical 足 (pied) évoque le mouvement ou la distance, et 巨 suggère phonétiquement le son. Ce caractère symbolise une distance ou un écart mesurable.",
+      "family": [
+        "差距 (écart)",
+        "距离 (distance)"
+      ],
+      "commonErrors": [
+        "Confondre avec 拒 (jù, refuser) en raison de leur prononciation identique."
+      ]
+    },
+    {
+      "character": "率",
+      "pinyin": "lǜ",
+      "meaning": "taux, ratio",
+      "hskLevel": 5,
+      "radical": "玄 (profond)",
+      "components": [
+        "玄",
+        "十"
+      ],
+      "etymology": "Ce caractère combine le radical 玄 (profond) avec 十 (dix), suggérant l'idée d'une proportion ou d'un ratio. Il désigne à l'origine un taux ou une fréquence.",
+      "family": [
+        "失业率 (taux de chômage)",
+        "比率 (ratio)"
+      ],
+      "commonErrors": [
+        "Prononcer comme 'shuài' (commander) au lieu de 'lǜ' (taux)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "统计",
+      "pinyin": "tǒng jì",
+      "meaning": "statistique",
+      "exampleZh": "每年都有统计。",
+      "examplePinyin": "Měi nián dōu yǒu tǒngjì.",
+      "exampleFr": "Il y a des statistiques chaque année."
+    },
+    {
+      "word": "差距",
+      "pinyin": "chājù",
+      "meaning": "écart",
+      "exampleZh": "这个差距很大。",
+      "examplePinyin": "Zhège chājù hěn dà.",
+      "exampleFr": "Cet écart est très grand."
+    },
+    {
+      "word": "环境污染",
+      "pinyin": "huánjìng wūrǎn",
+      "meaning": "pollution de l'environnement",
+      "exampleZh": "环境污染有很大响。",
+      "examplePinyin": "Huánjìng wūrǎn yǒu hěn dà xiǎng.",
+      "exampleFr": "La pollution de l'environnement a un grand impact."
+    },
+    {
+      "word": "失业率",
+      "pinyin": "shīyè lǜ",
+      "meaning": "taux de chômage",
+      "exampleZh": "今年的失业率比去年低。",
+      "examplePinyin": "Jīnnián de shīyè lǜ bǐ qùnián dī.",
+      "exampleFr": "Le taux de chômage cette année est plus bas que l'année dernière."
+    },
+    {
+      "word": "平等",
+      "pinyin": "píngděng",
+      "meaning": "égalité",
+      "exampleZh": "我们应追求平等。",
+      "examplePinyin": "Wǒmen yīng zhuīqiú píngděng.",
+      "exampleFr": "Nous devrions rechercher l'égalité."
+    },
+    {
+      "word": "数",
+      "pinyin": "shù",
+      "meaning": "données, nombre",
+      "exampleZh": "这些数很重。",
+      "examplePinyin": "Zhèxiē shù hěn zhòng.",
+      "exampleFr": "Ces données sont très importantes."
+    },
+    {
+      "word": "根据",
+      "pinyin": "gēnjù",
+      "meaning": "selon, basé sur",
+      "exampleZh": "根据统计，失业率在降。",
+      "examplePinyin": "Gēnjù tǒngjì, shīyè lǜ zài jiàng.",
+      "exampleFr": "Selon les statistiques, le taux de chômage est en baisse."
+    },
+    {
+      "word": "保",
+      "pinyin": "bǎo",
+      "meaning": "protection",
+      "exampleZh": "保是每个人的责任。",
+      "examplePinyin": "Bǎo shì měi gè rén de zérèn.",
+      "exampleFr": "La protection est la responsabilité de chacun."
+    },
+    {
+      "word": "困",
+      "pinyin": "kùn",
+      "meaning": "pauvreté, difficulté",
+      "exampleZh": "这个地区的困问很严重。",
+      "examplePinyin": "Zhège dìqū de kùn wèn hěn yánzhòng.",
+      "exampleFr": "Le problème de pauvreté dans cette région est très grave."
+    },
+    {
+      "word": "裕",
+      "pinyin": "yù",
+      "meaning": "aisé, prospère",
+      "exampleZh": "这个城市的生活很裕。",
+      "examplePinyin": "Zhège chéngshì de shēnghuó hěn yù.",
+      "exampleFr": "La vie dans cette ville est très aisée."
+    },
+    {
+      "word": "污染",
+      "pinyin": "wūrǎn",
+      "meaning": "pollution",
+      "exampleZh": "空气污染对健康有害。",
+      "examplePinyin": "Kōngqì wūrǎn duì jiànkāng yǒuhài.",
+      "exampleFr": "La pollution de l'air est nocive pour la santé."
+    },
+    {
+      "word": "统一",
+      "pinyin": "tǒngyī",
+      "meaning": "unifier, unifié",
+      "exampleZh": "这个策统一了全的标准。",
+      "examplePinyin": "Zhège cè tǒngyī le quán de biāozhǔn.",
+      "exampleFr": "Cette politique a unifié les normes."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous participez à une discussion sur les enjeux économiques et sociaux avec des amis. Vous devez exprimer des opinions sur les écarts sociaux, l'environnement et le travail en utilisant des données.",
+      "goals": [
+        "Discuter des écarts sociaux en utilisant des statistiques.",
+        "Débattre des problèmes environnementaux et des solutions possibles.",
+        "Analyser les tendances du travail et leurs impacts."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez le dialogue suivant et identifiez : 1) les mots liés aux statistiques ; 2) les expressions pour parler des écarts ; 3) les termes environnementaux.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "根据统计，今年的失业率比去年低了百之二。",
+          "pinyin": "Gēnjù tǒngjì, jīnnián de shīyè lǜ bǐ qùnián dī le bǎi zhī èr.",
+          "translation": "Selon les statistiques, le taux de chômage cette année est inférieur de 2% à celui de l'année dernière."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "虽然失业率降了，但是差距还很大。",
+          "pinyin": "Suīrán shīyè lǜ jiàng le, dànshì chājù hái hěn dà.",
+          "translation": "Bien que le taux de chômage ait baissé, l'écart reste important."
+        },
+        {
+          "speaker": "马克",
+          "chinese": "环境污染也是一个严重的问。政府应加强保措施。",
+          "pinyin": "Huánjìng wūrǎn yě shì yī gè yánzhòng de wèn. Zhèngfǔ yīng jiāqiáng bǎo cuòshī.",
+          "translation": "La pollution de l'environnement est aussi un problème grave. Le gouvernement devrait renforcer les mesures de protection."
+        },
+        {
+          "speaker": "安娜",
+          "chinese": "我同意。根据数，空气污染每年造很多健康问。",
+          "pinyin": "Wǒ tóngyì. Gēnjù shù, kōngqì wūrǎn měinián zào hěn duō jiànkāng wèn.",
+          "translation": "Je suis d'accord. Selon les données, la pollution de l'air cause de nombreux problèmes de santé chaque année."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我们需要更多的策来减困，同时保护环境。",
+          "pinyin": "Wǒmen xūyào gèng duō de cè lái jiǎn kùn, tóngshí bǎohù huánjìng.",
+          "translation": "Nous avons besoin de plus de politiques pour réduire la pauvreté tout en protégeant l'environnement."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "对，平等和保应同时进行。",
+          "pinyin": "Duì, píngděng hé bǎo yīng tóngshí jìnxíng.",
+          "translation": "Oui, l'égalité et la protection devraient avancer en même temps."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "统",
+        "计",
+        "贫",
+        "富",
+        "环",
+        "境",
+        "污",
+        "染",
+        "失",
+        "平",
+        "差",
+        "距",
+        "率"
+      ],
+      "grammar": [
+        {
+          "point": "Nominalisations avec 的 (ex : 困的问)",
+          "explanation": "En chinois, on peut transformer un adjectif ou un verbe en nom en ajoutant 的. Par exemple, 困 (pauvre) devient 困的问 (le problème de la pauvreté).",
+          "examples": [
+            {
+              "chinese": "差距的问很严重。",
+              "pinyin": "Chājù de wèn hěn yánzhòng.",
+              "translation": "Le problème de l'écart est très grave."
+            },
+            {
+              "chinese": "环境污染的响很大。",
+              "pinyin": "Huánjìng wūrǎn de xiǎng hěn dà.",
+              "translation": "L'impact de la pollution de l'environnement est très grand."
+            }
+          ]
+        },
+        {
+          "point": "Utilisation de 统计 et les chiffres",
+          "explanation": "统计 (statistique) est souvent suivi de chiffres pour exprimer des tendances. Les chiffres en chinois se lisent avec 百之 (pourcentage). Erreur typique : oublier le 之 après 百.",
+          "examples": [
+            {
+              "chinese": "根据统计，失业率降了百之五。",
+              "pinyin": "Gēnjù tǒngjì, shīyè lǜ jiàng le bǎi zhī wǔ.",
+              "translation": "Selon les statistiques, le taux de chômage a baissé de 5%."
+            },
+            {
+              "chinese": "这个城市的空气污染减了百之十。",
+              "pinyin": "Zhège chéngshì de kōngqì wūrǎn jiǎn le bǎi zhī shí.",
+              "translation": "La pollution de l'air dans cette ville a diminué de 10%."
+            }
+          ]
+        },
+        {
+          "point": "Expressions pour discuter de sujets abstraits (虽然...但是..., 根据, 需要)",
+          "explanation": "Pour discuter de sujets abstraits, on utilise souvent 虽然...但是... (bien que... mais...), 根据 (selon), ou 需要 (avoir besoin de). Erreur typique : oublier le 但是 après 虽然.",
+          "examples": [
+            {
+              "chinese": "虽然失业率降了，但是差距没有减。",
+              "pinyin": "Suīrán shīyè lǜ jiàng le, dànshì chājù méiyǒu jiǎn.",
+              "translation": "Bien que le taux de chômage ait baissé, l'écart n'a pas diminué."
+            },
+            {
+              "chinese": "根据数，我们需要更多的保策。",
+              "pinyin": "Gēnjù shù, wǒmen xūyào gèng duō de bǎo cè.",
+              "translation": "Selon les données, nous avons besoin de plus de politiques de protection."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Attention au troisième ton (descendant-montant) dans 统计 (tǒng jì).",
+        "Le caractère 率 se prononce 'lǜ' (taux) et non 'shuài' (commander).",
+        "Dans 百之 (bǎi zhī), le 之 est indispensable pour exprimer un pourcentage."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots de cette leçon sont liés à des concepts déjà connus. Voici comment ils s'articulent avec votre vocabulaire existant :",
+      "links": [
+        {
+          "from": "统计",
+          "relation": "COMPOSE",
+          "to": "统 + 计"
+        },
+        {
+          "from": "环境",
+          "relation": "COMPOSE",
+          "to": "环 + 境"
+        },
+        {
+          "from": "差距",
+          "relation": "COMPOSE",
+          "to": "差 + 距"
+        },
+        {
+          "from": "污染",
+          "relation": "DONNE_LE_SON",
+          "to": "污 (wū) + 染 (rǎn)"
+        },
+        {
+          "from": "失业率",
+          "relation": "COMPOSE",
+          "to": "失业 + 率"
+        },
+        {
+          "from": "平等",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "公平 (équité)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Exprimez votre opinion sur les écarts sociaux dans votre pays en utilisant 统计 et 百之. Utilisez au moins une nominalisation avec 的.",
+          "hint": "Exemple de structure : 根据统计，...的问越来越...。",
+          "example": {
+            "chinese": "根据统计，我国差距的问越来越大，百之二十的人有百之八十的钱。",
+            "pinyin": "Gēnjù tǒngjì, wǒguó chājù de wèn yuè lái yuè dà, bǎi zhī èrshí de rén yǒu bǎi zhī bāshí de qián.",
+            "translation": "Selon les statistiques, le problème de l'écart dans mon pays devient de plus en plus grave : 20% des gens possèdent 80% de l'argent."
+          }
+        },
+        {
+          "instruction": "Débattez des solutions pour réduire la pollution de l'environnement en utilisant 虽然...但是... et 根据.",
+          "hint": "Exemple de structure : 虽然...但是...。根据数，我们需要...。",
+          "example": {
+            "chinese": "虽然保措施很重要，但是很多人不想改变习惯。根据数，我们需要更严的法来减污染。",
+            "pinyin": "Suīrán bǎo cuòshī hěn zhòngyào, dànshì hěn duō rén bù xiǎng gǎibiàn xíguàn. Gēnjù shù, wǒmen xūyào gèng yán de fǎ lái jiǎn wūrǎn.",
+            "translation": "Bien que les mesures de protection soient importantes, beaucoup de gens ne veulent pas changer leurs habitudes. Selon les données, nous avons besoin de lois plus strictes pour réduire la pollution."
+          }
+        },
+        {
+          "instruction": "Analysez les tendances du travail dans votre ville en utilisant 失业率 et 差距.",
+          "hint": "Exemple de structure : 今年的失业率...。很多人选...的工作。",
+          "example": {
+            "chinese": "今年的失业率比去年低了百之一。很多人选保护环境的工作，因为这个领域越来越重要。",
+            "pinyin": "Jīnnián de shīyè lǜ bǐ qùnián dī le bǎi zhī yī. Hěn duō rén xuǎn bǎohù huánjìng de gōngzuò, yīnwèi zhège lǐngyù yuè lái yuè zhòngyào.",
+            "translation": "Le taux de chômage cette année est inférieur de 1% à celui de l'année dernière. Beaucoup de gens choisissent des travaux liés à la protection de l'environnement, car ce domaine devient de plus en plus important."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Dans cette leçon, vous avez appris à discuter de sujets abstraits comme les écarts sociaux, l'environnement et le travail. Vous avez découvert des mots clés comme 统计, 差距, 环境污染, et des structures grammaticales pour exprimer des opinions (虽然...但是..., 根据, 的 pour les nominalisations). Vous avez également pratiqué l'utilisation des chiffres et des pourcentages en chinois.",
+      "reviewWords": [
+        "统计",
+        "差距",
+        "环境污染",
+        "失业率",
+        "平等",
+        "数",
+        "根据",
+        "保",
+        "困",
+        "裕",
+        "污染",
+        "统一"
+      ],
+      "reviewHanzi": [
+        "统",
+        "计",
+        "贫",
+        "富",
+        "环",
+        "境",
+        "污",
+        "染",
+        "失",
+        "平",
+        "差",
+        "距",
+        "率"
+      ]
+    }
+  }
+}

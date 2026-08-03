@@ -1,0 +1,373 @@
+{
+  "slug": "la-construction-ba",
+  "title": "La construction 把",
+  "mission": "Décrire ce qu'on fait subir à un objet : déplacer ou transformer",
+  "level": "B1",
+  "order": 36,
+  "hanzi": [
+    {
+      "character": "把",
+      "pinyin": "bǎ",
+      "meaning": "particule de manipulation",
+      "hskLevel": 3,
+      "radical": "手 (main)",
+      "components": [
+        "扌 (main)",
+        "巴 (ici, donne le son ba)"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que 把 représente une main (扌) tenant un objet (巴, ici utilisé pour son son). La graphie ancienne montrait une main tenant une poignée ou un manche.",
+      "family": [
+        "把手 (poignée)",
+        "把持 (contrôler)"
+      ],
+      "commonErrors": [
+        "Oublier que 把 doit être suivi d'un objet précis avant le verbe.",
+        "Confondre 把 avec 将 (jiang1), qui a une fonction similaire mais est moins courant à l'oral."
+      ]
+    },
+    {
+      "character": "桌",
+      "pinyin": "zhuō",
+      "meaning": "table",
+      "hskLevel": 3,
+      "radical": "木 (bois)",
+      "components": [
+        "木 (bois)",
+        "卓 (table, ancien caractère)"
+      ],
+      "etymology": "Le caractère 桌 combine le radical 木 (bois) et 卓, qui représentait une table basse dans l'écriture ancienne. L'idée est celle d'un objet en bois servant de support.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer 'zhuó' au lieu de 'zhuō' (erreur de ton)."
+      ]
+    },
+    {
+      "character": "椅",
+      "pinyin": "yǐ",
+      "meaning": "chaise",
+      "hskLevel": 3,
+      "radical": "木 (bois)",
+      "components": [
+        "木 (bois)",
+        "奇 (ici, donne le son yi)"
+      ],
+      "etymology": "椅 combine le radical 木 (bois) et 奇, qui n'a pas de sens ici mais donne la prononciation. L'ancien caractère représentait une chaise en bois.",
+      "family": [],
+      "commonErrors": [
+        "Écrire 椅 avec un 木 incorrect (ex : 林)."
+      ]
+    },
+    {
+      "character": "放",
+      "pinyin": "fàng",
+      "meaning": "mettre, poser, placer",
+      "hskLevel": 3,
+      "radical": "方 (carré, ici sens de 'direction')",
+      "components": [
+        "方 (direction)",
+        "攵 (action)"
+      ],
+      "etymology": "放 combine 方 (direction) et 攵 (action). L'idée est d'envoyer quelque chose dans une direction précise, d'où le sens de 'poser' ou 'placer'.",
+      "family": [
+        "放下 (poser)"
+      ],
+      "commonErrors": [
+        "Confondre 放 avec 放弃 (abandonner), qui a une nuance différente."
+      ]
+    },
+    {
+      "character": "整",
+      "pinyin": "zhěng",
+      "meaning": "ranger, mettre en ordre",
+      "hskLevel": 3,
+      "radical": "攵 (action)",
+      "components": [
+        "攵 (action)",
+        "正 (droit, correct)"
+      ],
+      "etymology": "整 combine 攵 (action) et 正 (droit). L'idée est de rendre quelque chose droit ou correct, d'où le sens de 'ranger' ou 'mettre en ordre'.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer 'zhèng' au lieu de 'zhěng' (erreur de ton)."
+      ]
+    },
+    {
+      "character": "脏",
+      "pinyin": "zāng",
+      "meaning": "sale",
+      "hskLevel": 3,
+      "radical": "月 (chair)",
+      "components": [
+        "月 (chair)",
+        "庄 (village, ici sens de 'saleté')"
+      ],
+      "etymology": "脏 combine 月 (chair) et 庄 (village). L'idée est que la saleté s'accumule comme dans un village négligé. L'étymologie est débattue.",
+      "family": [],
+      "commonErrors": [
+        "Prononcer 'zàng' au lieu de 'zāng' (erreur de ton)."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "把",
+      "pinyin": "bǎ",
+      "meaning": "particule de manipulation (obligatoire avant un verbe pour indiquer l'objet affecté)",
+      "exampleZh": "我把书放在桌上。",
+      "examplePinyin": "Wǒ bǎ shū fàng zài zhuō shàng.",
+      "exampleFr": "Je pose le livre sur la table."
+    },
+    {
+      "word": "桌",
+      "pinyin": "zhuō",
+      "meaning": "table",
+      "exampleZh": "桌上有书。",
+      "examplePinyin": "Zhuō shàng yǒu shū.",
+      "exampleFr": "Il y a des livres sur la table."
+    },
+    {
+      "word": "椅",
+      "pinyin": "yǐ",
+      "meaning": "chaise",
+      "exampleZh": "坐在椅上。",
+      "examplePinyin": "Zuò zài yǐ shàng.",
+      "exampleFr": "Asseyez-vous sur la chaise."
+    },
+    {
+      "word": "放",
+      "pinyin": "fàng",
+      "meaning": "mettre, poser, placer",
+      "exampleZh": "把书放在桌上。",
+      "examplePinyin": "Bǎ shū fàng zài zhuō shàng.",
+      "exampleFr": "Pose le livre sur la table."
+    },
+    {
+      "word": "整",
+      "pinyin": "zhěng",
+      "meaning": "ranger, mettre en ordre",
+      "exampleZh": "我把房间整好了。",
+      "examplePinyin": "Wǒ bǎ fángjiān zhěng hǎo le.",
+      "exampleFr": "J'ai bien rangé la chambre."
+    },
+    {
+      "word": "洗",
+      "pinyin": "xǐ",
+      "meaning": "laver",
+      "exampleZh": "把杯洗一下。",
+      "examplePinyin": "Bǎ bēi xǐ yīxià.",
+      "exampleFr": "Lave le verre."
+    },
+    {
+      "word": "脏",
+      "pinyin": "zāng",
+      "meaning": "sale",
+      "exampleZh": "这个杯太脏了。",
+      "examplePinyin": "Zhège bēi tài zāng le.",
+      "exampleFr": "Ce verre est trop sale."
+    },
+    {
+      "word": "杯",
+      "pinyin": "bēi",
+      "meaning": "verre, tasse",
+      "exampleZh": "给我一个杯。",
+      "examplePinyin": "Gěi wǒ yī ge bēi.",
+      "exampleFr": "Donne-moi un verre."
+    },
+    {
+      "word": "碗",
+      "pinyin": "wǎn",
+      "meaning": "bol",
+      "exampleZh": "我要一碗饭。",
+      "examplePinyin": "Wǒ yào yī wǎn fàn.",
+      "exampleFr": "Je veux un bol de riz."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous êtes chez vous avec un ami. Vous devez donner des instructions pour ranger, laver ou déplacer des objets (verres, bols, livres). La construction 把 vous aidera à préciser quel objet est manipulé.",
+      "goals": [
+        "Comprendre l'utilisation de 把 pour indiquer l'objet affecté par une action.",
+        "Savoir quand utiliser 把 (obligatoire pour certains verbes comme 放, 洗, 整).",
+        "Former des phrases avec 把 + objet + verbe + résultat."
+      ]
+    },
+    "discovery": {
+      "instructions": "Lisez le dialogue suivant et observez comment 把 est utilisé pour indiquer quel objet est manipulé. Ne traduisez pas encore !",
+      "dialogue": [
+        {
+          "speaker": "A",
+          "chinese": "把书放在桌上。",
+          "pinyin": "Bǎ shū fàng zài zhuō shàng.",
+          "translation": "Pose le livre sur la table."
+        },
+        {
+          "speaker": "B",
+          "chinese": "好的，我放好了。",
+          "pinyin": "Hǎo de, wǒ fàng hǎo le.",
+          "translation": "D'accord, je l'ai posé."
+        },
+        {
+          "speaker": "A",
+          "chinese": "把杯洗一下，这个杯太脏了。",
+          "pinyin": "Bǎ bēi xǐ yīxià, zhège bēi tài zāng le.",
+          "translation": "Lave le verre, ce verre est trop sale."
+        },
+        {
+          "speaker": "B",
+          "chinese": "好的，我洗好了。",
+          "pinyin": "Hǎo de, wǒ xǐ hǎo le.",
+          "translation": "D'accord, je l'ai lavé."
+        },
+        {
+          "speaker": "A",
+          "chinese": "把房间整一下，太不好了。",
+          "pinyin": "Bǎ fángjiān zhěng yīxià, tài bù hǎo le.",
+          "translation": "Range la chambre, c'est trop en désordre."
+        },
+        {
+          "speaker": "B",
+          "chinese": "好的，我整好了。",
+          "pinyin": "Hǎo de, wǒ zhěng hǎo le.",
+          "translation": "D'accord, je l'ai rangée."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "把",
+        "桌",
+        "椅",
+        "放",
+        "整",
+        "脏"
+      ],
+      "grammar": [
+        {
+          "point": "La construction 把 + objet + verbe + résultat",
+          "explanation": "La particule 把 sert à mettre en avant l'objet qui subit l'action. Elle est suivie de l'objet, puis du verbe qui décrit l'action subie, et enfin d'un résultat ou d'une position. Cette construction est obligatoire avec certains verbes comme 放 (poser), 洗 (laver), 整 (ranger). Elle permet de préciser ce qui est manipulé.\n\nErreur typique du francophone : Oublier 把 et dire directement 'Je pose le livre' → '我放书在桌上' (incorrect). La bonne phrase est '我把书放在桌上'.",
+          "examples": [
+            {
+              "chinese": "我把书放在桌上。",
+              "pinyin": "Wǒ bǎ shū fàng zài zhuō shàng.",
+              "translation": "Je pose le livre sur la table."
+            },
+            {
+              "chinese": "把杯洗好。",
+              "pinyin": "Bǎ bēi xǐ hǎo.",
+              "translation": "Lave bien le verre."
+            },
+            {
+              "chinese": "他把碗吃完了。",
+              "pinyin": "Tā bǎ wǎn chī wán le.",
+              "translation": "Il a fini son bol (de riz)."
+            }
+          ]
+        },
+        {
+          "point": "Quand 把 est obligatoire",
+          "explanation": "La construction 把 est obligatoire dans les cas suivants :\n1. L'objet est déplacé ou transformé (ex : poser, laver, ranger).\n2. Le verbe implique une action qui change l'état de l'objet (ex : manger, boire).\n3. On veut insister sur l'objet affecté.",
+          "examples": [
+            {
+              "chinese": "我把书拿走了。",
+              "pinyin": "Wǒ bǎ shū ná zǒu le.",
+              "translation": "J'ai pris le livre."
+            },
+            {
+              "chinese": "把门开一下。",
+              "pinyin": "Bǎ mén kāi yīxià.",
+              "translation": "Ouvre la porte un peu."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le ton de 把 (bǎ) est le 3ème ton (descendant-montant).",
+        "Le ton de 放 (fàng) est le 4ème ton (descendant).",
+        "Le ton de 整 (zhěng) est le 3ème ton (descendant-montant)."
+      ]
+    },
+    "connection": {
+      "text": "La construction 把 est très utile pour donner des instructions claires ou décrire des actions précises. Elle est souvent utilisée pour :\n- Donner des ordres (ex : 'Pose le livre !').\n- Décrire des actions quotidiennes (ex : 'J'ai rangé la chambre').\n- Exprimer des changements d'état (ex : 'J'ai lavé le verre sale').",
+      "links": [
+        {
+          "from": "把",
+          "relation": "COMPOSE",
+          "to": "放"
+        },
+        {
+          "from": "把",
+          "relation": "COMPOSE",
+          "to": "洗"
+        },
+        {
+          "from": "把",
+          "relation": "COMPOSE",
+          "to": "整"
+        },
+        {
+          "from": "把",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "将 (jiang1)"
+        },
+        {
+          "from": "放",
+          "relation": "DONNE_LE_SON",
+          "to": "把"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Dites à votre ami de faire les actions suivantes en utilisant 把 :\n1. Poser le livre sur la chaise.\n2. Laver le bol.\n3. Ranger la chambre.\n4. Mettre le verre sur la table.",
+          "hint": "Utilisez la structure : 把 + objet + verbe + résultat.",
+          "example": {
+            "chinese": "把书放在椅上。",
+            "pinyin": "Bǎ shū fàng zài yǐ shàng.",
+            "translation": "Pose le livre sur la chaise."
+          }
+        },
+        {
+          "instruction": "Décrivez ce que vous avez fait avec 把 :\n1. Vous avez posé votre verre sur la table.\n2. Vous avez lavé le bol.\n3. Vous avez rangé votre chambre.\n4. Vous avez mangé tout votre riz.",
+          "hint": "Utilisez la structure : 我把 + objet + verbe + 了.",
+          "example": {
+            "chinese": "我把杯放在桌上了。",
+            "pinyin": "Wǒ bǎ bēi fàng zài zhuō shàng le.",
+            "translation": "J'ai posé le verre sur la table."
+          }
+        },
+        {
+          "instruction": "Répondez aux questions suivantes en utilisant 把 :\n1. 你把书放在哪儿了？\n2. 你把碗洗了吗？\n3. 你把房间整了吗？",
+          "hint": "Répondez avec 把 + objet + verbe + 了.",
+          "example": {
+            "chinese": "我把书放在桌上了。",
+            "pinyin": "Wǒ bǎ shū fàng zài zhuō shàng le.",
+            "translation": "J'ai posé le livre sur la table."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "La construction 把 permet de préciser quel objet subit une action et de décrire le résultat de cette action. Elle est obligatoire avec les verbes comme 放 (poser), 洗 (laver), 整 (ranger). Pour l'utiliser : 把 + objet + verbe + résultat. Attention à ne pas oublier 把, sinon la phrase sera incorrecte.",
+      "reviewWords": [
+        "把",
+        "桌",
+        "椅",
+        "放",
+        "整",
+        "洗",
+        "脏",
+        "杯",
+        "碗"
+      ],
+      "reviewHanzi": [
+        "把",
+        "桌",
+        "椅",
+        "放",
+        "整",
+        "脏"
+      ]
+    }
+  }
+}

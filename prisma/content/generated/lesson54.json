@@ -1,0 +1,504 @@
+{
+  "slug": "chengyu-avances",
+  "title": "Chengyu avancés et images culturelles",
+  "mission": "Employer des chengyu à bon escient dans un texte pour enrichir son expression et illustrer des concepts complexes avec précision",
+  "level": "B2",
+  "order": 54,
+  "hanzi": [
+    {
+      "character": "盲",
+      "pinyin": "máng",
+      "meaning": "aveugle",
+      "hskLevel": 5,
+      "radical": "目",
+      "components": [
+        "亡",
+        "目"
+      ],
+      "etymology": "L'interprétation traditionnelle veut que le caractère combine 亡 (perdre) et 目 (œil), suggérant la perte de la vue. L'origine exacte reste débattue.",
+      "family": [
+        "盲人",
+        "盲目"
+      ],
+      "commonErrors": [
+        "Confondre avec 忙 en raison de la prononciation similaire"
+      ]
+    },
+    {
+      "character": "蛙",
+      "pinyin": "wā",
+      "meaning": "grenouille",
+      "hskLevel": 5,
+      "radical": "虫",
+      "components": [
+        "虫",
+        "圭"
+      ],
+      "etymology": "Composé phono-sémantique : 虫 (insecte/amphibien) et 圭 (phonétique). Représente une grenouille stylisée.",
+      "family": [
+        "青蛙",
+        "井底之蛙"
+      ],
+      "commonErrors": [
+        "Oublier le 4e ton"
+      ]
+    },
+    {
+      "character": "井",
+      "pinyin": "jǐng",
+      "meaning": "puits",
+      "hskLevel": 4,
+      "radical": "二",
+      "components": [
+        "二",
+        "廾"
+      ],
+      "etymology": "Représente la structure d'un puits vu de dessus, avec deux traits horizontaux symbolisant les parois.",
+      "family": [
+        "井水",
+        "井底"
+      ],
+      "commonErrors": [
+        "Confondre avec 开"
+      ]
+    },
+    {
+      "character": "滴",
+      "pinyin": "dī",
+      "meaning": "goutte",
+      "hskLevel": 5,
+      "radical": "氵",
+      "components": [
+        "氵",
+        "啇"
+      ],
+      "etymology": "Composé phono-sémantique : 氵 (eau) et 啇 (phonétique). Évoque une goutte d'eau qui tombe.",
+      "family": [
+        "水滴",
+        "滴水"
+      ],
+      "commonErrors": [
+        "Prononcer avec un 2e ton"
+      ]
+    },
+    {
+      "character": "穿",
+      "pinyin": "chuān",
+      "meaning": "traverser/porter",
+      "hskLevel": 3,
+      "radical": "穴",
+      "components": [
+        "穴",
+        "牙"
+      ],
+      "etymology": "Représente une flèche traversant une caverne. Par extension, porter des vêtements.",
+      "family": [
+        "穿衣服",
+        "穿过"
+      ],
+      "commonErrors": [
+        "Confondre avec 穷"
+      ]
+    },
+    {
+      "character": "骨",
+      "pinyin": "gǔ",
+      "meaning": "os",
+      "hskLevel": 5,
+      "radical": "骨",
+      "components": [
+        "⺈",
+        "冎"
+      ],
+      "etymology": "Représente la structure d'un os avec ses articulations.",
+      "family": [
+        "骨头",
+        "骨气"
+      ],
+      "commonErrors": [
+        "Prononcer avec un 2e ton"
+      ]
+    },
+    {
+      "character": "髓",
+      "pinyin": "suǐ",
+      "meaning": "moelle",
+      "hskLevel": 6,
+      "radical": "骨",
+      "components": [
+        "骨",
+        "随"
+      ],
+      "etymology": "Composé phono-sémantique : 骨 (os) et 随 (phonétique). Évoque la substance dans les os.",
+      "family": [
+        "骨髓",
+        "脑髓"
+      ],
+      "commonErrors": [
+        "Confondre avec 随"
+      ]
+    },
+    {
+      "character": "掘",
+      "pinyin": "jué",
+      "meaning": "creuser",
+      "hskLevel": 5,
+      "radical": "扌",
+      "components": [
+        "扌",
+        "屈"
+      ],
+      "etymology": "Composé phono-sémantique : 扌 (main) et 屈 (phonétique). Représente l'action de creuser.",
+      "family": [
+        "挖掘",
+        "发掘"
+      ],
+      "commonErrors": [
+        "Prononcer avec un 2e ton"
+      ]
+    },
+    {
+      "character": "窥",
+      "pinyin": "kuī",
+      "meaning": "épier",
+      "hskLevel": 6,
+      "radical": "穴",
+      "components": [
+        "穴",
+        "规"
+      ],
+      "etymology": "Composé phono-sémantique : 穴 (caverne) et 规 (phonétique). Évoque regarder à travers une ouverture.",
+      "family": [
+        "窥视",
+        "窥探"
+      ],
+      "commonErrors": [
+        "Confondre avec 规"
+      ]
+    },
+    {
+      "character": "浅",
+      "pinyin": "qiǎn",
+      "meaning": "peu profond",
+      "hskLevel": 4,
+      "radical": "氵",
+      "components": [
+        "氵",
+        "戋"
+      ],
+      "etymology": "Composé phono-sémantique : 氵 (eau) et 戋 (phonétique). Représente une eau peu profonde.",
+      "family": [
+        "浅水",
+        "浅薄"
+      ],
+      "commonErrors": [
+        "Confondre avec 钱"
+      ]
+    },
+    {
+      "character": "拔",
+      "pinyin": "bá",
+      "meaning": "arracher",
+      "hskLevel": 5,
+      "radical": "扌",
+      "components": [
+        "扌",
+        "友",
+        "又"
+      ],
+      "etymology": "Représente une main qui tire quelque chose de fermement attaché.",
+      "family": [
+        "拔河",
+        "拔牙"
+      ],
+      "commonErrors": [
+        "Prononcer avec un 1er ton"
+      ]
+    },
+    {
+      "character": "苗",
+      "pinyin": "miáo",
+      "meaning": "pousse",
+      "hskLevel": 4,
+      "radical": "艹",
+      "components": [
+        "艹",
+        "田"
+      ],
+      "etymology": "Représente une jeune pousse émergeant d'un champ.",
+      "family": [
+        "禾苗",
+        "树苗"
+      ],
+      "commonErrors": [
+        "Confondre avec 描"
+      ]
+    },
+    {
+      "character": "助",
+      "pinyin": "zhù",
+      "meaning": "aider",
+      "hskLevel": 3,
+      "radical": "力",
+      "components": [
+        "且",
+        "力"
+      ],
+      "etymology": "Représente une force supplémentaire.",
+      "family": [
+        "帮助",
+        "助手"
+      ],
+      "commonErrors": [
+        "Prononcer avec un 3e ton"
+      ]
+    },
+    {
+      "character": "愚",
+      "pinyin": "yú",
+      "meaning": "stupide",
+      "hskLevel": 5,
+      "radical": "心",
+      "components": [
+        "禺",
+        "心"
+      ],
+      "etymology": "Composé phono-sémantique : 禺 (phonétique) et 心 (cœur). Évoque un esprit borné.",
+      "family": [
+        "愚蠢",
+        "愚公移山"
+      ],
+      "commonErrors": [
+        "Confondre avec 遇"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "井底之蛙",
+      "pinyin": "jǐng dǐ zhī wā",
+      "meaning": "esprit borné (grenouille au fond d'un puits)",
+      "exampleZh": "他从来不出国旅行，真是井底之蛙。",
+      "examplePinyin": "Tā cónglái bù chūguó lǚxíng, zhēn shì jǐng dǐ zhī wā.",
+      "exampleFr": "Il ne voyage jamais à l'étranger, c'est vraiment quelqu'un d'esprit borné."
+    },
+    {
+      "word": "滴水穿石",
+      "pinyin": "dī shuǐ chuān shí",
+      "meaning": "persévérance (goutte d'eau perce la pierre)",
+      "exampleZh": "学习外语要有耐心，滴水穿石。",
+      "examplePinyin": "Xuéxí wàiyǔ yào yǒu nàixīn, dī shuǐ chuān shí.",
+      "exampleFr": "Apprendre une langue étrangère demande de la patience, comme la goutte d'eau qui perce la pierre."
+    },
+    {
+      "word": "拔苗助长",
+      "pinyin": "bá miáo zhù zhǎng",
+      "meaning": "vouloir hâter les choses (arracher les pousses)",
+      "exampleZh": "你不能强迫孩子学太多，这样是拔苗助长。",
+      "examplePinyin": "Nǐ bùnéng qiǎngpò háizi xué tài duō, zhèyàng shì bá miáo zhù zhǎng.",
+      "exampleFr": "Tu ne peux pas forcer un enfant à trop apprendre, c'est vouloir hâter les choses."
+    },
+    {
+      "word": "愚公移山",
+      "pinyin": "yú gōng yí shān",
+      "meaning": "persévérance (le vieux fou déplace les montagnes)",
+      "exampleZh": "虽然这个任务很难，但我们要有愚公移山的精神。",
+      "examplePinyin": "Suīrán zhège rènwù hěn nán, dàn wǒmen yào yǒu yú gōng yí shān de jīngshén.",
+      "exampleFr": "Bien que cette tâche soit difficile, nous devons avoir l'esprit de persévérance du vieux fou."
+    },
+    {
+      "word": "画龙点睛",
+      "pinyin": "huà lóng diǎn jīng",
+      "meaning": "touche finale (dessiner un dragon et pointer les yeux)",
+      "exampleZh": "这篇文章的结尾加上一句名言，真是画龙点睛。",
+      "examplePinyin": "Zhè piān wénzhāng de jiéwěi jiā shàng yī jù míngyán, zhēn shì huà lóng diǎn jīng.",
+      "exampleFr": "Ajouter une citation célèbre à la fin de cet article, c'est vraiment la touche finale parfaite."
+    },
+    {
+      "word": "盲人摸象",
+      "pinyin": "máng rén mō xiàng",
+      "meaning": "ne voir qu'une partie (des aveugles touchent un éléphant)",
+      "exampleZh": "每个人只看到问题的一部分，就像盲人摸象。",
+      "examplePinyin": "Měi gè rén zhǐ kàn dào wèntí de yī bùfèn, jiù xiàng máng rén mō xiàng.",
+      "exampleFr": "Chacun ne voit qu'une partie du problème, comme des aveugles touchant un éléphant."
+    },
+    {
+      "word": "守株待兔",
+      "pinyin": "shǒu zhū dài tù",
+      "meaning": "attendre sans effort (garder un arbre en attendant un lapin)",
+      "exampleZh": "成功需要努力，不能守株待兔。",
+      "examplePinyin": "Chénggōng xūyào nǔlì, bùnéng shǒu zhū dài tù.",
+      "exampleFr": "Le succès demande des efforts, on ne peut pas juste attendre sans rien faire."
+    },
+    {
+      "word": "对牛弹琴",
+      "pinyin": "duì niú tán qín",
+      "meaning": "parler à un mur (jouer du luth devant un bœuf)",
+      "exampleZh": "跟他解释这么复杂的理论，简直是对牛弹琴。",
+      "examplePinyin": "Gēn tā jiěshì zhème fùzá de lǐlùn, jiǎnzhí shì duì niú tán qín.",
+      "exampleFr": "Lui expliquer une théorie si complexe, c'est vraiment parler à un mur."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous participez à un concours d'écriture en mandarin où vous devez intégrer au moins trois chengyu pour illustrer une histoire ou un argument. Votre texte sera évalué sur la pertinence des chengyu choisis.",
+      "goals": [
+        "Comprendre l'origine historique de cinq chengyu avancés",
+        "Savoir les employer dans un contexte narratif",
+        "Éviter les erreurs de registre",
+        "Maîtriser la prononciation des nouveaux caractères"
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez ce dialogue entre deux étudiants. Repérez : 1) Combien de chengyu sont utilisés ? 2) Leur fonction dans le dialogue ? 3) Les nouveaux caractères présents.",
+      "dialogue": [
+        {
+          "speaker": "王明",
+          "chinese": "李华，你觉得我们的报告怎么样？我担心我们的分析太浅了，像井底之蛙一样。",
+          "pinyin": "Lǐ Huá, nǐ juéde wǒmen de bàogào zěnmeyàng? Wǒ dānxīn wǒmen de fēnxī tài qiǎn le, xiàng jǐng dǐ zhī wā yīyàng.",
+          "translation": "Li Hua, qu'en penses-tu de notre rapport ? Je crains que notre analyse soit trop superficielle, comme quelqu'un d'esprit borné."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "别担心！我们已经做了很多研究，滴水穿石，总会有结果的。",
+          "pinyin": "Bié dānxīn! Wǒmen yǐjīng zuò le hěn duō yánjiū, dī shuǐ chuān shí, zǒng huì yǒu jiéguǒ de.",
+          "translation": "Ne t'inquiète pas ! Nous avons déjà fait beaucoup de recherches, avec de la persévérance nous aurons des résultats."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "不过，马克总是迟到，跟他讨论问题简直是对牛弹琴。",
+          "pinyin": "Bùguò, Mǎkè zǒng shì chídào, gēn tā tǎolùn wèntí jiǎnzhí shì duì niú tán qín.",
+          "translation": "Mais Marc est toujours en retard, discuter avec lui c'est vraiment parler à un mur."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "别这么说，我们要有愚公移山的精神，慢慢帮他理解。",
+          "pinyin": "Bié zhème shuō, wǒmen yào yǒu yú gōng yí shān de jīngshén, mànman bāng tā lǐjiě.",
+          "translation": "Ne dis pas ça, nous devons avoir l'esprit de persévérance et l'aider à comprendre petit à petit."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "盲",
+        "蛙",
+        "井",
+        "滴",
+        "拔",
+        "苗",
+        "助",
+        "愚"
+      ],
+      "grammar": [
+        {
+          "point": "Emploi des chengyu dans un récit",
+          "explanation": "Les chengyu servent à : 1) Illustrer une idée complexe 2) Apporter une dimension culturelle 3) Créer un effet stylistique. Erreur typique : les utiliser littéralement.",
+          "examples": [
+            {
+              "chinese": "他不懂艺术，跟他讨论毕加索简直是对牛弹琴。",
+              "pinyin": "Tā bù dǒng yìshù, gēn tā tǎolùn Bìjiāsuǒ jiǎnzhí shì duì niú tán qín.",
+              "translation": "Il ne comprend rien à l'art, discuter de Picasso avec lui c'est vraiment parler à un mur."
+            }
+          ]
+        },
+        {
+          "point": "Origine historique des chengyu",
+          "explanation": "Les chengyu proviennent de : 1) Fables historiques 2) Classiques littéraires 3) Proverbes populaires. Leur sens peut évoluer avec le temps.",
+          "examples": [
+            {
+              "chinese": "这个成语来自一个古代寓言，说的是...",
+              "pinyin": "Zhège chéngyǔ láizì yī gè gǔdài yùyán, shuō de shì...",
+              "translation": "Ce chengyu vient d'une fable ancienne qui raconte que..."
+            }
+          ]
+        },
+        {
+          "point": "Registre des chengyu",
+          "explanation": "Appropriés dans les textes écrits et contextes formels. À éviter dans les conversations informelles sauf pour un effet particulier.",
+          "examples": [
+            {
+              "chinese": "在正式的演讲中，适当使用成语可以让你的表达更有力。",
+              "pinyin": "Zài zhèngshì de yǎnjiǎng zhōng, shìdàng shǐyòng chéngyǔ kěyǐ ràng nǐ de biǎodá gèng yǒulì.",
+              "translation": "Dans un discours formel, utiliser des chengyu de manière appropriée rend ton expression plus percutante."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "井 (jǐng) : ton descendant-montant (3e ton)",
+        "滴 (dī) : ton haut et plat (1er ton)",
+        "拔 (bá) : ton montant (2e ton)"
+      ]
+    },
+    "connection": {
+      "text": "Ces nouveaux éléments s'articulent avec vos acquis :",
+      "links": [
+        {
+          "from": "井",
+          "relation": "RADICAL_DE",
+          "to": "穿"
+        },
+        {
+          "from": "蛙",
+          "relation": "COMPOSE",
+          "to": "井底之蛙"
+        },
+        {
+          "from": "助",
+          "relation": "COMPOSE",
+          "to": "帮助"
+        },
+        {
+          "from": "画龙点睛",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "画蛇添足"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Rédigez un paragraphe pour convaincre un ami de persévérer dans ses études. Utilisez deux chengyu et deux nouveaux caractères.",
+          "hint": "Comparez l'apprentissage à un processus long mais gratifiant. Mentionnez les erreurs à éviter.",
+          "example": {
+            "chinese": "学习虽然难，但我们要有滴水穿石的精神。如果你现在放弃，就跟拔苗助长一样，前功尽弃。每天学一点儿，慢慢积累，总会有进步。",
+            "pinyin": "Xuéxí suīrán nán, dàn wǒmen yào yǒu dī shuǐ chuān shí de jīngshén. Rúguǒ nǐ xiànzài fàngqì, jiù gēn bá miáo zhù zhǎng yīyàng, qián gōng jìn qì. Měitiān xué yīdiǎnr, mànman jīlěi, zǒng huì yǒu jìnbù.",
+            "translation": "Apprendre est difficile, mais nous devons avoir l'esprit de persévérance. Si tu abandonnes maintenant, ce sera comme vouloir hâter les choses et tout gâcher. Apprends un peu chaque jour, accumule petit à petit, tu progresseras."
+          }
+        },
+        {
+          "instruction": "Créez un dialogue entre deux collègues discutant d'un projet difficile. Utilisez trois chengyu.",
+          "hint": "Variez les registres : un chengyu pour décrire la situation, un pour motiver, un pour critiquer.",
+          "example": {
+            "chinese": "A: 这个项目太难了，我感觉自己像井底之蛙。\nB: 别灰心！我们要有愚公移山的精神。\nA: 可是马克总是迟到，跟他讨论问题简直是对牛弹琴。",
+            "pinyin": "A: Zhège xiàngmù tài nán le, wǒ gǎnjué zìjǐ xiàng jǐng dǐ zhī wā.\nB: Bié huīxīn! Wǒmen yào yǒu yú gōng yí shān de jīngshén.\nA: Kěshì Mǎkè zǒng shì chídào, gēn tā tǎolùn wèntí jiǎnzhí shì duì niú tán qín.",
+            "translation": "A: Ce projet est trop difficile, je me sens comme quelqu'un d'esprit borné.\nB: Ne te décourage pas ! Nous devons avoir l'esprit de persévérance.\nA: Mais Marc est toujours en retard, discuter avec lui c'est vraiment parler à un mur."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Cette leçon a introduit 8 chengyu avancés et leurs caractères clés. Vous avez appris à : 1) Comprendre leur origine historique 2) Les employer dans des contextes narratifs 3) Choisir le bon registre 4) Éviter les erreurs de prononciation.",
+      "reviewWords": [
+        "井底之蛙",
+        "滴水穿石",
+        "拔苗助长",
+        "愚公移山",
+        "画龙点睛",
+        "盲人摸象",
+        "守株待兔",
+        "对牛弹琴"
+      ],
+      "reviewHanzi": [
+        "盲",
+        "蛙",
+        "井",
+        "滴",
+        "拔",
+        "苗",
+        "助",
+        "愚"
+      ]
+    }
+  }
+}

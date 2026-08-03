@@ -1,0 +1,463 @@
+{
+  "slug": "registres-de-langue",
+  "title": "Tu ou vous ? Les registres",
+  "mission": "Adapter son niveau de langue à l'interlocuteur",
+  "level": "B2",
+  "order": 51,
+  "hanzi": [
+    {
+      "character": "您",
+      "pinyin": "nín",
+      "meaning": "vous (forme polie)",
+      "hskLevel": 1,
+      "radical": "心 (cœur)",
+      "components": [
+        "你",
+        "心"
+      ],
+      "etymology": "Composé de 你 (nǐ, 'tu') et du radical 心 (cœur), symbolisant le respect envers l'interlocuteur. L'interprétation traditionnelle veut que le cœur soit ajouté pour marquer la déférence, bien que l'origine exacte reste débattue.",
+      "family": [
+        "你"
+      ],
+      "commonErrors": [
+        "Confondre avec 你 (nǐ) en oubliant le ton descendant (4e ton pour 您)."
+      ]
+    },
+    {
+      "character": "姓",
+      "pinyin": "xìng",
+      "meaning": "nom de famille",
+      "hskLevel": 1,
+      "radical": "女 (femme)",
+      "components": [
+        "女",
+        "生"
+      ],
+      "etymology": "Composé de 女 (femme) et 生 (naître). À l'origine, les noms de famille étaient transmis par les femmes dans certaines cultures chinoises, d'où le radical. Aujourd'hui, 姓 désigne simplement le nom de famille.",
+      "family": [
+        "生 (shēng, 'naître')"
+      ],
+      "commonErrors": [
+        "Confondre l'ordre des caractères dans 贵姓 (guì xìng) avec 姓贵 (incorrect)."
+      ]
+    },
+    {
+      "character": "予",
+      "pinyin": "yǔ",
+      "meaning": "donner (forme écrite)",
+      "hskLevel": 5,
+      "radical": "亅 (crochet)",
+      "components": [
+        "マ",
+        "亅"
+      ],
+      "etymology": "Forme classique de 给 (gěi, 'donner'). Le caractère représente une main (simplifiée) tendant un objet. Utilisé dans les textes écrits ou les expressions figées (ex : 赐予 cìyǔ, 'accorder').",
+      "family": [
+        "给 (gěi, 'donner')"
+      ],
+      "commonErrors": [
+        "Utiliser 予 à l'oral au lieu de 给 (erreur fréquente des francophones)."
+      ]
+    },
+    {
+      "character": "赐",
+      "pinyin": "cì",
+      "meaning": "accorder, octroyer (registre soutenu)",
+      "hskLevel": 5,
+      "radical": "贝 (coquillage, valeur)",
+      "components": [
+        "贝",
+        "易"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 贝 évoque la valeur, et 易 (yì) donne le son. Utilisé pour les faveurs ou récompenses accordées par une autorité (ex : 赐予).",
+      "family": [
+        "易 (yì, 'facile')"
+      ],
+      "commonErrors": [
+        "Confondre avec 给 (gěi) dans les contextes informels."
+      ]
+    },
+    {
+      "character": "谦",
+      "pinyin": "qiān",
+      "meaning": "modeste, humble",
+      "hskLevel": 5,
+      "radical": "讠(parole)",
+      "components": [
+        "讠",
+        "兼"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 讠 (parole) indique le sens lié au langage, et 兼 (jiān, 'combiner') donne le son. Utilisé dans les formules de modestie (ex : 谦虚 qiānxū).",
+      "family": [
+        "兼 (jiān, 'combiner')"
+      ],
+      "commonErrors": [
+        "Oublier le ton montant (2e ton) et prononcer *qiàn."
+      ]
+    },
+    {
+      "character": "虚",
+      "pinyin": "xū",
+      "meaning": "vide, modeste (dans 谦虚)",
+      "hskLevel": 4,
+      "radical": "虍 (tigre)",
+      "components": [
+        "虍",
+        "业"
+      ],
+      "etymology": "Le radical 虍 (tigre) évoque ici une idée de prudence ou de retenue, tandis que 业 (yè, 'métier') complète le sens. 谦虚 (qiānxū) signifie 'modeste'.",
+      "family": [
+        "虑 (lǜ, 'réfléchir')"
+      ],
+      "commonErrors": [
+        "Confondre avec 需 (xū, 'besoin') en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "恭",
+      "pinyin": "gōng",
+      "meaning": "respectueux, révérencieux",
+      "hskLevel": 5,
+      "radical": "小 (petit)",
+      "components": [
+        "共",
+        "小"
+      ],
+      "etymology": "Composé de 共 (gòng, 'ensemble') et 小 (xiǎo, 'petit'), symbolisant l'humilité face à autrui. Utilisé dans les formules de politesse (ex : 恭喜 gōngxǐ).",
+      "family": [
+        "共 (gòng, 'ensemble')"
+      ],
+      "commonErrors": [
+        "Prononcer *gòng au lieu de gōng (1er ton)."
+      ]
+    },
+    {
+      "character": "劳",
+      "pinyin": "láo",
+      "meaning": "travail, peine (dans 辛劳)",
+      "hskLevel": 4,
+      "radical": "力 (force)",
+      "components": [
+        "艹",
+        "冖",
+        "力"
+      ],
+      "etymology": "Composé de 艹 (herbe) et 力 (force), évoquant l'effort physique. Utilisé dans les formules de remerciement pour le travail d'autrui (ex : 辛劳 xīnláo, 'peine').",
+      "family": [
+        "労 (variante traditionnelle)"
+      ],
+      "commonErrors": [
+        "Confondre avec 老 (lǎo, 'vieux') en raison de la similarité phonétique."
+      ]
+    },
+    {
+      "character": "辛",
+      "pinyin": "xīn",
+      "meaning": "pénible, amer (dans 辛劳)",
+      "hskLevel": 4,
+      "radical": "辛 (épice piquante)",
+      "components": [
+        "立",
+        "十"
+      ],
+      "etymology": "Représente une épice piquante (radical), symbolisant la difficulté ou la souffrance. Utilisé pour décrire un travail pénible (辛劳 xīnláo).",
+      "family": [
+        "辣 (là, 'épicé')"
+      ],
+      "commonErrors": [
+        "Prononcer *xìng au lieu de xīn (1er ton)."
+      ]
+    },
+    {
+      "character": "驾",
+      "pinyin": "jià",
+      "meaning": "conduire, piloter (dans 劳驾)",
+      "hskLevel": 4,
+      "radical": "马 (cheval)",
+      "components": [
+        "马",
+        "加"
+      ],
+      "etymology": "Composé phono-sémantique : le radical 马 (cheval) évoque le déplacement, et 加 (jiā, 'ajouter') donne le son. Utilisé dans 劳驾 (láojià, 'excusez-moi', litt. 'fatiguez-vous à conduire').",
+      "family": [
+        "加 (jiā, 'ajouter')"
+      ],
+      "commonErrors": [
+        "Oublier le ton descendant (4e ton) et prononcer *jiā."
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "您好",
+      "pinyin": "nín hǎo",
+      "meaning": "bonjour (forme polie)",
+      "exampleZh": "老师，您好！",
+      "examplePinyin": "Lǎoshī, nín hǎo!",
+      "exampleFr": "Bonjour, professeur !"
+    },
+    {
+      "word": "贵姓",
+      "pinyin": "guì xìng",
+      "meaning": "quel est votre nom de famille ? (poli)",
+      "exampleZh": "您贵姓？",
+      "examplePinyin": "Nín guì xìng?",
+      "exampleFr": "Quel est votre nom de famille ?"
+    },
+    {
+      "word": "赐予",
+      "pinyin": "cì yǔ",
+      "meaning": "accorder (registre soutenu)",
+      "exampleZh": "感谢您赐予的帮助。",
+      "examplePinyin": "Gǎnxiè nín cìyǔ de bāngzhù.",
+      "exampleFr": "Merci pour l'aide que vous m'avez accordée."
+    },
+    {
+      "word": "谦虚",
+      "pinyin": "qiān xū",
+      "meaning": "modeste, modestie",
+      "exampleZh": "他很谦虚，从不夸自己。",
+      "examplePinyin": "Tā hěn qiānxū, cóng bù kuā zìjǐ.",
+      "exampleFr": "Il est très modeste, il ne se vante jamais."
+    },
+    {
+      "word": "恭喜",
+      "pinyin": "gōng xǐ",
+      "meaning": "félicitations (poli)",
+      "exampleZh": "恭喜您考得很好！",
+      "examplePinyin": "Gōngxǐ nín kǎo de hěn hǎo!",
+      "exampleFr": "Félicitations pour votre excellent résultat à l'examen !"
+    },
+    {
+      "word": "劳驾",
+      "pinyin": "láo jià",
+      "meaning": "excusez-moi (pour demander un service)",
+      "exampleZh": "劳驾，请让一下。",
+      "examplePinyin": "Láojià, qǐng ràng yīxià.",
+      "exampleFr": "Excusez-moi, laissez-moi passer s'il vous plaît."
+    },
+    {
+      "word": "辛劳",
+      "pinyin": "xīn láo",
+      "meaning": "peine, labeur (pour remercier)",
+      "exampleZh": "感谢您的辛劳。",
+      "examplePinyin": "Gǎnxiè nín de xīnláo.",
+      "exampleFr": "Merci pour votre peine."
+    },
+    {
+      "word": "给予",
+      "pinyin": "jǐ yǔ",
+      "meaning": "donner, accorder (écrit)",
+      "exampleZh": "公司给予了他支持。",
+      "examplePinyin": "Gōngsī jǐyǔ le tā zhīchí.",
+      "exampleFr": "L'entreprise lui a accordé son soutien."
+    }
+  ],
+  "content": {
+    "mission": {
+      "scenario": "Vous êtes invité à un dîner avec des collègues chinois. Vous devez adapter votre langage pour montrer du respect envers vos hôtes, tout en évitant les formules trop familières ou trop soutenues.",
+      "goals": [
+        "Utiliser 您 et les formules honorifiques pour s'adresser aux aînés ou supérieurs.",
+        "Choisir entre 给 et 予 selon le registre (oral vs écrit).",
+        "Atténuer ses propos avec des expressions comme 劳驾 ou 谦虚."
+      ]
+    },
+    "discovery": {
+      "instructions": "Observez les dialogues ci-dessous. Repérez : (1) les mots qui marquent le respect, (2) les différences entre les registres oral et écrit, (3) les atténuations utilisées pour adoucir les demandes.",
+      "dialogue": [
+        {
+          "speaker": "李华",
+          "chinese": "王老师，您好！您贵姓？",
+          "pinyin": "Wáng lǎoshī, nín hǎo! Nín guì xìng?",
+          "translation": "Professeur Wang, bonjour ! Quel est votre nom de famille ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "我姓王。李华，你叫我王老师就可以了。",
+          "pinyin": "Wǒ xìng Wáng. Lǐ Huá, nǐ jiào wǒ Wáng lǎoshī jiù kěyǐ le.",
+          "translation": "Mon nom de famille est Wang. Li Hua, tu peux m'appeler professeur Wang."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "好的，王老师。请问这道菜是给我的吗？",
+          "pinyin": "Hǎo de, Wáng lǎoshī. Qǐngwèn zhè dào cài shì gěi wǒ de ma?",
+          "translation": "D'accord, professeur Wang. Puis-je demander si ce plat est pour moi ?"
+        },
+        {
+          "speaker": "王明",
+          "chinese": "是的，这是给你的。你尝尝，味道怎么样？",
+          "pinyin": "Shì de, zhè shì gěi nǐ de. Nǐ chángchang, wèidào zěnmeyàng?",
+          "translation": "Oui, c'est pour toi. Goûte, comment est le goût ?"
+        },
+        {
+          "speaker": "李华",
+          "chinese": "非常好！感谢您让我品尝这么好吃的菜。",
+          "pinyin": "Fēicháng hǎo! Gǎnxiè nín ràng wǒ pǐncháng zhème hǎochī de cài.",
+          "translation": "C'est très bon ! Merci de me laisser goûter un plat aussi délicieux."
+        },
+        {
+          "speaker": "王明",
+          "chinese": "你太谦虚了！这道菜是我自己做的，希望你喜欢。",
+          "pinyin": "Nǐ tài qiānxū le! Zhè dào cài shì wǒ zìjǐ zuò de, xīwàng nǐ xǐhuān.",
+          "translation": "Tu es trop modeste ! J'ai préparé ce plat moi-même, j'espère qu'il te plaît."
+        },
+        {
+          "speaker": "李华",
+          "chinese": "恭喜您！您做菜做得真好。",
+          "pinyin": "Gōngxǐ nín! Nín zuò cài zuò de zhēn hǎo.",
+          "translation": "Félicitations ! Vous cuisinez vraiment bien."
+        }
+      ]
+    },
+    "deconstruction": {
+      "hanzi": [
+        "您",
+        "姓",
+        "予",
+        "赐",
+        "谦",
+        "虚",
+        "恭",
+        "劳",
+        "辛",
+        "驾"
+      ],
+      "grammar": [
+        {
+          "point": "Utilisation de 您 (nín) vs 你 (nǐ)",
+          "explanation": "您 est la forme polie de 你, utilisée pour s'adresser à des supérieurs, des aînés, ou dans des contextes formels. Erreur typique des francophones : oublier d'utiliser 您 et employer 你 par habitude.",
+          "examples": [
+            {
+              "chinese": "您好，您需要什么？",
+              "pinyin": "Nín hǎo, nín xūyào shénme?",
+              "translation": "Bonjour, que désirez-vous ?"
+            },
+            {
+              "chinese": "你想喝茶吗？ (informel)",
+              "pinyin": "Nǐ xiǎng hē chá ma?",
+              "translation": "Veux-tu boire du thé ? (entre amis)"
+            }
+          ]
+        },
+        {
+          "point": "给 (gěi) vs 予 (yǔ) : registre oral vs écrit",
+          "explanation": "给 est utilisé à l'oral ou dans les contextes informels, tandis que 予 (ou 给予 jǐyǔ) est réservé à l'écrit ou aux registres soutenus. Erreur typique : employer 予 à l'oral (ex : *我予你一本书 au lieu de 我给你一本书).",
+          "examples": [
+            {
+              "chinese": "老师给了我一本书。 (oral)",
+              "pinyin": "Lǎoshī gěi le wǒ yī běn shū.",
+              "translation": "Le professeur m'a donné un livre."
+            },
+            {
+              "chinese": "公司给予了他支持。 (écrit)",
+              "pinyin": "Gōngsī jǐyǔ le tā zhīchí.",
+              "translation": "L'entreprise lui a accordé son soutien."
+            }
+          ]
+        },
+        {
+          "point": "Atténuations avec 劳驾 (láojià) et 谦虚 (qiānxū)",
+          "explanation": "劳驾 est utilisé pour adoucir une demande (ex : 'excusez-moi de vous déranger'), tandis que 谦虚 exprime la modestie (ex : 'je suis très modeste'). Erreur typique : utiliser 劳驾 de manière trop directe (ex : *劳驾给我水 au lieu de 劳驾，请给我水).",
+          "examples": [
+            {
+              "chinese": "劳驾，请让一下。",
+              "pinyin": "Láojià, qǐng ràng yīxià.",
+              "translation": "Excusez-moi, laissez-moi passer s'il vous plaît."
+            },
+            {
+              "chinese": "我做得不好，还请您多指教。 (modestie)",
+              "pinyin": "Wǒ zuò de bù hǎo, hái qǐng nín duō zhǐjiào.",
+              "translation": "Je n'ai pas bien fait, merci de me donner des conseils."
+            }
+          ]
+        }
+      ],
+      "pronunciation": [
+        "Le 2e ton (montant) : 谦 (qiān) se prononce comme 'tien' en français, mais en montant la voix (ex : qiān xū).",
+        "Le 4e ton (descendant) : 您 (nín) et 赐 (cì) se prononcent avec une voix qui descend brusquement (ex : nín hǎo).",
+        "Le 1er ton (haut et plat) : 恭 (gōng) et 辛 (xīn) se prononcent avec une voix stable et haute (ex : gōng xǐ)."
+      ]
+    },
+    "connection": {
+      "text": "Les nouveaux caractères et mots s'appuient sur des acquis pour marquer les registres de langue. Voici les liens clés :",
+      "links": [
+        {
+          "from": "您",
+          "relation": "COMPOSE",
+          "to": "你"
+        },
+        {
+          "from": "予",
+          "relation": "DONNE_LE_SON",
+          "to": "给"
+        },
+        {
+          "from": "谦虚",
+          "relation": "SE_CONFOND_AVEC",
+          "to": "虚"
+        },
+        {
+          "from": "劳驾",
+          "relation": "CONTRASTE_AVEC",
+          "to": "请 (moins formel)"
+        }
+      ]
+    },
+    "production": {
+      "prompts": [
+        {
+          "instruction": "Imaginez que vous vous adressez à un professeur chinois pour lui demander un conseil. Utilisez 您, 贵姓, et une formule d'atténuation comme 劳驾 ou 谦虚.",
+          "hint": "Exemple de structure : 您好 + 贵姓 + 劳驾 + demande + 谦虚.",
+          "example": {
+            "chinese": "王老师，您好！您贵姓？劳驾，我能问您一个问题吗？我怕我的发音不太好，还请您多指教。",
+            "pinyin": "Wáng lǎoshī, nín hǎo! Nín guì xìng? Láojià, wǒ néng wèn nín yī gè wèntí ma? Wǒ pà wǒ de fāyīn bù tài hǎo, hái qǐng nín duō zhǐjiào.",
+            "translation": "Professeur Wang, bonjour ! Quel est votre nom de famille ? Excusez-moi, puis-je vous poser une question ? Je crains que ma prononciation ne soit pas très bonne, merci de me donner des conseils."
+          }
+        },
+        {
+          "instruction": "Écrivez un email formel à votre supérieur pour le remercier d'un soutien. Utilisez 赐予 et 给予.",
+          "hint": "Structure : formule de politesse + 赐予/给予 + remerciement + formule de clôture.",
+          "example": {
+            "chinese": "尊敬的李经理：感谢您赐予我的帮助。公司给予了我很大的支持，我一定会努力工作。祝您工作顺利！",
+            "pinyin": "Zūnjìng de Lǐ jīnglǐ: Gǎnxiè nín cìyǔ wǒ de bāngzhù. Gōngsī jǐyǔ le wǒ hěn dà de zhīchí, wǒ yīdìng huì nǔlì gōngzuò. Zhù nín gōngzuò shùnlì!",
+            "translation": "Cher directeur Li, merci pour l'aide que vous m'avez accordée. L'entreprise m'a donné beaucoup de soutien, je travaillerai dur. Je vous souhaite un bon travail !"
+          }
+        },
+        {
+          "instruction": "Créez un dialogue où vous félicitez un collègue pour une promotion, en utilisant 恭喜 et une formule de modestie.",
+          "hint": "Utilisez 恭喜 + raison + formule de modestie (ex : 我还差得远呢).",
+          "example": {
+            "chinese": "A: 恭喜你升职了！你真厉害。 B: 谢谢！我还差得远呢，以后还要多向你学习。",
+            "pinyin": "A: Gōngxǐ nǐ shēng zhí le! Nǐ zhēn lìhai. B: Xièxie! Wǒ hái chà de yuǎn ne, yǐhòu hái yào duō xiàng nǐ xuéxí.",
+            "translation": "A : Félicitations pour ta promotion ! Tu es vraiment formidable. B : Merci ! Je suis encore loin d'être à la hauteur, je dois encore beaucoup apprendre de toi."
+          }
+        }
+      ]
+    },
+    "consolidation": {
+      "summary": "Cette leçon a introduit les registres de langue en mandarin, essentiels pour adapter son discours à l'interlocuteur. Vous avez appris : (1) à utiliser 您 pour marquer le respect, (2) à distinguer 给 (oral) et 予 (écrit), (3) à atténuer vos propos avec 劳驾 ou 谦虚. Ces outils vous permettront de naviguer entre formalité et informalité avec aisance.",
+      "reviewWords": [
+        "您好",
+        "贵姓",
+        "赐予",
+        "谦虚",
+        "恭喜",
+        "劳驾",
+        "辛劳",
+        "给予"
+      ],
+      "reviewHanzi": [
+        "您",
+        "姓",
+        "予",
+        "赐",
+        "谦",
+        "虚",
+        "恭",
+        "劳",
+        "辛",
+        "驾"
+      ]
+    }
+  }
+}
