@@ -39,7 +39,13 @@ export function PronunciationPractice({
     setError(null);
     setStatus("requesting");
     try {
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      // echoCancellation/noiseSuppression/autoGainControl à false : sur la
+      // WebView Android (certains Samsung), le suppresseur d'écho matériel
+      // par défaut fait échouer getUserMedia avec NotReadableError
+      // ("Could not start audio source").
+      const stream = await navigator.mediaDevices.getUserMedia({
+        audio: { echoCancellation: false, noiseSuppression: false, autoGainControl: false },
+      });
       setStatus("recording");
 
       const recorder = new MediaRecorder(stream);
@@ -95,7 +101,7 @@ export function PronunciationPractice({
       setError(
         e instanceof DOMException && e.name === "NotAllowedError"
           ? "Micro refusé — autorisez l'accès au microphone pour vous entraîner."
-          : `Impossible d'accéder au microphone sur cet appareil. [DEBUG: ${e instanceof Error ? `${e.name}: ${e.message}` : String(e)}]`
+          : "Impossible d'accéder au microphone sur cet appareil."
       );
       setStatus("error");
     }
