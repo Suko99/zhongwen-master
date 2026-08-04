@@ -95,7 +95,7 @@ export function PronunciationPractice({
       setError(
         e instanceof DOMException && e.name === "NotAllowedError"
           ? "Micro refusé — autorisez l'accès au microphone pour vous entraîner."
-          : "Impossible d'accéder au microphone sur cet appareil."
+          : `Impossible d'accéder au microphone sur cet appareil. [DEBUG: ${e instanceof Error ? `${e.name}: ${e.message}` : String(e)}]`
       );
       setStatus("error");
     }
