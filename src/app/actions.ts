@@ -5,7 +5,7 @@ import { prisma } from "@/lib/db";
 import { getUser } from "@/lib/user";
 import { gradeCard, newCard, nextRecognition, serializeCard } from "@/lib/srs";
 import type { LessonContent } from "@/lib/types";
-import type { Grade } from "ts-fsrs";
+import type { Grade } from "zhongwen-engine";
 
 // Étape 6 (Consolidation) : marque la leçon terminée et fait entrer ses mots
 // et hanzi dans le moteur de révision — chacun reçoit une carte FSRS vierge.
