@@ -4,8 +4,8 @@ import { useState, useTransition } from "react";
 import Link from "next/link";
 import { gradeItem } from "@/app/actions";
 import { SpeakButton } from "@/components/SpeakButton";
-import { Rating } from "ts-fsrs";
-import type { Grade } from "ts-fsrs";
+import { Rating } from "zhongwen-engine";
+import type { Grade } from "zhongwen-engine";
 
 export type ReviewItem = {
   progressId: string;

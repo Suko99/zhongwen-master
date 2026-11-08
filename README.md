@@ -122,9 +122,8 @@ src/
     ai-actions.ts         AI Server Actions
     tts-actions.ts        Text-to-speech Server Actions
   lib/
-    srs.ts                FSRS scheduling and scoring
+    srs.ts, graph.ts      Thin wrappers around zhongwen-engine
     ai.ts                 Mistral client + role prompts
-    graph.ts              Graph extraction from lessons
     pitchDetection.ts     F0 detection and tone-contour classification
     neuralTts.ts          Edge neural TTS
     gamification.ts       XP / streak / daily goal (computed, not stored)
@@ -135,8 +134,15 @@ prisma/
   seed.ts                 Hybrid seed (hand-written + generated)
   content/                Curriculum, lessons, generated lessons
 scripts/                  Generation, inspection, reset
+packages/zhongwen-engine/ FSRS + mastery + knowledge graph (npm package)
 android/                  Capacitor Android project
 ```
+
+## zhongwen-engine
+
+The spaced-repetition, mastery and knowledge-graph logic lives in a standalone,
+database-agnostic package: [`packages/zhongwen-engine`](packages/zhongwen-engine).
+Run its tests with `npm test`.
 
 ## Contributing
 

@@ -1,0 +1,36 @@
+{
+  "name": "zhongwen-engine",
+  "version": "0.1.0",
+  "description": "Database-agnostic learning engine for Chinese: FSRS spaced repetition, mastery tracking and a knowledge graph of hanzi and words.",
+  "license": "MIT",
+  "author": "Suko99",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suko99/zhongwen-master.git",
+    "directory": "packages/zhongwen-engine"
+  },
+  "homepage": "https://github.com/Suko99/zhongwen-master/tree/main/packages/zhongwen-engine#readme",
+  "keywords": ["chinese", "mandarin", "hanzi", "fsrs", "spaced-repetition", "knowledge-graph", "language-learning"],
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": ["dist", "src", "README.md", "LICENSE"],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "test": "node --import tsx --test test/*.test.ts",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "dependencies": {
+    "ts-fsrs": "^5.4.1"
+  }
+}
